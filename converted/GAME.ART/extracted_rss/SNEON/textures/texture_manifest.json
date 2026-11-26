@@ -1,0 +1,194 @@
+[
+  {
+    "name": "T11tk00",
+    "offset": 155,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Track Edge",
+      "Track Center"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      155,
+      233
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T11bld01",
+    "offset": 364,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Bldng Grey Wall",
+      "Bld Windows",
+      "Bldgn Grey Wl lit",
+      "Bldg Plain SQuare",
+      "Yellow Lts",
+      "Cyan lits",
+      "Drk blue lits",
+      "Lt blue lits",
+      "Tun Lite",
+      "Tun UnLit",
+      "Tun Wl UnLit",
+      "Tun Wal Unlit",
+      "Lt Bulb",
+      "Underpass light",
+      "Neon 1",
+      "Neon 2",
+      "Neon 3"
+    ],
+    "occurrences": 17,
+    "occurrences_at_offsets": [
+      364,
+      442,
+      526,
+      610,
+      1513,
+      1589,
+      1669,
+      1748,
+      1823,
+      1899,
+      1978,
+      2058,
+      2285,
+      2367,
+      2440,
+      2513,
+      2586
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T11rkbrn",
+    "offset": 685,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "RckWl 01",
+      "Rck Wl 02",
+      "Rck Wl 03",
+      "Rck Wl 04"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      685,
+      761,
+      837,
+      913
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T11tk01",
+    "offset": 989,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Tek rk 01",
+      "Tek rk 02",
+      "Tek rk 03",
+      "Tek rk 04",
+      "Tek 01",
+      "Tek 02"
+    ],
+    "occurrences": 6,
+    "occurrences_at_offsets": [
+      989,
+      1064,
+      1139,
+      1214,
+      1286,
+      1358
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T11_Crd",
+    "offset": 2130,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Crowd"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2130
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T11_Fin",
+    "offset": 2212,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Finish line sign",
+      "Fin Line track surf"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      2212,
+      2827
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T11Stars",
+    "offset": 2741,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim Stars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2741
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "bRaJ",
+    "offset": 11580,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "zf}K"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      11580
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "bRaL",
+    "offset": 12559,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "PFYJ"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      12559
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "gTTb",
+    "offset": 13360,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "]MTc"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      13360
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]

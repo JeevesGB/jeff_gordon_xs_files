@@ -1,0 +1,11 @@
+﻿name,offset,evidence,surface_labels,occurrences,asset_status,copied_files
+T11tk00,155,surface_label_then_texture_identifier,Track Edge; Track Center,2,reference_only_no_pixel_asset_found,
+T11bld01,364,surface_label_then_texture_identifier,Bldng Grey Wall; Bld Windows; Bldgn Grey Wl lit; Bldg Plain SQuare; Yellow Lts; Cyan lits; Drk blue lits; Lt blue lits; Tun Lite; Tun UnLit; Tun Wl UnLit; Tun Wal Unlit; Lt Bulb; Underpass light; Neon 1; Neon 2; Neon 3,17,reference_only_no_pixel_asset_found,
+T11rkbrn,685,surface_label_then_texture_identifier,RckWl 01; Rck Wl 02; Rck Wl 03; Rck Wl 04,4,reference_only_no_pixel_asset_found,
+T11tk01,989,surface_label_then_texture_identifier,Tek rk 01; Tek rk 02; Tek rk 03; Tek rk 04; Tek 01; Tek 02,6,reference_only_no_pixel_asset_found,
+T11_Crd,2130,surface_label_then_texture_identifier,Crowd,1,reference_only_no_pixel_asset_found,
+T11_Fin,2212,surface_label_then_texture_identifier,Finish line sign; Fin Line track surf,2,reference_only_no_pixel_asset_found,
+T11Stars,2741,surface_label_then_texture_identifier,Skrim Stars,1,reference_only_no_pixel_asset_found,
+bRaJ,11580,surface_label_then_texture_identifier,zf}K,1,reference_only_no_pixel_asset_found,
+bRaL,12559,surface_label_then_texture_identifier,PFYJ,1,reference_only_no_pixel_asset_found,
+gTTb,13360,surface_label_then_texture_identifier,]MTc,1,reference_only_no_pixel_asset_found,
