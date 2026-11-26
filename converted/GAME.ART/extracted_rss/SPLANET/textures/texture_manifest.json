@@ -1,0 +1,510 @@
+[
+  {
+    "name": "plntwall",
+    "offset": 164,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Standard Wall",
+      "Cavern Wall",
+      "Straight walls"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      164,
+      242,
+      323
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "plntcrwd",
+    "offset": 396,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Stands"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      396
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "strtlght",
+    "offset": 527,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Light Pole",
+      "Light Lens"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      527,
+      604
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t3cement",
+    "offset": 677,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Ground"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      677
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "mynpyrmd",
+    "offset": 753,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "mayansect"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      753
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "mynjungl",
+    "offset": 889,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Mayanjungle00",
+      "mayanjungle02"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      889,
+      969
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "mayan1",
+    "offset": 1106,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "mayanwallone",
+      "mayanwalltwo",
+      "mayanwallthree",
+      "statueside",
+      "statueside2"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      1106,
+      1183,
+      1262,
+      1337,
+      1413
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "Prsgate",
+    "offset": 1483,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "pgate"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1483
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "paris02",
+    "offset": 1609,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Red door",
+      "Red brick"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1609,
+      1684
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "paris01",
+    "offset": 2008,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Yellow brick",
+      "Door 2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      2008,
+      2080
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "awn02",
+    "offset": 2153,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Awn Grn"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2153
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "awn01",
+    "offset": 2226,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "AwningR&W"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2226
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "junglwal",
+    "offset": 2297,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "lowwall"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2297
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "Tileroof",
+    "offset": 2372,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "pagdroof"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2372
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "pagd",
+    "offset": 2446,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "NewPagd"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2446
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "greatwal",
+    "offset": 2564,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "walltop",
+      "wallbase"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      2564,
+      2639
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "Rocks4",
+    "offset": 2765,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Cavern Rock",
+      "Stalactites"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      2765,
+      2998
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "CavrnFlr",
+    "offset": 2842,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Cavern Floor"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2842
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "CWater3",
+    "offset": 2921,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Cavern Water"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2921
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t3banr1",
+    "offset": 3127,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Billboards 1",
+      "Billboards 2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3127,
+      3205
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t3banr2",
+    "offset": 3283,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Billboards 3",
+      "Billboards 4"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3283,
+      3361
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t3banr3",
+    "offset": 3439,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Billboards 5",
+      "t3 flags"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3439,
+      3513
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "pyramid",
+    "offset": 3587,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Pyramids"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3587
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "plamp",
+    "offset": 3715,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Lantern metal",
+      "bulb"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3715,
+      3783
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t3skrim",
+    "offset": 3912,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim 1",
+      "Skrim 2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3912,
+      3985
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t3stars",
+    "offset": 4062,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim Stars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4062
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "plastrwl",
+    "offset": 4134,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "holder"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4134
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T3mtn",
+    "offset": 4254,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "newmt",
+      "newmt2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      4254,
+      4324
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "Eifel",
+    "offset": 4448,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Girders",
+      "Bracing"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      4448,
+      4519
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T3sphinx",
+    "offset": 4642,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "t3sphx01",
+      "t3sphx02",
+      "t3sphx04",
+      "t3sphx03",
+      "t3sphx05"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      4642,
+      4717,
+      4792,
+      4867,
+      4942
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "SFsign",
+    "offset": 5015,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Sfline"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      5015
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "ROCK_AA",
+    "offset": 5094,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Cavern Outside"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      5094
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T3Tree",
+    "offset": 5167,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "T3trees"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      5167
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]
