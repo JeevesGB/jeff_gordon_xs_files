@@ -1,0 +1,7 @@
+RSS texture reference: sphinx
+RSS byte offset: 0x00000169
+Detection evidence: surface_label_then_texture_identifier
+Associated surface labels: t2sphx01, t2sphx02, t2sphx04, t2sphx03, t2sphx05\n
+No matching pixel/image asset was present in the supplied archive or asset search path.
+This file is a reference record, NOT an image. The RSS stores a texture identifier here;
+the actual bitmap may be a separate game asset or use a proprietary encoding.

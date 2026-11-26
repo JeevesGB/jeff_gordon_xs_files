@@ -1,0 +1,490 @@
+[
+  {
+    "name": "vegaskrm",
+    "offset": 158,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim Surface"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      158
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t2stars",
+    "offset": 236,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "StarSurface"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      236
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "sphinx",
+    "offset": 361,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "t2sphx01",
+      "t2sphx02",
+      "t2sphx04",
+      "t2sphx03",
+      "t2sphx05"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      361,
+      434,
+      507,
+      580,
+      653
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "mirage",
+    "offset": 725,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "miraged"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      725
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "vegas03",
+    "offset": 797,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "vegas03"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      797
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "neontree",
+    "offset": 871,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "neontree"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      871
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "vegas467",
+    "offset": 946,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "vegas467"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      946
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "volcano",
+    "offset": 1069,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "volcano1",
+      "volcano2",
+      "volcano3",
+      "lava"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      1069,
+      1143,
+      1217,
+      1287
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "newT2",
+    "offset": 1481,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "t2stripe",
+      "t2lght02",
+      "t2slght",
+      "t2line2",
+      "t2side2",
+      "t2arrow",
+      "t2lines"
+    ],
+    "occurrences": 7,
+    "occurrences_at_offsets": [
+      1481,
+      1553,
+      1624,
+      1695,
+      1766,
+      1837,
+      1908
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "neon",
+    "offset": 2026,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "NeonWall",
+      "Nwall2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      2026,
+      2095
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "youclown",
+    "offset": 2216,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "clown01",
+      "cteeth",
+      "clown02",
+      "ctunnel"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      2216,
+      2289,
+      2363,
+      2437
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "vegas15",
+    "offset": 2561,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "vegasb15"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2561
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "showboat",
+    "offset": 2685,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "sboat01",
+      "sboat02",
+      "sboat03",
+      "sboat05"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      2685,
+      2759,
+      2833,
+      2907
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "future3",
+    "offset": 2981,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "future3"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2981
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "sidewalk",
+    "offset": 3052,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "swalk"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3052
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "luxor",
+    "offset": 3124,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "luxor"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3124
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "stratosp",
+    "offset": 3194,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "strato"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3194
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "LGHTPOLE",
+    "offset": 3270,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "lightpole"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3270
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "nugget",
+    "offset": 3343,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "nugget"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3343
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "future1",
+    "offset": 3415,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "future1"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3415
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t2crwd",
+    "offset": 3488,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "crowded"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3488
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "castle",
+    "offset": 3559,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "castle"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3559
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "pirates",
+    "offset": 3683,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "pship01",
+      "pship02",
+      "shipmast",
+      "pship03",
+      "shipsail",
+      "cannon12",
+      "pship04",
+      "rigging1"
+    ],
+    "occurrences": 8,
+    "occurrences_at_offsets": [
+      3683,
+      3756,
+      3830,
+      3903,
+      3977,
+      4051,
+      4124,
+      4198
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "caesar",
+    "offset": 4274,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "newcaesars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4274
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "vsign02",
+    "offset": 4346,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "vsign02"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4346
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "vegas08",
+    "offset": 4419,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "vegas08"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4419
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "vsign04",
+    "offset": 4492,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "vsign04"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4492
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T2start",
+    "offset": 4563,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "start"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4563
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T2water",
+    "offset": 4634,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "water"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4634
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "gambdirt",
+    "offset": 4709,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "vegasdirt"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4709
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "Andysign",
+    "offset": 4780,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "andy"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4780
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]
