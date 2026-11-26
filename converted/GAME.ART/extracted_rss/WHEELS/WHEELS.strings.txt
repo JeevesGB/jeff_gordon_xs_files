@@ -1,0 +1,25 @@
+ASCII STRINGS (byte offsets)
+0x00000000 [50] fRssExport Version (V1) - Fri Feb 12 15:50:06 1999
+0x0000003a [6] Wheels
+0x0000006a [6] Center
+0x00000098 [5] tire1
+0x000000b0 [5] Tread
+0x000000dd [5] tire1
+0x000000f8 [9] left rear
+0x0000034b [6] Wheels
+0x00001fd1 [6] Wheels
+0x00002b4f [6] Wheels
+0x0000311e [10] right rear
+0x00003372 [6] Wheels
+0x00004ff8 [6] Wheels
+0x00005b76 [6] Wheels
+0x00006145 [10] left front
+0x00006399 [6] Wheels
+0x0000801f [6] Wheels
+0x00008b9d [6] Wheels
+0x0000916c [11] right front
+0x000093c1 [6] Wheels
+0x0000b047 [6] Wheels
+0x0000bbc5 [6] Wheels
+
+UTF-16LE STRINGS (byte offsets)

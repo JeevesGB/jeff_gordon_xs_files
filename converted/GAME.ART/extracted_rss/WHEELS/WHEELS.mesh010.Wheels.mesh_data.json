@@ -1,0 +1,1812 @@
+{
+  "mesh_name": "Wheels",
+  "header_words": [
+    30791,
+    11207,
+    0
+  ],
+  "face_records": [
+    {
+      "face_index": 0,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        30791,
+        11207,
+        0
+      ],
+      "vertices": [
+        {
+          "vertex_index": 0,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 10,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 9,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            0,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 1,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        16383,
+        28377,
+        0
+      ],
+      "vertices": [
+        {
+          "vertex_index": 0,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 1,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            65536,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 10,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 2,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        16383,
+        28377,
+        0
+      ],
+      "vertices": [
+        {
+          "vertex_index": 1,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 11,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 10,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            0,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 3,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        4294961606,
+        32270,
+        0
+      ],
+      "vertices": [
+        {
+          "vertex_index": 1,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 2,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            65536,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 11,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 4,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        4294961606,
+        32270,
+        0
+      ],
+      "vertices": [
+        {
+          "vertex_index": 2,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 12,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 11,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            0,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 5,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        4294942195,
+        21062,
+        0
+      ],
+      "vertices": [
+        {
+          "vertex_index": 2,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 3,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            65536,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 12,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 6,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        4294942195,
+        21062,
+        0
+      ],
+      "vertices": [
+        {
+          "vertex_index": 3,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 13,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 12,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            0,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 7,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        4294934528,
+        0,
+        0
+      ],
+      "vertices": [
+        {
+          "vertex_index": 3,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 4,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            65536,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 13,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 8,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        4294934528,
+        0,
+        0
+      ],
+      "vertices": [
+        {
+          "vertex_index": 4,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 14,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 13,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            0,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 9,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        4294942195,
+        4294946234,
+        0
+      ],
+      "vertices": [
+        {
+          "vertex_index": 4,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 5,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            65536,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 14,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 10,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        4294942195,
+        4294946234,
+        0
+      ],
+      "vertices": [
+        {
+          "vertex_index": 5,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 15,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 14,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            0,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 11,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        4294961606,
+        4294935026,
+        0
+      ],
+      "vertices": [
+        {
+          "vertex_index": 5,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 6,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            65536,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 15,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 12,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        4294961606,
+        4294935026,
+        0
+      ],
+      "vertices": [
+        {
+          "vertex_index": 6,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 16,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 15,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            0,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 13,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        16384,
+        4294938919,
+        0
+      ],
+      "vertices": [
+        {
+          "vertex_index": 6,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 7,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            65536,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 16,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 14,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        16384,
+        4294938919,
+        0
+      ],
+      "vertices": [
+        {
+          "vertex_index": 7,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 17,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 16,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            0,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 15,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        30791,
+        4294956089,
+        0
+      ],
+      "vertices": [
+        {
+          "vertex_index": 7,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 8,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            65536,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 17,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 16,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        30791,
+        4294956089,
+        0
+      ],
+      "vertices": [
+        {
+          "vertex_index": 8,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 9,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 17,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            0,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 17,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        0,
+        0,
+        32768
+      ],
+      "vertices": [
+        {
+          "vertex_index": 8,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 0,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            65536,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 9,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 18,
+      "flag_raw": 0,
+      "extra_u32_raw": [
+        0,
+        0,
+        32768
+      ],
+      "vertices": [
+        {
+          "vertex_index": 18,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            31750,
+            32767
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 9,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65503,
+            32767
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 10,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            57606,
+            54134
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 19,
+      "flag_raw": 0,
+      "extra_u32_raw": [
+        0,
+        0,
+        32768
+      ],
+      "vertices": [
+        {
+          "vertex_index": 18,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            31750,
+            32767
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 10,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            57606,
+            54134
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 11,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            37611,
+            65503
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 20,
+      "flag_raw": 0,
+      "extra_u32_raw": [
+        0,
+        0,
+        32768
+      ],
+      "vertices": [
+        {
+          "vertex_index": 18,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            31750,
+            32767
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 11,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            37611,
+            65503
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 12,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            14873,
+            61554
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 21,
+      "flag_raw": 0,
+      "extra_u32_raw": [
+        0,
+        0,
+        32768
+      ],
+      "vertices": [
+        {
+          "vertex_index": 18,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            31750,
+            32767
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 12,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            14873,
+            61554
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 13,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            32,
+            44136
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 22,
+      "flag_raw": 0,
+      "extra_u32_raw": [
+        0,
+        0,
+        32768
+      ],
+      "vertices": [
+        {
+          "vertex_index": 18,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            31750,
+            32767
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 13,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            32,
+            44136
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 14,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            32,
+            21399
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 23,
+      "flag_raw": 0,
+      "extra_u32_raw": [
+        0,
+        0,
+        32768
+      ],
+      "vertices": [
+        {
+          "vertex_index": 18,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            31750,
+            32767
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 14,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            32,
+            21399
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 15,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            14873,
+            3981
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 24,
+      "flag_raw": 0,
+      "extra_u32_raw": [
+        0,
+        0,
+        32768
+      ],
+      "vertices": [
+        {
+          "vertex_index": 18,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            31750,
+            32767
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 15,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            14873,
+            3981
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 16,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            37611,
+            32
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 25,
+      "flag_raw": 0,
+      "extra_u32_raw": [
+        0,
+        0,
+        32768
+      ],
+      "vertices": [
+        {
+          "vertex_index": 18,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            31750,
+            32767
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 16,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            37611,
+            32
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 17,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            57606,
+            11401
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 26,
+      "flag_raw": 0,
+      "extra_u32_raw": [
+        0,
+        0,
+        4294934528
+      ],
+      "vertices": [
+        {
+          "vertex_index": 18,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            31750,
+            32767
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 17,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            57606,
+            11401
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 9,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65503,
+            32767
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 27,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        0,
+        0,
+        4294934528
+      ],
+      "vertices": [
+        {
+          "vertex_index": 4,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 2,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 6,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 28,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        0,
+        0,
+        4294934528
+      ],
+      "vertices": [
+        {
+          "vertex_index": 0,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            65536,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 8,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 1,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 29,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        0,
+        0,
+        4294934528
+      ],
+      "vertices": [
+        {
+          "vertex_index": 7,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 6,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 8,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 30,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        0,
+        0,
+        4294934528
+      ],
+      "vertices": [
+        {
+          "vertex_index": 5,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 4,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 6,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 31,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        0,
+        0,
+        4294934528
+      ],
+      "vertices": [
+        {
+          "vertex_index": 3,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 2,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 4,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 32,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        0,
+        0,
+        4294934528
+      ],
+      "vertices": [
+        {
+          "vertex_index": 1,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 8,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 2,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 33,
+      "flag_raw": 1,
+      "extra_u32_raw": [
+        0,
+        0,
+        720897
+      ],
+      "vertices": [
+        {
+          "vertex_index": 8,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 6,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            0,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 2,
+          "attributes_u32_raw": [
+            0,
+            0,
+            4294934528,
+            65536,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    }
+  ]
+}

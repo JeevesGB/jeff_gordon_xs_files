@@ -1,0 +1,107 @@
+{
+  "file": "WHEELS.RSS",
+  "size": 49555,
+  "sha256": "ba3a3d40cfc30e490a9f8fe6d7e27dac2700700f4d3f4e159f9ea546a4c3dae9",
+  "original_copy": "WHEELS.RSS.original",
+  "texture_reference_count": 2,
+  "unique_texture_identifiers": 1,
+  "plausible_atlas_rect_count": 2,
+  "zero_padding_after_rect_count": 2,
+  "texture_identifiers_grouped": [
+    {
+      "identifier": "tire1",
+      "occurrences": 2,
+      "surface_labels": [
+        "Center",
+        "Tread"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.05511474609375,
+          0.05511474609375
+        ]
+      ]
+    }
+  ],
+  "texture_references": [
+    {
+      "identifier": "tire1",
+      "identifier_offset": 152,
+      "surface_label": "Center",
+      "surface_label_offset": 106,
+      "gap_from_label": 46,
+      "next_string": "Tread",
+      "next_string_offset": 176,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 54 72 65 61 64 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 90,
+      "context_end": 192,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "tire1",
+      "identifier_offset": 221,
+      "surface_label": "Tread",
+      "surface_label_offset": 176,
+      "gap_from_label": 45,
+      "next_string": "left rear",
+      "next_string_offset": 248,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        3612,
+        3612
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.05511474609375,
+        0.05511474609375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 1c 0e 00 00 1c 0e 00 00 00 00 04 00 00 6c 65 66 74 20 72 65 61 72 00 00",
+      "context_start": 160,
+      "context_end": 264,
+      "nearby_dimension_candidates": []
+    }
+  ],
+  "verified_decoded_images": [],
+  "zlib_stream_candidates": [],
+  "standard_signature_counts": {
+    "PNG": 0,
+    "JPEG": 0,
+    "BMP": 0,
+    "GIF87a": 0,
+    "GIF89a": 0,
+    "DDS": 0,
+    "PCX": 101
+  },
+  "conclusion": {
+    "verified_images_extracted": 0,
+    "zlib_streams_found": 0,
+    "texture_payload_format": "not established",
+    "note": "References are material/surface identifiers. A zlib stream is not classified as a texture without dimensions, pixel format and successful image reconstruction."
+  }
+}

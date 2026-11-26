@@ -1,0 +1,2131 @@
+{
+  "file": "WHEELS.RSS",
+  "size": 49555,
+  "sha256": "ba3a3d40cfc30e490a9f8fe6d7e27dac2700700f4d3f4e159f9ea546a4c3dae9",
+  "header": "fRssExport Version (V1) - Fri Feb 12 15:50:06 1999",
+  "header_bytes_hex": "665273734578706f72742056657273696f6e2028563129202d20467269204665622031322031353a35303a303620313939390a",
+  "mesh_parser_note": "Heuristic only; not a complete documented RSS specification.",
+  "meshes": [
+    {
+      "index": 0,
+      "name": "Wheels",
+      "name_offset": 843,
+      "face_span": [
+        850,
+        7917
+      ],
+      "face_count": 86,
+      "max_vertex_index": 44,
+      "vertex_span": [
+        303,
+        843
+      ],
+      "vertex_set_count": 1,
+      "vertex_count": 45,
+      "header_words": [
+        4647,
+        1364,
+        4294934888
+      ]
+    },
+    {
+      "index": 1,
+      "name": "Wheels",
+      "name_offset": 8145,
+      "face_span": [
+        8152,
+        10955
+      ],
+      "face_count": 34,
+      "max_vertex_index": 18,
+      "vertex_span": [
+        7917,
+        8145
+      ],
+      "vertex_set_count": 1,
+      "vertex_count": 19,
+      "header_words": [
+        30791,
+        11207,
+        0
+      ]
+    },
+    {
+      "index": 2,
+      "name": "Wheels",
+      "name_offset": 11087,
+      "face_span": [
+        11094,
+        12585
+      ],
+      "face_count": 18,
+      "max_vertex_index": 10,
+      "vertex_span": [
+        10955,
+        11087
+      ],
+      "vertex_set_count": 1,
+      "vertex_count": 11,
+      "header_words": [
+        25961,
+        19993,
+        0
+      ]
+    },
+    {
+      "index": 3,
+      "name": "Wheels",
+      "name_offset": 13170,
+      "face_span": [
+        13177,
+        20244
+      ],
+      "face_count": 86,
+      "max_vertex_index": 44,
+      "vertex_span": [
+        12630,
+        13170
+      ],
+      "vertex_set_count": 1,
+      "vertex_count": 45,
+      "header_words": [
+        4647,
+        1364,
+        4294934888
+      ]
+    },
+    {
+      "index": 4,
+      "name": "Wheels",
+      "name_offset": 20472,
+      "face_span": [
+        20479,
+        23282
+      ],
+      "face_count": 34,
+      "max_vertex_index": 18,
+      "vertex_span": [
+        20244,
+        20472
+      ],
+      "vertex_set_count": 1,
+      "vertex_count": 19,
+      "header_words": [
+        30791,
+        11207,
+        0
+      ]
+    },
+    {
+      "index": 5,
+      "name": "Wheels",
+      "name_offset": 23414,
+      "face_span": [
+        23421,
+        24912
+      ],
+      "face_count": 18,
+      "max_vertex_index": 10,
+      "vertex_span": [
+        23282,
+        23414
+      ],
+      "vertex_set_count": 1,
+      "vertex_count": 11,
+      "header_words": [
+        25961,
+        19993,
+        0
+      ]
+    },
+    {
+      "index": 6,
+      "name": "Wheels",
+      "name_offset": 25497,
+      "face_span": [
+        25504,
+        32571
+      ],
+      "face_count": 86,
+      "max_vertex_index": 44,
+      "vertex_span": [
+        24957,
+        25497
+      ],
+      "vertex_set_count": 1,
+      "vertex_count": 45,
+      "header_words": [
+        4647,
+        1364,
+        4294934888
+      ]
+    },
+    {
+      "index": 7,
+      "name": "Wheels",
+      "name_offset": 32799,
+      "face_span": [
+        32806,
+        35609
+      ],
+      "face_count": 34,
+      "max_vertex_index": 18,
+      "vertex_span": [
+        32571,
+        32799
+      ],
+      "vertex_set_count": 1,
+      "vertex_count": 19,
+      "header_words": [
+        30791,
+        11207,
+        0
+      ]
+    },
+    {
+      "index": 8,
+      "name": "Wheels",
+      "name_offset": 35741,
+      "face_span": [
+        35748,
+        37239
+      ],
+      "face_count": 18,
+      "max_vertex_index": 10,
+      "vertex_span": [
+        35609,
+        35741
+      ],
+      "vertex_set_count": 1,
+      "vertex_count": 11,
+      "header_words": [
+        25961,
+        19993,
+        0
+      ]
+    },
+    {
+      "index": 9,
+      "name": "Wheels",
+      "name_offset": 37825,
+      "face_span": [
+        37832,
+        44899
+      ],
+      "face_count": 86,
+      "max_vertex_index": 44,
+      "vertex_span": [
+        37285,
+        37825
+      ],
+      "vertex_set_count": 1,
+      "vertex_count": 45,
+      "header_words": [
+        4647,
+        1364,
+        4294934888
+      ]
+    },
+    {
+      "index": 10,
+      "name": "Wheels",
+      "name_offset": 45127,
+      "face_span": [
+        45134,
+        47937
+      ],
+      "face_count": 34,
+      "max_vertex_index": 18,
+      "vertex_span": [
+        44899,
+        45127
+      ],
+      "vertex_set_count": 1,
+      "vertex_count": 19,
+      "header_words": [
+        30791,
+        11207,
+        0
+      ]
+    }
+  ],
+  "embedded_image_files": [],
+  "texture_references": [
+    {
+      "name": "tire1",
+      "offset": 152,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "Center",
+        "Tread"
+      ],
+      "occurrences": 2,
+      "occurrences_at_offsets": [
+        152,
+        221
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    }
+  ],
+  "texture_extraction_note": "The RSS files contain probable texture identifiers/material references. Validated standard embedded images are exported separately; external matching assets are copied when present. Reference records are not image data.",
+  "ascii_strings": [
+    {
+      "offset": 0,
+      "length": 50,
+      "text": "fRssExport Version (V1) - Fri Feb 12 15:50:06 1999"
+    },
+    {
+      "offset": 58,
+      "length": 6,
+      "text": "Wheels"
+    },
+    {
+      "offset": 106,
+      "length": 6,
+      "text": "Center"
+    },
+    {
+      "offset": 152,
+      "length": 5,
+      "text": "tire1"
+    },
+    {
+      "offset": 176,
+      "length": 5,
+      "text": "Tread"
+    },
+    {
+      "offset": 221,
+      "length": 5,
+      "text": "tire1"
+    },
+    {
+      "offset": 248,
+      "length": 9,
+      "text": "left rear"
+    },
+    {
+      "offset": 843,
+      "length": 6,
+      "text": "Wheels"
+    },
+    {
+      "offset": 8145,
+      "length": 6,
+      "text": "Wheels"
+    },
+    {
+      "offset": 11087,
+      "length": 6,
+      "text": "Wheels"
+    },
+    {
+      "offset": 12574,
+      "length": 10,
+      "text": "right rear"
+    },
+    {
+      "offset": 13170,
+      "length": 6,
+      "text": "Wheels"
+    },
+    {
+      "offset": 20472,
+      "length": 6,
+      "text": "Wheels"
+    },
+    {
+      "offset": 23414,
+      "length": 6,
+      "text": "Wheels"
+    },
+    {
+      "offset": 24901,
+      "length": 10,
+      "text": "left front"
+    },
+    {
+      "offset": 25497,
+      "length": 6,
+      "text": "Wheels"
+    },
+    {
+      "offset": 32799,
+      "length": 6,
+      "text": "Wheels"
+    },
+    {
+      "offset": 35741,
+      "length": 6,
+      "text": "Wheels"
+    },
+    {
+      "offset": 37228,
+      "length": 11,
+      "text": "right front"
+    },
+    {
+      "offset": 37825,
+      "length": 6,
+      "text": "Wheels"
+    },
+    {
+      "offset": 45127,
+      "length": 6,
+      "text": "Wheels"
+    },
+    {
+      "offset": 48069,
+      "length": 6,
+      "text": "Wheels"
+    }
+  ],
+  "utf16le_strings": [],
+  "embedded_filename_references": [],
+  "embedded_signatures": [
+    {
+      "type": "PCX",
+      "offset": 50,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 102,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 887,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 991,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 1186,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 1545,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 1649,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 1871,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 2137,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 2241,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 2323,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 3185,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 3245,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 3327,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 4023,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 4083,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 4165,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 4926,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5030,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5112,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 8191,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 8295,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 8377,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 8435,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 9689,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 9749,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 10403,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 10917,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 11377,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 11931,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 12013,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 12095,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 12177,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 12259,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 13214,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 13318,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 13513,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 13872,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 13976,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 14198,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 14464,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 14568,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 14650,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 15512,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 15572,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 15654,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 16350,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 16410,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 16492,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 17253,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 17357,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 17439,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 20518,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 20622,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 20704,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 20762,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 22016,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 22076,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 22730,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 23244,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 23704,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 24258,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 24340,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 24422,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 24504,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 24586,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 25541,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 25645,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 25840,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 26199,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 26303,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 26525,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 26791,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 26895,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 26977,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 27839,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 27899,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 27981,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 28677,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 28737,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 28819,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 29580,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 29684,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 29766,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 32845,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 32949,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 33031,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 33089,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 34343,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 34403,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 35057,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 35571,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 36031,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 36585,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 36667,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 36749,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 36831,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 36913,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 37869,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 37973,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 38168,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 38527,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 38631,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 38853,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 39119,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 39223,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 39305,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 40167,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 40227,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 40309,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 41005,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 41065,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 41147,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 41908,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 42012,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 42094,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 45173,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 45277,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 45359,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 45417,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 46671,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 46731,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 47385,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 47899,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 48359,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 48913,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 48995,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 49077,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 49159,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 49241,
+      "signature_hex": "0a"
+    }
+  ],
+  "entropy_256_byte_windows": [
+    {
+      "offset": 0,
+      "length": 256,
+      "entropy": 3.6038
+    },
+    {
+      "offset": 256,
+      "length": 256,
+      "entropy": 3.7016
+    },
+    {
+      "offset": 512,
+      "length": 256,
+      "entropy": 4.0535
+    },
+    {
+      "offset": 768,
+      "length": 256,
+      "entropy": 4.14
+    },
+    {
+      "offset": 1024,
+      "length": 256,
+      "entropy": 3.6737
+    },
+    {
+      "offset": 1280,
+      "length": 256,
+      "entropy": 3.6878
+    },
+    {
+      "offset": 1536,
+      "length": 256,
+      "entropy": 3.8789
+    },
+    {
+      "offset": 1792,
+      "length": 256,
+      "entropy": 4.0465
+    },
+    {
+      "offset": 2048,
+      "length": 256,
+      "entropy": 4.0874
+    },
+    {
+      "offset": 2304,
+      "length": 256,
+      "entropy": 4.1078
+    },
+    {
+      "offset": 2560,
+      "length": 256,
+      "entropy": 3.7734
+    },
+    {
+      "offset": 2816,
+      "length": 256,
+      "entropy": 3.9821
+    },
+    {
+      "offset": 3072,
+      "length": 256,
+      "entropy": 4.1352
+    },
+    {
+      "offset": 3328,
+      "length": 256,
+      "entropy": 4.0436
+    },
+    {
+      "offset": 3584,
+      "length": 256,
+      "entropy": 3.6842
+    },
+    {
+      "offset": 3840,
+      "length": 256,
+      "entropy": 3.748
+    },
+    {
+      "offset": 4096,
+      "length": 256,
+      "entropy": 3.8116
+    },
+    {
+      "offset": 4352,
+      "length": 256,
+      "entropy": 3.4998
+    },
+    {
+      "offset": 4608,
+      "length": 256,
+      "entropy": 3.5941
+    },
+    {
+      "offset": 4864,
+      "length": 256,
+      "entropy": 3.6819
+    },
+    {
+      "offset": 5120,
+      "length": 256,
+      "entropy": 3.6596
+    },
+    {
+      "offset": 5376,
+      "length": 256,
+      "entropy": 1.8002
+    },
+    {
+      "offset": 5632,
+      "length": 256,
+      "entropy": 1.9245
+    },
+    {
+      "offset": 5888,
+      "length": 256,
+      "entropy": 2.1298
+    },
+    {
+      "offset": 6144,
+      "length": 256,
+      "entropy": 1.902
+    },
+    {
+      "offset": 6400,
+      "length": 256,
+      "entropy": 2.2396
+    },
+    {
+      "offset": 6656,
+      "length": 256,
+      "entropy": 2.038
+    },
+    {
+      "offset": 6912,
+      "length": 256,
+      "entropy": 2.1263
+    },
+    {
+      "offset": 7168,
+      "length": 256,
+      "entropy": 0.9666
+    },
+    {
+      "offset": 7424,
+      "length": 256,
+      "entropy": 1.0019
+    },
+    {
+      "offset": 7680,
+      "length": 256,
+      "entropy": 1.2591
+    },
+    {
+      "offset": 7936,
+      "length": 256,
+      "entropy": 3.7025
+    },
+    {
+      "offset": 8192,
+      "length": 256,
+      "entropy": 1.3661
+    },
+    {
+      "offset": 8448,
+      "length": 256,
+      "entropy": 1.6233
+    },
+    {
+      "offset": 8704,
+      "length": 256,
+      "entropy": 1.38
+    },
+    {
+      "offset": 8960,
+      "length": 256,
+      "entropy": 1.6776
+    },
+    {
+      "offset": 9216,
+      "length": 256,
+      "entropy": 1.6927
+    },
+    {
+      "offset": 9472,
+      "length": 256,
+      "entropy": 1.6154
+    },
+    {
+      "offset": 9728,
+      "length": 256,
+      "entropy": 1.7453
+    },
+    {
+      "offset": 9984,
+      "length": 256,
+      "entropy": 1.7459
+    },
+    {
+      "offset": 10240,
+      "length": 256,
+      "entropy": 1.6388
+    },
+    {
+      "offset": 10496,
+      "length": 256,
+      "entropy": 1.3837
+    },
+    {
+      "offset": 10752,
+      "length": 256,
+      "entropy": 2.0962
+    },
+    {
+      "offset": 11008,
+      "length": 256,
+      "entropy": 2.7645
+    },
+    {
+      "offset": 11264,
+      "length": 256,
+      "entropy": 1.4047
+    },
+    {
+      "offset": 11520,
+      "length": 256,
+      "entropy": 1.6493
+    },
+    {
+      "offset": 11776,
+      "length": 256,
+      "entropy": 1.4331
+    },
+    {
+      "offset": 12032,
+      "length": 256,
+      "entropy": 1.3667
+    },
+    {
+      "offset": 12288,
+      "length": 256,
+      "entropy": 1.4211
+    },
+    {
+      "offset": 12544,
+      "length": 256,
+      "entropy": 3.3885
+    },
+    {
+      "offset": 12800,
+      "length": 256,
+      "entropy": 4.0106
+    },
+    {
+      "offset": 13056,
+      "length": 256,
+      "entropy": 4.1008
+    },
+    {
+      "offset": 13312,
+      "length": 256,
+      "entropy": 3.8568
+    },
+    {
+      "offset": 13568,
+      "length": 256,
+      "entropy": 3.7237
+    },
+    {
+      "offset": 13824,
+      "length": 256,
+      "entropy": 3.7925
+    },
+    {
+      "offset": 14080,
+      "length": 256,
+      "entropy": 4.0035
+    },
+    {
+      "offset": 14336,
+      "length": 256,
+      "entropy": 4.0897
+    },
+    {
+      "offset": 14592,
+      "length": 256,
+      "entropy": 4.0366
+    },
+    {
+      "offset": 14848,
+      "length": 256,
+      "entropy": 3.7858
+    },
+    {
+      "offset": 15104,
+      "length": 256,
+      "entropy": 3.973
+    },
+    {
+      "offset": 15360,
+      "length": 256,
+      "entropy": 4.1105
+    },
+    {
+      "offset": 15616,
+      "length": 256,
+      "entropy": 4.2117
+    },
+    {
+      "offset": 15872,
+      "length": 256,
+      "entropy": 3.6487
+    },
+    {
+      "offset": 16128,
+      "length": 256,
+      "entropy": 3.769
+    },
+    {
+      "offset": 16384,
+      "length": 256,
+      "entropy": 3.777
+    },
+    {
+      "offset": 16640,
+      "length": 256,
+      "entropy": 3.5463
+    },
+    {
+      "offset": 16896,
+      "length": 256,
+      "entropy": 3.5746
+    },
+    {
+      "offset": 17152,
+      "length": 256,
+      "entropy": 3.717
+    },
+    {
+      "offset": 17408,
+      "length": 256,
+      "entropy": 3.792
+    },
+    {
+      "offset": 17664,
+      "length": 256,
+      "entropy": 1.8644
+    },
+    {
+      "offset": 17920,
+      "length": 256,
+      "entropy": 1.8965
+    },
+    {
+      "offset": 18176,
+      "length": 256,
+      "entropy": 2.1015
+    },
+    {
+      "offset": 18432,
+      "length": 256,
+      "entropy": 2.0377
+    },
+    {
+      "offset": 18688,
+      "length": 256,
+      "entropy": 2.232
+    },
+    {
+      "offset": 18944,
+      "length": 256,
+      "entropy": 2.1153
+    },
+    {
+      "offset": 19200,
+      "length": 256,
+      "entropy": 2.1494
+    },
+    {
+      "offset": 19456,
+      "length": 256,
+      "entropy": 0.9823
+    },
+    {
+      "offset": 19712,
+      "length": 256,
+      "entropy": 0.9947
+    },
+    {
+      "offset": 19968,
+      "length": 256,
+      "entropy": 0.9236
+    },
+    {
+      "offset": 20224,
+      "length": 256,
+      "entropy": 3.7413
+    },
+    {
+      "offset": 20480,
+      "length": 256,
+      "entropy": 1.4515
+    },
+    {
+      "offset": 20736,
+      "length": 256,
+      "entropy": 1.6006
+    },
+    {
+      "offset": 20992,
+      "length": 256,
+      "entropy": 1.3737
+    },
+    {
+      "offset": 21248,
+      "length": 256,
+      "entropy": 1.6975
+    },
+    {
+      "offset": 21504,
+      "length": 256,
+      "entropy": 1.5538
+    },
+    {
+      "offset": 21760,
+      "length": 256,
+      "entropy": 1.5868
+    },
+    {
+      "offset": 22016,
+      "length": 256,
+      "entropy": 1.7708
+    },
+    {
+      "offset": 22272,
+      "length": 256,
+      "entropy": 1.7315
+    },
+    {
+      "offset": 22528,
+      "length": 256,
+      "entropy": 1.6379
+    },
+    {
+      "offset": 22784,
+      "length": 256,
+      "entropy": 1.3971
+    },
+    {
+      "offset": 23040,
+      "length": 256,
+      "entropy": 1.6032
+    },
+    {
+      "offset": 23296,
+      "length": 256,
+      "entropy": 3.0868
+    },
+    {
+      "offset": 23552,
+      "length": 256,
+      "entropy": 1.4692
+    },
+    {
+      "offset": 23808,
+      "length": 256,
+      "entropy": 1.5331
+    },
+    {
+      "offset": 24064,
+      "length": 256,
+      "entropy": 1.5538
+    },
+    {
+      "offset": 24320,
+      "length": 256,
+      "entropy": 1.381
+    },
+    {
+      "offset": 24576,
+      "length": 256,
+      "entropy": 1.4283
+    },
+    {
+      "offset": 24832,
+      "length": 256,
+      "entropy": 3.1555
+    },
+    {
+      "offset": 25088,
+      "length": 256,
+      "entropy": 4.0349
+    },
+    {
+      "offset": 25344,
+      "length": 256,
+      "entropy": 4.1925
+    },
+    {
+      "offset": 25600,
+      "length": 256,
+      "entropy": 3.7338
+    },
+    {
+      "offset": 25856,
+      "length": 256,
+      "entropy": 3.6139
+    },
+    {
+      "offset": 26112,
+      "length": 256,
+      "entropy": 3.7901
+    },
+    {
+      "offset": 26368,
+      "length": 256,
+      "entropy": 4.0505
+    },
+    {
+      "offset": 26624,
+      "length": 256,
+      "entropy": 4.1453
+    },
+    {
+      "offset": 26880,
+      "length": 256,
+      "entropy": 4.0752
+    },
+    {
+      "offset": 27136,
+      "length": 256,
+      "entropy": 3.8655
+    },
+    {
+      "offset": 27392,
+      "length": 256,
+      "entropy": 3.9081
+    },
+    {
+      "offset": 27648,
+      "length": 256,
+      "entropy": 4.0829
+    },
+    {
+      "offset": 27904,
+      "length": 256,
+      "entropy": 4.1924
+    },
+    {
+      "offset": 28160,
+      "length": 256,
+      "entropy": 3.7091
+    },
+    {
+      "offset": 28416,
+      "length": 256,
+      "entropy": 3.7553
+    },
+    {
+      "offset": 28672,
+      "length": 256,
+      "entropy": 3.7915
+    },
+    {
+      "offset": 28928,
+      "length": 256,
+      "entropy": 3.6454
+    },
+    {
+      "offset": 29184,
+      "length": 256,
+      "entropy": 3.5374
+    },
+    {
+      "offset": 29440,
+      "length": 256,
+      "entropy": 3.6995
+    },
+    {
+      "offset": 29696,
+      "length": 256,
+      "entropy": 3.7844
+    },
+    {
+      "offset": 29952,
+      "length": 256,
+      "entropy": 2.4942
+    },
+    {
+      "offset": 30208,
+      "length": 256,
+      "entropy": 1.7245
+    },
+    {
+      "offset": 30464,
+      "length": 256,
+      "entropy": 2.0964
+    },
+    {
+      "offset": 30720,
+      "length": 256,
+      "entropy": 1.957
+    },
+    {
+      "offset": 30976,
+      "length": 256,
+      "entropy": 2.1395
+    },
+    {
+      "offset": 31232,
+      "length": 256,
+      "entropy": 2.1818
+    },
+    {
+      "offset": 31488,
+      "length": 256,
+      "entropy": 2.1006
+    },
+    {
+      "offset": 31744,
+      "length": 256,
+      "entropy": 1.411
+    },
+    {
+      "offset": 32000,
+      "length": 256,
+      "entropy": 0.9426
+    },
+    {
+      "offset": 32256,
+      "length": 256,
+      "entropy": 0.948
+    },
+    {
+      "offset": 32512,
+      "length": 256,
+      "entropy": 3.4073
+    },
+    {
+      "offset": 32768,
+      "length": 256,
+      "entropy": 2.0514
+    },
+    {
+      "offset": 33024,
+      "length": 256,
+      "entropy": 1.5601
+    },
+    {
+      "offset": 33280,
+      "length": 256,
+      "entropy": 1.4514
+    },
+    {
+      "offset": 33536,
+      "length": 256,
+      "entropy": 1.5516
+    },
+    {
+      "offset": 33792,
+      "length": 256,
+      "entropy": 1.6923
+    },
+    {
+      "offset": 34048,
+      "length": 256,
+      "entropy": 1.461
+    },
+    {
+      "offset": 34304,
+      "length": 256,
+      "entropy": 1.7552
+    },
+    {
+      "offset": 34560,
+      "length": 256,
+      "entropy": 1.7401
+    },
+    {
+      "offset": 34816,
+      "length": 256,
+      "entropy": 1.7241
+    },
+    {
+      "offset": 35072,
+      "length": 256,
+      "entropy": 1.366
+    },
+    {
+      "offset": 35328,
+      "length": 256,
+      "entropy": 1.3416
+    },
+    {
+      "offset": 35584,
+      "length": 256,
+      "entropy": 3.3131
+    },
+    {
+      "offset": 35840,
+      "length": 256,
+      "entropy": 1.44
+    },
+    {
+      "offset": 36096,
+      "length": 256,
+      "entropy": 1.4983
+    },
+    {
+      "offset": 36352,
+      "length": 256,
+      "entropy": 1.4449
+    },
+    {
+      "offset": 36608,
+      "length": 256,
+      "entropy": 1.3814
+    },
+    {
+      "offset": 36864,
+      "length": 256,
+      "entropy": 1.5241
+    },
+    {
+      "offset": 37120,
+      "length": 256,
+      "entropy": 2.6493
+    },
+    {
+      "offset": 37376,
+      "length": 256,
+      "entropy": 4.095
+    },
+    {
+      "offset": 37632,
+      "length": 256,
+      "entropy": 4.0814
+    },
+    {
+      "offset": 37888,
+      "length": 256,
+      "entropy": 3.8358
+    },
+    {
+      "offset": 38144,
+      "length": 256,
+      "entropy": 3.6767
+    },
+    {
+      "offset": 38400,
+      "length": 256,
+      "entropy": 3.8108
+    },
+    {
+      "offset": 38656,
+      "length": 256,
+      "entropy": 3.9938
+    },
+    {
+      "offset": 38912,
+      "length": 256,
+      "entropy": 4.048
+    },
+    {
+      "offset": 39168,
+      "length": 256,
+      "entropy": 4.0554
+    },
+    {
+      "offset": 39424,
+      "length": 256,
+      "entropy": 3.9104
+    },
+    {
+      "offset": 39680,
+      "length": 256,
+      "entropy": 3.8879
+    },
+    {
+      "offset": 39936,
+      "length": 256,
+      "entropy": 4.1099
+    },
+    {
+      "offset": 40192,
+      "length": 256,
+      "entropy": 4.2186
+    },
+    {
+      "offset": 40448,
+      "length": 256,
+      "entropy": 3.8174
+    },
+    {
+      "offset": 40704,
+      "length": 256,
+      "entropy": 3.8001
+    },
+    {
+      "offset": 40960,
+      "length": 256,
+      "entropy": 3.7998
+    },
+    {
+      "offset": 41216,
+      "length": 256,
+      "entropy": 3.5904
+    },
+    {
+      "offset": 41472,
+      "length": 256,
+      "entropy": 3.6012
+    },
+    {
+      "offset": 41728,
+      "length": 256,
+      "entropy": 3.6071
+    },
+    {
+      "offset": 41984,
+      "length": 256,
+      "entropy": 3.8435
+    },
+    {
+      "offset": 42240,
+      "length": 256,
+      "entropy": 2.7062
+    },
+    {
+      "offset": 42496,
+      "length": 256,
+      "entropy": 1.7547
+    },
+    {
+      "offset": 42752,
+      "length": 256,
+      "entropy": 2.2433
+    },
+    {
+      "offset": 43008,
+      "length": 256,
+      "entropy": 1.8199
+    },
+    {
+      "offset": 43264,
+      "length": 256,
+      "entropy": 2.325
+    },
+    {
+      "offset": 43520,
+      "length": 256,
+      "entropy": 2.0531
+    },
+    {
+      "offset": 43776,
+      "length": 256,
+      "entropy": 2.0964
+    },
+    {
+      "offset": 44032,
+      "length": 256,
+      "entropy": 1.5053
+    },
+    {
+      "offset": 44288,
+      "length": 256,
+      "entropy": 0.9786
+    },
+    {
+      "offset": 44544,
+      "length": 256,
+      "entropy": 0.9588
+    },
+    {
+      "offset": 44800,
+      "length": 256,
+      "entropy": 3.0942
+    },
+    {
+      "offset": 45056,
+      "length": 256,
+      "entropy": 2.5282
+    },
+    {
+      "offset": 45312,
+      "length": 256,
+      "entropy": 1.5274
+    },
+    {
+      "offset": 45568,
+      "length": 256,
+      "entropy": 1.4802
+    },
+    {
+      "offset": 45824,
+      "length": 256,
+      "entropy": 1.5274
+    },
+    {
+      "offset": 46080,
+      "length": 256,
+      "entropy": 1.63
+    },
+    {
+      "offset": 46336,
+      "length": 256,
+      "entropy": 1.572
+    },
+    {
+      "offset": 46592,
+      "length": 256,
+      "entropy": 1.6812
+    },
+    {
+      "offset": 46848,
+      "length": 256,
+      "entropy": 1.7518
+    },
+    {
+      "offset": 47104,
+      "length": 256,
+      "entropy": 1.6831
+    },
+    {
+      "offset": 47360,
+      "length": 256,
+      "entropy": 1.4112
+    },
+    {
+      "offset": 47616,
+      "length": 256,
+      "entropy": 1.3681
+    },
+    {
+      "offset": 47872,
+      "length": 256,
+      "entropy": 3.2442
+    },
+    {
+      "offset": 48128,
+      "length": 256,
+      "entropy": 1.5349
+    },
+    {
+      "offset": 48384,
+      "length": 256,
+      "entropy": 1.3699
+    },
+    {
+      "offset": 48640,
+      "length": 256,
+      "entropy": 1.6037
+    },
+    {
+      "offset": 48896,
+      "length": 256,
+      "entropy": 1.4248
+    },
+    {
+      "offset": 49152,
+      "length": 256,
+      "entropy": 1.4837
+    },
+    {
+      "offset": 49408,
+      "length": 147,
+      "entropy": 1.2636
+    }
+  ],
+  "unclaimed_ranges": [
+    {
+      "index": 0,
+      "start": 51,
+      "end": 303,
+      "size": 252,
+      "file": "range_0000_0x00000033_0x0000012f.bin"
+    },
+    {
+      "index": 1,
+      "start": 843,
+      "end": 850,
+      "size": 7,
+      "file": "range_0001_0x0000034b_0x00000352.bin"
+    },
+    {
+      "index": 2,
+      "start": 8145,
+      "end": 8152,
+      "size": 7,
+      "file": "range_0002_0x00001fd1_0x00001fd8.bin"
+    },
+    {
+      "index": 3,
+      "start": 11087,
+      "end": 11094,
+      "size": 7,
+      "file": "range_0003_0x00002b4f_0x00002b56.bin"
+    },
+    {
+      "index": 4,
+      "start": 12585,
+      "end": 12630,
+      "size": 45,
+      "file": "range_0004_0x00003129_0x00003156.bin"
+    },
+    {
+      "index": 5,
+      "start": 13170,
+      "end": 13177,
+      "size": 7,
+      "file": "range_0005_0x00003372_0x00003379.bin"
+    },
+    {
+      "index": 6,
+      "start": 20472,
+      "end": 20479,
+      "size": 7,
+      "file": "range_0006_0x00004ff8_0x00004fff.bin"
+    },
+    {
+      "index": 7,
+      "start": 23414,
+      "end": 23421,
+      "size": 7,
+      "file": "range_0007_0x00005b76_0x00005b7d.bin"
+    },
+    {
+      "index": 8,
+      "start": 24912,
+      "end": 24957,
+      "size": 45,
+      "file": "range_0008_0x00006150_0x0000617d.bin"
+    },
+    {
+      "index": 9,
+      "start": 25497,
+      "end": 25504,
+      "size": 7,
+      "file": "range_0009_0x00006399_0x000063a0.bin"
+    },
+    {
+      "index": 10,
+      "start": 32799,
+      "end": 32806,
+      "size": 7,
+      "file": "range_0010_0x0000801f_0x00008026.bin"
+    },
+    {
+      "index": 11,
+      "start": 35741,
+      "end": 35748,
+      "size": 7,
+      "file": "range_0011_0x00008b9d_0x00008ba4.bin"
+    },
+    {
+      "index": 12,
+      "start": 37239,
+      "end": 37285,
+      "size": 46,
+      "file": "range_0012_0x00009177_0x000091a5.bin"
+    },
+    {
+      "index": 13,
+      "start": 37825,
+      "end": 37832,
+      "size": 7,
+      "file": "range_0013_0x000093c1_0x000093c8.bin"
+    },
+    {
+      "index": 14,
+      "start": 45127,
+      "end": 45134,
+      "size": 7,
+      "file": "range_0014_0x0000b047_0x0000b04e.bin"
+    },
+    {
+      "index": 15,
+      "start": 47937,
+      "end": 49555,
+      "size": 1618,
+      "file": "range_0015_0x0000bb41_0x0000c193.bin"
+    }
+  ],
+  "coverage": {
+    "source_bytes": 49555,
+    "raw_copy_bytes": 49555,
+    "bytes_in_recognised_mesh_spans": 47421,
+    "bytes_in_unclaimed_ranges": 2083,
+    "note": "All source bytes are retained in the .original.rss copy; unclaimed ranges are separately carved."
+  }
+}
