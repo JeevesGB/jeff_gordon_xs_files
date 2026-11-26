@@ -1,0 +1,977 @@
+{
+  "file": "PISTN.RSS",
+  "size": 36136,
+  "sha256": "f09ada14b3f2bbb915246f4fb9f40374e19c4100f80eeeca21fc64ed4cce7dbf",
+  "original_copy": "PISTN.RSS.original",
+  "texture_reference_count": 22,
+  "unique_texture_identifiers": 4,
+  "plausible_atlas_rect_count": 22,
+  "zero_padding_after_rect_count": 22,
+  "texture_identifiers_grouped": [
+    {
+      "identifier": "Piston",
+      "occurrences": 15,
+      "surface_labels": [
+        "Piston Front_0",
+        "Piston Top_0",
+        "Piston Back_0",
+        "Piston Side_0",
+        "Piston Bottom_0",
+        "Piston Wing_0",
+        "Piston Airbrake Top",
+        "Piston Airbrake Bott",
+        "Piston Wings",
+        "Piston Front_1",
+        "Piston Top_1",
+        "Piston Back_1",
+        "Piston Side_1",
+        "Piston Bottom_1",
+        "Piston Wing_1"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.2823486328125,
+          0.5,
+          0.14312744140625
+        ],
+        [
+          0.0024871826171875,
+          0.1313629150390625,
+          0.24749755859375,
+          0.149017333984375
+        ],
+        [
+          0.0,
+          0.4196014404296875,
+          0.5,
+          0.08038330078125
+        ],
+        [
+          0.0,
+          0.0,
+          0.245086669921875,
+          0.072540283203125
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.274993896484375,
+          0.0,
+          0.2249908447265625,
+          0.1235198974609375
+        ],
+        [
+          0.25,
+          0.12548828125,
+          0.2249908447265625,
+          0.1235198974609375
+        ],
+        [
+          0.0,
+          0.0764617919921875,
+          0.25,
+          0.054901123046875
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.2823486328125,
+          0.5,
+          0.133331298828125
+        ],
+        [
+          0.0024871826171875,
+          0.1313629150390625,
+          0.24749755859375,
+          0.149017333984375
+        ],
+        [
+          0.0,
+          0.4196014404296875,
+          0.5,
+          0.08038330078125
+        ],
+        [
+          0.0,
+          0.0,
+          0.245086669921875,
+          0.072540283203125
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "carshdw",
+      "occurrences": 1,
+      "surface_labels": [
+        "car shadow"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "PistnBrk",
+      "occurrences": 1,
+      "surface_labels": [
+        "Pistion Tail Light"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "Pistn1_2",
+      "occurrences": 5,
+      "surface_labels": [
+        "Piston Front_2",
+        "Piston Top_2",
+        "Piston Back_2",
+        "Piston Side_2",
+        "Piston Bottom_2"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    }
+  ],
+  "texture_references": [
+    {
+      "identifier": "Piston",
+      "identifier_offset": 162,
+      "surface_label": "Piston Front_0",
+      "surface_label_offset": 108,
+      "gap_from_label": 54,
+      "next_string": "Piston Top_0",
+      "next_string_offset": 187,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 50 69 73 74 6f 6e 20 54 6f 70 5f 30 00 ff",
+      "context_start": 92,
+      "context_end": 203,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 234,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 178,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Piston",
+      "identifier_offset": 239,
+      "surface_label": "Piston Top_0",
+      "surface_label_offset": 187,
+      "gap_from_label": 52,
+      "next_string": "HH",
+      "next_string_offset": 250,
+      "post_identifier_u32_le": [
+        0,
+        18504,
+        32768,
+        9380
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2823486328125,
+        0.5,
+        0.14312744140625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 48 48 00 00 00 80 00 00 a4 24 00 00 00 00 50 69 73 74 6f 6e 20 42 61 63 6b 5f 30 00",
+      "context_start": 171,
+      "context_end": 266,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 157,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Piston",
+      "identifier_offset": 317,
+      "surface_label": "Piston Back_0",
+      "surface_label_offset": 264,
+      "gap_from_label": 53,
+      "next_string": "\\?",
+      "next_string_offset": 332,
+      "post_identifier_u32_le": [
+        163,
+        8609,
+        16220,
+        9766
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0024871826171875,
+        0.1313629150390625,
+        0.24749755859375,
+        0.149017333984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "a3 00 00 00 a1 21 00 00 5c 3f 00 00 26 26 00 00 00 00 50 69 73 74 6f 6e 20 53 69 64 65 5f 30 00",
+      "context_start": 248,
+      "context_end": 348,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Piston",
+      "identifier_offset": 395,
+      "surface_label": "Piston Side_0",
+      "surface_label_offset": 342,
+      "gap_from_label": 53,
+      "next_string": "kk",
+      "next_string_offset": 406,
+      "post_identifier_u32_le": [
+        0,
+        27499,
+        32768,
+        5268
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.4196014404296875,
+        0.5,
+        0.08038330078125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 6b 6b 00 00 00 80 00 00 94 14 00 00 00 00 50 69 73 74 6f 6e 20 42 6f 74 74 6f 6d 5f",
+      "context_start": 326,
+      "context_end": 422,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Piston",
+      "identifier_offset": 475,
+      "surface_label": "Piston Bottom_0",
+      "surface_label_offset": 420,
+      "gap_from_label": 55,
+      "next_string": "Piston Wing_0",
+      "next_string_offset": 500,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16062,
+        4754
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.245086669921875,
+        0.072540283203125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 be 3e 00 00 92 12 00 00 00 00 50 69 73 74 6f 6e 20 57 69 6e 67 5f 30 00",
+      "context_start": 404,
+      "context_end": 516,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Piston",
+      "identifier_offset": 553,
+      "surface_label": "Piston Wing_0",
+      "surface_label_offset": 500,
+      "gap_from_label": 53,
+      "next_string": "car shadow",
+      "next_string_offset": 578,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 63 61 72 20 73 68 61 64 6f 77 00 ff ff ff",
+      "context_start": 484,
+      "context_end": 594,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 623,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 569,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "carshdw",
+      "identifier_offset": 628,
+      "surface_label": "car shadow",
+      "surface_label_offset": 578,
+      "gap_from_label": 50,
+      "next_string": "Piston Airbrake",
+      "next_string_offset": 654,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 50 69 73 74 6f 6e 20 41 69 72 62 72 61 6b",
+      "context_start": 562,
+      "context_end": 670,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 548,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Piston",
+      "identifier_offset": 770,
+      "surface_label": "Piston Airbrake Top",
+      "surface_label_offset": 711,
+      "gap_from_label": 59,
+      "next_string": "fF",
+      "next_string_offset": 777,
+      "post_identifier_u32_le": [
+        18022,
+        0,
+        14745,
+        8095
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.274993896484375,
+        0.0,
+        0.2249908447265625,
+        0.1235198974609375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "66 46 00 00 00 00 00 00 99 39 00 00 9f 1f 00 00 00 00 50 69 73 74 6f 6e 20 41 69 72 62 72 61 6b",
+      "context_start": 695,
+      "context_end": 793,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 850,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Piston",
+      "identifier_offset": 855,
+      "surface_label": "Piston Airbrake Bott",
+      "surface_label_offset": 795,
+      "gap_from_label": 60,
+      "next_string": "  ",
+      "next_string_offset": 866,
+      "post_identifier_u32_le": [
+        16384,
+        8224,
+        14745,
+        8095
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.12548828125,
+        0.2249908447265625,
+        0.1235198974609375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 20 20 00 00 99 39 00 00 9f 1f 00 00 00 00 50 69 73 74 6f 6e 20 57 69 6e 67 73 00 ff",
+      "context_start": 779,
+      "context_end": 882,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 765,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 927,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Piston",
+      "identifier_offset": 932,
+      "surface_label": "Piston Wings",
+      "surface_label_offset": 880,
+      "gap_from_label": 52,
+      "next_string": "Pistion Tail Light",
+      "next_string_offset": 957,
+      "post_identifier_u32_le": [
+        0,
+        5011,
+        16384,
+        3598
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0764617919921875,
+        0.25,
+        0.054901123046875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 93 13 00 00 00 40 00 00 0e 0e 00 00 00 00 50 69 73 74 69 6f 6e 20 54 61 69 6c 20 4c",
+      "context_start": 864,
+      "context_end": 973,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 850,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1010,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "PistnBrk",
+      "identifier_offset": 1015,
+      "surface_label": "Pistion Tail Light",
+      "surface_label_offset": 957,
+      "gap_from_label": 58,
+      "next_string": "Piston_1",
+      "next_string_offset": 1042,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 50 69 73 74 6f 6e 5f 31 00 ff ff ff ff ff",
+      "context_start": 941,
+      "context_end": 1058,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 927,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Piston",
+      "identifier_offset": 1146,
+      "surface_label": "Piston Front_1",
+      "surface_label_offset": 1092,
+      "gap_from_label": 54,
+      "next_string": "Piston Top_1",
+      "next_string_offset": 1171,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 50 69 73 74 6f 6e 20 54 6f 70 5f 31 00 ff",
+      "context_start": 1076,
+      "context_end": 1187,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1218,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1162,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Piston",
+      "identifier_offset": 1223,
+      "surface_label": "Piston Top_1",
+      "surface_label_offset": 1171,
+      "gap_from_label": 52,
+      "next_string": "HH",
+      "next_string_offset": 1234,
+      "post_identifier_u32_le": [
+        0,
+        18504,
+        32768,
+        8738
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2823486328125,
+        0.5,
+        0.133331298828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 48 48 00 00 00 80 00 00 22 22 00 00 00 00 50 69 73 74 6f 6e 20 42 61 63 6b 5f 31 00",
+      "context_start": 1155,
+      "context_end": 1250,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1141,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Piston",
+      "identifier_offset": 1301,
+      "surface_label": "Piston Back_1",
+      "surface_label_offset": 1248,
+      "gap_from_label": 53,
+      "next_string": "\\?",
+      "next_string_offset": 1316,
+      "post_identifier_u32_le": [
+        163,
+        8609,
+        16220,
+        9766
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0024871826171875,
+        0.1313629150390625,
+        0.24749755859375,
+        0.149017333984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "a3 00 00 00 a1 21 00 00 5c 3f 00 00 26 26 00 00 00 00 50 69 73 74 6f 6e 20 53 69 64 65 5f 31 00",
+      "context_start": 1232,
+      "context_end": 1332,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Piston",
+      "identifier_offset": 1379,
+      "surface_label": "Piston Side_1",
+      "surface_label_offset": 1326,
+      "gap_from_label": 53,
+      "next_string": "kk",
+      "next_string_offset": 1390,
+      "post_identifier_u32_le": [
+        0,
+        27499,
+        32768,
+        5268
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.4196014404296875,
+        0.5,
+        0.08038330078125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 6b 6b 00 00 00 80 00 00 94 14 00 00 00 00 50 69 73 74 6f 6e 20 42 6f 74 74 6f 6d 5f",
+      "context_start": 1310,
+      "context_end": 1406,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Piston",
+      "identifier_offset": 1459,
+      "surface_label": "Piston Bottom_1",
+      "surface_label_offset": 1404,
+      "gap_from_label": 55,
+      "next_string": "Piston Wing_1",
+      "next_string_offset": 1484,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16062,
+        4754
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.245086669921875,
+        0.072540283203125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 be 3e 00 00 92 12 00 00 00 00 50 69 73 74 6f 6e 20 57 69 6e 67 5f 31 00",
+      "context_start": 1388,
+      "context_end": 1500,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Piston",
+      "identifier_offset": 1537,
+      "surface_label": "Piston Wing_1",
+      "surface_label_offset": 1484,
+      "gap_from_label": 53,
+      "next_string": "Piston_2",
+      "next_string_offset": 1562,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 50 69 73 74 6f 6e 5f 32 00 ff ff ff ff ff",
+      "context_start": 1468,
+      "context_end": 1578,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1553,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Pistn1_2",
+      "identifier_offset": 1666,
+      "surface_label": "Piston Front_2",
+      "surface_label_offset": 1612,
+      "gap_from_label": 54,
+      "next_string": "Piston Top_2",
+      "next_string_offset": 1693,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 50 69 73 74 6f 6e 20 54 6f 70 5f 32 00 ff",
+      "context_start": 1596,
+      "context_end": 1709,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1740,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Pistn1_2",
+      "identifier_offset": 1745,
+      "surface_label": "Piston Top_2",
+      "surface_label_offset": 1693,
+      "gap_from_label": 52,
+      "next_string": "Piston Back_2",
+      "next_string_offset": 1772,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 50 69 73 74 6f 6e 20 42 61 63 6b 5f 32 00",
+      "context_start": 1677,
+      "context_end": 1788,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1661,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Pistn1_2",
+      "identifier_offset": 1825,
+      "surface_label": "Piston Back_2",
+      "surface_label_offset": 1772,
+      "gap_from_label": 53,
+      "next_string": "Piston Side_2",
+      "next_string_offset": 1852,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 50 69 73 74 6f 6e 20 53 69 64 65 5f 32 00",
+      "context_start": 1756,
+      "context_end": 1868,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Pistn1_2",
+      "identifier_offset": 1905,
+      "surface_label": "Piston Side_2",
+      "surface_label_offset": 1852,
+      "gap_from_label": 53,
+      "next_string": "Piston Bottom_2",
+      "next_string_offset": 1932,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 50 69 73 74 6f 6e 20 42 6f 74 74 6f 6d 5f",
+      "context_start": 1836,
+      "context_end": 1948,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Pistn1_2",
+      "identifier_offset": 1987,
+      "surface_label": "Piston Bottom_2",
+      "surface_label_offset": 1932,
+      "gap_from_label": 55,
+      "next_string": "piston",
+      "next_string_offset": 2017,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 07 00 00 70 69 73 74 6f 6e 00 00 00 00 00",
+      "context_start": 1916,
+      "context_end": 2033,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1923,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    }
+  ],
+  "verified_decoded_images": [],
+  "zlib_stream_candidates": [],
+  "standard_signature_counts": {
+    "PNG": 0,
+    "JPEG": 0,
+    "BMP": 0,
+    "GIF87a": 0,
+    "GIF89a": 0,
+    "DDS": 0,
+    "PCX": 82
+  },
+  "conclusion": {
+    "verified_images_extracted": 0,
+    "zlib_streams_found": 0,
+    "texture_payload_format": "not established",
+    "note": "References are material/surface identifiers. A zlib stream is not classified as a texture without dimensions, pixel format and successful image reconstruction."
+  }
+}

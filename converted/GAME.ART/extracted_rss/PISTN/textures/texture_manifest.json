@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Piston",
+    "offset": 162,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Piston Front_0",
+      "Piston Top_0",
+      "Piston Back_0",
+      "Piston Side_0",
+      "Piston Bottom_0",
+      "Piston Wing_0",
+      "Piston Airbrake Top",
+      "Piston Airbrake Bott",
+      "Piston Wings",
+      "Piston Front_1",
+      "Piston Top_1",
+      "Piston Back_1",
+      "Piston Side_1",
+      "Piston Bottom_1",
+      "Piston Wing_1"
+    ],
+    "occurrences": 15,
+    "occurrences_at_offsets": [
+      162,
+      239,
+      317,
+      395,
+      475,
+      553,
+      770,
+      855,
+      932,
+      1146,
+      1223,
+      1301,
+      1379,
+      1459,
+      1537
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "carshdw",
+    "offset": 628,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "car shadow"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      628
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "PistnBrk",
+    "offset": 1015,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Pistion Tail Light"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1015
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "Pistn1_2",
+    "offset": 1666,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Piston Front_2",
+      "Piston Top_2",
+      "Piston Back_2",
+      "Piston Side_2",
+      "Piston Bottom_2"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      1666,
+      1745,
+      1825,
+      1905,
+      1987
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]

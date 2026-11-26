@@ -1,0 +1,5 @@
+﻿name,offset,evidence,surface_labels,occurrences,asset_status,copied_files
+Piston,162,surface_label_then_texture_identifier,Piston Front_0; Piston Top_0; Piston Back_0; Piston Side_0; Piston Bottom_0; Piston Wing_0; Piston Airbrake Top; Piston Airbrake Bott; Piston Wings; Piston Front_1; Piston Top_1; Piston Back_1; Piston Side_1; Piston Bottom_1; Piston Wing_1,15,reference_only_no_pixel_asset_found,
+carshdw,628,surface_label_then_texture_identifier,car shadow,1,reference_only_no_pixel_asset_found,
+PistnBrk,1015,surface_label_then_texture_identifier,Pistion Tail Light,1,reference_only_no_pixel_asset_found,
+Pistn1_2,1666,surface_label_then_texture_identifier,Piston Front_2; Piston Top_2; Piston Back_2; Piston Side_2; Piston Bottom_2,5,reference_only_no_pixel_asset_found,

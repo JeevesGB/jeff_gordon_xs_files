@@ -1,0 +1,2211 @@
+{
+  "file": "PISTN.RSS",
+  "size": 36136,
+  "sha256": "f09ada14b3f2bbb915246f4fb9f40374e19c4100f80eeeca21fc64ed4cce7dbf",
+  "header": "fRssExport Version (V1) - Fri Apr 16 16:50:15 1999",
+  "header_bytes_hex": "665273734578706f72742056657273696f6e2028563129202d20467269204170722031362031363a35303a313520313939390a",
+  "mesh_parser_note": "Heuristic only; not a complete documented RSS specification.",
+  "meshes": [
+    {
+      "index": 0,
+      "name": "Piston_0",
+      "name_offset": 4541,
+      "face_span": [
+        4550,
+        19489
+      ],
+      "face_count": 182,
+      "max_vertex_index": 102,
+      "vertex_span": [
+        2069,
+        4541
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 103,
+      "header_words": [
+        1726,
+        32710,
+        898
+      ]
+    },
+    {
+      "index": 1,
+      "name": "Piston_1",
+      "name_offset": 20665,
+      "face_span": [
+        20674,
+        27413
+      ],
+      "face_count": 82,
+      "max_vertex_index": 48,
+      "vertex_span": [
+        19489,
+        20665
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 49,
+      "header_words": [
+        4294959323,
+        27000,
+        16766
+      ]
+    },
+    {
+      "index": 2,
+      "name": "Piston_2",
+      "name_offset": 27533,
+      "face_span": [
+        27542,
+        28869
+      ],
+      "face_count": 16,
+      "max_vertex_index": 9,
+      "vertex_span": [
+        27413,
+        27533
+      ],
+      "vertex_set_count": 1,
+      "vertex_count": 10,
+      "header_words": [
+        4294962886,
+        1822,
+        32418
+      ]
+    },
+    {
+      "index": 3,
+      "name": "car shadow",
+      "name_offset": 28965,
+      "face_span": [
+        28976,
+        29155
+      ],
+      "face_count": 2,
+      "max_vertex_index": 3,
+      "vertex_span": [
+        28869,
+        28965
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 4,
+      "header_words": [
+        0,
+        0,
+        32768
+      ]
+    },
+    {
+      "index": 4,
+      "name": "Piston Airbrake",
+      "name_offset": 29442,
+      "face_span": [
+        29458,
+        30129
+      ],
+      "face_count": 8,
+      "max_vertex_index": 9,
+      "vertex_span": [
+        29202,
+        29442
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 10,
+      "header_words": [
+        2688,
+        4294934693,
+        1884
+      ]
+    },
+    {
+      "index": 5,
+      "name": "Piston_0",
+      "name_offset": 30729,
+      "face_span": [
+        30738,
+        32557
+      ],
+      "face_count": 22,
+      "max_vertex_index": 22,
+      "vertex_span": [
+        30177,
+        30729
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 23,
+      "header_words": [
+        0,
+        4294934528,
+        0
+      ]
+    },
+    {
+      "index": 6,
+      "name": "Piston_1",
+      "name_offset": 32893,
+      "face_span": [
+        32902,
+        33901
+      ],
+      "face_count": 12,
+      "max_vertex_index": 13,
+      "vertex_span": [
+        32557,
+        32893
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 14,
+      "header_words": [
+        0,
+        4294934528,
+        0
+      ]
+    },
+    {
+      "index": 7,
+      "name": "Piston Wings",
+      "name_offset": 34283,
+      "face_span": [
+        34296,
+        34721
+      ],
+      "face_count": 5,
+      "max_vertex_index": 6,
+      "vertex_span": null,
+      "vertex_set_count": 0,
+      "vertex_count": null,
+      "header_words": [
+        0,
+        15979,
+        4294938689
+      ]
+    },
+    {
+      "index": 8,
+      "name": "Piston Wings",
+      "name_offset": 35104,
+      "face_span": [
+        35117,
+        35542
+      ],
+      "face_count": 5,
+      "max_vertex_index": 6,
+      "vertex_span": null,
+      "vertex_set_count": 0,
+      "vertex_count": null,
+      "header_words": [
+        0,
+        15979,
+        4294938689
+      ]
+    }
+  ],
+  "embedded_image_files": [],
+  "texture_references": [
+    {
+      "name": "Piston",
+      "offset": 162,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "Piston Front_0",
+        "Piston Top_0",
+        "Piston Back_0",
+        "Piston Side_0",
+        "Piston Bottom_0",
+        "Piston Wing_0",
+        "Piston Airbrake Top",
+        "Piston Airbrake Bott",
+        "Piston Wings",
+        "Piston Front_1",
+        "Piston Top_1",
+        "Piston Back_1",
+        "Piston Side_1",
+        "Piston Bottom_1",
+        "Piston Wing_1"
+      ],
+      "occurrences": 15,
+      "occurrences_at_offsets": [
+        162,
+        239,
+        317,
+        395,
+        475,
+        553,
+        770,
+        855,
+        932,
+        1146,
+        1223,
+        1301,
+        1379,
+        1459,
+        1537
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    },
+    {
+      "name": "carshdw",
+      "offset": 628,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "car shadow"
+      ],
+      "occurrences": 1,
+      "occurrences_at_offsets": [
+        628
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    },
+    {
+      "name": "PistnBrk",
+      "offset": 1015,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "Pistion Tail Light"
+      ],
+      "occurrences": 1,
+      "occurrences_at_offsets": [
+        1015
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    },
+    {
+      "name": "Pistn1_2",
+      "offset": 1666,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "Piston Front_2",
+        "Piston Top_2",
+        "Piston Back_2",
+        "Piston Side_2",
+        "Piston Bottom_2"
+      ],
+      "occurrences": 5,
+      "occurrences_at_offsets": [
+        1666,
+        1745,
+        1825,
+        1905,
+        1987
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    }
+  ],
+  "texture_extraction_note": "The RSS files contain probable texture identifiers/material references. Validated standard embedded images are exported separately; external matching assets are copied when present. Reference records are not image data.",
+  "ascii_strings": [
+    {
+      "offset": 0,
+      "length": 50,
+      "text": "fRssExport Version (V1) - Fri Apr 16 16:50:15 1999"
+    },
+    {
+      "offset": 58,
+      "length": 8,
+      "text": "Piston_0"
+    },
+    {
+      "offset": 108,
+      "length": 14,
+      "text": "Piston Front_0"
+    },
+    {
+      "offset": 162,
+      "length": 6,
+      "text": "Piston"
+    },
+    {
+      "offset": 187,
+      "length": 12,
+      "text": "Piston Top_0"
+    },
+    {
+      "offset": 239,
+      "length": 6,
+      "text": "Piston"
+    },
+    {
+      "offset": 264,
+      "length": 13,
+      "text": "Piston Back_0"
+    },
+    {
+      "offset": 317,
+      "length": 6,
+      "text": "Piston"
+    },
+    {
+      "offset": 342,
+      "length": 13,
+      "text": "Piston Side_0"
+    },
+    {
+      "offset": 395,
+      "length": 6,
+      "text": "Piston"
+    },
+    {
+      "offset": 420,
+      "length": 15,
+      "text": "Piston Bottom_0"
+    },
+    {
+      "offset": 475,
+      "length": 6,
+      "text": "Piston"
+    },
+    {
+      "offset": 500,
+      "length": 13,
+      "text": "Piston Wing_0"
+    },
+    {
+      "offset": 553,
+      "length": 6,
+      "text": "Piston"
+    },
+    {
+      "offset": 578,
+      "length": 10,
+      "text": "car shadow"
+    },
+    {
+      "offset": 628,
+      "length": 7,
+      "text": "carshdw"
+    },
+    {
+      "offset": 654,
+      "length": 15,
+      "text": "Piston Airbrake"
+    },
+    {
+      "offset": 711,
+      "length": 19,
+      "text": "Piston Airbrake Top"
+    },
+    {
+      "offset": 770,
+      "length": 6,
+      "text": "Piston"
+    },
+    {
+      "offset": 795,
+      "length": 20,
+      "text": "Piston Airbrake Bott"
+    },
+    {
+      "offset": 855,
+      "length": 6,
+      "text": "Piston"
+    },
+    {
+      "offset": 880,
+      "length": 12,
+      "text": "Piston Wings"
+    },
+    {
+      "offset": 932,
+      "length": 6,
+      "text": "Piston"
+    },
+    {
+      "offset": 957,
+      "length": 18,
+      "text": "Pistion Tail Light"
+    },
+    {
+      "offset": 1015,
+      "length": 8,
+      "text": "PistnBrk"
+    },
+    {
+      "offset": 1042,
+      "length": 8,
+      "text": "Piston_1"
+    },
+    {
+      "offset": 1092,
+      "length": 14,
+      "text": "Piston Front_1"
+    },
+    {
+      "offset": 1146,
+      "length": 6,
+      "text": "Piston"
+    },
+    {
+      "offset": 1171,
+      "length": 12,
+      "text": "Piston Top_1"
+    },
+    {
+      "offset": 1223,
+      "length": 6,
+      "text": "Piston"
+    },
+    {
+      "offset": 1248,
+      "length": 13,
+      "text": "Piston Back_1"
+    },
+    {
+      "offset": 1301,
+      "length": 6,
+      "text": "Piston"
+    },
+    {
+      "offset": 1326,
+      "length": 13,
+      "text": "Piston Side_1"
+    },
+    {
+      "offset": 1379,
+      "length": 6,
+      "text": "Piston"
+    },
+    {
+      "offset": 1404,
+      "length": 15,
+      "text": "Piston Bottom_1"
+    },
+    {
+      "offset": 1459,
+      "length": 6,
+      "text": "Piston"
+    },
+    {
+      "offset": 1484,
+      "length": 13,
+      "text": "Piston Wing_1"
+    },
+    {
+      "offset": 1537,
+      "length": 6,
+      "text": "Piston"
+    },
+    {
+      "offset": 1562,
+      "length": 8,
+      "text": "Piston_2"
+    },
+    {
+      "offset": 1612,
+      "length": 14,
+      "text": "Piston Front_2"
+    },
+    {
+      "offset": 1666,
+      "length": 8,
+      "text": "Pistn1_2"
+    },
+    {
+      "offset": 1693,
+      "length": 12,
+      "text": "Piston Top_2"
+    },
+    {
+      "offset": 1745,
+      "length": 8,
+      "text": "Pistn1_2"
+    },
+    {
+      "offset": 1772,
+      "length": 13,
+      "text": "Piston Back_2"
+    },
+    {
+      "offset": 1825,
+      "length": 8,
+      "text": "Pistn1_2"
+    },
+    {
+      "offset": 1852,
+      "length": 13,
+      "text": "Piston Side_2"
+    },
+    {
+      "offset": 1905,
+      "length": 8,
+      "text": "Pistn1_2"
+    },
+    {
+      "offset": 1932,
+      "length": 15,
+      "text": "Piston Bottom_2"
+    },
+    {
+      "offset": 1987,
+      "length": 8,
+      "text": "Pistn1_2"
+    },
+    {
+      "offset": 2017,
+      "length": 6,
+      "text": "piston"
+    },
+    {
+      "offset": 4541,
+      "length": 8,
+      "text": "Piston_0"
+    },
+    {
+      "offset": 20665,
+      "length": 8,
+      "text": "Piston_1"
+    },
+    {
+      "offset": 27533,
+      "length": 8,
+      "text": "Piston_2"
+    },
+    {
+      "offset": 28858,
+      "length": 13,
+      "text": "piston shadow"
+    },
+    {
+      "offset": 28965,
+      "length": 10,
+      "text": "car shadow"
+    },
+    {
+      "offset": 29144,
+      "length": 12,
+      "text": "piston brake"
+    },
+    {
+      "offset": 29442,
+      "length": 15,
+      "text": "Piston Airbrake"
+    },
+    {
+      "offset": 30118,
+      "length": 13,
+      "text": "piston bottom"
+    },
+    {
+      "offset": 30729,
+      "length": 8,
+      "text": "Piston_0"
+    },
+    {
+      "offset": 32893,
+      "length": 8,
+      "text": "Piston_1"
+    },
+    {
+      "offset": 33890,
+      "length": 11,
+      "text": "piston_left"
+    },
+    {
+      "offset": 34283,
+      "length": 12,
+      "text": "Piston Wings"
+    },
+    {
+      "offset": 34710,
+      "length": 12,
+      "text": "piston_right"
+    },
+    {
+      "offset": 35104,
+      "length": 12,
+      "text": "Piston Wings"
+    },
+    {
+      "offset": 35531,
+      "length": 17,
+      "text": "piston Brakelight"
+    },
+    {
+      "offset": 35786,
+      "length": 18,
+      "text": "Pistion Tail Light"
+    }
+  ],
+  "utf16le_strings": [],
+  "embedded_filename_references": [],
+  "embedded_signatures": [
+    {
+      "type": "PCX",
+      "offset": 50,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 707,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 2063,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 3349,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 4478,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 5615,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 5639,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 5779,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 5825,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5993,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 6266,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 6326,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 6617,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 6667,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 6745,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 6813,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 7078,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 7173,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 7255,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 7337,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 7665,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 7693,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 8239,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 8321,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 8403,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 8485,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 8525,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 8838,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 8885,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 8937,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 8964,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 9041,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 9106,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 9695,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 10560,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 10585,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 10689,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 10863,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 11395,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 11619,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 11723,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 11751,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 11855,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 11865,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 11953,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 12131,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 12993,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 13077,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 13123,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 13241,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 13265,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 13728,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 13766,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 14129,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 14207,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 14540,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 14635,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 14717,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 14799,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 15127,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 15595,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 15701,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 15783,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 15865,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 15947,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 16322,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 16377,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 16426,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 16503,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 16546,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 17215,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 17379,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 18044,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 18325,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 19213,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 19317,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 19437,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 19483,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 21123,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 21183,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 21324,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 21347,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 21384,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 21719,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 21808,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 21985,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 22182,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 22189,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 22313,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 22395,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 22546,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 23091,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 23322,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 24686,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 24724,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 24928,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 24988,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 25170,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 25221,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 25347,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 25566,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 25675,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 25757,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 25908,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 26032,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 26136,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 26205,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 26287,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 26606,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 26706,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 26874,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 27098,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 27411,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 27579,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 27661,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 27989,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 28071,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 28443,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 29095,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 29196,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 29200,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 29462,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 29517,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 29599,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 29659,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 29708,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 29763,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 29845,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 29927,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 30009,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 30091,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 30161,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 30171,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 30775,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 31269,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 31373,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 31535,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 32551,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 32939,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 33515,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 34377,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 34459,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 34497,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 34541,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 34625,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 34685,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 35198,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 35280,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 35318,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 35362,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 35446,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 35462,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 35588,
+      "signature_hex": "00000200"
+    }
+  ],
+  "entropy_256_byte_windows": [
+    {
+      "offset": 0,
+      "length": 256,
+      "entropy": 3.8213
+    },
+    {
+      "offset": 256,
+      "length": 256,
+      "entropy": 3.4969
+    },
+    {
+      "offset": 512,
+      "length": 256,
+      "entropy": 3.1115
+    },
+    {
+      "offset": 768,
+      "length": 256,
+      "entropy": 3.6131
+    },
+    {
+      "offset": 1024,
+      "length": 256,
+      "entropy": 3.0302
+    },
+    {
+      "offset": 1280,
+      "length": 256,
+      "entropy": 3.2587
+    },
+    {
+      "offset": 1536,
+      "length": 256,
+      "entropy": 3.0402
+    },
+    {
+      "offset": 1792,
+      "length": 256,
+      "entropy": 2.7848
+    },
+    {
+      "offset": 2048,
+      "length": 256,
+      "entropy": 4.595
+    },
+    {
+      "offset": 2304,
+      "length": 256,
+      "entropy": 5.0723
+    },
+    {
+      "offset": 2560,
+      "length": 256,
+      "entropy": 5.1887
+    },
+    {
+      "offset": 2816,
+      "length": 256,
+      "entropy": 4.972
+    },
+    {
+      "offset": 3072,
+      "length": 256,
+      "entropy": 5.0151
+    },
+    {
+      "offset": 3328,
+      "length": 256,
+      "entropy": 5.102
+    },
+    {
+      "offset": 3584,
+      "length": 256,
+      "entropy": 5.1371
+    },
+    {
+      "offset": 3840,
+      "length": 256,
+      "entropy": 5.2797
+    },
+    {
+      "offset": 4096,
+      "length": 256,
+      "entropy": 5.1285
+    },
+    {
+      "offset": 4352,
+      "length": 256,
+      "entropy": 5.1669
+    },
+    {
+      "offset": 4608,
+      "length": 256,
+      "entropy": 3.9793
+    },
+    {
+      "offset": 4864,
+      "length": 256,
+      "entropy": 4.2585
+    },
+    {
+      "offset": 5120,
+      "length": 256,
+      "entropy": 4.1948
+    },
+    {
+      "offset": 5376,
+      "length": 256,
+      "entropy": 4.33
+    },
+    {
+      "offset": 5632,
+      "length": 256,
+      "entropy": 4.2618
+    },
+    {
+      "offset": 5888,
+      "length": 256,
+      "entropy": 4.3309
+    },
+    {
+      "offset": 6144,
+      "length": 256,
+      "entropy": 4.3884
+    },
+    {
+      "offset": 6400,
+      "length": 256,
+      "entropy": 4.4415
+    },
+    {
+      "offset": 6656,
+      "length": 256,
+      "entropy": 4.3572
+    },
+    {
+      "offset": 6912,
+      "length": 256,
+      "entropy": 4.3598
+    },
+    {
+      "offset": 7168,
+      "length": 256,
+      "entropy": 4.2201
+    },
+    {
+      "offset": 7424,
+      "length": 256,
+      "entropy": 4.5669
+    },
+    {
+      "offset": 7680,
+      "length": 256,
+      "entropy": 4.4014
+    },
+    {
+      "offset": 7936,
+      "length": 256,
+      "entropy": 4.4201
+    },
+    {
+      "offset": 8192,
+      "length": 256,
+      "entropy": 4.0421
+    },
+    {
+      "offset": 8448,
+      "length": 256,
+      "entropy": 4.5538
+    },
+    {
+      "offset": 8704,
+      "length": 256,
+      "entropy": 4.3897
+    },
+    {
+      "offset": 8960,
+      "length": 256,
+      "entropy": 4.3644
+    },
+    {
+      "offset": 9216,
+      "length": 256,
+      "entropy": 4.5026
+    },
+    {
+      "offset": 9472,
+      "length": 256,
+      "entropy": 4.4257
+    },
+    {
+      "offset": 9728,
+      "length": 256,
+      "entropy": 3.8539
+    },
+    {
+      "offset": 9984,
+      "length": 256,
+      "entropy": 4.4991
+    },
+    {
+      "offset": 10240,
+      "length": 256,
+      "entropy": 4.5491
+    },
+    {
+      "offset": 10496,
+      "length": 256,
+      "entropy": 4.3691
+    },
+    {
+      "offset": 10752,
+      "length": 256,
+      "entropy": 4.4603
+    },
+    {
+      "offset": 11008,
+      "length": 256,
+      "entropy": 4.0974
+    },
+    {
+      "offset": 11264,
+      "length": 256,
+      "entropy": 4.208
+    },
+    {
+      "offset": 11520,
+      "length": 256,
+      "entropy": 4.4781
+    },
+    {
+      "offset": 11776,
+      "length": 256,
+      "entropy": 4.2135
+    },
+    {
+      "offset": 12032,
+      "length": 256,
+      "entropy": 4.3852
+    },
+    {
+      "offset": 12288,
+      "length": 256,
+      "entropy": 4.3709
+    },
+    {
+      "offset": 12544,
+      "length": 256,
+      "entropy": 4.2738
+    },
+    {
+      "offset": 12800,
+      "length": 256,
+      "entropy": 4.4781
+    },
+    {
+      "offset": 13056,
+      "length": 256,
+      "entropy": 4.3596
+    },
+    {
+      "offset": 13312,
+      "length": 256,
+      "entropy": 4.4133
+    },
+    {
+      "offset": 13568,
+      "length": 256,
+      "entropy": 4.5091
+    },
+    {
+      "offset": 13824,
+      "length": 256,
+      "entropy": 4.4056
+    },
+    {
+      "offset": 14080,
+      "length": 256,
+      "entropy": 4.5446
+    },
+    {
+      "offset": 14336,
+      "length": 256,
+      "entropy": 4.3769
+    },
+    {
+      "offset": 14592,
+      "length": 256,
+      "entropy": 4.369
+    },
+    {
+      "offset": 14848,
+      "length": 256,
+      "entropy": 4.5482
+    },
+    {
+      "offset": 15104,
+      "length": 256,
+      "entropy": 4.3903
+    },
+    {
+      "offset": 15360,
+      "length": 256,
+      "entropy": 4.4993
+    },
+    {
+      "offset": 15616,
+      "length": 256,
+      "entropy": 4.1352
+    },
+    {
+      "offset": 15872,
+      "length": 256,
+      "entropy": 4.6583
+    },
+    {
+      "offset": 16128,
+      "length": 256,
+      "entropy": 4.4122
+    },
+    {
+      "offset": 16384,
+      "length": 256,
+      "entropy": 4.3351
+    },
+    {
+      "offset": 16640,
+      "length": 256,
+      "entropy": 4.5638
+    },
+    {
+      "offset": 16896,
+      "length": 256,
+      "entropy": 4.3175
+    },
+    {
+      "offset": 17152,
+      "length": 256,
+      "entropy": 4.243
+    },
+    {
+      "offset": 17408,
+      "length": 256,
+      "entropy": 4.5962
+    },
+    {
+      "offset": 17664,
+      "length": 256,
+      "entropy": 4.3942
+    },
+    {
+      "offset": 17920,
+      "length": 256,
+      "entropy": 4.4764
+    },
+    {
+      "offset": 18176,
+      "length": 256,
+      "entropy": 4.5409
+    },
+    {
+      "offset": 18432,
+      "length": 256,
+      "entropy": 4.1534
+    },
+    {
+      "offset": 18688,
+      "length": 256,
+      "entropy": 4.1068
+    },
+    {
+      "offset": 18944,
+      "length": 256,
+      "entropy": 4.4341
+    },
+    {
+      "offset": 19200,
+      "length": 256,
+      "entropy": 4.4536
+    },
+    {
+      "offset": 19456,
+      "length": 256,
+      "entropy": 4.6931
+    },
+    {
+      "offset": 19712,
+      "length": 256,
+      "entropy": 5.0389
+    },
+    {
+      "offset": 19968,
+      "length": 256,
+      "entropy": 5.1661
+    },
+    {
+      "offset": 20224,
+      "length": 256,
+      "entropy": 5.1542
+    },
+    {
+      "offset": 20480,
+      "length": 256,
+      "entropy": 4.9311
+    },
+    {
+      "offset": 20736,
+      "length": 256,
+      "entropy": 4.1631
+    },
+    {
+      "offset": 20992,
+      "length": 256,
+      "entropy": 4.2937
+    },
+    {
+      "offset": 21248,
+      "length": 256,
+      "entropy": 4.2413
+    },
+    {
+      "offset": 21504,
+      "length": 256,
+      "entropy": 4.4498
+    },
+    {
+      "offset": 21760,
+      "length": 256,
+      "entropy": 4.0255
+    },
+    {
+      "offset": 22016,
+      "length": 256,
+      "entropy": 4.3706
+    },
+    {
+      "offset": 22272,
+      "length": 256,
+      "entropy": 4.156
+    },
+    {
+      "offset": 22528,
+      "length": 256,
+      "entropy": 4.3305
+    },
+    {
+      "offset": 22784,
+      "length": 256,
+      "entropy": 4.1165
+    },
+    {
+      "offset": 23040,
+      "length": 256,
+      "entropy": 4.504
+    },
+    {
+      "offset": 23296,
+      "length": 256,
+      "entropy": 4.2834
+    },
+    {
+      "offset": 23552,
+      "length": 256,
+      "entropy": 3.8667
+    },
+    {
+      "offset": 23808,
+      "length": 256,
+      "entropy": 4.2826
+    },
+    {
+      "offset": 24064,
+      "length": 256,
+      "entropy": 4.1018
+    },
+    {
+      "offset": 24320,
+      "length": 256,
+      "entropy": 4.3556
+    },
+    {
+      "offset": 24576,
+      "length": 256,
+      "entropy": 4.3959
+    },
+    {
+      "offset": 24832,
+      "length": 256,
+      "entropy": 4.3487
+    },
+    {
+      "offset": 25088,
+      "length": 256,
+      "entropy": 4.088
+    },
+    {
+      "offset": 25344,
+      "length": 256,
+      "entropy": 4.4518
+    },
+    {
+      "offset": 25600,
+      "length": 256,
+      "entropy": 4.1034
+    },
+    {
+      "offset": 25856,
+      "length": 256,
+      "entropy": 4.3784
+    },
+    {
+      "offset": 26112,
+      "length": 256,
+      "entropy": 4.1969
+    },
+    {
+      "offset": 26368,
+      "length": 256,
+      "entropy": 4.5502
+    },
+    {
+      "offset": 26624,
+      "length": 256,
+      "entropy": 4.4535
+    },
+    {
+      "offset": 26880,
+      "length": 256,
+      "entropy": 3.8426
+    },
+    {
+      "offset": 27136,
+      "length": 256,
+      "entropy": 4.1793
+    },
+    {
+      "offset": 27392,
+      "length": 256,
+      "entropy": 4.1643
+    },
+    {
+      "offset": 27648,
+      "length": 256,
+      "entropy": 3.076
+    },
+    {
+      "offset": 27904,
+      "length": 256,
+      "entropy": 3.3056
+    },
+    {
+      "offset": 28160,
+      "length": 256,
+      "entropy": 3.3539
+    },
+    {
+      "offset": 28416,
+      "length": 256,
+      "entropy": 3.2279
+    },
+    {
+      "offset": 28672,
+      "length": 256,
+      "entropy": 3.6068
+    },
+    {
+      "offset": 28928,
+      "length": 256,
+      "entropy": 2.584
+    },
+    {
+      "offset": 29184,
+      "length": 256,
+      "entropy": 4.7456
+    },
+    {
+      "offset": 29440,
+      "length": 256,
+      "entropy": 3.6584
+    },
+    {
+      "offset": 29696,
+      "length": 256,
+      "entropy": 3.5455
+    },
+    {
+      "offset": 29952,
+      "length": 256,
+      "entropy": 3.5043
+    },
+    {
+      "offset": 30208,
+      "length": 256,
+      "entropy": 4.4465
+    },
+    {
+      "offset": 30464,
+      "length": 256,
+      "entropy": 4.8999
+    },
+    {
+      "offset": 30720,
+      "length": 256,
+      "entropy": 2.4631
+    },
+    {
+      "offset": 30976,
+      "length": 256,
+      "entropy": 2.3115
+    },
+    {
+      "offset": 31232,
+      "length": 256,
+      "entropy": 2.3033
+    },
+    {
+      "offset": 31488,
+      "length": 256,
+      "entropy": 2.2152
+    },
+    {
+      "offset": 31744,
+      "length": 256,
+      "entropy": 2.1838
+    },
+    {
+      "offset": 32000,
+      "length": 256,
+      "entropy": 2.4359
+    },
+    {
+      "offset": 32256,
+      "length": 256,
+      "entropy": 2.2881
+    },
+    {
+      "offset": 32512,
+      "length": 256,
+      "entropy": 4.1245
+    },
+    {
+      "offset": 32768,
+      "length": 256,
+      "entropy": 3.9245
+    },
+    {
+      "offset": 33024,
+      "length": 256,
+      "entropy": 2.12
+    },
+    {
+      "offset": 33280,
+      "length": 256,
+      "entropy": 2.1883
+    },
+    {
+      "offset": 33536,
+      "length": 256,
+      "entropy": 2.1451
+    },
+    {
+      "offset": 33792,
+      "length": 256,
+      "entropy": 3.6743
+    },
+    {
+      "offset": 34048,
+      "length": 256,
+      "entropy": 4.8034
+    },
+    {
+      "offset": 34304,
+      "length": 256,
+      "entropy": 3.3125
+    },
+    {
+      "offset": 34560,
+      "length": 256,
+      "entropy": 2.9706
+    },
+    {
+      "offset": 34816,
+      "length": 256,
+      "entropy": 4.4887
+    },
+    {
+      "offset": 35072,
+      "length": 256,
+      "entropy": 3.8606
+    },
+    {
+      "offset": 35328,
+      "length": 256,
+      "entropy": 2.893
+    },
+    {
+      "offset": 35584,
+      "length": 256,
+      "entropy": 5.0495
+    },
+    {
+      "offset": 35840,
+      "length": 256,
+      "entropy": 2.9966
+    },
+    {
+      "offset": 36096,
+      "length": 40,
+      "entropy": 2.2709
+    }
+  ],
+  "unclaimed_ranges": [
+    {
+      "index": 0,
+      "start": 51,
+      "end": 2069,
+      "size": 2018,
+      "file": "range_0000_0x00000033_0x00000815.bin"
+    },
+    {
+      "index": 1,
+      "start": 4541,
+      "end": 4550,
+      "size": 9,
+      "file": "range_0001_0x000011bd_0x000011c6.bin"
+    },
+    {
+      "index": 2,
+      "start": 20665,
+      "end": 20674,
+      "size": 9,
+      "file": "range_0002_0x000050b9_0x000050c2.bin"
+    },
+    {
+      "index": 3,
+      "start": 27533,
+      "end": 27542,
+      "size": 9,
+      "file": "range_0003_0x00006b8d_0x00006b96.bin"
+    },
+    {
+      "index": 4,
+      "start": 28965,
+      "end": 28976,
+      "size": 11,
+      "file": "range_0004_0x00007125_0x00007130.bin"
+    },
+    {
+      "index": 5,
+      "start": 29155,
+      "end": 29202,
+      "size": 47,
+      "file": "range_0005_0x000071e3_0x00007212.bin"
+    },
+    {
+      "index": 6,
+      "start": 29442,
+      "end": 29458,
+      "size": 16,
+      "file": "range_0006_0x00007302_0x00007312.bin"
+    },
+    {
+      "index": 7,
+      "start": 30129,
+      "end": 30177,
+      "size": 48,
+      "file": "range_0007_0x000075b1_0x000075e1.bin"
+    },
+    {
+      "index": 8,
+      "start": 30729,
+      "end": 30738,
+      "size": 9,
+      "file": "range_0008_0x00007809_0x00007812.bin"
+    },
+    {
+      "index": 9,
+      "start": 32893,
+      "end": 32902,
+      "size": 9,
+      "file": "range_0009_0x0000807d_0x00008086.bin"
+    },
+    {
+      "index": 10,
+      "start": 33901,
+      "end": 34296,
+      "size": 395,
+      "file": "range_0010_0x0000846d_0x000085f8.bin"
+    },
+    {
+      "index": 11,
+      "start": 34721,
+      "end": 35117,
+      "size": 396,
+      "file": "range_0011_0x000087a1_0x0000892d.bin"
+    },
+    {
+      "index": 12,
+      "start": 35542,
+      "end": 36136,
+      "size": 594,
+      "file": "range_0012_0x00008ad6_0x00008d28.bin"
+    }
+  ],
+  "coverage": {
+    "source_bytes": 36136,
+    "raw_copy_bytes": 36136,
+    "bytes_in_recognised_mesh_spans": 32515,
+    "bytes_in_unclaimed_ranges": 3570,
+    "note": "All source bytes are retained in the .original.rss copy; unclaimed ranges are separately carved."
+  }
+}
