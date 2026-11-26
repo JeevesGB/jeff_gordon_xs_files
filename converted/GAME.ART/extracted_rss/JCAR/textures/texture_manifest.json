@@ -1,0 +1,130 @@
+[
+  {
+    "name": "carshdw",
+    "offset": 108,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "car shadow"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      108
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "JCar",
+    "offset": 232,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "J Car Front",
+      "J Car Top",
+      "J Car Back",
+      "J Car Side",
+      "J Car Bottom",
+      "J Car Wing Top",
+      "J Car Wing Back",
+      "J Car Wing Side",
+      "JCar Flaps",
+      "J Car Front_1",
+      "J Car Top_1",
+      "J Car Back_1",
+      "J Car Side_1",
+      "J Car Bottom_1",
+      "J Car Wing Top_1",
+      "J Car Wing Back_1",
+      "J Car Wing Side_1",
+      "J Car Front_2",
+      "J Car Top_2",
+      "J Car Back_2",
+      "J Car Side_2",
+      "J Car Bottom_2",
+      "J Car Wing Top_2",
+      "J Car Wing Back_2",
+      "J Car Wing Side_2"
+    ],
+    "occurrences": 25,
+    "occurrences_at_offsets": [
+      232,
+      304,
+      377,
+      450,
+      525,
+      602,
+      680,
+      758,
+      1048,
+      1255,
+      1329,
+      1404,
+      1479,
+      1556,
+      1635,
+      1715,
+      1795,
+      1920,
+      1994,
+      2069,
+      2144,
+      2221,
+      2300,
+      2380,
+      2460
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "jcarAirB",
+    "offset": 889,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Airbrake Top",
+      "Airbrake Bottom"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      889,
+      971
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "JCarBrke",
+    "offset": 1126,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "JCar Tail Light"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1126
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "JCar1_3",
+    "offset": 2583,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Jcar Front_3",
+      "Jcar Top_3",
+      "Jcar Back_3",
+      "Jcar Side_3",
+      "Jcar Bottom_3"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      2583,
+      2659,
+      2736,
+      2813,
+      2892
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]

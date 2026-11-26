@@ -1,0 +1,100 @@
+ASCII STRINGS (byte offsets)
+0x00000000 [50] fRssExport Version (V1) - Fri Apr 16 16:49:22 1999
+0x0000003a [10] car shadow
+0x0000006c [7] carshdw
+0x00000086 [5] J Car
+0x000000b5 [11] J Car Front
+0x000000e8 [4] JCar
+0x000000ff [9] J Car Top
+0x00000130 [4] JCar
+0x00000147 [10] J Car Back
+0x00000179 [4] JCar
+0x00000190 [10] J Car Side
+0x000001c2 [4] JCar
+0x000001d9 [12] J Car Bottom
+0x0000020d [4] JCar
+0x00000224 [14] J Car Wing Top
+0x0000025a [4] JCar
+0x00000271 [15] J Car Wing Back
+0x000002a8 [4] JCar
+0x000002bf [15] J Car Wing Side
+0x000002f6 [4] JCar
+0x0000030d [14] J Car Airbrake
+0x00000345 [12] Airbrake Top
+0x00000379 [8] jcarAirB
+0x00000394 [15] Airbrake Bottom
+0x000003cb [8] jcarAirB
+0x000003e6 [10] JCar Flaps
+0x00000418 [4] JCar
+0x0000042f [15] JCar Tail Light
+0x00000466 [8] JCarBrke
+0x00000481 [7] J Car_1
+0x000004b2 [13] J Car Front_1
+0x000004e7 [4] JCar
+0x000004fe [11] J Car Top_1
+0x00000531 [4] JCar
+0x00000548 [12] J Car Back_1
+0x0000057c [4] JCar
+0x00000593 [12] J Car Side_1
+0x000005c7 [4] JCar
+0x000005de [14] J Car Bottom_1
+0x00000614 [4] JCar
+0x0000062b [16] J Car Wing Top_1
+0x00000663 [4] JCar
+0x0000067a [17] J Car Wing Back_1
+0x000006b3 [4] JCar
+0x000006ca [17] J Car Wing Side_1
+0x00000703 [4] JCar
+0x0000071a [7] J Car_2
+0x0000074b [13] J Car Front_2
+0x00000780 [4] JCar
+0x00000797 [11] J Car Top_2
+0x000007ca [4] JCar
+0x000007e1 [12] J Car Back_2
+0x00000815 [4] JCar
+0x0000082c [12] J Car Side_2
+0x00000860 [4] JCar
+0x00000877 [14] J Car Bottom_2
+0x000008ad [4] JCar
+0x000008c4 [16] J Car Wing Top_2
+0x000008fc [4] JCar
+0x00000913 [17] J Car Wing Back_2
+0x0000094c [4] JCar
+0x00000963 [17] J Car Wing Side_2
+0x0000099c [4] JCar
+0x000009b3 [6] jcar_3
+0x000009e3 [12] Jcar Front_3
+0x00000a17 [7] JCar1_3
+0x00000a31 [10] Jcar Top_3
+0x00000a63 [7] JCar1_3
+0x00000a7d [11] Jcar Back_3
+0x00000ab0 [7] JCar1_3
+0x00000aca [11] Jcar Side_3
+0x00000afd [7] JCar1_3
+0x00000b17 [13] Jcar Bottom_3
+0x00000b4c [7] JCar1_3
+0x00000b69 [11] jcar shadow
+0x00000bd2 [10] car shadow
+0x00000c85 [11] jcar bottom
+0x00001096 [5] J Car
+0x00001fcf [7] J Car_1
+0x00002626 [7] J Car_2
+0x00002966 [4] jcar
+0x00003a30 [5] J Car
+0x0000a7c1 [7] J Car_1
+0x0000e284 [7] J Car_2
+0x0000fb6b [6] jcar_3
+0x00010096 [10] jcar brake
+0x000101be [14] J Car Airbrake
+0x00010461 [9] jcar_left
+0x00010618 [10] JCar Flaps
+0x00010865 [10] jcar_right
+0x00010a1d [10] JCar Flaps
+0x00010c6a [13] %jcar spoiler
+0x00011005 [5] J Car
+0x000120ca [7] J Car_1
+0x00012549 [7] J Car_2
+0x0001269d [15] jcar Brakelight
+0x0001279a [15] JCar Tail Light
+
+UTF-16LE STRINGS (byte offsets)

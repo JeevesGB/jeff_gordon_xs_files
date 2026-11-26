@@ -1,0 +1,6 @@
+﻿name,offset,evidence,surface_labels,occurrences,asset_status,copied_files
+carshdw,108,surface_label_then_texture_identifier,car shadow,1,reference_only_no_pixel_asset_found,
+JCar,232,surface_label_then_texture_identifier,J Car Front; J Car Top; J Car Back; J Car Side; J Car Bottom; J Car Wing Top; J Car Wing Back; J Car Wing Side; JCar Flaps; J Car Front_1; J Car Top_1; J Car Back_1; J Car Side_1; J Car Bottom_1; J Car Wing Top_1; J Car Wing Back_1; J Car Wing Side_1; J Car Front_2; J Car Top_2; J Car Back_2; J Car Side_2; J Car Bottom_2; J Car Wing Top_2; J Car Wing Back_2; J Car Wing Side_2,25,reference_only_no_pixel_asset_found,
+jcarAirB,889,surface_label_then_texture_identifier,Airbrake Top; Airbrake Bottom,2,reference_only_no_pixel_asset_found,
+JCarBrke,1126,surface_label_then_texture_identifier,JCar Tail Light,1,reference_only_no_pixel_asset_found,
+JCar1_3,2583,surface_label_then_texture_identifier,Jcar Front_3; Jcar Top_3; Jcar Back_3; Jcar Side_3; Jcar Bottom_3,5,reference_only_no_pixel_asset_found,
