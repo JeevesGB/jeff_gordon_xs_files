@@ -1,0 +1,1930 @@
+{
+  "file": "S711.RSS",
+  "size": 727957,
+  "sha256": "2314a2fb999583c2bda86a53660b3e81b5c5ffd2301be5a6954e310846aef06a",
+  "original_copy": "S711.RSS.original",
+  "texture_reference_count": 43,
+  "unique_texture_identifiers": 25,
+  "plausible_atlas_rect_count": 42,
+  "zero_padding_after_rect_count": 43,
+  "texture_identifiers_grouped": [
+    {
+      "identifier": "carnwall",
+      "occurrences": 2,
+      "surface_labels": [
+        "wall01",
+        "wall02"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.25,
+          0.5,
+          0.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.25
+        ]
+      ]
+    },
+    {
+      "identifier": "costr",
+      "occurrences": 1,
+      "surface_labels": [
+        "struct_a"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "carnstnd",
+      "occurrences": 4,
+      "surface_labels": [
+        "stndwall",
+        "checkers",
+        "stndroof",
+        "fence"
+      ],
+      "atlas_rects": [
+        [
+          0.25,
+          0.0,
+          0.25,
+          0.125
+        ],
+        [
+          0.25,
+          0.125,
+          0.25,
+          0.125
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          0.25
+        ],
+        [
+          0.0,
+          0.25,
+          0.5,
+          0.25
+        ]
+      ]
+    },
+    {
+      "identifier": "funhse",
+      "occurrences": 4,
+      "surface_labels": [
+        "funh",
+        "sign",
+        "clown",
+        "eyes"
+      ],
+      "atlas_rects": [
+        [
+          0.25,
+          0.25,
+          0.25,
+          0.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          0.25
+        ],
+        [
+          0.0,
+          0.25,
+          0.25,
+          0.25
+        ],
+        [
+          0.25,
+          0.0,
+          0.25,
+          0.25
+        ]
+      ]
+    },
+    {
+      "identifier": "octoride",
+      "occurrences": 3,
+      "surface_labels": [
+        "mech01",
+        "mech02",
+        "capsl"
+      ],
+      "atlas_rects": [
+        [
+          0.25,
+          0.0,
+          0.25,
+          0.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          0.25
+        ],
+        [
+          0.0,
+          0.25,
+          0.5,
+          0.25
+        ]
+      ]
+    },
+    {
+      "identifier": "bigtop",
+      "occurrences": 2,
+      "surface_labels": [
+        "tent 1",
+        "tent 2"
+      ],
+      "atlas_rects": [
+        [
+          0.25,
+          0.0,
+          0.25,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "neon_e",
+      "occurrences": 1,
+      "surface_labels": [
+        "shuttleridebase"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "ntskyscr",
+      "occurrences": 2,
+      "surface_labels": [
+        "scr_rt",
+        "scr_lft"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.248016357421875
+        ],
+        [
+          0.0,
+          0.2559051513671875,
+          0.5,
+          0.24407958984375
+        ]
+      ]
+    },
+    {
+      "identifier": "crnstars",
+      "occurrences": 1,
+      "surface_labels": [
+        "stars"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "woodcost",
+      "occurrences": 3,
+      "surface_labels": [
+        "gridopen",
+        "closedgrid",
+        "track"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.04901123046875,
+          0.5,
+          0.2235260009765625
+        ],
+        [
+          0.0,
+          0.26666259765625,
+          0.5,
+          0.2333221435546875
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.2725372314453125
+        ]
+      ]
+    },
+    {
+      "identifier": "Farris_a",
+      "occurrences": 1,
+      "surface_labels": [
+        "faris"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "litetwr",
+      "occurrences": 1,
+      "surface_labels": [
+        "towerlite"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "carntowr",
+      "occurrences": 1,
+      "surface_labels": [
+        "sptower"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "funhneon",
+      "occurrences": 4,
+      "surface_labels": [
+        "neon_c",
+        "neon_d",
+        "neon_a",
+        "neon_b"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.25,
+          0.25,
+          0.25
+        ],
+        [
+          0.25,
+          0.25,
+          0.25,
+          0.25
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          0.25
+        ],
+        [
+          0.25,
+          0.0,
+          0.25,
+          0.25
+        ]
+      ]
+    },
+    {
+      "identifier": "t4start",
+      "occurrences": 1,
+      "surface_labels": [
+        "start/finish"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "carncrwd",
+      "occurrences": 1,
+      "surface_labels": [
+        "crowded"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "Carny",
+      "occurrences": 1,
+      "surface_labels": [
+        "carnarch"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "t5banr1",
+      "occurrences": 2,
+      "surface_labels": [
+        "711ad",
+        "pepsiad"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.25
+        ],
+        [
+          0.0,
+          0.25,
+          0.5,
+          0.25
+        ]
+      ]
+    },
+    {
+      "identifier": "t5banr2",
+      "occurrences": 1,
+      "surface_labels": [
+        "Frito"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.2598419189453125,
+          0.5,
+          0.240142822265625
+        ]
+      ]
+    },
+    {
+      "identifier": "shuttle",
+      "occurrences": 2,
+      "surface_labels": [
+        "shttop",
+        "shtbotm"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.25,
+          0.5
+        ],
+        [
+          0.25,
+          0.0,
+          0.25,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "plnt_a",
+      "occurrences": 1,
+      "surface_labels": [
+        "shuttlerideplanet1"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "plnt_b",
+      "occurrences": 1,
+      "surface_labels": [
+        "shuttlerideplanet2"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "spider",
+      "occurrences": 1,
+      "surface_labels": [
+        "Spiderfun"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "wrningp",
+      "occurrences": 1,
+      "surface_labels": [
+        "warning"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "ryv.",
+      "occurrences": 1,
+      "surface_labels": [
+        "S]^/"
+      ],
+      "atlas_rects": []
+    }
+  ],
+  "texture_references": [
+    {
+      "identifier": "carnwall",
+      "identifier_offset": 158,
+      "surface_label": "wall01",
+      "surface_label_offset": 112,
+      "gap_from_label": 46,
+      "next_string": "wall02",
+      "next_string_offset": 185,
+      "post_identifier_u32_le": [
+        0,
+        16384,
+        32768,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.25,
+        0.5,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 40 00 00 00 80 00 00 00 40 00 00 00 00 77 61 6c 6c 30 32 00 ff ff ff ff ff ff e5",
+      "context_start": 96,
+      "context_end": 201,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "carnwall",
+      "identifier_offset": 231,
+      "surface_label": "wall02",
+      "surface_label_offset": 185,
+      "gap_from_label": 46,
+      "next_string": "struct_a",
+      "next_string_offset": 258,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 40 00 00 00 00 73 74 72 75 63 74 5f 61 00 ff ff ff ff ff",
+      "context_start": 169,
+      "context_end": 274,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "costr",
+      "identifier_offset": 306,
+      "surface_label": "struct_a",
+      "surface_label_offset": 258,
+      "gap_from_label": 48,
+      "next_string": "standsMultiSurface",
+      "next_string_offset": 330,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 73 74 61 6e 64 73 4d 75 6c 74 69 53 75 72",
+      "context_start": 242,
+      "context_end": 346,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "carnstnd",
+      "identifier_offset": 438,
+      "surface_label": "stndwall",
+      "surface_label_offset": 390,
+      "gap_from_label": 48,
+      "next_string": "checkers",
+      "next_string_offset": 465,
+      "post_identifier_u32_le": [
+        16384,
+        0,
+        16384,
+        8192
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.0,
+        0.25,
+        0.125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 00 00 00 00 00 40 00 00 00 20 00 00 00 00 63 68 65 63 6b 65 72 73 00 ff ff ff ff ff",
+      "context_start": 374,
+      "context_end": 481,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "carnstnd",
+      "identifier_offset": 513,
+      "surface_label": "checkers",
+      "surface_label_offset": 465,
+      "gap_from_label": 48,
+      "next_string": "stndroof",
+      "next_string_offset": 540,
+      "post_identifier_u32_le": [
+        16384,
+        8192,
+        16384,
+        8192
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.125,
+        0.25,
+        0.125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 00 20 00 00 00 40 00 00 00 20 00 00 00 00 73 74 6e 64 72 6f 6f 66 00 ff ff ff ff ff",
+      "context_start": 449,
+      "context_end": 556,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "carnstnd",
+      "identifier_offset": 588,
+      "surface_label": "stndroof",
+      "surface_label_offset": 540,
+      "gap_from_label": 48,
+      "next_string": "fence",
+      "next_string_offset": 615,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16384,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.25,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 40 00 00 00 40 00 00 00 00 66 65 6e 63 65 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 524,
+      "context_end": 631,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "carnstnd",
+      "identifier_offset": 660,
+      "surface_label": "fence",
+      "surface_label_offset": 615,
+      "gap_from_label": 45,
+      "next_string": "funhouse",
+      "next_string_offset": 687,
+      "post_identifier_u32_le": [
+        0,
+        16384,
+        32768,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.25,
+        0.5,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 40 00 00 00 80 00 00 00 40 00 00 00 00 66 75 6e 68 6f 75 73 65 00 ff ff ff ff ff",
+      "context_start": 599,
+      "context_end": 703,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "funhse",
+      "identifier_offset": 781,
+      "surface_label": "funh",
+      "surface_label_offset": 737,
+      "gap_from_label": 44,
+      "next_string": "sign",
+      "next_string_offset": 806,
+      "post_identifier_u32_le": [
+        16384,
+        16384,
+        16384,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.25,
+        0.25,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 00 40 00 00 00 40 00 00 00 40 00 00 00 00 73 69 67 6e 00 ff ff ff ff ff ff e5 e5 e5",
+      "context_start": 721,
+      "context_end": 822,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 789,
+          "u32_le": [
+            64,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 793,
+          "u32_le": [
+            64,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 797,
+          "u32_le": [
+            64,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "funhse",
+      "identifier_offset": 850,
+      "surface_label": "sign",
+      "surface_label_offset": 806,
+      "gap_from_label": 44,
+      "next_string": "clown",
+      "next_string_offset": 875,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16384,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.25,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 40 00 00 00 40 00 00 00 00 63 6c 6f 77 6e 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 790,
+      "context_end": 891,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 866,
+          "u32_le": [
+            64,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "funhse",
+      "identifier_offset": 920,
+      "surface_label": "clown",
+      "surface_label_offset": 875,
+      "gap_from_label": 45,
+      "next_string": "eyes",
+      "next_string_offset": 945,
+      "post_identifier_u32_le": [
+        0,
+        16384,
+        16384,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.25,
+        0.25,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 40 00 00 00 40 00 00 00 40 00 00 00 00 65 79 65 73 00 ff ff ff ff ff ff e5 e5 e5",
+      "context_start": 859,
+      "context_end": 961,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 984,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 932,
+          "u32_le": [
+            64,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 936,
+          "u32_le": [
+            64,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "funhse",
+      "identifier_offset": 989,
+      "surface_label": "eyes",
+      "surface_label_offset": 945,
+      "gap_from_label": 44,
+      "next_string": "octupus",
+      "next_string_offset": 1014,
+      "post_identifier_u32_le": [
+        16384,
+        0,
+        16384,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.0,
+        0.25,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 00 00 00 00 00 40 00 00 00 40 00 00 00 00 6f 63 74 75 70 75 73 00 ff ff ff ff ff ff",
+      "context_start": 929,
+      "context_end": 1030,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1005,
+          "u32_le": [
+            64,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "octoride",
+      "identifier_offset": 1109,
+      "surface_label": "mech01",
+      "surface_label_offset": 1063,
+      "gap_from_label": 46,
+      "next_string": "mech02",
+      "next_string_offset": 1136,
+      "post_identifier_u32_le": [
+        16384,
+        0,
+        16384,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.0,
+        0.25,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 00 00 00 00 00 40 00 00 00 40 00 00 00 00 6d 65 63 68 30 32 00 ff ff ff ff ff ff e5",
+      "context_start": 1047,
+      "context_end": 1152,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "octoride",
+      "identifier_offset": 1182,
+      "surface_label": "mech02",
+      "surface_label_offset": 1136,
+      "gap_from_label": 46,
+      "next_string": "capsl",
+      "next_string_offset": 1209,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16384,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.25,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 40 00 00 00 40 00 00 00 00 63 61 70 73 6c 00 ad ad ad ad ad ad e5 e5",
+      "context_start": 1120,
+      "context_end": 1225,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "octoride",
+      "identifier_offset": 1254,
+      "surface_label": "capsl",
+      "surface_label_offset": 1209,
+      "gap_from_label": 45,
+      "next_string": "Tent Circ",
+      "next_string_offset": 1281,
+      "post_identifier_u32_le": [
+        0,
+        16384,
+        32768,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.25,
+        0.5,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 40 00 00 00 80 00 00 00 40 00 00 00 00 54 65 6e 74 20 43 69 72 63 00 ff ff ff ff",
+      "context_start": 1193,
+      "context_end": 1297,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "bigtop",
+      "identifier_offset": 1378,
+      "surface_label": "tent 1",
+      "surface_label_offset": 1332,
+      "gap_from_label": 46,
+      "next_string": "tent 2",
+      "next_string_offset": 1403,
+      "post_identifier_u32_le": [
+        16384,
+        0,
+        16384,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.0,
+        0.25,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 00 00 00 00 00 40 00 00 00 80 00 00 00 00 74 65 6e 74 20 32 00 ff ff ff ff ff ff e5",
+      "context_start": 1316,
+      "context_end": 1419,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1394,
+          "u32_le": [
+            64,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "bigtop",
+      "identifier_offset": 1449,
+      "surface_label": "tent 2",
+      "surface_label_offset": 1403,
+      "gap_from_label": 46,
+      "next_string": "shuttleridebase",
+      "next_string_offset": 1474,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16384,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.25,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 40 00 00 00 80 00 00 00 00 73 68 75 74 74 6c 65 72 69 64 65 62 61 73",
+      "context_start": 1387,
+      "context_end": 1490,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1465,
+          "u32_le": [
+            64,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "neon_e",
+      "identifier_offset": 1529,
+      "surface_label": "shuttleridebase",
+      "surface_label_offset": 1474,
+      "gap_from_label": 55,
+      "next_string": "Skrim Surface",
+      "next_string_offset": 1554,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 53 6b 72 69 6d 20 53 75 72 66 61 63 65 00",
+      "context_start": 1458,
+      "context_end": 1570,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1465,
+          "u32_le": [
+            64,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1545,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "ntskyscr",
+      "identifier_offset": 1655,
+      "surface_label": "scr_rt",
+      "surface_label_offset": 1609,
+      "gap_from_label": 46,
+      "next_string": "~?",
+      "next_string_offset": 1676,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        16254
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.248016357421875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 7e 3f 00 00 00 00 73 63 72 5f 6c 66 74 00 ff ff ff ff ff ff",
+      "context_start": 1593,
+      "context_end": 1692,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "ntskyscr",
+      "identifier_offset": 1729,
+      "surface_label": "scr_lft",
+      "surface_label_offset": 1682,
+      "gap_from_label": 47,
+      "next_string": "|>",
+      "next_string_offset": 1750,
+      "post_identifier_u32_le": [
+        0,
+        16771,
+        32768,
+        15996
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2559051513671875,
+        0.5,
+        0.24407958984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 83 41 00 00 00 80 00 00 7c 3e 00 00 00 00 73 74 61 72 73 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 1666,
+      "context_end": 1766,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "crnstars",
+      "identifier_offset": 1801,
+      "surface_label": "stars",
+      "surface_label_offset": 1756,
+      "gap_from_label": 45,
+      "next_string": "cost",
+      "next_string_offset": 1828,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 63 6f 73 74 00 ff ff ff ff ff ff e5 e5 e5",
+      "context_start": 1740,
+      "context_end": 1844,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "woodcost",
+      "identifier_offset": 1922,
+      "surface_label": "gridopen",
+      "surface_label_offset": 1874,
+      "gap_from_label": 48,
+      "next_string": "99",
+      "next_string_offset": 1943,
+      "post_identifier_u32_le": [
+        0,
+        3212,
+        32768,
+        14649
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.04901123046875,
+        0.5,
+        0.2235260009765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 8c 0c 00 00 00 80 00 00 39 39 00 00 00 00 63 6c 6f 73 65 64 67 72 69 64 00 ff ff ff",
+      "context_start": 1858,
+      "context_end": 1959,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "woodcost",
+      "identifier_offset": 1999,
+      "surface_label": "closedgrid",
+      "surface_label_offset": 1949,
+      "gap_from_label": 50,
+      "next_string": "DD",
+      "next_string_offset": 2012,
+      "post_identifier_u32_le": [
+        0,
+        17476,
+        32768,
+        15291
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.26666259765625,
+        0.5,
+        0.2333221435546875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 44 44 00 00 00 80 00 00 bb 3b 00 00 00 00 74 72 61 63 6b 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 1933,
+      "context_end": 2028,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "woodcost",
+      "identifier_offset": 2071,
+      "surface_label": "track",
+      "surface_label_offset": 2026,
+      "gap_from_label": 45,
+      "next_string": "faris",
+      "next_string_offset": 2098,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        17861
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.2725372314453125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 c5 45 00 00 00 00 66 61 72 69 73 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 2010,
+      "context_end": 2114,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Farris_a",
+      "identifier_offset": 2143,
+      "surface_label": "faris",
+      "surface_label_offset": 2098,
+      "gap_from_label": 45,
+      "next_string": "towerlite",
+      "next_string_offset": 2170,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 74 6f 77 65 72 6c 69 74 65 00 ff ff ff ff",
+      "context_start": 2082,
+      "context_end": 2186,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "litetwr",
+      "identifier_offset": 2219,
+      "surface_label": "towerlite",
+      "surface_label_offset": 2170,
+      "gap_from_label": 49,
+      "next_string": "sptower",
+      "next_string_offset": 2245,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 73 70 74 6f 77 65 72 00 ff ff ff ff ff ff",
+      "context_start": 2154,
+      "context_end": 2261,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "carntowr",
+      "identifier_offset": 2292,
+      "surface_label": "sptower",
+      "surface_label_offset": 2245,
+      "gap_from_label": 47,
+      "next_string": "funhousetunnel",
+      "next_string_offset": 2319,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 66 75 6e 68 6f 75 73 65 74 75 6e 6e 65 6c",
+      "context_start": 2229,
+      "context_end": 2335,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2214,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 2236,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "funhneon",
+      "identifier_offset": 2421,
+      "surface_label": "neon_c",
+      "surface_label_offset": 2375,
+      "gap_from_label": 46,
+      "next_string": "neon_d",
+      "next_string_offset": 2448,
+      "post_identifier_u32_le": [
+        0,
+        16384,
+        16384,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.25,
+        0.25,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 40 00 00 00 40 00 00 00 40 00 00 00 00 6e 65 6f 6e 5f 64 00 ff ff ff ff ff ff e5",
+      "context_start": 2359,
+      "context_end": 2464,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2489,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "funhneon",
+      "identifier_offset": 2494,
+      "surface_label": "neon_d",
+      "surface_label_offset": 2448,
+      "gap_from_label": 46,
+      "next_string": "neon_a",
+      "next_string_offset": 2521,
+      "post_identifier_u32_le": [
+        16384,
+        16384,
+        16384,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.25,
+        0.25,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 00 40 00 00 00 40 00 00 00 40 00 00 00 00 6e 65 6f 6e 5f 61 00 ff ff ff ff ff ff e5",
+      "context_start": 2432,
+      "context_end": 2537,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2416,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 2562,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "funhneon",
+      "identifier_offset": 2567,
+      "surface_label": "neon_a",
+      "surface_label_offset": 2521,
+      "gap_from_label": 46,
+      "next_string": "neon_b",
+      "next_string_offset": 2594,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16384,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.25,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 40 00 00 00 40 00 00 00 00 6e 65 6f 6e 5f 62 00 ff ff ff ff ff ff e5",
+      "context_start": 2505,
+      "context_end": 2610,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2489,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 2635,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "funhneon",
+      "identifier_offset": 2640,
+      "surface_label": "neon_b",
+      "surface_label_offset": 2594,
+      "gap_from_label": 46,
+      "next_string": "start/finish",
+      "next_string_offset": 2667,
+      "post_identifier_u32_le": [
+        16384,
+        0,
+        16384,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.0,
+        0.25,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 00 00 00 00 00 40 00 00 00 40 00 00 00 00 73 74 61 72 74 2f 66 69 6e 69 73 68 00 ff",
+      "context_start": 2578,
+      "context_end": 2683,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2562,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "t4start",
+      "identifier_offset": 2719,
+      "surface_label": "start/finish",
+      "surface_label_offset": 2667,
+      "gap_from_label": 52,
+      "next_string": "crowded",
+      "next_string_offset": 2745,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 63 72 6f 77 64 65 64 00 ff ff ff ff ff ff",
+      "context_start": 2651,
+      "context_end": 2761,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2635,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "carncrwd",
+      "identifier_offset": 2792,
+      "surface_label": "crowded",
+      "surface_label_offset": 2745,
+      "gap_from_label": 47,
+      "next_string": "carnarch",
+      "next_string_offset": 2819,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 63 61 72 6e 61 72 63 68 00 ff ff ff ff ff",
+      "context_start": 2729,
+      "context_end": 2835,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2736,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Carny",
+      "identifier_offset": 2867,
+      "surface_label": "carnarch",
+      "surface_label_offset": 2819,
+      "gap_from_label": 48,
+      "next_string": "Racetrack",
+      "next_string_offset": 2891,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 52 61 63 65 74 72 61 63 6b 00 ff ff ff ff",
+      "context_start": 2803,
+      "context_end": 2907,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "t5banr1",
+      "identifier_offset": 3051,
+      "surface_label": "711ad",
+      "surface_label_offset": 3006,
+      "gap_from_label": 45,
+      "next_string": "pepsiad",
+      "next_string_offset": 3077,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 40 00 00 00 00 70 65 70 73 69 61 64 00 ff ff ff ff ff ff",
+      "context_start": 2990,
+      "context_end": 3093,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "t5banr1",
+      "identifier_offset": 3124,
+      "surface_label": "pepsiad",
+      "surface_label_offset": 3077,
+      "gap_from_label": 47,
+      "next_string": "Frito",
+      "next_string_offset": 3150,
+      "post_identifier_u32_le": [
+        0,
+        16384,
+        32768,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.25,
+        0.5,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 40 00 00 00 80 00 00 00 40 00 00 00 00 46 72 69 74 6f 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 3061,
+      "context_end": 3166,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 3068,
+          "u32_le": [
+            128,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "t5banr2",
+      "identifier_offset": 3195,
+      "surface_label": "Frito",
+      "surface_label_offset": 3150,
+      "gap_from_label": 45,
+      "next_string": "z=",
+      "next_string_offset": 3215,
+      "post_identifier_u32_le": [
+        0,
+        17029,
+        32768,
+        15738
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2598419189453125,
+        0.5,
+        0.240142822265625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 85 42 00 00 00 80 00 00 7a 3d 00 00 00 00 74 77 6f 73 68 75 74 74 6c 65 73 00 ff ff",
+      "context_start": 3134,
+      "context_end": 3231,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "shuttle",
+      "identifier_offset": 3320,
+      "surface_label": "shttop",
+      "surface_label_offset": 3274,
+      "gap_from_label": 46,
+      "next_string": "shtbotm",
+      "next_string_offset": 3346,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16384,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.25,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 40 00 00 00 80 00 00 00 00 73 68 74 62 6f 74 6d 00 ff ff ff ff ff ff",
+      "context_start": 3258,
+      "context_end": 3362,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "shuttle",
+      "identifier_offset": 3393,
+      "surface_label": "shtbotm",
+      "surface_label_offset": 3346,
+      "gap_from_label": 47,
+      "next_string": "shuttlerideplanet1",
+      "next_string_offset": 3419,
+      "post_identifier_u32_le": [
+        16384,
+        0,
+        16384,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.0,
+        0.25,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 00 00 00 00 00 40 00 00 00 80 00 00 00 00 73 68 75 74 74 6c 65 72 69 64 65 70 6c 61",
+      "context_start": 3330,
+      "context_end": 3435,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 3337,
+          "u32_le": [
+            64,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "plnt_a",
+      "identifier_offset": 3477,
+      "surface_label": "shuttlerideplanet1",
+      "surface_label_offset": 3419,
+      "gap_from_label": 58,
+      "next_string": "shuttlerideplanet2",
+      "next_string_offset": 3502,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 73 68 75 74 74 6c 65 72 69 64 65 70 6c 61",
+      "context_start": 3403,
+      "context_end": 3518,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 3493,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "plnt_b",
+      "identifier_offset": 3560,
+      "surface_label": "shuttlerideplanet2",
+      "surface_label_offset": 3502,
+      "gap_from_label": 58,
+      "next_string": "Spiderfun",
+      "next_string_offset": 3585,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 53 70 69 64 65 72 66 75 6e 00 ff ff ff ff",
+      "context_start": 3486,
+      "context_end": 3601,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 3576,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "spider",
+      "identifier_offset": 3634,
+      "surface_label": "Spiderfun",
+      "surface_label_offset": 3585,
+      "gap_from_label": 49,
+      "next_string": "warning",
+      "next_string_offset": 3659,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 77 61 72 6e 69 6e 67 00 ff ff ff ff ff ff",
+      "context_start": 3569,
+      "context_end": 3675,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 3650,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "wrningp",
+      "identifier_offset": 3706,
+      "surface_label": "warning",
+      "surface_label_offset": 3659,
+      "gap_from_label": 47,
+      "next_string": "coaster_b",
+      "next_string_offset": 3735,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 92 00 00 63 6f 61 73 74 65 72 5f 62 00 00",
+      "context_start": 3643,
+      "context_end": 3751,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 3650,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "ryv.",
+      "identifier_offset": 38241,
+      "surface_label": "S]^/",
+      "surface_label_offset": 38177,
+      "gap_from_label": 64,
+      "next_string": "Q8",
+      "next_string_offset": 38258,
+      "post_identifier_u32_le": [
+        16603,
+        4294961902,
+        4294939566,
+        14417
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2533416748046875,
+        65535.9176940918,
+        65535.5768737793,
+        0.2199859619140625
+      ],
+      "atlas_rect_bounds_plausible": false,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "db 40 00 00 ee ea ff ff ae 93 ff ff 51 38 00 00 00 00 01 00 91 a1 a2 17 00 db 40 00 00 ee ea ff",
+      "context_start": 38161,
+      "context_end": 38274,
+      "nearby_dimension_candidates": []
+    }
+  ],
+  "verified_decoded_images": [],
+  "zlib_stream_candidates": [],
+  "standard_signature_counts": {
+    "PNG": 0,
+    "JPEG": 0,
+    "BMP": 0,
+    "GIF87a": 0,
+    "GIF89a": 0,
+    "DDS": 0,
+    "PCX": 2486
+  },
+  "conclusion": {
+    "verified_images_extracted": 0,
+    "zlib_streams_found": 0,
+    "texture_payload_format": "not established",
+    "note": "References are material/surface identifiers. A zlib stream is not classified as a texture without dimensions, pixel format and successful image reconstruction."
+  }
+}

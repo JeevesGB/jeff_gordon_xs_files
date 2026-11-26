@@ -1,0 +1,388 @@
+[
+  {
+    "name": "carnwall",
+    "offset": 158,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "wall01",
+      "wall02"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      158,
+      231
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "costr",
+    "offset": 306,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "struct_a"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      306
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "carnstnd",
+    "offset": 438,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "stndwall",
+      "checkers",
+      "stndroof",
+      "fence"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      438,
+      513,
+      588,
+      660
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "funhse",
+    "offset": 781,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "funh",
+      "sign",
+      "clown",
+      "eyes"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      781,
+      850,
+      920,
+      989
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "octoride",
+    "offset": 1109,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "mech01",
+      "mech02",
+      "capsl"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      1109,
+      1182,
+      1254
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "bigtop",
+    "offset": 1378,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "tent 1",
+      "tent 2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1378,
+      1449
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "neon_e",
+    "offset": 1529,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "shuttleridebase"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1529
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "ntskyscr",
+    "offset": 1655,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "scr_rt",
+      "scr_lft"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1655,
+      1729
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "crnstars",
+    "offset": 1801,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "stars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1801
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "woodcost",
+    "offset": 1922,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "gridopen",
+      "closedgrid",
+      "track"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      1922,
+      1999,
+      2071
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "Farris_a",
+    "offset": 2143,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "faris"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2143
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "litetwr",
+    "offset": 2219,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "towerlite"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2219
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "carntowr",
+    "offset": 2292,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "sptower"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2292
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "funhneon",
+    "offset": 2421,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "neon_c",
+      "neon_d",
+      "neon_a",
+      "neon_b"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      2421,
+      2494,
+      2567,
+      2640
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t4start",
+    "offset": 2719,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "start/finish"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2719
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "carncrwd",
+    "offset": 2792,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "crowded"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2792
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "Carny",
+    "offset": 2867,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "carnarch"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2867
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t5banr1",
+    "offset": 3051,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "711ad",
+      "pepsiad"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3051,
+      3124
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t5banr2",
+    "offset": 3195,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Frito"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3195
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "shuttle",
+    "offset": 3320,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "shttop",
+      "shtbotm"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3320,
+      3393
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "plnt_a",
+    "offset": 3477,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "shuttlerideplanet1"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3477
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "plnt_b",
+    "offset": 3560,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "shuttlerideplanet2"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3560
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "spider",
+    "offset": 3634,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Spiderfun"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3634
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "wrningp",
+    "offset": 3706,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "warning"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3706
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "ryv.",
+    "offset": 38241,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "S]^/"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      38241
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]
