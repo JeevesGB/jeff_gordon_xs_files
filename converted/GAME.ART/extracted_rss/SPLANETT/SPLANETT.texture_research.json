@@ -1,0 +1,115 @@
+{
+  "file": "SPLANETT.RSS",
+  "size": 204688,
+  "sha256": "5c099b3f51d1f21f8cbf36816d9e3c9d7afe03f09baafb90aabc435f7015b7f1",
+  "original_copy": "SPLANETT.RSS.original",
+  "texture_reference_count": 2,
+  "unique_texture_identifiers": 2,
+  "plausible_atlas_rect_count": 2,
+  "zero_padding_after_rect_count": 1,
+  "texture_identifiers_grouped": [
+    {
+      "identifier": "t3cement",
+      "occurrences": 1,
+      "surface_labels": [
+        "Track Edge"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "USah",
+      "occurrences": 1,
+      "surface_labels": [
+        "USag"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.989990234375
+        ]
+      ]
+    }
+  ],
+  "texture_references": [
+    {
+      "identifier": "t3cement",
+      "identifier_offset": 108,
+      "surface_label": "Track Edge",
+      "surface_label_offset": 58,
+      "gap_from_label": 50,
+      "next_string": "NewTrack",
+      "next_string_offset": 135,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 4e 65 77 54 72 61 63 6b 00 ff ff ff ff ff",
+      "context_start": 42,
+      "context_end": 151,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "USah",
+      "identifier_offset": 54216,
+      "surface_label": "USag",
+      "surface_label_offset": 54152,
+      "gap_from_label": 64,
+      "next_string": "USa`",
+      "next_string_offset": 54305,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        64880
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.989990234375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "8f02",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 70 fd 00 00 8f 02 00 00 0b 0b 0b 67 00 00 00 00 00 00 00 00",
+      "context_start": 54136,
+      "context_end": 54321,
+      "nearby_dimension_candidates": []
+    }
+  ],
+  "verified_decoded_images": [],
+  "zlib_stream_candidates": [],
+  "standard_signature_counts": {
+    "PNG": 0,
+    "JPEG": 0,
+    "BMP": 0,
+    "GIF87a": 0,
+    "GIF89a": 0,
+    "DDS": 0,
+    "PCX": 329
+  },
+  "conclusion": {
+    "verified_images_extracted": 0,
+    "zlib_streams_found": 0,
+    "texture_payload_format": "not established",
+    "note": "References are material/surface identifiers. A zlib stream is not classified as a texture without dimensions, pixel format and successful image reconstruction."
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "t3cement",
+    "offset": 108,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Track Edge"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      108
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "USah",
+    "offset": 54216,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "USag"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      54216
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]

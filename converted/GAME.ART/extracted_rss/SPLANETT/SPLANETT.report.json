@@ -1,0 +1,10110 @@
+{
+  "file": "SPLANETT.RSS",
+  "size": 204688,
+  "sha256": "5c099b3f51d1f21f8cbf36816d9e3c9d7afe03f09baafb90aabc435f7015b7f1",
+  "header": "fRssExport Version (V1) - Mon Mar 01 10:38:15 1999",
+  "header_bytes_hex": "665273734578706f72742056657273696f6e2028563129202d204d6f6e204d61722030312031303a33383a313520313939390a",
+  "mesh_parser_note": "Heuristic only; not a complete documented RSS specification.",
+  "meshes": [],
+  "embedded_image_files": [],
+  "texture_references": [
+    {
+      "name": "t3cement",
+      "offset": 108,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "Track Edge"
+      ],
+      "occurrences": 1,
+      "occurrences_at_offsets": [
+        108
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    },
+    {
+      "name": "USah",
+      "offset": 54216,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "USag"
+      ],
+      "occurrences": 1,
+      "occurrences_at_offsets": [
+        54216
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    }
+  ],
+  "texture_extraction_note": "The RSS files contain probable texture identifiers/material references. Validated standard embedded images are exported separately; external matching assets are copied when present. Reference records are not image data.",
+  "ascii_strings": [
+    {
+      "offset": 0,
+      "length": 50,
+      "text": "fRssExport Version (V1) - Mon Mar 01 10:38:15 1999"
+    },
+    {
+      "offset": 58,
+      "length": 10,
+      "text": "Track Edge"
+    },
+    {
+      "offset": 108,
+      "length": 8,
+      "text": "t3cement"
+    },
+    {
+      "offset": 135,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 185,
+      "length": 4,
+      "text": "side"
+    },
+    {
+      "offset": 250,
+      "length": 6,
+      "text": "middle"
+    },
+    {
+      "offset": 317,
+      "length": 6,
+      "text": "finish"
+    },
+    {
+      "offset": 671,
+      "length": 3,
+      "text": "x~r"
+    },
+    {
+      "offset": 675,
+      "length": 3,
+      "text": "]wg"
+    },
+    {
+      "offset": 731,
+      "length": 3,
+      "text": "|j$"
+    },
+    {
+      "offset": 1035,
+      "length": 3,
+      "text": "sYa"
+    },
+    {
+      "offset": 1059,
+      "length": 3,
+      "text": "-1q"
+    },
+    {
+      "offset": 1091,
+      "length": 3,
+      "text": "LQ'"
+    },
+    {
+      "offset": 1183,
+      "length": 3,
+      "text": "q[/"
+    },
+    {
+      "offset": 1203,
+      "length": 3,
+      "text": "c>j"
+    },
+    {
+      "offset": 1215,
+      "length": 3,
+      "text": "X9]"
+    },
+    {
+      "offset": 1219,
+      "length": 3,
+      "text": "+D:"
+    },
+    {
+      "offset": 1315,
+      "length": 3,
+      "text": "r[W"
+    },
+    {
+      "offset": 1331,
+      "length": 3,
+      "text": "<jz"
+    },
+    {
+      "offset": 1351,
+      "length": 3,
+      "text": ",Db"
+    },
+    {
+      "offset": 1435,
+      "length": 3,
+      "text": "wx{"
+    },
+    {
+      "offset": 1467,
+      "length": 3,
+      "text": "ygy"
+    },
+    {
+      "offset": 1699,
+      "length": 3,
+      "text": "6B:"
+    },
+    {
+      "offset": 1711,
+      "length": 3,
+      "text": "?u3"
+    },
+    {
+      "offset": 1815,
+      "length": 3,
+      "text": "EM_"
+    },
+    {
+      "offset": 1839,
+      "length": 3,
+      "text": "a?o"
+    },
+    {
+      "offset": 1851,
+      "length": 3,
+      "text": "u>w"
+    },
+    {
+      "offset": 1859,
+      "length": 3,
+      "text": "l*W"
+    },
+    {
+      "offset": 1983,
+      "length": 3,
+      "text": "){w"
+    },
+    {
+      "offset": 2003,
+      "length": 3,
+      "text": "TE4"
+    },
+    {
+      "offset": 2063,
+      "length": 3,
+      "text": "dX|"
+    },
+    {
+      "offset": 2183,
+      "length": 3,
+      "text": ",CK"
+    },
+    {
+      "offset": 2223,
+      "length": 3,
+      "text": "hDX"
+    },
+    {
+      "offset": 2363,
+      "length": 3,
+      "text": "h4F"
+    },
+    {
+      "offset": 2375,
+      "length": 3,
+      "text": "p.5"
+    },
+    {
+      "offset": 2387,
+      "length": 3,
+      "text": "P#$"
+    },
+    {
+      "offset": 2507,
+      "length": 3,
+      "text": "BFz"
+    },
+    {
+      "offset": 2519,
+      "length": 3,
+      "text": "\\?i"
+    },
+    {
+      "offset": 2735,
+      "length": 3,
+      "text": "H/8"
+    },
+    {
+      "offset": 2799,
+      "length": 3,
+      "text": "`J,"
+    },
+    {
+      "offset": 2891,
+      "length": 3,
+      "text": "HOd"
+    },
+    {
+      "offset": 3387,
+      "length": 3,
+      "text": "a}\""
+    },
+    {
+      "offset": 3431,
+      "length": 3,
+      "text": "Lk_"
+    },
+    {
+      "offset": 3732,
+      "length": 17,
+      "text": "#=Track Edge[0-0]"
+    },
+    {
+      "offset": 3837,
+      "length": 10,
+      "text": "Track Edge"
+    },
+    {
+      "offset": 4119,
+      "length": 17,
+      "text": "#=Track Edge[0-1]"
+    },
+    {
+      "offset": 4360,
+      "length": 3,
+      "text": "J6#"
+    },
+    {
+      "offset": 4368,
+      "length": 10,
+      "text": "Track Edge"
+    },
+    {
+      "offset": 5540,
+      "length": 17,
+      "text": "#=Track Edge[1-0]"
+    },
+    {
+      "offset": 5981,
+      "length": 3,
+      "text": "LU\\"
+    },
+    {
+      "offset": 6149,
+      "length": 3,
+      "text": "Y'Z"
+    },
+    {
+      "offset": 6233,
+      "length": 10,
+      "text": "Track Edge"
+    },
+    {
+      "offset": 10698,
+      "length": 17,
+      "text": "#=Track Edge[1-1]"
+    },
+    {
+      "offset": 10803,
+      "length": 3,
+      "text": "4jM"
+    },
+    {
+      "offset": 10899,
+      "length": 3,
+      "text": "P9Y"
+    },
+    {
+      "offset": 10911,
+      "length": 3,
+      "text": "']2"
+    },
+    {
+      "offset": 11007,
+      "length": 10,
+      "text": "Track Edge"
+    },
+    {
+      "offset": 12624,
+      "length": 17,
+      "text": "#=Track Edge[2-0]"
+    },
+    {
+      "offset": 12669,
+      "length": 3,
+      "text": "^KP"
+    },
+    {
+      "offset": 12813,
+      "length": 3,
+      "text": "Z2/"
+    },
+    {
+      "offset": 12861,
+      "length": 10,
+      "text": "Track Edge"
+    },
+    {
+      "offset": 14122,
+      "length": 12,
+      "text": "#=Track[0-1]"
+    },
+    {
+      "offset": 14654,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 14903,
+      "length": 3,
+      "text": "{us"
+    },
+    {
+      "offset": 14992,
+      "length": 3,
+      "text": "?<;"
+    },
+    {
+      "offset": 15017,
+      "length": 3,
+      "text": "{us"
+    },
+    {
+      "offset": 15056,
+      "length": 3,
+      "text": "?<;"
+    },
+    {
+      "offset": 15106,
+      "length": 3,
+      "text": "{us"
+    },
+    {
+      "offset": 15145,
+      "length": 3,
+      "text": "?<;"
+    },
+    {
+      "offset": 16149,
+      "length": 3,
+      "text": "c^]"
+    },
+    {
+      "offset": 16238,
+      "length": 3,
+      "text": "{us"
+    },
+    {
+      "offset": 16263,
+      "length": 3,
+      "text": "c^]"
+    },
+    {
+      "offset": 16302,
+      "length": 3,
+      "text": "{us"
+    },
+    {
+      "offset": 16352,
+      "length": 3,
+      "text": "c^]"
+    },
+    {
+      "offset": 16391,
+      "length": 3,
+      "text": "{us"
+    },
+    {
+      "offset": 17039,
+      "length": 3,
+      "text": "c^]"
+    },
+    {
+      "offset": 17192,
+      "length": 3,
+      "text": "c^]"
+    },
+    {
+      "offset": 17306,
+      "length": 3,
+      "text": "c^]"
+    },
+    {
+      "offset": 18641,
+      "length": 4,
+      "text": "##(%"
+    },
+    {
+      "offset": 18666,
+      "length": 3,
+      "text": "\\[l"
+    },
+    {
+      "offset": 18730,
+      "length": 4,
+      "text": "BAM$"
+    },
+    {
+      "offset": 18755,
+      "length": 3,
+      "text": "##("
+    },
+    {
+      "offset": 18794,
+      "length": 4,
+      "text": "BAM'"
+    },
+    {
+      "offset": 18844,
+      "length": 3,
+      "text": "##("
+    },
+    {
+      "offset": 18883,
+      "length": 4,
+      "text": "BAM("
+    },
+    {
+      "offset": 19117,
+      "length": 12,
+      "text": "#=Track[0-2]"
+    },
+    {
+      "offset": 19473,
+      "length": 3,
+      "text": "43["
+    },
+    {
+      "offset": 19485,
+      "length": 3,
+      "text": "gcb"
+    },
+    {
+      "offset": 19749,
+      "length": 3,
+      "text": "\"zb"
+    },
+    {
+      "offset": 19761,
+      "length": 3,
+      "text": "yFw"
+    },
+    {
+      "offset": 19881,
+      "length": 3,
+      "text": "\\i)"
+    },
+    {
+      "offset": 19997,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 28732,
+      "length": 12,
+      "text": "#=Track[0-3]"
+    },
+    {
+      "offset": 29100,
+      "length": 3,
+      "text": "pj5"
+    },
+    {
+      "offset": 29240,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 33792,
+      "length": 12,
+      "text": "#=Track[1-0]"
+    },
+    {
+      "offset": 33916,
+      "length": 3,
+      "text": "u8_"
+    },
+    {
+      "offset": 33940,
+      "length": 3,
+      "text": "MQm"
+    },
+    {
+      "offset": 33976,
+      "length": 3,
+      "text": "h=K"
+    },
+    {
+      "offset": 33988,
+      "length": 3,
+      "text": "4p<"
+    },
+    {
+      "offset": 34000,
+      "length": 3,
+      "text": "`m/"
+    },
+    {
+      "offset": 34444,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 37274,
+      "length": 3,
+      "text": "jjh"
+    },
+    {
+      "offset": 37388,
+      "length": 3,
+      "text": "jjh"
+    },
+    {
+      "offset": 37452,
+      "length": 3,
+      "text": "kkx"
+    },
+    {
+      "offset": 37477,
+      "length": 3,
+      "text": "jjh"
+    },
+    {
+      "offset": 37566,
+      "length": 3,
+      "text": "kkx"
+    },
+    {
+      "offset": 38431,
+      "length": 4,
+      "text": "TTc'"
+    },
+    {
+      "offset": 38495,
+      "length": 3,
+      "text": "TTc"
+    },
+    {
+      "offset": 38584,
+      "length": 3,
+      "text": "TTc"
+    },
+    {
+      "offset": 40478,
+      "length": 4,
+      "text": "^]o1"
+    },
+    {
+      "offset": 40592,
+      "length": 3,
+      "text": "^]o"
+    },
+    {
+      "offset": 40681,
+      "length": 3,
+      "text": "^]o"
+    },
+    {
+      "offset": 40776,
+      "length": 12,
+      "text": "#=Track[1-1]"
+    },
+    {
+      "offset": 40840,
+      "length": 3,
+      "text": "DBT"
+    },
+    {
+      "offset": 40848,
+      "length": 3,
+      "text": "6pX"
+    },
+    {
+      "offset": 40864,
+      "length": 3,
+      "text": "y@l"
+    },
+    {
+      "offset": 40876,
+      "length": 3,
+      "text": "rZl"
+    },
+    {
+      "offset": 40968,
+      "length": 3,
+      "text": "nEY"
+    },
+    {
+      "offset": 40992,
+      "length": 3,
+      "text": "uqU"
+    },
+    {
+      "offset": 41032,
+      "length": 3,
+      "text": "E]x"
+    },
+    {
+      "offset": 41112,
+      "length": 3,
+      "text": "(.d"
+    },
+    {
+      "offset": 41136,
+      "length": 3,
+      "text": "/Z`"
+    },
+    {
+      "offset": 41148,
+      "length": 3,
+      "text": "vA_"
+    },
+    {
+      "offset": 41292,
+      "length": 3,
+      "text": "1*j"
+    },
+    {
+      "offset": 41300,
+      "length": 3,
+      "text": "v7w"
+    },
+    {
+      "offset": 41316,
+      "length": 3,
+      "text": "c*y"
+    },
+    {
+      "offset": 41360,
+      "length": 3,
+      "text": "nDg"
+    },
+    {
+      "offset": 41420,
+      "length": 3,
+      "text": "~*z"
+    },
+    {
+      "offset": 41492,
+      "length": 3,
+      "text": "?Rk"
+    },
+    {
+      "offset": 41800,
+      "length": 3,
+      "text": "u8_"
+    },
+    {
+      "offset": 41908,
+      "length": 3,
+      "text": "Ru9"
+    },
+    {
+      "offset": 41984,
+      "length": 3,
+      "text": "\\`j"
+    },
+    {
+      "offset": 41992,
+      "length": 3,
+      "text": "4p<"
+    },
+    {
+      "offset": 42004,
+      "length": 3,
+      "text": "`m/"
+    },
+    {
+      "offset": 42016,
+      "length": 3,
+      "text": "Tl$"
+    },
+    {
+      "offset": 42244,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 51012,
+      "length": 4,
+      "text": "c^]F"
+    },
+    {
+      "offset": 51126,
+      "length": 4,
+      "text": "c^]K"
+    },
+    {
+      "offset": 52906,
+      "length": 4,
+      "text": "USa\\"
+    },
+    {
+      "offset": 52995,
+      "length": 4,
+      "text": "77@^"
+    },
+    {
+      "offset": 53020,
+      "length": 3,
+      "text": "USa"
+    },
+    {
+      "offset": 53059,
+      "length": 4,
+      "text": "77@`"
+    },
+    {
+      "offset": 53109,
+      "length": 3,
+      "text": "USa"
+    },
+    {
+      "offset": 53148,
+      "length": 4,
+      "text": "77@a"
+    },
+    {
+      "offset": 54063,
+      "length": 4,
+      "text": "BAMf"
+    },
+    {
+      "offset": 54152,
+      "length": 4,
+      "text": "USag"
+    },
+    {
+      "offset": 54177,
+      "length": 3,
+      "text": "BAM"
+    },
+    {
+      "offset": 54216,
+      "length": 4,
+      "text": "USah"
+    },
+    {
+      "offset": 54266,
+      "length": 3,
+      "text": "BAM"
+    },
+    {
+      "offset": 54305,
+      "length": 4,
+      "text": "USa`"
+    },
+    {
+      "offset": 54953,
+      "length": 4,
+      "text": "\\[ll"
+    },
+    {
+      "offset": 55067,
+      "length": 3,
+      "text": "\\[l"
+    },
+    {
+      "offset": 55131,
+      "length": 4,
+      "text": "##(m"
+    },
+    {
+      "offset": 55156,
+      "length": 3,
+      "text": "\\[l"
+    },
+    {
+      "offset": 55220,
+      "length": 4,
+      "text": "BAMn"
+    },
+    {
+      "offset": 55245,
+      "length": 3,
+      "text": "##("
+    },
+    {
+      "offset": 55284,
+      "length": 4,
+      "text": "BAMo"
+    },
+    {
+      "offset": 55334,
+      "length": 3,
+      "text": "##("
+    },
+    {
+      "offset": 55373,
+      "length": 4,
+      "text": "BAMh"
+    },
+    {
+      "offset": 56110,
+      "length": 4,
+      "text": "jjhu"
+    },
+    {
+      "offset": 56224,
+      "length": 3,
+      "text": "jjh"
+    },
+    {
+      "offset": 56288,
+      "length": 4,
+      "text": "kkxt"
+    },
+    {
+      "offset": 56313,
+      "length": 3,
+      "text": "jjh"
+    },
+    {
+      "offset": 56402,
+      "length": 3,
+      "text": "kkx"
+    },
+    {
+      "offset": 56408,
+      "length": 12,
+      "text": "#=Track[1-2]"
+    },
+    {
+      "offset": 56612,
+      "length": 3,
+      "text": "5p0"
+    },
+    {
+      "offset": 56696,
+      "length": 3,
+      "text": "nE1"
+    },
+    {
+      "offset": 56720,
+      "length": 3,
+      "text": "uq-"
+    },
+    {
+      "offset": 56728,
+      "length": 3,
+      "text": "(xm"
+    },
+    {
+      "offset": 56776,
+      "length": 3,
+      "text": "^'e"
+    },
+    {
+      "offset": 56788,
+      "length": 3,
+      "text": "@Yo"
+    },
+    {
+      "offset": 56824,
+      "length": 3,
+      "text": "JQ["
+    },
+    {
+      "offset": 56840,
+      "length": 3,
+      "text": "(.<"
+    },
+    {
+      "offset": 56848,
+      "length": 3,
+      "text": ":9i"
+    },
+    {
+      "offset": 56864,
+      "length": 3,
+      "text": "/Z8"
+    },
+    {
+      "offset": 56876,
+      "length": 3,
+      "text": "wA7"
+    },
+    {
+      "offset": 56992,
+      "length": 3,
+      "text": "3^5"
+    },
+    {
+      "offset": 57004,
+      "length": 3,
+      "text": "9K,"
+    },
+    {
+      "offset": 57020,
+      "length": 3,
+      "text": "1*B"
+    },
+    {
+      "offset": 57036,
+      "length": 3,
+      "text": "5bW"
+    },
+    {
+      "offset": 57044,
+      "length": 3,
+      "text": "d*Q"
+    },
+    {
+      "offset": 57096,
+      "length": 3,
+      "text": "rZl"
+    },
+    {
+      "offset": 57132,
+      "length": 3,
+      "text": "DBT"
+    },
+    {
+      "offset": 57140,
+      "length": 3,
+      "text": "6pX"
+    },
+    {
+      "offset": 57144,
+      "length": 3,
+      "text": "y@l"
+    },
+    {
+      "offset": 57168,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 57239,
+      "length": 3,
+      "text": "T^s"
+    },
+    {
+      "offset": 57328,
+      "length": 3,
+      "text": "T^s"
+    },
+    {
+      "offset": 57798,
+      "length": 3,
+      "text": "^i~"
+    },
+    {
+      "offset": 58307,
+      "length": 3,
+      "text": "^i~"
+    },
+    {
+      "offset": 58396,
+      "length": 3,
+      "text": "^i~"
+    },
+    {
+      "offset": 59400,
+      "length": 3,
+      "text": "V`q"
+    },
+    {
+      "offset": 59909,
+      "length": 3,
+      "text": "V`q"
+    },
+    {
+      "offset": 59998,
+      "length": 3,
+      "text": "V`q"
+    },
+    {
+      "offset": 61002,
+      "length": 3,
+      "text": "T]n"
+    },
+    {
+      "offset": 61511,
+      "length": 4,
+      "text": "T]n%"
+    },
+    {
+      "offset": 61536,
+      "length": 3,
+      "text": "Wbv"
+    },
+    {
+      "offset": 61600,
+      "length": 4,
+      "text": "T]n$"
+    },
+    {
+      "offset": 62045,
+      "length": 4,
+      "text": "Wbv)"
+    },
+    {
+      "offset": 62070,
+      "length": 3,
+      "text": "S]q"
+    },
+    {
+      "offset": 62134,
+      "length": 4,
+      "text": "Wbv("
+    },
+    {
+      "offset": 62579,
+      "length": 4,
+      "text": "S]q-"
+    },
+    {
+      "offset": 62668,
+      "length": 4,
+      "text": "S]q,"
+    },
+    {
+      "offset": 64657,
+      "length": 12,
+      "text": "#=Track[1-3]"
+    },
+    {
+      "offset": 64749,
+      "length": 3,
+      "text": "R$M"
+    },
+    {
+      "offset": 64769,
+      "length": 3,
+      "text": "9u,"
+    },
+    {
+      "offset": 64785,
+      "length": 3,
+      "text": "$@>"
+    },
+    {
+      "offset": 64793,
+      "length": 3,
+      "text": ">[>"
+    },
+    {
+      "offset": 64809,
+      "length": 3,
+      "text": " 2B"
+    },
+    {
+      "offset": 64845,
+      "length": 3,
+      "text": "fXX"
+    },
+    {
+      "offset": 64893,
+      "length": 3,
+      "text": ">GU"
+    },
+    {
+      "offset": 64905,
+      "length": 3,
+      "text": " WF"
+    },
+    {
+      "offset": 64997,
+      "length": 3,
+      "text": "lo+"
+    },
+    {
+      "offset": 65025,
+      "length": 3,
+      "text": "2~m"
+    },
+    {
+      "offset": 65277,
+      "length": 3,
+      "text": " ;'"
+    },
+    {
+      "offset": 65469,
+      "length": 3,
+      "text": "\"J["
+    },
+    {
+      "offset": 65525,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 66931,
+      "length": 3,
+      "text": "d_9"
+    },
+    {
+      "offset": 66995,
+      "length": 3,
+      "text": "d_9"
+    },
+    {
+      "offset": 67084,
+      "length": 3,
+      "text": "d_9"
+    },
+    {
+      "offset": 68800,
+      "length": 3,
+      "text": "gX9"
+    },
+    {
+      "offset": 68914,
+      "length": 3,
+      "text": "gX9"
+    },
+    {
+      "offset": 69003,
+      "length": 3,
+      "text": "gX9"
+    },
+    {
+      "offset": 70135,
+      "length": 4,
+      "text": "oi?&"
+    },
+    {
+      "offset": 70249,
+      "length": 3,
+      "text": "oi?"
+    },
+    {
+      "offset": 70338,
+      "length": 3,
+      "text": "oi?"
+    },
+    {
+      "offset": 70580,
+      "length": 4,
+      "text": "gX9)"
+    },
+    {
+      "offset": 70644,
+      "length": 4,
+      "text": "gX9*"
+    },
+    {
+      "offset": 70669,
+      "length": 4,
+      "text": "=3$)"
+    },
+    {
+      "offset": 70733,
+      "length": 4,
+      "text": "gX9 "
+    },
+    {
+      "offset": 70783,
+      "length": 3,
+      "text": "=3$"
+    },
+    {
+      "offset": 70847,
+      "length": 4,
+      "text": "hU9-"
+    },
+    {
+      "offset": 70936,
+      "length": 4,
+      "text": "SE/,"
+    },
+    {
+      "offset": 70961,
+      "length": 3,
+      "text": "hU9"
+    },
+    {
+      "offset": 71000,
+      "length": 4,
+      "text": "SE//"
+    },
+    {
+      "offset": 71050,
+      "length": 3,
+      "text": "hU9"
+    },
+    {
+      "offset": 71089,
+      "length": 4,
+      "text": "SE/0"
+    },
+    {
+      "offset": 71115,
+      "length": 3,
+      "text": "qJ/"
+    },
+    {
+      "offset": 71179,
+      "length": 3,
+      "text": "qJ1"
+    },
+    {
+      "offset": 71268,
+      "length": 3,
+      "text": "qJ2"
+    },
+    {
+      "offset": 71471,
+      "length": 3,
+      "text": "uL3"
+    },
+    {
+      "offset": 71535,
+      "length": 3,
+      "text": "uL5"
+    },
+    {
+      "offset": 71624,
+      "length": 3,
+      "text": "uL6"
+    },
+    {
+      "offset": 71649,
+      "length": 3,
+      "text": "|Q5"
+    },
+    {
+      "offset": 71713,
+      "length": 3,
+      "text": "|Q7"
+    },
+    {
+      "offset": 71802,
+      "length": 3,
+      "text": "|Q8"
+    },
+    {
+      "offset": 71915,
+      "length": 4,
+      "text": "jW::"
+    },
+    {
+      "offset": 72004,
+      "length": 4,
+      "text": "hU99"
+    },
+    {
+      "offset": 72029,
+      "length": 3,
+      "text": "jW:"
+    },
+    {
+      "offset": 72068,
+      "length": 4,
+      "text": "hU9;"
+    },
+    {
+      "offset": 72118,
+      "length": 3,
+      "text": "jW:"
+    },
+    {
+      "offset": 72157,
+      "length": 4,
+      "text": "hU9/"
+    },
+    {
+      "offset": 72805,
+      "length": 4,
+      "text": "YJ2@"
+    },
+    {
+      "offset": 72894,
+      "length": 4,
+      "text": "jW:?"
+    },
+    {
+      "offset": 72919,
+      "length": 3,
+      "text": "YJ2"
+    },
+    {
+      "offset": 72958,
+      "length": 4,
+      "text": "jW:A"
+    },
+    {
+      "offset": 72984,
+      "length": 3,
+      "text": "|Q?"
+    },
+    {
+      "offset": 73008,
+      "length": 3,
+      "text": "YJ2"
+    },
+    {
+      "offset": 73047,
+      "length": 4,
+      "text": "jW:;"
+    },
+    {
+      "offset": 73340,
+      "length": 3,
+      "text": "{PB"
+    },
+    {
+      "offset": 74115,
+      "length": 4,
+      "text": "=3$ "
+    },
+    {
+      "offset": 74171,
+      "length": 12,
+      "text": "#=Track[2-0]"
+    },
+    {
+      "offset": 74583,
+      "length": 3,
+      "text": "7LZ"
+    },
+    {
+      "offset": 74631,
+      "length": 3,
+      "text": "yT1"
+    },
+    {
+      "offset": 74667,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 75361,
+      "length": 3,
+      "text": "mly"
+    },
+    {
+      "offset": 75425,
+      "length": 3,
+      "text": "mly"
+    },
+    {
+      "offset": 75514,
+      "length": 3,
+      "text": "mly"
+    },
+    {
+      "offset": 75895,
+      "length": 3,
+      "text": "ggs"
+    },
+    {
+      "offset": 78031,
+      "length": 4,
+      "text": "kkx%"
+    },
+    {
+      "offset": 78056,
+      "length": 3,
+      "text": "jjh"
+    },
+    {
+      "offset": 78145,
+      "length": 3,
+      "text": "kkx"
+    },
+    {
+      "offset": 78151,
+      "length": 12,
+      "text": "#=Track[2-1]"
+    },
+    {
+      "offset": 78855,
+      "length": 3,
+      "text": "?Rk"
+    },
+    {
+      "offset": 79019,
+      "length": 3,
+      "text": "nQ#"
+    },
+    {
+      "offset": 79055,
+      "length": 3,
+      "text": "#N?"
+    },
+    {
+      "offset": 79163,
+      "length": 3,
+      "text": "BT~"
+    },
+    {
+      "offset": 79511,
+      "length": 3,
+      "text": "7LZ"
+    },
+    {
+      "offset": 79583,
+      "length": 3,
+      "text": "yT1"
+    },
+    {
+      "offset": 79667,
+      "length": 3,
+      "text": "CfA"
+    },
+    {
+      "offset": 79683,
+      "length": 3,
+      "text": "CL'"
+    },
+    {
+      "offset": 79691,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 80385,
+      "length": 3,
+      "text": "mly"
+    },
+    {
+      "offset": 80449,
+      "length": 3,
+      "text": "mly"
+    },
+    {
+      "offset": 80538,
+      "length": 3,
+      "text": "mly"
+    },
+    {
+      "offset": 80919,
+      "length": 3,
+      "text": "ggs"
+    },
+    {
+      "offset": 84301,
+      "length": 4,
+      "text": "\\h~("
+    },
+    {
+      "offset": 84365,
+      "length": 4,
+      "text": "\\h~*"
+    },
+    {
+      "offset": 84454,
+      "length": 4,
+      "text": "\\h~+"
+    },
+    {
+      "offset": 86640,
+      "length": 3,
+      "text": "S^r"
+    },
+    {
+      "offset": 87149,
+      "length": 4,
+      "text": "S^rD"
+    },
+    {
+      "offset": 87174,
+      "length": 3,
+      "text": "R]q"
+    },
+    {
+      "offset": 87238,
+      "length": 4,
+      "text": "S^rC"
+    },
+    {
+      "offset": 87683,
+      "length": 4,
+      "text": "R]qH"
+    },
+    {
+      "offset": 87772,
+      "length": 4,
+      "text": "R]qG"
+    },
+    {
+      "offset": 89018,
+      "length": 4,
+      "text": "Zf|S"
+    },
+    {
+      "offset": 89082,
+      "length": 4,
+      "text": "Zf|U"
+    },
+    {
+      "offset": 89171,
+      "length": 4,
+      "text": "Zf|V"
+    },
+    {
+      "offset": 91777,
+      "length": 4,
+      "text": "Zf|c"
+    },
+    {
+      "offset": 91891,
+      "length": 3,
+      "text": "Zf|"
+    },
+    {
+      "offset": 91980,
+      "length": 3,
+      "text": "Zf|"
+    },
+    {
+      "offset": 92133,
+      "length": 4,
+      "text": "Ydze"
+    },
+    {
+      "offset": 92247,
+      "length": 3,
+      "text": "Ydz"
+    },
+    {
+      "offset": 92336,
+      "length": 3,
+      "text": "Ydz"
+    },
+    {
+      "offset": 94269,
+      "length": 4,
+      "text": "kkxx"
+    },
+    {
+      "offset": 94294,
+      "length": 3,
+      "text": "jjh"
+    },
+    {
+      "offset": 94383,
+      "length": 3,
+      "text": "kkx"
+    },
+    {
+      "offset": 94472,
+      "length": 3,
+      "text": "kkx"
+    },
+    {
+      "offset": 95279,
+      "length": 12,
+      "text": "#=Track[2-2]"
+    },
+    {
+      "offset": 95355,
+      "length": 3,
+      "text": "Y@:"
+    },
+    {
+      "offset": 95395,
+      "length": 3,
+      "text": "#Qv"
+    },
+    {
+      "offset": 95467,
+      "length": 3,
+      "text": "'qs"
+    },
+    {
+      "offset": 95551,
+      "length": 3,
+      "text": "-[P"
+    },
+    {
+      "offset": 95655,
+      "length": 3,
+      "text": "W6K"
+    },
+    {
+      "offset": 95667,
+      "length": 3,
+      "text": "C/\\"
+    },
+    {
+      "offset": 95775,
+      "length": 3,
+      "text": "6sr"
+    },
+    {
+      "offset": 95779,
+      "length": 3,
+      "text": "%Dz"
+    },
+    {
+      "offset": 95803,
+      "length": 3,
+      "text": "Yjj"
+    },
+    {
+      "offset": 96387,
+      "length": 3,
+      "text": "0%%"
+    },
+    {
+      "offset": 96483,
+      "length": 3,
+      "text": "KU\\"
+    },
+    {
+      "offset": 96531,
+      "length": 3,
+      "text": "^9K"
+    },
+    {
+      "offset": 96555,
+      "length": 3,
+      "text": "!Pj"
+    },
+    {
+      "offset": 96819,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 96890,
+      "length": 3,
+      "text": "HQb"
+    },
+    {
+      "offset": 96979,
+      "length": 3,
+      "text": "HQb"
+    },
+    {
+      "offset": 97310,
+      "length": 3,
+      "text": "Ze|"
+    },
+    {
+      "offset": 97933,
+      "length": 3,
+      "text": "Ze|"
+    },
+    {
+      "offset": 98022,
+      "length": 3,
+      "text": "Ze|"
+    },
+    {
+      "offset": 98047,
+      "length": 3,
+      "text": "Xcy"
+    },
+    {
+      "offset": 98111,
+      "length": 3,
+      "text": "Xcy"
+    },
+    {
+      "offset": 98200,
+      "length": 3,
+      "text": "Xcy"
+    },
+    {
+      "offset": 98225,
+      "length": 3,
+      "text": "LVh"
+    },
+    {
+      "offset": 98289,
+      "length": 3,
+      "text": "LVh"
+    },
+    {
+      "offset": 98314,
+      "length": 3,
+      "text": "Zf{"
+    },
+    {
+      "offset": 98378,
+      "length": 3,
+      "text": "LVh"
+    },
+    {
+      "offset": 98403,
+      "length": 3,
+      "text": "GPa"
+    },
+    {
+      "offset": 98428,
+      "length": 3,
+      "text": "Zf{"
+    },
+    {
+      "offset": 98467,
+      "length": 3,
+      "text": "GPa"
+    },
+    {
+      "offset": 98517,
+      "length": 3,
+      "text": "Zf{"
+    },
+    {
+      "offset": 98556,
+      "length": 3,
+      "text": "GPa"
+    },
+    {
+      "offset": 98581,
+      "length": 3,
+      "text": "BJZ"
+    },
+    {
+      "offset": 98645,
+      "length": 3,
+      "text": "BJZ"
+    },
+    {
+      "offset": 98734,
+      "length": 3,
+      "text": "BJZ"
+    },
+    {
+      "offset": 98937,
+      "length": 3,
+      "text": "JSe"
+    },
+    {
+      "offset": 99001,
+      "length": 3,
+      "text": "JSe"
+    },
+    {
+      "offset": 99090,
+      "length": 3,
+      "text": "JSe"
+    },
+    {
+      "offset": 99115,
+      "length": 3,
+      "text": "JTe"
+    },
+    {
+      "offset": 99179,
+      "length": 3,
+      "text": "JTe"
+    },
+    {
+      "offset": 99268,
+      "length": 3,
+      "text": "JTe"
+    },
+    {
+      "offset": 99293,
+      "length": 3,
+      "text": "S^r"
+    },
+    {
+      "offset": 99827,
+      "length": 3,
+      "text": "Zf{"
+    },
+    {
+      "offset": 99891,
+      "length": 3,
+      "text": "Zf{"
+    },
+    {
+      "offset": 99980,
+      "length": 3,
+      "text": "Zf{"
+    },
+    {
+      "offset": 100806,
+      "length": 3,
+      "text": "HQb"
+    },
+    {
+      "offset": 100831,
+      "length": 3,
+      "text": "HQb"
+    },
+    {
+      "offset": 100920,
+      "length": 3,
+      "text": "HQb"
+    },
+    {
+      "offset": 100984,
+      "length": 4,
+      "text": "JUc$"
+    },
+    {
+      "offset": 101009,
+      "length": 3,
+      "text": "HQb"
+    },
+    {
+      "offset": 101098,
+      "length": 3,
+      "text": "JUc"
+    },
+    {
+      "offset": 101187,
+      "length": 3,
+      "text": "JUc"
+    },
+    {
+      "offset": 101518,
+      "length": 4,
+      "text": "OYg'"
+    },
+    {
+      "offset": 101632,
+      "length": 3,
+      "text": "OYg"
+    },
+    {
+      "offset": 101721,
+      "length": 3,
+      "text": "OYg"
+    },
+    {
+      "offset": 102255,
+      "length": 3,
+      "text": "T^s"
+    },
+    {
+      "offset": 102764,
+      "length": 4,
+      "text": "T^s1"
+    },
+    {
+      "offset": 102853,
+      "length": 4,
+      "text": "T^s0"
+    },
+    {
+      "offset": 107393,
+      "length": 3,
+      "text": "wNY"
+    },
+    {
+      "offset": 107457,
+      "length": 3,
+      "text": "wNZ"
+    },
+    {
+      "offset": 107546,
+      "length": 3,
+      "text": "wN["
+    },
+    {
+      "offset": 107571,
+      "length": 3,
+      "text": "pIZ"
+    },
+    {
+      "offset": 107635,
+      "length": 3,
+      "text": "pI\\"
+    },
+    {
+      "offset": 107724,
+      "length": 3,
+      "text": "pI]"
+    },
+    {
+      "offset": 108105,
+      "length": 3,
+      "text": "lG`"
+    },
+    {
+      "offset": 108169,
+      "length": 3,
+      "text": "lGb"
+    },
+    {
+      "offset": 108258,
+      "length": 3,
+      "text": "lGc"
+    },
+    {
+      "offset": 108283,
+      "length": 3,
+      "text": "pJb"
+    },
+    {
+      "offset": 108347,
+      "length": 3,
+      "text": "pJ6"
+    },
+    {
+      "offset": 108436,
+      "length": 3,
+      "text": "pJ4"
+    },
+    {
+      "offset": 109796,
+      "length": 3,
+      "text": "nHj"
+    },
+    {
+      "offset": 109974,
+      "length": 3,
+      "text": "pIk"
+    },
+    {
+      "offset": 110304,
+      "length": 4,
+      "text": "S^rm"
+    },
+    {
+      "offset": 110393,
+      "length": 4,
+      "text": "S^rn"
+    },
+    {
+      "offset": 110418,
+      "length": 4,
+      "text": "OZmm"
+    },
+    {
+      "offset": 110482,
+      "length": 4,
+      "text": "OZmo"
+    },
+    {
+      "offset": 110507,
+      "length": 4,
+      "text": "Wbwm"
+    },
+    {
+      "offset": 110571,
+      "length": 4,
+      "text": "OZmp"
+    },
+    {
+      "offset": 110596,
+      "length": 4,
+      "text": "CK[o"
+    },
+    {
+      "offset": 110621,
+      "length": 3,
+      "text": "Wbw"
+    },
+    {
+      "offset": 110660,
+      "length": 4,
+      "text": "CK[q"
+    },
+    {
+      "offset": 110685,
+      "length": 4,
+      "text": "Vavo"
+    },
+    {
+      "offset": 110710,
+      "length": 3,
+      "text": "Wbw"
+    },
+    {
+      "offset": 110749,
+      "length": 4,
+      "text": "CK[r"
+    },
+    {
+      "offset": 110774,
+      "length": 4,
+      "text": "EN_q"
+    },
+    {
+      "offset": 110799,
+      "length": 3,
+      "text": "Vav"
+    },
+    {
+      "offset": 110838,
+      "length": 4,
+      "text": "EN_s"
+    },
+    {
+      "offset": 110888,
+      "length": 3,
+      "text": "Vav"
+    },
+    {
+      "offset": 110927,
+      "length": 4,
+      "text": "EN_t"
+    },
+    {
+      "offset": 111219,
+      "length": 4,
+      "text": "Wbwu"
+    },
+    {
+      "offset": 111308,
+      "length": 4,
+      "text": "Wbwv"
+    },
+    {
+      "offset": 111333,
+      "length": 3,
+      "text": "Wbw"
+    },
+    {
+      "offset": 111372,
+      "length": 4,
+      "text": "Wbww"
+    },
+    {
+      "offset": 111422,
+      "length": 3,
+      "text": "Wbw"
+    },
+    {
+      "offset": 111461,
+      "length": 4,
+      "text": "Wbwq"
+    },
+    {
+      "offset": 111486,
+      "length": 4,
+      "text": "Vavw"
+    },
+    {
+      "offset": 111550,
+      "length": 4,
+      "text": "Vavx"
+    },
+    {
+      "offset": 111639,
+      "length": 4,
+      "text": "Vavs"
+    },
+    {
+      "offset": 111931,
+      "length": 4,
+      "text": "O[iy"
+    },
+    {
+      "offset": 112020,
+      "length": 4,
+      "text": "Wbwz"
+    },
+    {
+      "offset": 112045,
+      "length": 3,
+      "text": "O[i"
+    },
+    {
+      "offset": 112084,
+      "length": 4,
+      "text": "Wbw{"
+    },
+    {
+      "offset": 112134,
+      "length": 3,
+      "text": "O[i"
+    },
+    {
+      "offset": 112173,
+      "length": 4,
+      "text": "Wbww"
+    },
+    {
+      "offset": 112407,
+      "length": 12,
+      "text": "#=Track[2-3]"
+    },
+    {
+      "offset": 112519,
+      "length": 3,
+      "text": "0%%"
+    },
+    {
+      "offset": 112615,
+      "length": 3,
+      "text": "^9K"
+    },
+    {
+      "offset": 112735,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 115329,
+      "length": 12,
+      "text": "#=Track[3-0]"
+    },
+    {
+      "offset": 115729,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 115889,
+      "length": 3,
+      "text": "ggs"
+    },
+    {
+      "offset": 115953,
+      "length": 3,
+      "text": "ggs"
+    },
+    {
+      "offset": 116042,
+      "length": 3,
+      "text": "ggs"
+    },
+    {
+      "offset": 116779,
+      "length": 3,
+      "text": "ZZa"
+    },
+    {
+      "offset": 116843,
+      "length": 3,
+      "text": "ZZa"
+    },
+    {
+      "offset": 116868,
+      "length": 3,
+      "text": "ZZd"
+    },
+    {
+      "offset": 116932,
+      "length": 3,
+      "text": "ZZa"
+    },
+    {
+      "offset": 116957,
+      "length": 3,
+      "text": "CCJ"
+    },
+    {
+      "offset": 116982,
+      "length": 3,
+      "text": "ZZd"
+    },
+    {
+      "offset": 117021,
+      "length": 3,
+      "text": "CCJ"
+    },
+    {
+      "offset": 117071,
+      "length": 3,
+      "text": "ZZd"
+    },
+    {
+      "offset": 117110,
+      "length": 3,
+      "text": "CCJ"
+    },
+    {
+      "offset": 117644,
+      "length": 3,
+      "text": "ww}"
+    },
+    {
+      "offset": 117783,
+      "length": 3,
+      "text": "ww}"
+    },
+    {
+      "offset": 117822,
+      "length": 3,
+      "text": "YYd"
+    },
+    {
+      "offset": 117872,
+      "length": 3,
+      "text": "ww}"
+    },
+    {
+      "offset": 117961,
+      "length": 3,
+      "text": "YYd"
+    },
+    {
+      "offset": 118050,
+      "length": 3,
+      "text": "YYd"
+    },
+    {
+      "offset": 118178,
+      "length": 3,
+      "text": "UUQ"
+    },
+    {
+      "offset": 118234,
+      "length": 12,
+      "text": "#=Track[3-1]"
+    },
+    {
+      "offset": 119102,
+      "length": 3,
+      "text": " +9"
+    },
+    {
+      "offset": 119182,
+      "length": 3,
+      "text": "6B:"
+    },
+    {
+      "offset": 119194,
+      "length": 3,
+      "text": "6B:"
+    },
+    {
+      "offset": 119342,
+      "length": 3,
+      "text": "rY?"
+    },
+    {
+      "offset": 119362,
+      "length": 3,
+      "text": "?u3"
+    },
+    {
+      "offset": 119374,
+      "length": 3,
+      "text": "?u3"
+    },
+    {
+      "offset": 119774,
+      "length": 3,
+      "text": "\\iq"
+    },
+    {
+      "offset": 119786,
+      "length": 3,
+      "text": "2k`"
+    },
+    {
+      "offset": 119966,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 120126,
+      "length": 3,
+      "text": "ggs"
+    },
+    {
+      "offset": 120190,
+      "length": 3,
+      "text": "ggs"
+    },
+    {
+      "offset": 120279,
+      "length": 3,
+      "text": "ggs"
+    },
+    {
+      "offset": 122440,
+      "length": 3,
+      "text": "ZZa"
+    },
+    {
+      "offset": 122504,
+      "length": 3,
+      "text": "ZZa"
+    },
+    {
+      "offset": 122529,
+      "length": 3,
+      "text": "ZZd"
+    },
+    {
+      "offset": 122593,
+      "length": 3,
+      "text": "ZZa"
+    },
+    {
+      "offset": 122618,
+      "length": 3,
+      "text": "CCJ"
+    },
+    {
+      "offset": 122643,
+      "length": 3,
+      "text": "ZZd"
+    },
+    {
+      "offset": 122682,
+      "length": 3,
+      "text": "CCJ"
+    },
+    {
+      "offset": 122732,
+      "length": 3,
+      "text": "ZZd"
+    },
+    {
+      "offset": 122771,
+      "length": 3,
+      "text": "CCJ"
+    },
+    {
+      "offset": 123305,
+      "length": 4,
+      "text": "ww} "
+    },
+    {
+      "offset": 123444,
+      "length": 3,
+      "text": "ww}"
+    },
+    {
+      "offset": 123483,
+      "length": 4,
+      "text": "YYd\""
+    },
+    {
+      "offset": 123533,
+      "length": 3,
+      "text": "ww}"
+    },
+    {
+      "offset": 123622,
+      "length": 3,
+      "text": "YYd"
+    },
+    {
+      "offset": 123711,
+      "length": 3,
+      "text": "YYd"
+    },
+    {
+      "offset": 123839,
+      "length": 4,
+      "text": "UUQ&"
+    },
+    {
+      "offset": 124309,
+      "length": 4,
+      "text": "kku)"
+    },
+    {
+      "offset": 124398,
+      "length": 4,
+      "text": "ZZd*"
+    },
+    {
+      "offset": 124423,
+      "length": 3,
+      "text": "kku"
+    },
+    {
+      "offset": 124462,
+      "length": 4,
+      "text": "ZZd+"
+    },
+    {
+      "offset": 124512,
+      "length": 3,
+      "text": "kku"
+    },
+    {
+      "offset": 124551,
+      "length": 3,
+      "text": "ZZd"
+    },
+    {
+      "offset": 125911,
+      "length": 4,
+      "text": "ut{2"
+    },
+    {
+      "offset": 126025,
+      "length": 3,
+      "text": "ut{"
+    },
+    {
+      "offset": 126089,
+      "length": 4,
+      "text": "JIR3"
+    },
+    {
+      "offset": 126114,
+      "length": 3,
+      "text": "ut{"
+    },
+    {
+      "offset": 126178,
+      "length": 4,
+      "text": "kku4"
+    },
+    {
+      "offset": 126203,
+      "length": 3,
+      "text": "JIR"
+    },
+    {
+      "offset": 126242,
+      "length": 4,
+      "text": "kku5"
+    },
+    {
+      "offset": 126292,
+      "length": 3,
+      "text": "JIR"
+    },
+    {
+      "offset": 126331,
+      "length": 4,
+      "text": "kku+"
+    },
+    {
+      "offset": 126954,
+      "length": 4,
+      "text": "_^j."
+    },
+    {
+      "offset": 127043,
+      "length": 4,
+      "text": "_^j8"
+    },
+    {
+      "offset": 127246,
+      "length": 4,
+      "text": "_^j/"
+    },
+    {
+      "offset": 127488,
+      "length": 4,
+      "text": "\\h~="
+    },
+    {
+      "offset": 127691,
+      "length": 4,
+      "text": "Xdz?"
+    },
+    {
+      "offset": 127755,
+      "length": 4,
+      "text": "XdzA"
+    },
+    {
+      "offset": 127844,
+      "length": 4,
+      "text": "XdzB"
+    },
+    {
+      "offset": 128047,
+      "length": 4,
+      "text": "WbxC"
+    },
+    {
+      "offset": 128111,
+      "length": 4,
+      "text": "WbxE"
+    },
+    {
+      "offset": 128200,
+      "length": 4,
+      "text": "WbxF"
+    },
+    {
+      "offset": 128581,
+      "length": 4,
+      "text": "Zf|I"
+    },
+    {
+      "offset": 128645,
+      "length": 4,
+      "text": "Zf|K"
+    },
+    {
+      "offset": 128734,
+      "length": 4,
+      "text": "Zf|L"
+    },
+    {
+      "offset": 130272,
+      "length": 4,
+      "text": "Ze{V"
+    },
+    {
+      "offset": 130386,
+      "length": 3,
+      "text": "Ze{"
+    },
+    {
+      "offset": 130475,
+      "length": 3,
+      "text": "Ze{"
+    },
+    {
+      "offset": 130895,
+      "length": 4,
+      "text": "\\g~Z"
+    },
+    {
+      "offset": 131251,
+      "length": 4,
+      "text": "fny`"
+    },
+    {
+      "offset": 131315,
+      "length": 4,
+      "text": "fnyb"
+    },
+    {
+      "offset": 131340,
+      "length": 4,
+      "text": "OYm`"
+    },
+    {
+      "offset": 131404,
+      "length": 4,
+      "text": "fnyc"
+    },
+    {
+      "offset": 131429,
+      "length": 4,
+      "text": ">FTb"
+    },
+    {
+      "offset": 131454,
+      "length": 3,
+      "text": "OYm"
+    },
+    {
+      "offset": 131493,
+      "length": 4,
+      "text": ">FTd"
+    },
+    {
+      "offset": 131518,
+      "length": 4,
+      "text": "05?b"
+    },
+    {
+      "offset": 131543,
+      "length": 3,
+      "text": "OYm"
+    },
+    {
+      "offset": 131582,
+      "length": 4,
+      "text": ">FTe"
+    },
+    {
+      "offset": 131607,
+      "length": 4,
+      "text": "&*2d"
+    },
+    {
+      "offset": 131632,
+      "length": 3,
+      "text": "05?"
+    },
+    {
+      "offset": 131671,
+      "length": 4,
+      "text": "&*2f"
+    },
+    {
+      "offset": 131696,
+      "length": 4,
+      "text": "BCVd"
+    },
+    {
+      "offset": 131721,
+      "length": 3,
+      "text": "05?"
+    },
+    {
+      "offset": 131760,
+      "length": 4,
+      "text": "&*2g"
+    },
+    {
+      "offset": 131785,
+      "length": 4,
+      "text": "55Df"
+    },
+    {
+      "offset": 131810,
+      "length": 3,
+      "text": "BCV"
+    },
+    {
+      "offset": 131849,
+      "length": 4,
+      "text": "55Dh"
+    },
+    {
+      "offset": 131874,
+      "length": 4,
+      "text": "]]yf"
+    },
+    {
+      "offset": 131899,
+      "length": 3,
+      "text": "BCV"
+    },
+    {
+      "offset": 131938,
+      "length": 4,
+      "text": "55Di"
+    },
+    {
+      "offset": 131963,
+      "length": 4,
+      "text": "OOfh"
+    },
+    {
+      "offset": 131988,
+      "length": 3,
+      "text": "]]y"
+    },
+    {
+      "offset": 132027,
+      "length": 4,
+      "text": "OOfj"
+    },
+    {
+      "offset": 132077,
+      "length": 3,
+      "text": "]]y"
+    },
+    {
+      "offset": 132116,
+      "length": 4,
+      "text": "OOfk"
+    },
+    {
+      "offset": 133120,
+      "length": 4,
+      "text": "OYlt"
+    },
+    {
+      "offset": 133209,
+      "length": 4,
+      "text": "OYmu"
+    },
+    {
+      "offset": 133234,
+      "length": 3,
+      "text": "OYl"
+    },
+    {
+      "offset": 133273,
+      "length": 4,
+      "text": "OYmv"
+    },
+    {
+      "offset": 133298,
+      "length": 4,
+      "text": "/5?u"
+    },
+    {
+      "offset": 133323,
+      "length": 3,
+      "text": "OYl"
+    },
+    {
+      "offset": 133362,
+      "length": 4,
+      "text": "OYmd"
+    },
+    {
+      "offset": 133387,
+      "length": 4,
+      "text": "05?v"
+    },
+    {
+      "offset": 133412,
+      "length": 3,
+      "text": "/5?"
+    },
+    {
+      "offset": 133451,
+      "length": 4,
+      "text": "05?w"
+    },
+    {
+      "offset": 133476,
+      "length": 4,
+      "text": "BCUv"
+    },
+    {
+      "offset": 133501,
+      "length": 3,
+      "text": "/5?"
+    },
+    {
+      "offset": 133540,
+      "length": 4,
+      "text": "05?f"
+    },
+    {
+      "offset": 133565,
+      "length": 4,
+      "text": "BCVw"
+    },
+    {
+      "offset": 133590,
+      "length": 3,
+      "text": "BCU"
+    },
+    {
+      "offset": 133629,
+      "length": 4,
+      "text": "BCVx"
+    },
+    {
+      "offset": 133679,
+      "length": 3,
+      "text": "BCU"
+    },
+    {
+      "offset": 133718,
+      "length": 4,
+      "text": "BCVh"
+    },
+    {
+      "offset": 133743,
+      "length": 4,
+      "text": "]]yx"
+    },
+    {
+      "offset": 133807,
+      "length": 4,
+      "text": "]]yy"
+    },
+    {
+      "offset": 133896,
+      "length": 4,
+      "text": "]]yj"
+    },
+    {
+      "offset": 134722,
+      "length": 4,
+      "text": "`hs}"
+    },
+    {
+      "offset": 134836,
+      "length": 3,
+      "text": "`hs"
+    },
+    {
+      "offset": 134900,
+      "length": 3,
+      "text": ">ES"
+    },
+    {
+      "offset": 134925,
+      "length": 3,
+      "text": "`hs"
+    },
+    {
+      "offset": 134989,
+      "length": 3,
+      "text": "OYl"
+    },
+    {
+      "offset": 135014,
+      "length": 3,
+      "text": ">ES"
+    },
+    {
+      "offset": 135053,
+      "length": 3,
+      "text": "OYl"
+    },
+    {
+      "offset": 135078,
+      "length": 3,
+      "text": "&)1"
+    },
+    {
+      "offset": 135103,
+      "length": 3,
+      "text": ">ES"
+    },
+    {
+      "offset": 135142,
+      "length": 4,
+      "text": "OYlv"
+    },
+    {
+      "offset": 135167,
+      "length": 3,
+      "text": "/5?"
+    },
+    {
+      "offset": 135192,
+      "length": 3,
+      "text": "&)1"
+    },
+    {
+      "offset": 135231,
+      "length": 3,
+      "text": "/5?"
+    },
+    {
+      "offset": 135256,
+      "length": 3,
+      "text": "55C"
+    },
+    {
+      "offset": 135281,
+      "length": 3,
+      "text": "&)1"
+    },
+    {
+      "offset": 135320,
+      "length": 4,
+      "text": "/5?w"
+    },
+    {
+      "offset": 135345,
+      "length": 3,
+      "text": "BCU"
+    },
+    {
+      "offset": 135370,
+      "length": 3,
+      "text": "55C"
+    },
+    {
+      "offset": 135409,
+      "length": 3,
+      "text": "BCU"
+    },
+    {
+      "offset": 135459,
+      "length": 3,
+      "text": "55C"
+    },
+    {
+      "offset": 135498,
+      "length": 4,
+      "text": "BCUx"
+    },
+    {
+      "offset": 136121,
+      "length": 3,
+      "text": "qtr"
+    },
+    {
+      "offset": 136889,
+      "length": 12,
+      "text": "#=Track[3-2]"
+    },
+    {
+      "offset": 137453,
+      "length": 3,
+      "text": "6B:"
+    },
+    {
+      "offset": 137465,
+      "length": 3,
+      "text": "6B:"
+    },
+    {
+      "offset": 137469,
+      "length": 3,
+      "text": " +9"
+    },
+    {
+      "offset": 137517,
+      "length": 3,
+      "text": ":Df"
+    },
+    {
+      "offset": 137525,
+      "length": 3,
+      "text": "6B:"
+    },
+    {
+      "offset": 137589,
+      "length": 3,
+      "text": "rY?"
+    },
+    {
+      "offset": 137601,
+      "length": 3,
+      "text": "l)P"
+    },
+    {
+      "offset": 137621,
+      "length": 3,
+      "text": "6B:"
+    },
+    {
+      "offset": 137633,
+      "length": 3,
+      "text": "?u3"
+    },
+    {
+      "offset": 137645,
+      "length": 3,
+      "text": "?u3"
+    },
+    {
+      "offset": 137809,
+      "length": 3,
+      "text": "X|>"
+    },
+    {
+      "offset": 137837,
+      "length": 3,
+      "text": "?u3"
+    },
+    {
+      "offset": 137881,
+      "length": 3,
+      "text": "Ep="
+    },
+    {
+      "offset": 137945,
+      "length": 3,
+      "text": "?u3"
+    },
+    {
+      "offset": 138037,
+      "length": 3,
+      "text": "\"]h"
+    },
+    {
+      "offset": 138081,
+      "length": 3,
+      "text": "^KP"
+    },
+    {
+      "offset": 138129,
+      "length": 3,
+      "text": "\\2/"
+    },
+    {
+      "offset": 138313,
+      "length": 3,
+      "text": "K!y"
+    },
+    {
+      "offset": 138381,
+      "length": 3,
+      "text": "\\iq"
+    },
+    {
+      "offset": 138393,
+      "length": 3,
+      "text": "2k`"
+    },
+    {
+      "offset": 138597,
+      "length": 3,
+      "text": "~%("
+    },
+    {
+      "offset": 138705,
+      "length": 3,
+      "text": "fm>"
+    },
+    {
+      "offset": 138717,
+      "length": 3,
+      "text": " mO"
+    },
+    {
+      "offset": 138729,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 138775,
+      "length": 3,
+      "text": "gd_"
+    },
+    {
+      "offset": 138864,
+      "length": 3,
+      "text": "gd_"
+    },
+    {
+      "offset": 139067,
+      "length": 3,
+      "text": "MMM"
+    },
+    {
+      "offset": 139131,
+      "length": 3,
+      "text": "MMM"
+    },
+    {
+      "offset": 139220,
+      "length": 3,
+      "text": "MMM"
+    },
+    {
+      "offset": 140669,
+      "length": 3,
+      "text": "[ `"
+    },
+    {
+      "offset": 140783,
+      "length": 3,
+      "text": "[ `"
+    },
+    {
+      "offset": 140872,
+      "length": 3,
+      "text": "[ `"
+    },
+    {
+      "offset": 142093,
+      "length": 3,
+      "text": "bbb"
+    },
+    {
+      "offset": 142207,
+      "length": 3,
+      "text": "bbb"
+    },
+    {
+      "offset": 142296,
+      "length": 3,
+      "text": "bbb"
+    },
+    {
+      "offset": 142360,
+      "length": 4,
+      "text": "[ ` "
+    },
+    {
+      "offset": 142424,
+      "length": 4,
+      "text": "[ `!"
+    },
+    {
+      "offset": 142513,
+      "length": 3,
+      "text": "[ `"
+    },
+    {
+      "offset": 142627,
+      "length": 4,
+      "text": "d#j!"
+    },
+    {
+      "offset": 142741,
+      "length": 3,
+      "text": "d#j"
+    },
+    {
+      "offset": 142830,
+      "length": 3,
+      "text": "d#j"
+    },
+    {
+      "offset": 143606,
+      "length": 4,
+      "text": "Zf|("
+    },
+    {
+      "offset": 143670,
+      "length": 4,
+      "text": "Zf|+"
+    },
+    {
+      "offset": 143759,
+      "length": 4,
+      "text": "Zf|,"
+    },
+    {
+      "offset": 144407,
+      "length": 4,
+      "text": "Ze{4"
+    },
+    {
+      "offset": 144521,
+      "length": 3,
+      "text": "Ze{"
+    },
+    {
+      "offset": 144610,
+      "length": 3,
+      "text": "Ze{"
+    },
+    {
+      "offset": 145386,
+      "length": 4,
+      "text": "\\g~:"
+    },
+    {
+      "offset": 145450,
+      "length": 4,
+      "text": "\\g~<"
+    },
+    {
+      "offset": 145539,
+      "length": 4,
+      "text": "\\g~="
+    },
+    {
+      "offset": 146632,
+      "length": 4,
+      "text": "WUrH"
+    },
+    {
+      "offset": 146696,
+      "length": 4,
+      "text": "WUrJ"
+    },
+    {
+      "offset": 148412,
+      "length": 4,
+      "text": "Zf}9"
+    },
+    {
+      "offset": 148526,
+      "length": 3,
+      "text": "Zf}"
+    },
+    {
+      "offset": 148615,
+      "length": 3,
+      "text": "Zf}"
+    },
+    {
+      "offset": 149836,
+      "length": 4,
+      "text": "[Zx["
+    },
+    {
+      "offset": 149950,
+      "length": 3,
+      "text": "[Zx"
+    },
+    {
+      "offset": 150103,
+      "length": 3,
+      "text": "gd_"
+    },
+    {
+      "offset": 150524,
+      "length": 3,
+      "text": "|Qa"
+    },
+    {
+      "offset": 150613,
+      "length": 3,
+      "text": "|Qb"
+    },
+    {
+      "offset": 152749,
+      "length": 3,
+      "text": "zO^"
+    },
+    {
+      "offset": 153752,
+      "length": 4,
+      "text": "`hsy"
+    },
+    {
+      "offset": 153816,
+      "length": 4,
+      "text": "EN_~"
+    },
+    {
+      "offset": 153866,
+      "length": 3,
+      "text": "Vav"
+    },
+    {
+      "offset": 153905,
+      "length": 3,
+      "text": "EN_"
+    },
+    {
+      "offset": 154286,
+      "length": 3,
+      "text": "qtr"
+    },
+    {
+      "offset": 154350,
+      "length": 3,
+      "text": "qtr"
+    },
+    {
+      "offset": 154439,
+      "length": 3,
+      "text": "qtr"
+    },
+    {
+      "offset": 154617,
+      "length": 3,
+      "text": "Vav"
+    },
+    {
+      "offset": 154706,
+      "length": 4,
+      "text": "Vav~"
+    },
+    {
+      "offset": 154998,
+      "length": 3,
+      "text": "wzw"
+    },
+    {
+      "offset": 155112,
+      "length": 3,
+      "text": "wzw"
+    },
+    {
+      "offset": 155201,
+      "length": 3,
+      "text": "wzw"
+    },
+    {
+      "offset": 155596,
+      "length": 3,
+      "text": "Wbw"
+    },
+    {
+      "offset": 155646,
+      "length": 3,
+      "text": "O[i"
+    },
+    {
+      "offset": 155685,
+      "length": 3,
+      "text": "Wbw"
+    },
+    {
+      "offset": 155977,
+      "length": 3,
+      "text": "R`l"
+    },
+    {
+      "offset": 156091,
+      "length": 3,
+      "text": "R`l"
+    },
+    {
+      "offset": 156155,
+      "length": 3,
+      "text": "699"
+    },
+    {
+      "offset": 156180,
+      "length": 3,
+      "text": "R`l"
+    },
+    {
+      "offset": 156244,
+      "length": 3,
+      "text": "wzw"
+    },
+    {
+      "offset": 156269,
+      "length": 3,
+      "text": "699"
+    },
+    {
+      "offset": 156308,
+      "length": 3,
+      "text": "wzw"
+    },
+    {
+      "offset": 156358,
+      "length": 3,
+      "text": "699"
+    },
+    {
+      "offset": 156397,
+      "length": 3,
+      "text": "wzw"
+    },
+    {
+      "offset": 156809,
+      "length": 12,
+      "text": "#=Track[4-0]"
+    },
+    {
+      "offset": 157017,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 157152,
+      "length": 3,
+      "text": "UUQ"
+    },
+    {
+      "offset": 157241,
+      "length": 3,
+      "text": "MOe"
+    },
+    {
+      "offset": 157291,
+      "length": 3,
+      "text": "UUQ"
+    },
+    {
+      "offset": 157355,
+      "length": 3,
+      "text": "MOe"
+    },
+    {
+      "offset": 157380,
+      "length": 3,
+      "text": "UUQ"
+    },
+    {
+      "offset": 157444,
+      "length": 3,
+      "text": "MOe"
+    },
+    {
+      "offset": 158003,
+      "length": 3,
+      "text": "GG\\"
+    },
+    {
+      "offset": 158098,
+      "length": 12,
+      "text": "#=Track[4-1]"
+    },
+    {
+      "offset": 158462,
+      "length": 3,
+      "text": "(|-"
+    },
+    {
+      "offset": 158486,
+      "length": 3,
+      "text": "Pz>"
+    },
+    {
+      "offset": 158510,
+      "length": 3,
+      "text": "pxO"
+    },
+    {
+      "offset": 158570,
+      "length": 3,
+      "text": "HU="
+    },
+    {
+      "offset": 158594,
+      "length": 3,
+      "text": "tSN"
+    },
+    {
+      "offset": 158630,
+      "length": 3,
+      "text": ",5Y"
+    },
+    {
+      "offset": 158646,
+      "length": 3,
+      "text": "e1d"
+    },
+    {
+      "offset": 158702,
+      "length": 3,
+      "text": " C`"
+    },
+    {
+      "offset": 158730,
+      "length": 3,
+      "text": "rA@"
+    },
+    {
+      "offset": 158754,
+      "length": 3,
+      "text": "gs7"
+    },
+    {
+      "offset": 158762,
+      "length": 3,
+      "text": "8[Q"
+    },
+    {
+      "offset": 158910,
+      "length": 3,
+      "text": "ed?"
+    },
+    {
+      "offset": 159134,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 159269,
+      "length": 3,
+      "text": "UUQ"
+    },
+    {
+      "offset": 159358,
+      "length": 3,
+      "text": "MOe"
+    },
+    {
+      "offset": 159408,
+      "length": 3,
+      "text": "UUQ"
+    },
+    {
+      "offset": 159472,
+      "length": 3,
+      "text": "MOe"
+    },
+    {
+      "offset": 159497,
+      "length": 3,
+      "text": "UUQ"
+    },
+    {
+      "offset": 159561,
+      "length": 3,
+      "text": "MOe"
+    },
+    {
+      "offset": 160006,
+      "length": 3,
+      "text": "MOe"
+    },
+    {
+      "offset": 160070,
+      "length": 3,
+      "text": "MOe"
+    },
+    {
+      "offset": 160159,
+      "length": 3,
+      "text": "MOe"
+    },
+    {
+      "offset": 161494,
+      "length": 3,
+      "text": "__{"
+    },
+    {
+      "offset": 161583,
+      "length": 3,
+      "text": "__{"
+    },
+    {
+      "offset": 161786,
+      "length": 3,
+      "text": "__{"
+    },
+    {
+      "offset": 162142,
+      "length": 3,
+      "text": "]]y"
+    },
+    {
+      "offset": 162206,
+      "length": 3,
+      "text": "]]y"
+    },
+    {
+      "offset": 162295,
+      "length": 3,
+      "text": "]]y"
+    },
+    {
+      "offset": 166859,
+      "length": 4,
+      "text": "\\\\w?"
+    },
+    {
+      "offset": 166973,
+      "length": 3,
+      "text": "\\\\w"
+    },
+    {
+      "offset": 167037,
+      "length": 4,
+      "text": "OOf@"
+    },
+    {
+      "offset": 167062,
+      "length": 3,
+      "text": "\\\\w"
+    },
+    {
+      "offset": 167151,
+      "length": 3,
+      "text": "OOf"
+    },
+    {
+      "offset": 167215,
+      "length": 4,
+      "text": "WWqA"
+    },
+    {
+      "offset": 167240,
+      "length": 3,
+      "text": "OOf"
+    },
+    {
+      "offset": 167329,
+      "length": 3,
+      "text": "WWq"
+    },
+    {
+      "offset": 167393,
+      "length": 4,
+      "text": "GG\\B"
+    },
+    {
+      "offset": 167418,
+      "length": 3,
+      "text": "WWq"
+    },
+    {
+      "offset": 167507,
+      "length": 3,
+      "text": "GG\\"
+    },
+    {
+      "offset": 167596,
+      "length": 3,
+      "text": "GG\\"
+    },
+    {
+      "offset": 169649,
+      "length": 12,
+      "text": "#=Track[4-2]"
+    },
+    {
+      "offset": 169861,
+      "length": 3,
+      "text": "j}s"
+    },
+    {
+      "offset": 169873,
+      "length": 3,
+      "text": "9Fg"
+    },
+    {
+      "offset": 169885,
+      "length": 3,
+      "text": "{t{"
+    },
+    {
+      "offset": 170281,
+      "length": 3,
+      "text": "X|>"
+    },
+    {
+      "offset": 170353,
+      "length": 3,
+      "text": "\"]h"
+    },
+    {
+      "offset": 170413,
+      "length": 3,
+      "text": "EEV"
+    },
+    {
+      "offset": 170461,
+      "length": 3,
+      "text": ".@f"
+    },
+    {
+      "offset": 170485,
+      "length": 3,
+      "text": "0@n"
+    },
+    {
+      "offset": 170517,
+      "length": 3,
+      "text": "L82"
+    },
+    {
+      "offset": 170529,
+      "length": 3,
+      "text": "D^C"
+    },
+    {
+      "offset": 170625,
+      "length": 3,
+      "text": "|Sp"
+    },
+    {
+      "offset": 170805,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 174081,
+      "length": 3,
+      "text": "TT#"
+    },
+    {
+      "offset": 174145,
+      "length": 3,
+      "text": "TT%"
+    },
+    {
+      "offset": 174234,
+      "length": 3,
+      "text": "TT&"
+    },
+    {
+      "offset": 174259,
+      "length": 3,
+      "text": "mm%"
+    },
+    {
+      "offset": 174348,
+      "length": 3,
+      "text": "OD%"
+    },
+    {
+      "offset": 175060,
+      "length": 3,
+      "text": "UI*"
+    },
+    {
+      "offset": 175416,
+      "length": 3,
+      "text": "hh+"
+    },
+    {
+      "offset": 175861,
+      "length": 3,
+      "text": "UI/"
+    },
+    {
+      "offset": 175949,
+      "length": 4,
+      "text": "WUr2"
+    },
+    {
+      "offset": 176013,
+      "length": 4,
+      "text": "WUr3"
+    },
+    {
+      "offset": 176102,
+      "length": 4,
+      "text": "WUr4"
+    },
+    {
+      "offset": 176127,
+      "length": 4,
+      "text": "UTp3"
+    },
+    {
+      "offset": 176394,
+      "length": 4,
+      "text": "[Zx8"
+    },
+    {
+      "offset": 176508,
+      "length": 3,
+      "text": "[Zx"
+    },
+    {
+      "offset": 176547,
+      "length": 4,
+      "text": "UTp9"
+    },
+    {
+      "offset": 176572,
+      "length": 4,
+      "text": "IH_3"
+    },
+    {
+      "offset": 176636,
+      "length": 4,
+      "text": "UTp:"
+    },
+    {
+      "offset": 176661,
+      "length": 4,
+      "text": "21?9"
+    },
+    {
+      "offset": 176686,
+      "length": 3,
+      "text": "IH_"
+    },
+    {
+      "offset": 176725,
+      "length": 4,
+      "text": "21?;"
+    },
+    {
+      "offset": 176750,
+      "length": 4,
+      "text": "IG_9"
+    },
+    {
+      "offset": 176775,
+      "length": 3,
+      "text": "IH_"
+    },
+    {
+      "offset": 176814,
+      "length": 4,
+      "text": "21?<"
+    },
+    {
+      "offset": 176839,
+      "length": 4,
+      "text": "43C;"
+    },
+    {
+      "offset": 176864,
+      "length": 3,
+      "text": "IG_"
+    },
+    {
+      "offset": 176903,
+      "length": 4,
+      "text": "43C="
+    },
+    {
+      "offset": 176953,
+      "length": 3,
+      "text": "IG_"
+    },
+    {
+      "offset": 176992,
+      "length": 4,
+      "text": "43C>"
+    },
+    {
+      "offset": 177017,
+      "length": 4,
+      "text": "[Zx="
+    },
+    {
+      "offset": 177081,
+      "length": 4,
+      "text": "[Zx?"
+    },
+    {
+      "offset": 177170,
+      "length": 4,
+      "text": "[Zx@"
+    },
+    {
+      "offset": 177462,
+      "length": 4,
+      "text": "MKd5"
+    },
+    {
+      "offset": 177551,
+      "length": 4,
+      "text": "IH_C"
+    },
+    {
+      "offset": 177576,
+      "length": 3,
+      "text": "MKd"
+    },
+    {
+      "offset": 177615,
+      "length": 4,
+      "text": "IH_D"
+    },
+    {
+      "offset": 177640,
+      "length": 4,
+      "text": "HG^C"
+    },
+    {
+      "offset": 177665,
+      "length": 3,
+      "text": "MKd"
+    },
+    {
+      "offset": 177704,
+      "length": 4,
+      "text": "IH_;"
+    },
+    {
+      "offset": 177729,
+      "length": 4,
+      "text": "IG_D"
+    },
+    {
+      "offset": 177754,
+      "length": 3,
+      "text": "HG^"
+    },
+    {
+      "offset": 177793,
+      "length": 4,
+      "text": "IG_E"
+    },
+    {
+      "offset": 177843,
+      "length": 3,
+      "text": "HG^"
+    },
+    {
+      "offset": 177882,
+      "length": 4,
+      "text": "IG_="
+    },
+    {
+      "offset": 178352,
+      "length": 4,
+      "text": "?>Q7"
+    },
+    {
+      "offset": 178377,
+      "length": 3,
+      "text": "[Zx"
+    },
+    {
+      "offset": 178441,
+      "length": 4,
+      "text": "MKdH"
+    },
+    {
+      "offset": 178466,
+      "length": 3,
+      "text": "?>Q"
+    },
+    {
+      "offset": 178505,
+      "length": 4,
+      "text": "MKdI"
+    },
+    {
+      "offset": 178530,
+      "length": 4,
+      "text": "00>H"
+    },
+    {
+      "offset": 178555,
+      "length": 3,
+      "text": "?>Q"
+    },
+    {
+      "offset": 178594,
+      "length": 4,
+      "text": "MKdD"
+    },
+    {
+      "offset": 178619,
+      "length": 4,
+      "text": "HG^I"
+    },
+    {
+      "offset": 178644,
+      "length": 3,
+      "text": "00>"
+    },
+    {
+      "offset": 178683,
+      "length": 4,
+      "text": "HG^J"
+    },
+    {
+      "offset": 178708,
+      "length": 4,
+      "text": "XWtI"
+    },
+    {
+      "offset": 178733,
+      "length": 3,
+      "text": "00>"
+    },
+    {
+      "offset": 178772,
+      "length": 4,
+      "text": "HG^E"
+    },
+    {
+      "offset": 178822,
+      "length": 3,
+      "text": "XWt"
+    },
+    {
+      "offset": 178886,
+      "length": 4,
+      "text": "XVsJ"
+    },
+    {
+      "offset": 178911,
+      "length": 3,
+      "text": "XWt"
+    },
+    {
+      "offset": 179000,
+      "length": 3,
+      "text": "XVs"
+    },
+    {
+      "offset": 179064,
+      "length": 4,
+      "text": "//<K"
+    },
+    {
+      "offset": 179089,
+      "length": 3,
+      "text": "XVs"
+    },
+    {
+      "offset": 179178,
+      "length": 3,
+      "text": "//<"
+    },
+    {
+      "offset": 179331,
+      "length": 4,
+      "text": "LKbM"
+    },
+    {
+      "offset": 179395,
+      "length": 4,
+      "text": "LKbO"
+    },
+    {
+      "offset": 179484,
+      "length": 4,
+      "text": "LKbP"
+    },
+    {
+      "offset": 179509,
+      "length": 4,
+      "text": "YXuO"
+    },
+    {
+      "offset": 179573,
+      "length": 4,
+      "text": "YXuQ"
+    },
+    {
+      "offset": 179662,
+      "length": 4,
+      "text": "YXuR"
+    },
+    {
+      "offset": 180132,
+      "length": 4,
+      "text": "SRiG"
+    },
+    {
+      "offset": 180246,
+      "length": 3,
+      "text": "SRi"
+    },
+    {
+      "offset": 180335,
+      "length": 3,
+      "text": "SRi"
+    },
+    {
+      "offset": 181022,
+      "length": 4,
+      "text": "?>RL"
+    },
+    {
+      "offset": 181047,
+      "length": 3,
+      "text": "//<"
+    },
+    {
+      "offset": 181111,
+      "length": 4,
+      "text": "SRiY"
+    },
+    {
+      "offset": 181136,
+      "length": 3,
+      "text": "?>R"
+    },
+    {
+      "offset": 181175,
+      "length": 4,
+      "text": "SRiZ"
+    },
+    {
+      "offset": 181225,
+      "length": 3,
+      "text": "?>R"
+    },
+    {
+      "offset": 181264,
+      "length": 4,
+      "text": "SRiV"
+    },
+    {
+      "offset": 181854,
+      "length": 12,
+      "text": "#=Track[4-3]"
+    },
+    {
+      "offset": 182174,
+      "length": 3,
+      "text": "bL@"
+    },
+    {
+      "offset": 182218,
+      "length": 3,
+      "text": ",xe"
+    },
+    {
+      "offset": 182230,
+      "length": 3,
+      "text": "dxv"
+    },
+    {
+      "offset": 182282,
+      "length": 3,
+      "text": "NW>"
+    },
+    {
+      "offset": 182306,
+      "length": 3,
+      "text": "X4N"
+    },
+    {
+      "offset": 182566,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 186351,
+      "length": 3,
+      "text": "UI$"
+    },
+    {
+      "offset": 186910,
+      "length": 3,
+      "text": "a*'"
+    },
+    {
+      "offset": 188601,
+      "length": 3,
+      "text": "UI2"
+    },
+    {
+      "offset": 188779,
+      "length": 3,
+      "text": "hh5"
+    },
+    {
+      "offset": 189224,
+      "length": 3,
+      "text": "UI%"
+    },
+    {
+      "offset": 189254,
+      "length": 12,
+      "text": "#=Track[5-2]"
+    },
+    {
+      "offset": 189378,
+      "length": 3,
+      "text": " Wi"
+    },
+    {
+      "offset": 189390,
+      "length": 3,
+      "text": "hEu"
+    },
+    {
+      "offset": 189534,
+      "length": 3,
+      "text": ",A!"
+    },
+    {
+      "offset": 189678,
+      "length": 3,
+      "text": "\\4I"
+    },
+    {
+      "offset": 189730,
+      "length": 3,
+      "text": "j}s"
+    },
+    {
+      "offset": 189874,
+      "length": 3,
+      "text": "9Fg"
+    },
+    {
+      "offset": 190026,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 190364,
+      "length": 3,
+      "text": "\"/\""
+    },
+    {
+      "offset": 190428,
+      "length": 3,
+      "text": "\"/\""
+    },
+    {
+      "offset": 190517,
+      "length": 3,
+      "text": "\"/\""
+    },
+    {
+      "offset": 193099,
+      "length": 3,
+      "text": ">- "
+    },
+    {
+      "offset": 196125,
+      "length": 3,
+      "text": "kk3"
+    },
+    {
+      "offset": 196214,
+      "length": 3,
+      "text": "kk5"
+    },
+    {
+      "offset": 196659,
+      "length": 3,
+      "text": "vv8"
+    },
+    {
+      "offset": 196748,
+      "length": 3,
+      "text": "vv3"
+    },
+    {
+      "offset": 197604,
+      "length": 12,
+      "text": "#=Track[5-3]"
+    },
+    {
+      "offset": 197648,
+      "length": 3,
+      "text": "4yC"
+    },
+    {
+      "offset": 197744,
+      "length": 3,
+      "text": "2JE"
+    },
+    {
+      "offset": 197924,
+      "length": 3,
+      "text": "(E]"
+    },
+    {
+      "offset": 197948,
+      "length": 3,
+      "text": "zHY"
+    },
+    {
+      "offset": 197984,
+      "length": 3,
+      "text": "zs<"
+    },
+    {
+      "offset": 198068,
+      "length": 3,
+      "text": " Tj"
+    },
+    {
+      "offset": 198088,
+      "length": 3,
+      "text": "PnT"
+    },
+    {
+      "offset": 198224,
+      "length": 3,
+      "text": "bL@"
+    },
+    {
+      "offset": 198248,
+      "length": 3,
+      "text": "X4N"
+    },
+    {
+      "offset": 198268,
+      "length": 8,
+      "text": "NewTrack"
+    },
+    {
+      "offset": 198364,
+      "length": 3,
+      "text": "]g\""
+    },
+    {
+      "offset": 200094,
+      "length": 3,
+      "text": "]g\""
+    },
+    {
+      "offset": 200183,
+      "length": 3,
+      "text": "]g\""
+    },
+    {
+      "offset": 201697,
+      "length": 3,
+      "text": "vv "
+    },
+    {
+      "offset": 204213,
+      "length": 4,
+      "text": "]g\"."
+    },
+    {
+      "offset": 204327,
+      "length": 3,
+      "text": "]g\""
+    },
+    {
+      "offset": 204480,
+      "length": 3,
+      "text": "]g\""
+    }
+  ],
+  "utf16le_strings": [],
+  "embedded_filename_references": [],
+  "embedded_signatures": [
+    {
+      "type": "PCX",
+      "offset": 50,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 905,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 1053,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 1168,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 2711,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 3950,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 4288,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 4711,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 4953,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 4992,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5145,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5156,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5220,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5348,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5462,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5610,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 6551,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 7174,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 11325,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 11884,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 11973,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 12240,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 12279,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 12790,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 12974,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 13204,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 13446,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 14474,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 15415,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 15529,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 15618,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 15922,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 16011,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 16750,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 18236,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 19281,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 19355,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 19374,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 20758,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 20872,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 20909,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 20998,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 28786,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 28932,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 29054,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 29440,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 29529,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 29912,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 30026,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 30115,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 31247,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 31311,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 31400,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 33922,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 33934,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 35089,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 35141,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 35178,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 35892,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 35981,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 39566,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 39680,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 40723,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 40906,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 41740,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 41806,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 41830,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 42980,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 43119,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 43208,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 43603,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 43685,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 43717,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 43806,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 44589,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 44728,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 44817,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 45212,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 45326,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 45415,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 45732,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 46533,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 57114,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 57904,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 58043,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 58132,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 58527,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 58619,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 58641,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 58730,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 58758,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 59242,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 59761,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 63118,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 63627,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 63716,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 64711,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 66286,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 66400,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 66489,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 67327,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 67416,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 68155,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 68219,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 68308,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 75428,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 75542,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 75631,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 75935,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 76024,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 80452,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 80566,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 80655,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 80959,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 81048,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 81787,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 81851,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 81940,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 83451,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 83540,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 83993,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 84082,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 84378,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 84492,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 84581,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 85001,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 85090,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 85115,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 85154,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 85204,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 85243,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 85802,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 85866,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 85955,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 87896,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 88074,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 88732,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 88821,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 88846,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 88885,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 88935,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 88974,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 89536,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 90156,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 90245,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 90270,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 90309,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 90359,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 90398,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 91669,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 91733,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 91822,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 95521,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 95533,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 95689,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 95785,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 96296,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 96317,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 97555,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 97694,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 97783,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 102450,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 102564,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 102653,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 113380,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 113432,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 113469,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 114297,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 114361,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 114450,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 116490,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 116604,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 116693,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 119046,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 119180,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 120700,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 120727,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 120789,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 120841,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 120930,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 121528,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 121592,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 121681,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 127526,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 127615,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 128811,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 128861,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 128900,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 129879,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 129968,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 131285,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 131374,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 133065,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 133154,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 134553,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 134845,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 134934,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 136176,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 136265,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 136532,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 136867,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 137451,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 138117,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 138347,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 139490,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 139604,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 139693,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 140205,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 140264,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 140353,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 141092,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 141156,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 141245,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 141718,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 141807,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 141832,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 142074,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 142188,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 142277,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 143409,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 153583,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 154494,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 155295,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 155384,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 156452,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 156541,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 156673,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 156787,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 157803,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 157842,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 158045,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 159112,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 159895,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 160009,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 160098,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 160454,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 160607,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 160721,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 170259,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 170555,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 171177,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 171183,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 171272,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 171591,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 171902,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 171991,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 172249,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 172335,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 172812,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 172926,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 173136,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 173225,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 173794,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 173908,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 173997,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 174506,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 174595,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 174620,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 174659,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 174709,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 174748,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 175307,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 175371,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 175460,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 176731,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 176820,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 176845,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 176884,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 176934,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 176973,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 177621,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 177710,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 177735,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 177774,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 177824,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 177863,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 178600,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 178664,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 178753,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 182344,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 182761,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 182850,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 183149,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 183263,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 183352,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 183601,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 183651,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 183665,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 183740,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 183754,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 184368,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 184457,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 184541,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 184630,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 185196,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 185260,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 185349,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 185609,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 185698,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 186499,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 186538,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 186588,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 186652,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 186741,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 187567,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 187656,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 188734,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 188823,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 189628,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 189976,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 189988,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 190000,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 190609,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 190723,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 190812,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 190968,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 191082,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 191171,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 191196,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 191235,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 191285,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 191299,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 191388,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 191413,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 191463,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 191477,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 191502,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 191552,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 191566,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 191616,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 191705,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 191949,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 192013,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 192102,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 192267,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 192656,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 192720,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 192809,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 192887,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 193015,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 193079,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 193168,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 193549,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 193599,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 193613,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 193702,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 193781,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 194171,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 194285,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 194374,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 195920,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 196006,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 197952,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 198026,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 198038,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 199029,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 199143,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 199232,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 199442,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 200070,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 200159,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 200898,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 200962,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 201044,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 201051,
+      "signature_hex": "0a"
+    }
+  ],
+  "entropy_256_byte_windows": [
+    {
+      "offset": 0,
+      "length": 256,
+      "entropy": 3.7552
+    },
+    {
+      "offset": 256,
+      "length": 256,
+      "entropy": 3.2854
+    },
+    {
+      "offset": 512,
+      "length": 256,
+      "entropy": 4.9458
+    },
+    {
+      "offset": 768,
+      "length": 256,
+      "entropy": 5.9948
+    },
+    {
+      "offset": 1024,
+      "length": 256,
+      "entropy": 6.1344
+    },
+    {
+      "offset": 1280,
+      "length": 256,
+      "entropy": 6.2039
+    },
+    {
+      "offset": 1536,
+      "length": 256,
+      "entropy": 6.2984
+    },
+    {
+      "offset": 1792,
+      "length": 256,
+      "entropy": 5.6887
+    },
+    {
+      "offset": 2048,
+      "length": 256,
+      "entropy": 6.2188
+    },
+    {
+      "offset": 2304,
+      "length": 256,
+      "entropy": 5.9849
+    },
+    {
+      "offset": 2560,
+      "length": 256,
+      "entropy": 4.5569
+    },
+    {
+      "offset": 2816,
+      "length": 256,
+      "entropy": 4.8717
+    },
+    {
+      "offset": 3072,
+      "length": 256,
+      "entropy": 4.7376
+    },
+    {
+      "offset": 3328,
+      "length": 256,
+      "entropy": 4.64
+    },
+    {
+      "offset": 3584,
+      "length": 256,
+      "entropy": 4.3529
+    },
+    {
+      "offset": 3840,
+      "length": 256,
+      "entropy": 2.5137
+    },
+    {
+      "offset": 4096,
+      "length": 256,
+      "entropy": 5.1677
+    },
+    {
+      "offset": 4352,
+      "length": 256,
+      "entropy": 3.0719
+    },
+    {
+      "offset": 4608,
+      "length": 256,
+      "entropy": 2.9503
+    },
+    {
+      "offset": 4864,
+      "length": 256,
+      "entropy": 3.4084
+    },
+    {
+      "offset": 5120,
+      "length": 256,
+      "entropy": 3.4771
+    },
+    {
+      "offset": 5376,
+      "length": 256,
+      "entropy": 4.1278
+    },
+    {
+      "offset": 5632,
+      "length": 256,
+      "entropy": 4.2868
+    },
+    {
+      "offset": 5888,
+      "length": 256,
+      "entropy": 4.3526
+    },
+    {
+      "offset": 6144,
+      "length": 256,
+      "entropy": 3.1758
+    },
+    {
+      "offset": 6400,
+      "length": 256,
+      "entropy": 2.0595
+    },
+    {
+      "offset": 6656,
+      "length": 256,
+      "entropy": 2.0858
+    },
+    {
+      "offset": 6912,
+      "length": 256,
+      "entropy": 2.0151
+    },
+    {
+      "offset": 7168,
+      "length": 256,
+      "entropy": 1.9638
+    },
+    {
+      "offset": 7424,
+      "length": 256,
+      "entropy": 1.8694
+    },
+    {
+      "offset": 7680,
+      "length": 256,
+      "entropy": 2.0455
+    },
+    {
+      "offset": 7936,
+      "length": 256,
+      "entropy": 1.9213
+    },
+    {
+      "offset": 8192,
+      "length": 256,
+      "entropy": 2.001
+    },
+    {
+      "offset": 8448,
+      "length": 256,
+      "entropy": 2.001
+    },
+    {
+      "offset": 8704,
+      "length": 256,
+      "entropy": 2.254
+    },
+    {
+      "offset": 8960,
+      "length": 256,
+      "entropy": 2.0629
+    },
+    {
+      "offset": 9216,
+      "length": 256,
+      "entropy": 1.9681
+    },
+    {
+      "offset": 9472,
+      "length": 256,
+      "entropy": 2.1286
+    },
+    {
+      "offset": 9728,
+      "length": 256,
+      "entropy": 2.0602
+    },
+    {
+      "offset": 9984,
+      "length": 256,
+      "entropy": 2.4058
+    },
+    {
+      "offset": 10240,
+      "length": 256,
+      "entropy": 2.078
+    },
+    {
+      "offset": 10496,
+      "length": 256,
+      "entropy": 2.8187
+    },
+    {
+      "offset": 10752,
+      "length": 256,
+      "entropy": 4.5165
+    },
+    {
+      "offset": 11008,
+      "length": 256,
+      "entropy": 2.2937
+    },
+    {
+      "offset": 11264,
+      "length": 256,
+      "entropy": 2.0399
+    },
+    {
+      "offset": 11520,
+      "length": 256,
+      "entropy": 2.0324
+    },
+    {
+      "offset": 11776,
+      "length": 256,
+      "entropy": 1.9779
+    },
+    {
+      "offset": 12032,
+      "length": 256,
+      "entropy": 1.8969
+    },
+    {
+      "offset": 12288,
+      "length": 256,
+      "entropy": 2.2738
+    },
+    {
+      "offset": 12544,
+      "length": 256,
+      "entropy": 4.468
+    },
+    {
+      "offset": 12800,
+      "length": 256,
+      "entropy": 2.9487
+    },
+    {
+      "offset": 13056,
+      "length": 256,
+      "entropy": 2.102
+    },
+    {
+      "offset": 13312,
+      "length": 256,
+      "entropy": 2.0295
+    },
+    {
+      "offset": 13568,
+      "length": 256,
+      "entropy": 1.9255
+    },
+    {
+      "offset": 13824,
+      "length": 256,
+      "entropy": 1.8403
+    },
+    {
+      "offset": 14080,
+      "length": 256,
+      "entropy": 4.5897
+    },
+    {
+      "offset": 14336,
+      "length": 256,
+      "entropy": 4.8222
+    },
+    {
+      "offset": 14592,
+      "length": 256,
+      "entropy": 2.7998
+    },
+    {
+      "offset": 14848,
+      "length": 256,
+      "entropy": 2.1262
+    },
+    {
+      "offset": 15104,
+      "length": 256,
+      "entropy": 1.9173
+    },
+    {
+      "offset": 15360,
+      "length": 256,
+      "entropy": 1.8156
+    },
+    {
+      "offset": 15616,
+      "length": 256,
+      "entropy": 1.8596
+    },
+    {
+      "offset": 15872,
+      "length": 256,
+      "entropy": 2.0118
+    },
+    {
+      "offset": 16128,
+      "length": 256,
+      "entropy": 2.0627
+    },
+    {
+      "offset": 16384,
+      "length": 256,
+      "entropy": 1.978
+    },
+    {
+      "offset": 16640,
+      "length": 256,
+      "entropy": 1.9693
+    },
+    {
+      "offset": 16896,
+      "length": 256,
+      "entropy": 2.0764
+    },
+    {
+      "offset": 17152,
+      "length": 256,
+      "entropy": 2.0126
+    },
+    {
+      "offset": 17408,
+      "length": 256,
+      "entropy": 1.8421
+    },
+    {
+      "offset": 17664,
+      "length": 256,
+      "entropy": 1.8395
+    },
+    {
+      "offset": 17920,
+      "length": 256,
+      "entropy": 1.8113
+    },
+    {
+      "offset": 18176,
+      "length": 256,
+      "entropy": 1.7932
+    },
+    {
+      "offset": 18432,
+      "length": 256,
+      "entropy": 2.0046
+    },
+    {
+      "offset": 18688,
+      "length": 256,
+      "entropy": 2.1481
+    },
+    {
+      "offset": 18944,
+      "length": 256,
+      "entropy": 3.3353
+    },
+    {
+      "offset": 19200,
+      "length": 256,
+      "entropy": 4.6277
+    },
+    {
+      "offset": 19456,
+      "length": 256,
+      "entropy": 4.5572
+    },
+    {
+      "offset": 19712,
+      "length": 256,
+      "entropy": 4.7087
+    },
+    {
+      "offset": 19968,
+      "length": 256,
+      "entropy": 2.542
+    },
+    {
+      "offset": 20224,
+      "length": 256,
+      "entropy": 2.0011
+    },
+    {
+      "offset": 20480,
+      "length": 256,
+      "entropy": 2.173
+    },
+    {
+      "offset": 20736,
+      "length": 256,
+      "entropy": 2.2195
+    },
+    {
+      "offset": 20992,
+      "length": 256,
+      "entropy": 2.0354
+    },
+    {
+      "offset": 21248,
+      "length": 256,
+      "entropy": 2.0403
+    },
+    {
+      "offset": 21504,
+      "length": 256,
+      "entropy": 2.1929
+    },
+    {
+      "offset": 21760,
+      "length": 256,
+      "entropy": 2.0156
+    },
+    {
+      "offset": 22016,
+      "length": 256,
+      "entropy": 2.0628
+    },
+    {
+      "offset": 22272,
+      "length": 256,
+      "entropy": 2.0396
+    },
+    {
+      "offset": 22528,
+      "length": 256,
+      "entropy": 2.0996
+    },
+    {
+      "offset": 22784,
+      "length": 256,
+      "entropy": 2.1208
+    },
+    {
+      "offset": 23040,
+      "length": 256,
+      "entropy": 2.1484
+    },
+    {
+      "offset": 23296,
+      "length": 256,
+      "entropy": 2.1592
+    },
+    {
+      "offset": 23552,
+      "length": 256,
+      "entropy": 2.0808
+    },
+    {
+      "offset": 23808,
+      "length": 256,
+      "entropy": 2.0509
+    },
+    {
+      "offset": 24064,
+      "length": 256,
+      "entropy": 2.1684
+    },
+    {
+      "offset": 24320,
+      "length": 256,
+      "entropy": 2.0759
+    },
+    {
+      "offset": 24576,
+      "length": 256,
+      "entropy": 2.2611
+    },
+    {
+      "offset": 24832,
+      "length": 256,
+      "entropy": 2.2279
+    },
+    {
+      "offset": 25088,
+      "length": 256,
+      "entropy": 2.2046
+    },
+    {
+      "offset": 25344,
+      "length": 256,
+      "entropy": 2.1228
+    },
+    {
+      "offset": 25600,
+      "length": 256,
+      "entropy": 2.2252
+    },
+    {
+      "offset": 25856,
+      "length": 256,
+      "entropy": 2.0835
+    },
+    {
+      "offset": 26112,
+      "length": 256,
+      "entropy": 2.168
+    },
+    {
+      "offset": 26368,
+      "length": 256,
+      "entropy": 2.0255
+    },
+    {
+      "offset": 26624,
+      "length": 256,
+      "entropy": 1.8061
+    },
+    {
+      "offset": 26880,
+      "length": 256,
+      "entropy": 1.8814
+    },
+    {
+      "offset": 27136,
+      "length": 256,
+      "entropy": 2.0722
+    },
+    {
+      "offset": 27392,
+      "length": 256,
+      "entropy": 1.8679
+    },
+    {
+      "offset": 27648,
+      "length": 256,
+      "entropy": 1.979
+    },
+    {
+      "offset": 27904,
+      "length": 256,
+      "entropy": 1.8995
+    },
+    {
+      "offset": 28160,
+      "length": 256,
+      "entropy": 1.9062
+    },
+    {
+      "offset": 28416,
+      "length": 256,
+      "entropy": 2.0052
+    },
+    {
+      "offset": 28672,
+      "length": 256,
+      "entropy": 4.3986
+    },
+    {
+      "offset": 28928,
+      "length": 256,
+      "entropy": 4.8227
+    },
+    {
+      "offset": 29184,
+      "length": 256,
+      "entropy": 2.9843
+    },
+    {
+      "offset": 29440,
+      "length": 256,
+      "entropy": 2.2105
+    },
+    {
+      "offset": 29696,
+      "length": 256,
+      "entropy": 2.1361
+    },
+    {
+      "offset": 29952,
+      "length": 256,
+      "entropy": 2.1622
+    },
+    {
+      "offset": 30208,
+      "length": 256,
+      "entropy": 2.0283
+    },
+    {
+      "offset": 30464,
+      "length": 256,
+      "entropy": 2.1091
+    },
+    {
+      "offset": 30720,
+      "length": 256,
+      "entropy": 2.0602
+    },
+    {
+      "offset": 30976,
+      "length": 256,
+      "entropy": 2.07
+    },
+    {
+      "offset": 31232,
+      "length": 256,
+      "entropy": 2.0718
+    },
+    {
+      "offset": 31488,
+      "length": 256,
+      "entropy": 2.1039
+    },
+    {
+      "offset": 31744,
+      "length": 256,
+      "entropy": 2.0096
+    },
+    {
+      "offset": 32000,
+      "length": 256,
+      "entropy": 2.0635
+    },
+    {
+      "offset": 32256,
+      "length": 256,
+      "entropy": 2.0179
+    },
+    {
+      "offset": 32512,
+      "length": 256,
+      "entropy": 2.0312
+    },
+    {
+      "offset": 32768,
+      "length": 256,
+      "entropy": 2.1061
+    },
+    {
+      "offset": 33024,
+      "length": 256,
+      "entropy": 2.0746
+    },
+    {
+      "offset": 33280,
+      "length": 256,
+      "entropy": 2.1516
+    },
+    {
+      "offset": 33536,
+      "length": 256,
+      "entropy": 2.1125
+    },
+    {
+      "offset": 33792,
+      "length": 256,
+      "entropy": 4.9027
+    },
+    {
+      "offset": 34048,
+      "length": 256,
+      "entropy": 4.8029
+    },
+    {
+      "offset": 34304,
+      "length": 256,
+      "entropy": 3.8267
+    },
+    {
+      "offset": 34560,
+      "length": 256,
+      "entropy": 1.8814
+    },
+    {
+      "offset": 34816,
+      "length": 256,
+      "entropy": 1.8273
+    },
+    {
+      "offset": 35072,
+      "length": 256,
+      "entropy": 1.7954
+    },
+    {
+      "offset": 35328,
+      "length": 256,
+      "entropy": 1.8855
+    },
+    {
+      "offset": 35584,
+      "length": 256,
+      "entropy": 1.8709
+    },
+    {
+      "offset": 35840,
+      "length": 256,
+      "entropy": 1.9577
+    },
+    {
+      "offset": 36096,
+      "length": 256,
+      "entropy": 1.746
+    },
+    {
+      "offset": 36352,
+      "length": 256,
+      "entropy": 1.8203
+    },
+    {
+      "offset": 36608,
+      "length": 256,
+      "entropy": 1.8374
+    },
+    {
+      "offset": 36864,
+      "length": 256,
+      "entropy": 1.874
+    },
+    {
+      "offset": 37120,
+      "length": 256,
+      "entropy": 1.982
+    },
+    {
+      "offset": 37376,
+      "length": 256,
+      "entropy": 2.0849
+    },
+    {
+      "offset": 37632,
+      "length": 256,
+      "entropy": 1.9255
+    },
+    {
+      "offset": 37888,
+      "length": 256,
+      "entropy": 2.0
+    },
+    {
+      "offset": 38144,
+      "length": 256,
+      "entropy": 1.9449
+    },
+    {
+      "offset": 38400,
+      "length": 256,
+      "entropy": 2.0858
+    },
+    {
+      "offset": 38656,
+      "length": 256,
+      "entropy": 1.9042
+    },
+    {
+      "offset": 38912,
+      "length": 256,
+      "entropy": 1.8902
+    },
+    {
+      "offset": 39168,
+      "length": 256,
+      "entropy": 1.9349
+    },
+    {
+      "offset": 39424,
+      "length": 256,
+      "entropy": 2.1175
+    },
+    {
+      "offset": 39680,
+      "length": 256,
+      "entropy": 1.8057
+    },
+    {
+      "offset": 39936,
+      "length": 256,
+      "entropy": 1.9653
+    },
+    {
+      "offset": 40192,
+      "length": 256,
+      "entropy": 1.8574
+    },
+    {
+      "offset": 40448,
+      "length": 256,
+      "entropy": 2.16
+    },
+    {
+      "offset": 40704,
+      "length": 256,
+      "entropy": 5.2689
+    },
+    {
+      "offset": 40960,
+      "length": 256,
+      "entropy": 6.1705
+    },
+    {
+      "offset": 41216,
+      "length": 256,
+      "entropy": 6.1748
+    },
+    {
+      "offset": 41472,
+      "length": 256,
+      "entropy": 5.1117
+    },
+    {
+      "offset": 41728,
+      "length": 256,
+      "entropy": 4.7065
+    },
+    {
+      "offset": 41984,
+      "length": 256,
+      "entropy": 4.7399
+    },
+    {
+      "offset": 42240,
+      "length": 256,
+      "entropy": 4.0443
+    },
+    {
+      "offset": 42496,
+      "length": 256,
+      "entropy": 4.0215
+    },
+    {
+      "offset": 42752,
+      "length": 256,
+      "entropy": 3.7957
+    },
+    {
+      "offset": 43008,
+      "length": 256,
+      "entropy": 3.7149
+    },
+    {
+      "offset": 43264,
+      "length": 256,
+      "entropy": 3.8994
+    },
+    {
+      "offset": 43520,
+      "length": 256,
+      "entropy": 3.6283
+    },
+    {
+      "offset": 43776,
+      "length": 256,
+      "entropy": 3.9524
+    },
+    {
+      "offset": 44032,
+      "length": 256,
+      "entropy": 3.7121
+    },
+    {
+      "offset": 44288,
+      "length": 256,
+      "entropy": 3.9922
+    },
+    {
+      "offset": 44544,
+      "length": 256,
+      "entropy": 3.9976
+    },
+    {
+      "offset": 44800,
+      "length": 256,
+      "entropy": 4.1851
+    },
+    {
+      "offset": 45056,
+      "length": 256,
+      "entropy": 4.0876
+    },
+    {
+      "offset": 45312,
+      "length": 256,
+      "entropy": 4.2257
+    },
+    {
+      "offset": 45568,
+      "length": 256,
+      "entropy": 4.0105
+    },
+    {
+      "offset": 45824,
+      "length": 256,
+      "entropy": 3.9956
+    },
+    {
+      "offset": 46080,
+      "length": 256,
+      "entropy": 3.9772
+    },
+    {
+      "offset": 46336,
+      "length": 256,
+      "entropy": 3.8664
+    },
+    {
+      "offset": 46592,
+      "length": 256,
+      "entropy": 3.8696
+    },
+    {
+      "offset": 46848,
+      "length": 256,
+      "entropy": 3.7711
+    },
+    {
+      "offset": 47104,
+      "length": 256,
+      "entropy": 3.6892
+    },
+    {
+      "offset": 47360,
+      "length": 256,
+      "entropy": 3.7077
+    },
+    {
+      "offset": 47616,
+      "length": 256,
+      "entropy": 3.659
+    },
+    {
+      "offset": 47872,
+      "length": 256,
+      "entropy": 3.5752
+    },
+    {
+      "offset": 48128,
+      "length": 256,
+      "entropy": 3.7912
+    },
+    {
+      "offset": 48384,
+      "length": 256,
+      "entropy": 3.5971
+    },
+    {
+      "offset": 48640,
+      "length": 256,
+      "entropy": 3.891
+    },
+    {
+      "offset": 48896,
+      "length": 256,
+      "entropy": 3.9768
+    },
+    {
+      "offset": 49152,
+      "length": 256,
+      "entropy": 4.147
+    },
+    {
+      "offset": 49408,
+      "length": 256,
+      "entropy": 4.3378
+    },
+    {
+      "offset": 49664,
+      "length": 256,
+      "entropy": 2.4935
+    },
+    {
+      "offset": 49920,
+      "length": 256,
+      "entropy": 1.9161
+    },
+    {
+      "offset": 50176,
+      "length": 256,
+      "entropy": 1.9653
+    },
+    {
+      "offset": 50432,
+      "length": 256,
+      "entropy": 1.9141
+    },
+    {
+      "offset": 50688,
+      "length": 256,
+      "entropy": 1.92
+    },
+    {
+      "offset": 50944,
+      "length": 256,
+      "entropy": 2.1645
+    },
+    {
+      "offset": 51200,
+      "length": 256,
+      "entropy": 1.8094
+    },
+    {
+      "offset": 51456,
+      "length": 256,
+      "entropy": 1.7805
+    },
+    {
+      "offset": 51712,
+      "length": 256,
+      "entropy": 2.0363
+    },
+    {
+      "offset": 51968,
+      "length": 256,
+      "entropy": 1.8445
+    },
+    {
+      "offset": 52224,
+      "length": 256,
+      "entropy": 1.7944
+    },
+    {
+      "offset": 52480,
+      "length": 256,
+      "entropy": 1.8358
+    },
+    {
+      "offset": 52736,
+      "length": 256,
+      "entropy": 2.021
+    },
+    {
+      "offset": 52992,
+      "length": 256,
+      "entropy": 2.1045
+    },
+    {
+      "offset": 53248,
+      "length": 256,
+      "entropy": 1.8811
+    },
+    {
+      "offset": 53504,
+      "length": 256,
+      "entropy": 1.8589
+    },
+    {
+      "offset": 53760,
+      "length": 256,
+      "entropy": 2.0508
+    },
+    {
+      "offset": 54016,
+      "length": 256,
+      "entropy": 2.2945
+    },
+    {
+      "offset": 54272,
+      "length": 256,
+      "entropy": 2.0196
+    },
+    {
+      "offset": 54528,
+      "length": 256,
+      "entropy": 1.8117
+    },
+    {
+      "offset": 54784,
+      "length": 256,
+      "entropy": 1.8604
+    },
+    {
+      "offset": 55040,
+      "length": 256,
+      "entropy": 2.1389
+    },
+    {
+      "offset": 55296,
+      "length": 256,
+      "entropy": 2.1539
+    },
+    {
+      "offset": 55552,
+      "length": 256,
+      "entropy": 2.192
+    },
+    {
+      "offset": 55808,
+      "length": 256,
+      "entropy": 2.2369
+    },
+    {
+      "offset": 56064,
+      "length": 256,
+      "entropy": 2.0032
+    },
+    {
+      "offset": 56320,
+      "length": 256,
+      "entropy": 4.8731
+    },
+    {
+      "offset": 56576,
+      "length": 256,
+      "entropy": 6.1958
+    },
+    {
+      "offset": 56832,
+      "length": 256,
+      "entropy": 6.1588
+    },
+    {
+      "offset": 57088,
+      "length": 256,
+      "entropy": 4.9726
+    },
+    {
+      "offset": 57344,
+      "length": 256,
+      "entropy": 3.784
+    },
+    {
+      "offset": 57600,
+      "length": 256,
+      "entropy": 4.1461
+    },
+    {
+      "offset": 57856,
+      "length": 256,
+      "entropy": 4.244
+    },
+    {
+      "offset": 58112,
+      "length": 256,
+      "entropy": 4.3378
+    },
+    {
+      "offset": 58368,
+      "length": 256,
+      "entropy": 4.4015
+    },
+    {
+      "offset": 58624,
+      "length": 256,
+      "entropy": 4.4807
+    },
+    {
+      "offset": 58880,
+      "length": 256,
+      "entropy": 4.2853
+    },
+    {
+      "offset": 59136,
+      "length": 256,
+      "entropy": 4.3203
+    },
+    {
+      "offset": 59392,
+      "length": 256,
+      "entropy": 4.3054
+    },
+    {
+      "offset": 59648,
+      "length": 256,
+      "entropy": 4.3117
+    },
+    {
+      "offset": 59904,
+      "length": 256,
+      "entropy": 4.0936
+    },
+    {
+      "offset": 60160,
+      "length": 256,
+      "entropy": 4.1703
+    },
+    {
+      "offset": 60416,
+      "length": 256,
+      "entropy": 3.8468
+    },
+    {
+      "offset": 60672,
+      "length": 256,
+      "entropy": 3.9009
+    },
+    {
+      "offset": 60928,
+      "length": 256,
+      "entropy": 3.7499
+    },
+    {
+      "offset": 61184,
+      "length": 256,
+      "entropy": 3.7881
+    },
+    {
+      "offset": 61440,
+      "length": 256,
+      "entropy": 4.1012
+    },
+    {
+      "offset": 61696,
+      "length": 256,
+      "entropy": 3.8226
+    },
+    {
+      "offset": 61952,
+      "length": 256,
+      "entropy": 4.3052
+    },
+    {
+      "offset": 62208,
+      "length": 256,
+      "entropy": 4.2406
+    },
+    {
+      "offset": 62464,
+      "length": 256,
+      "entropy": 4.312
+    },
+    {
+      "offset": 62720,
+      "length": 256,
+      "entropy": 4.3372
+    },
+    {
+      "offset": 62976,
+      "length": 256,
+      "entropy": 4.3985
+    },
+    {
+      "offset": 63232,
+      "length": 256,
+      "entropy": 4.3059
+    },
+    {
+      "offset": 63488,
+      "length": 256,
+      "entropy": 4.4568
+    },
+    {
+      "offset": 63744,
+      "length": 256,
+      "entropy": 4.2313
+    },
+    {
+      "offset": 64000,
+      "length": 256,
+      "entropy": 4.2883
+    },
+    {
+      "offset": 64256,
+      "length": 256,
+      "entropy": 4.0013
+    },
+    {
+      "offset": 64512,
+      "length": 256,
+      "entropy": 4.5614
+    },
+    {
+      "offset": 64768,
+      "length": 256,
+      "entropy": 4.8112
+    },
+    {
+      "offset": 65024,
+      "length": 256,
+      "entropy": 4.8631
+    },
+    {
+      "offset": 65280,
+      "length": 256,
+      "entropy": 4.8068
+    },
+    {
+      "offset": 65536,
+      "length": 256,
+      "entropy": 2.0012
+    },
+    {
+      "offset": 65792,
+      "length": 256,
+      "entropy": 2.1602
+    },
+    {
+      "offset": 66048,
+      "length": 256,
+      "entropy": 2.0439
+    },
+    {
+      "offset": 66304,
+      "length": 256,
+      "entropy": 2.0972
+    },
+    {
+      "offset": 66560,
+      "length": 256,
+      "entropy": 2.1227
+    },
+    {
+      "offset": 66816,
+      "length": 256,
+      "entropy": 2.172
+    },
+    {
+      "offset": 67072,
+      "length": 256,
+      "entropy": 2.1448
+    },
+    {
+      "offset": 67328,
+      "length": 256,
+      "entropy": 2.1447
+    },
+    {
+      "offset": 67584,
+      "length": 256,
+      "entropy": 1.9961
+    },
+    {
+      "offset": 67840,
+      "length": 256,
+      "entropy": 2.0742
+    },
+    {
+      "offset": 68096,
+      "length": 256,
+      "entropy": 2.0654
+    },
+    {
+      "offset": 68352,
+      "length": 256,
+      "entropy": 2.2586
+    },
+    {
+      "offset": 68608,
+      "length": 256,
+      "entropy": 2.2366
+    },
+    {
+      "offset": 68864,
+      "length": 256,
+      "entropy": 2.2392
+    },
+    {
+      "offset": 69120,
+      "length": 256,
+      "entropy": 2.175
+    },
+    {
+      "offset": 69376,
+      "length": 256,
+      "entropy": 2.1808
+    },
+    {
+      "offset": 69632,
+      "length": 256,
+      "entropy": 2.0498
+    },
+    {
+      "offset": 69888,
+      "length": 256,
+      "entropy": 2.2038
+    },
+    {
+      "offset": 70144,
+      "length": 256,
+      "entropy": 2.1523
+    },
+    {
+      "offset": 70400,
+      "length": 256,
+      "entropy": 2.1559
+    },
+    {
+      "offset": 70656,
+      "length": 256,
+      "entropy": 2.2366
+    },
+    {
+      "offset": 70912,
+      "length": 256,
+      "entropy": 2.1288
+    },
+    {
+      "offset": 71168,
+      "length": 256,
+      "entropy": 2.2404
+    },
+    {
+      "offset": 71424,
+      "length": 256,
+      "entropy": 2.1691
+    },
+    {
+      "offset": 71680,
+      "length": 256,
+      "entropy": 2.1569
+    },
+    {
+      "offset": 71936,
+      "length": 256,
+      "entropy": 2.2742
+    },
+    {
+      "offset": 72192,
+      "length": 256,
+      "entropy": 2.2262
+    },
+    {
+      "offset": 72448,
+      "length": 256,
+      "entropy": 2.2597
+    },
+    {
+      "offset": 72704,
+      "length": 256,
+      "entropy": 2.2545
+    },
+    {
+      "offset": 72960,
+      "length": 256,
+      "entropy": 2.1292
+    },
+    {
+      "offset": 73216,
+      "length": 256,
+      "entropy": 2.2355
+    },
+    {
+      "offset": 73472,
+      "length": 256,
+      "entropy": 2.2515
+    },
+    {
+      "offset": 73728,
+      "length": 256,
+      "entropy": 2.11
+    },
+    {
+      "offset": 73984,
+      "length": 256,
+      "entropy": 3.1235
+    },
+    {
+      "offset": 74240,
+      "length": 256,
+      "entropy": 4.14
+    },
+    {
+      "offset": 74496,
+      "length": 256,
+      "entropy": 3.9053
+    },
+    {
+      "offset": 74752,
+      "length": 256,
+      "entropy": 1.7994
+    },
+    {
+      "offset": 75008,
+      "length": 256,
+      "entropy": 1.763
+    },
+    {
+      "offset": 75264,
+      "length": 256,
+      "entropy": 2.0048
+    },
+    {
+      "offset": 75520,
+      "length": 256,
+      "entropy": 1.9373
+    },
+    {
+      "offset": 75776,
+      "length": 256,
+      "entropy": 1.9918
+    },
+    {
+      "offset": 76032,
+      "length": 256,
+      "entropy": 1.9695
+    },
+    {
+      "offset": 76288,
+      "length": 256,
+      "entropy": 1.9086
+    },
+    {
+      "offset": 76544,
+      "length": 256,
+      "entropy": 2.0352
+    },
+    {
+      "offset": 76800,
+      "length": 256,
+      "entropy": 2.0558
+    },
+    {
+      "offset": 77056,
+      "length": 256,
+      "entropy": 2.0481
+    },
+    {
+      "offset": 77312,
+      "length": 256,
+      "entropy": 2.1064
+    },
+    {
+      "offset": 77568,
+      "length": 256,
+      "entropy": 2.0231
+    },
+    {
+      "offset": 77824,
+      "length": 256,
+      "entropy": 2.1227
+    },
+    {
+      "offset": 78080,
+      "length": 256,
+      "entropy": 3.7081
+    },
+    {
+      "offset": 78336,
+      "length": 256,
+      "entropy": 3.6336
+    },
+    {
+      "offset": 78592,
+      "length": 256,
+      "entropy": 5.7797
+    },
+    {
+      "offset": 78848,
+      "length": 256,
+      "entropy": 6.0454
+    },
+    {
+      "offset": 79104,
+      "length": 256,
+      "entropy": 5.847
+    },
+    {
+      "offset": 79360,
+      "length": 256,
+      "entropy": 5.1972
+    },
+    {
+      "offset": 79616,
+      "length": 256,
+      "entropy": 2.8458
+    },
+    {
+      "offset": 79872,
+      "length": 256,
+      "entropy": 1.8117
+    },
+    {
+      "offset": 80128,
+      "length": 256,
+      "entropy": 1.8016
+    },
+    {
+      "offset": 80384,
+      "length": 256,
+      "entropy": 2.0191
+    },
+    {
+      "offset": 80640,
+      "length": 256,
+      "entropy": 1.9945
+    },
+    {
+      "offset": 80896,
+      "length": 256,
+      "entropy": 1.8828
+    },
+    {
+      "offset": 81152,
+      "length": 256,
+      "entropy": 1.987
+    },
+    {
+      "offset": 81408,
+      "length": 256,
+      "entropy": 2.0142
+    },
+    {
+      "offset": 81664,
+      "length": 256,
+      "entropy": 1.8725
+    },
+    {
+      "offset": 81920,
+      "length": 256,
+      "entropy": 1.876
+    },
+    {
+      "offset": 82176,
+      "length": 256,
+      "entropy": 1.8998
+    },
+    {
+      "offset": 82432,
+      "length": 256,
+      "entropy": 1.9579
+    },
+    {
+      "offset": 82688,
+      "length": 256,
+      "entropy": 2.0499
+    },
+    {
+      "offset": 82944,
+      "length": 256,
+      "entropy": 1.7557
+    },
+    {
+      "offset": 83200,
+      "length": 256,
+      "entropy": 1.8268
+    },
+    {
+      "offset": 83456,
+      "length": 256,
+      "entropy": 2.018
+    },
+    {
+      "offset": 83712,
+      "length": 256,
+      "entropy": 2.1411
+    },
+    {
+      "offset": 83968,
+      "length": 256,
+      "entropy": 3.8908
+    },
+    {
+      "offset": 84224,
+      "length": 256,
+      "entropy": 4.0204
+    },
+    {
+      "offset": 84480,
+      "length": 256,
+      "entropy": 4.1156
+    },
+    {
+      "offset": 84736,
+      "length": 256,
+      "entropy": 3.5954
+    },
+    {
+      "offset": 84992,
+      "length": 256,
+      "entropy": 3.9465
+    },
+    {
+      "offset": 85248,
+      "length": 256,
+      "entropy": 4.195
+    },
+    {
+      "offset": 85504,
+      "length": 256,
+      "entropy": 3.7716
+    },
+    {
+      "offset": 85760,
+      "length": 256,
+      "entropy": 3.9782
+    },
+    {
+      "offset": 86016,
+      "length": 256,
+      "entropy": 4.1148
+    },
+    {
+      "offset": 86272,
+      "length": 256,
+      "entropy": 4.2644
+    },
+    {
+      "offset": 86528,
+      "length": 256,
+      "entropy": 4.1353
+    },
+    {
+      "offset": 86784,
+      "length": 256,
+      "entropy": 4.2467
+    },
+    {
+      "offset": 87040,
+      "length": 256,
+      "entropy": 4.266
+    },
+    {
+      "offset": 87296,
+      "length": 256,
+      "entropy": 4.322
+    },
+    {
+      "offset": 87552,
+      "length": 256,
+      "entropy": 4.1471
+    },
+    {
+      "offset": 87808,
+      "length": 256,
+      "entropy": 3.9644
+    },
+    {
+      "offset": 88064,
+      "length": 256,
+      "entropy": 4.0805
+    },
+    {
+      "offset": 88320,
+      "length": 256,
+      "entropy": 3.7126
+    },
+    {
+      "offset": 88576,
+      "length": 256,
+      "entropy": 4.1241
+    },
+    {
+      "offset": 88832,
+      "length": 256,
+      "entropy": 4.0778
+    },
+    {
+      "offset": 89088,
+      "length": 256,
+      "entropy": 4.1148
+    },
+    {
+      "offset": 89344,
+      "length": 256,
+      "entropy": 3.8936
+    },
+    {
+      "offset": 89600,
+      "length": 256,
+      "entropy": 3.4546
+    },
+    {
+      "offset": 89856,
+      "length": 256,
+      "entropy": 3.5302
+    },
+    {
+      "offset": 90112,
+      "length": 256,
+      "entropy": 4.0948
+    },
+    {
+      "offset": 90368,
+      "length": 256,
+      "entropy": 4.1069
+    },
+    {
+      "offset": 90624,
+      "length": 256,
+      "entropy": 4.0608
+    },
+    {
+      "offset": 90880,
+      "length": 256,
+      "entropy": 4.0477
+    },
+    {
+      "offset": 91136,
+      "length": 256,
+      "entropy": 3.446
+    },
+    {
+      "offset": 91392,
+      "length": 256,
+      "entropy": 3.8061
+    },
+    {
+      "offset": 91648,
+      "length": 256,
+      "entropy": 4.0525
+    },
+    {
+      "offset": 91904,
+      "length": 256,
+      "entropy": 4.123
+    },
+    {
+      "offset": 92160,
+      "length": 256,
+      "entropy": 4.1408
+    },
+    {
+      "offset": 92416,
+      "length": 256,
+      "entropy": 2.1418
+    },
+    {
+      "offset": 92672,
+      "length": 256,
+      "entropy": 1.9656
+    },
+    {
+      "offset": 92928,
+      "length": 256,
+      "entropy": 2.1156
+    },
+    {
+      "offset": 93184,
+      "length": 256,
+      "entropy": 1.9843
+    },
+    {
+      "offset": 93440,
+      "length": 256,
+      "entropy": 2.0243
+    },
+    {
+      "offset": 93696,
+      "length": 256,
+      "entropy": 1.903
+    },
+    {
+      "offset": 93952,
+      "length": 256,
+      "entropy": 2.106
+    },
+    {
+      "offset": 94208,
+      "length": 256,
+      "entropy": 2.0041
+    },
+    {
+      "offset": 94464,
+      "length": 256,
+      "entropy": 1.9608
+    },
+    {
+      "offset": 94720,
+      "length": 256,
+      "entropy": 1.7703
+    },
+    {
+      "offset": 94976,
+      "length": 256,
+      "entropy": 1.9575
+    },
+    {
+      "offset": 95232,
+      "length": 256,
+      "entropy": 5.2691
+    },
+    {
+      "offset": 95488,
+      "length": 256,
+      "entropy": 5.7339
+    },
+    {
+      "offset": 95744,
+      "length": 256,
+      "entropy": 5.678
+    },
+    {
+      "offset": 96000,
+      "length": 256,
+      "entropy": 4.246
+    },
+    {
+      "offset": 96256,
+      "length": 256,
+      "entropy": 4.3663
+    },
+    {
+      "offset": 96512,
+      "length": 256,
+      "entropy": 5.0988
+    },
+    {
+      "offset": 96768,
+      "length": 256,
+      "entropy": 4.6709
+    },
+    {
+      "offset": 97024,
+      "length": 256,
+      "entropy": 3.7319
+    },
+    {
+      "offset": 97280,
+      "length": 256,
+      "entropy": 4.0808
+    },
+    {
+      "offset": 97536,
+      "length": 256,
+      "entropy": 3.7213
+    },
+    {
+      "offset": 97792,
+      "length": 256,
+      "entropy": 3.9361
+    },
+    {
+      "offset": 98048,
+      "length": 256,
+      "entropy": 3.9697
+    },
+    {
+      "offset": 98304,
+      "length": 256,
+      "entropy": 3.7882
+    },
+    {
+      "offset": 98560,
+      "length": 256,
+      "entropy": 3.4396
+    },
+    {
+      "offset": 98816,
+      "length": 256,
+      "entropy": 3.4984
+    },
+    {
+      "offset": 99072,
+      "length": 256,
+      "entropy": 3.5975
+    },
+    {
+      "offset": 99328,
+      "length": 256,
+      "entropy": 3.9819
+    },
+    {
+      "offset": 99584,
+      "length": 256,
+      "entropy": 3.9529
+    },
+    {
+      "offset": 99840,
+      "length": 256,
+      "entropy": 3.6719
+    },
+    {
+      "offset": 100096,
+      "length": 256,
+      "entropy": 3.3924
+    },
+    {
+      "offset": 100352,
+      "length": 256,
+      "entropy": 3.3239
+    },
+    {
+      "offset": 100608,
+      "length": 256,
+      "entropy": 3.8974
+    },
+    {
+      "offset": 100864,
+      "length": 256,
+      "entropy": 4.0117
+    },
+    {
+      "offset": 101120,
+      "length": 256,
+      "entropy": 3.8926
+    },
+    {
+      "offset": 101376,
+      "length": 256,
+      "entropy": 3.7052
+    },
+    {
+      "offset": 101632,
+      "length": 256,
+      "entropy": 3.5618
+    },
+    {
+      "offset": 101888,
+      "length": 256,
+      "entropy": 3.3236
+    },
+    {
+      "offset": 102144,
+      "length": 256,
+      "entropy": 4.1196
+    },
+    {
+      "offset": 102400,
+      "length": 256,
+      "entropy": 3.8547
+    },
+    {
+      "offset": 102656,
+      "length": 256,
+      "entropy": 4.1553
+    },
+    {
+      "offset": 102912,
+      "length": 256,
+      "entropy": 3.809
+    },
+    {
+      "offset": 103168,
+      "length": 256,
+      "entropy": 2.7546
+    },
+    {
+      "offset": 103424,
+      "length": 256,
+      "entropy": 2.1366
+    },
+    {
+      "offset": 103680,
+      "length": 256,
+      "entropy": 2.2327
+    },
+    {
+      "offset": 103936,
+      "length": 256,
+      "entropy": 2.2995
+    },
+    {
+      "offset": 104192,
+      "length": 256,
+      "entropy": 2.1528
+    },
+    {
+      "offset": 104448,
+      "length": 256,
+      "entropy": 2.1737
+    },
+    {
+      "offset": 104704,
+      "length": 256,
+      "entropy": 2.0321
+    },
+    {
+      "offset": 104960,
+      "length": 256,
+      "entropy": 1.9035
+    },
+    {
+      "offset": 105216,
+      "length": 256,
+      "entropy": 1.9347
+    },
+    {
+      "offset": 105472,
+      "length": 256,
+      "entropy": 1.9106
+    },
+    {
+      "offset": 105728,
+      "length": 256,
+      "entropy": 1.8571
+    },
+    {
+      "offset": 105984,
+      "length": 256,
+      "entropy": 1.9737
+    },
+    {
+      "offset": 106240,
+      "length": 256,
+      "entropy": 1.8091
+    },
+    {
+      "offset": 106496,
+      "length": 256,
+      "entropy": 1.8195
+    },
+    {
+      "offset": 106752,
+      "length": 256,
+      "entropy": 1.9157
+    },
+    {
+      "offset": 107008,
+      "length": 256,
+      "entropy": 1.9568
+    },
+    {
+      "offset": 107264,
+      "length": 256,
+      "entropy": 2.1849
+    },
+    {
+      "offset": 107520,
+      "length": 256,
+      "entropy": 2.171
+    },
+    {
+      "offset": 107776,
+      "length": 256,
+      "entropy": 2.0539
+    },
+    {
+      "offset": 108032,
+      "length": 256,
+      "entropy": 2.2497
+    },
+    {
+      "offset": 108288,
+      "length": 256,
+      "entropy": 2.0896
+    },
+    {
+      "offset": 108544,
+      "length": 256,
+      "entropy": 2.2268
+    },
+    {
+      "offset": 108800,
+      "length": 256,
+      "entropy": 2.207
+    },
+    {
+      "offset": 109056,
+      "length": 256,
+      "entropy": 2.2232
+    },
+    {
+      "offset": 109312,
+      "length": 256,
+      "entropy": 2.3285
+    },
+    {
+      "offset": 109568,
+      "length": 256,
+      "entropy": 2.2433
+    },
+    {
+      "offset": 109824,
+      "length": 256,
+      "entropy": 2.0899
+    },
+    {
+      "offset": 110080,
+      "length": 256,
+      "entropy": 2.8626
+    },
+    {
+      "offset": 110336,
+      "length": 256,
+      "entropy": 3.7817
+    },
+    {
+      "offset": 110592,
+      "length": 256,
+      "entropy": 3.792
+    },
+    {
+      "offset": 110848,
+      "length": 256,
+      "entropy": 3.7108
+    },
+    {
+      "offset": 111104,
+      "length": 256,
+      "entropy": 3.7279
+    },
+    {
+      "offset": 111360,
+      "length": 256,
+      "entropy": 3.7787
+    },
+    {
+      "offset": 111616,
+      "length": 256,
+      "entropy": 3.7408
+    },
+    {
+      "offset": 111872,
+      "length": 256,
+      "entropy": 3.8242
+    },
+    {
+      "offset": 112128,
+      "length": 256,
+      "entropy": 3.7813
+    },
+    {
+      "offset": 112384,
+      "length": 256,
+      "entropy": 4.6753
+    },
+    {
+      "offset": 112640,
+      "length": 256,
+      "entropy": 3.3007
+    },
+    {
+      "offset": 112896,
+      "length": 256,
+      "entropy": 2.1283
+    },
+    {
+      "offset": 113152,
+      "length": 256,
+      "entropy": 2.2677
+    },
+    {
+      "offset": 113408,
+      "length": 256,
+      "entropy": 2.133
+    },
+    {
+      "offset": 113664,
+      "length": 256,
+      "entropy": 2.3046
+    },
+    {
+      "offset": 113920,
+      "length": 256,
+      "entropy": 2.3019
+    },
+    {
+      "offset": 114176,
+      "length": 256,
+      "entropy": 2.1669
+    },
+    {
+      "offset": 114432,
+      "length": 256,
+      "entropy": 2.15
+    },
+    {
+      "offset": 114688,
+      "length": 256,
+      "entropy": 2.2089
+    },
+    {
+      "offset": 114944,
+      "length": 256,
+      "entropy": 2.1413
+    },
+    {
+      "offset": 115200,
+      "length": 256,
+      "entropy": 3.6872
+    },
+    {
+      "offset": 115456,
+      "length": 256,
+      "entropy": 3.7094
+    },
+    {
+      "offset": 115712,
+      "length": 256,
+      "entropy": 2.2988
+    },
+    {
+      "offset": 115968,
+      "length": 256,
+      "entropy": 2.0613
+    },
+    {
+      "offset": 116224,
+      "length": 256,
+      "entropy": 1.8065
+    },
+    {
+      "offset": 116480,
+      "length": 256,
+      "entropy": 1.8238
+    },
+    {
+      "offset": 116736,
+      "length": 256,
+      "entropy": 2.0358
+    },
+    {
+      "offset": 116992,
+      "length": 256,
+      "entropy": 2.0145
+    },
+    {
+      "offset": 117248,
+      "length": 256,
+      "entropy": 1.8002
+    },
+    {
+      "offset": 117504,
+      "length": 256,
+      "entropy": 1.9343
+    },
+    {
+      "offset": 117760,
+      "length": 256,
+      "entropy": 2.0533
+    },
+    {
+      "offset": 118016,
+      "length": 256,
+      "entropy": 2.6791
+    },
+    {
+      "offset": 118272,
+      "length": 256,
+      "entropy": 3.6273
+    },
+    {
+      "offset": 118528,
+      "length": 256,
+      "entropy": 3.7191
+    },
+    {
+      "offset": 118784,
+      "length": 256,
+      "entropy": 4.2362
+    },
+    {
+      "offset": 119040,
+      "length": 256,
+      "entropy": 6.1254
+    },
+    {
+      "offset": 119296,
+      "length": 256,
+      "entropy": 5.9827
+    },
+    {
+      "offset": 119552,
+      "length": 256,
+      "entropy": 5.8081
+    },
+    {
+      "offset": 119808,
+      "length": 256,
+      "entropy": 4.7165
+    },
+    {
+      "offset": 120064,
+      "length": 256,
+      "entropy": 1.9718
+    },
+    {
+      "offset": 120320,
+      "length": 256,
+      "entropy": 1.9635
+    },
+    {
+      "offset": 120576,
+      "length": 256,
+      "entropy": 1.8344
+    },
+    {
+      "offset": 120832,
+      "length": 256,
+      "entropy": 1.8785
+    },
+    {
+      "offset": 121088,
+      "length": 256,
+      "entropy": 1.8803
+    },
+    {
+      "offset": 121344,
+      "length": 256,
+      "entropy": 1.8287
+    },
+    {
+      "offset": 121600,
+      "length": 256,
+      "entropy": 1.9701
+    },
+    {
+      "offset": 121856,
+      "length": 256,
+      "entropy": 1.8943
+    },
+    {
+      "offset": 122112,
+      "length": 256,
+      "entropy": 1.7949
+    },
+    {
+      "offset": 122368,
+      "length": 256,
+      "entropy": 2.0578
+    },
+    {
+      "offset": 122624,
+      "length": 256,
+      "entropy": 1.9818
+    },
+    {
+      "offset": 122880,
+      "length": 256,
+      "entropy": 1.8436
+    },
+    {
+      "offset": 123136,
+      "length": 256,
+      "entropy": 1.865
+    },
+    {
+      "offset": 123392,
+      "length": 256,
+      "entropy": 2.0529
+    },
+    {
+      "offset": 123648,
+      "length": 256,
+      "entropy": 2.0745
+    },
+    {
+      "offset": 123904,
+      "length": 256,
+      "entropy": 1.9298
+    },
+    {
+      "offset": 124160,
+      "length": 256,
+      "entropy": 1.9594
+    },
+    {
+      "offset": 124416,
+      "length": 256,
+      "entropy": 2.1086
+    },
+    {
+      "offset": 124672,
+      "length": 256,
+      "entropy": 1.8532
+    },
+    {
+      "offset": 124928,
+      "length": 256,
+      "entropy": 1.9001
+    },
+    {
+      "offset": 125184,
+      "length": 256,
+      "entropy": 2.0928
+    },
+    {
+      "offset": 125440,
+      "length": 256,
+      "entropy": 1.9141
+    },
+    {
+      "offset": 125696,
+      "length": 256,
+      "entropy": 1.9045
+    },
+    {
+      "offset": 125952,
+      "length": 256,
+      "entropy": 2.1125
+    },
+    {
+      "offset": 126208,
+      "length": 256,
+      "entropy": 1.9562
+    },
+    {
+      "offset": 126464,
+      "length": 256,
+      "entropy": 1.8117
+    },
+    {
+      "offset": 126720,
+      "length": 256,
+      "entropy": 1.857
+    },
+    {
+      "offset": 126976,
+      "length": 256,
+      "entropy": 1.9895
+    },
+    {
+      "offset": 127232,
+      "length": 256,
+      "entropy": 2.466
+    },
+    {
+      "offset": 127488,
+      "length": 256,
+      "entropy": 4.1
+    },
+    {
+      "offset": 127744,
+      "length": 256,
+      "entropy": 4.0918
+    },
+    {
+      "offset": 128000,
+      "length": 256,
+      "entropy": 3.8479
+    },
+    {
+      "offset": 128256,
+      "length": 256,
+      "entropy": 3.6376
+    },
+    {
+      "offset": 128512,
+      "length": 256,
+      "entropy": 3.7444
+    },
+    {
+      "offset": 128768,
+      "length": 256,
+      "entropy": 4.0847
+    },
+    {
+      "offset": 129024,
+      "length": 256,
+      "entropy": 4.1335
+    },
+    {
+      "offset": 129280,
+      "length": 256,
+      "entropy": 3.7654
+    },
+    {
+      "offset": 129536,
+      "length": 256,
+      "entropy": 3.5588
+    },
+    {
+      "offset": 129792,
+      "length": 256,
+      "entropy": 4.0657
+    },
+    {
+      "offset": 130048,
+      "length": 256,
+      "entropy": 4.0144
+    },
+    {
+      "offset": 130304,
+      "length": 256,
+      "entropy": 3.9353
+    },
+    {
+      "offset": 130560,
+      "length": 256,
+      "entropy": 4.0307
+    },
+    {
+      "offset": 130816,
+      "length": 256,
+      "entropy": 3.4404
+    },
+    {
+      "offset": 131072,
+      "length": 256,
+      "entropy": 2.9475
+    },
+    {
+      "offset": 131328,
+      "length": 256,
+      "entropy": 3.1151
+    },
+    {
+      "offset": 131584,
+      "length": 256,
+      "entropy": 3.2279
+    },
+    {
+      "offset": 131840,
+      "length": 256,
+      "entropy": 3.257
+    },
+    {
+      "offset": 132096,
+      "length": 256,
+      "entropy": 3.0664
+    },
+    {
+      "offset": 132352,
+      "length": 256,
+      "entropy": 2.7006
+    },
+    {
+      "offset": 132608,
+      "length": 256,
+      "entropy": 2.9004
+    },
+    {
+      "offset": 132864,
+      "length": 256,
+      "entropy": 2.9161
+    },
+    {
+      "offset": 133120,
+      "length": 256,
+      "entropy": 3.1685
+    },
+    {
+      "offset": 133376,
+      "length": 256,
+      "entropy": 3.2428
+    },
+    {
+      "offset": 133632,
+      "length": 256,
+      "entropy": 3.1823
+    },
+    {
+      "offset": 133888,
+      "length": 256,
+      "entropy": 3.099
+    },
+    {
+      "offset": 134144,
+      "length": 256,
+      "entropy": 2.8463
+    },
+    {
+      "offset": 134400,
+      "length": 256,
+      "entropy": 2.9145
+    },
+    {
+      "offset": 134656,
+      "length": 256,
+      "entropy": 2.9983
+    },
+    {
+      "offset": 134912,
+      "length": 256,
+      "entropy": 3.1163
+    },
+    {
+      "offset": 135168,
+      "length": 256,
+      "entropy": 3.2457
+    },
+    {
+      "offset": 135424,
+      "length": 256,
+      "entropy": 3.0246
+    },
+    {
+      "offset": 135680,
+      "length": 256,
+      "entropy": 2.8632
+    },
+    {
+      "offset": 135936,
+      "length": 256,
+      "entropy": 3.4442
+    },
+    {
+      "offset": 136192,
+      "length": 256,
+      "entropy": 3.2113
+    },
+    {
+      "offset": 136448,
+      "length": 256,
+      "entropy": 3.1048
+    },
+    {
+      "offset": 136704,
+      "length": 256,
+      "entropy": 3.8857
+    },
+    {
+      "offset": 136960,
+      "length": 256,
+      "entropy": 5.9845
+    },
+    {
+      "offset": 137216,
+      "length": 256,
+      "entropy": 6.1831
+    },
+    {
+      "offset": 137472,
+      "length": 256,
+      "entropy": 6.1509
+    },
+    {
+      "offset": 137728,
+      "length": 256,
+      "entropy": 6.0407
+    },
+    {
+      "offset": 137984,
+      "length": 256,
+      "entropy": 5.012
+    },
+    {
+      "offset": 138240,
+      "length": 256,
+      "entropy": 5.3125
+    },
+    {
+      "offset": 138496,
+      "length": 256,
+      "entropy": 5.4891
+    },
+    {
+      "offset": 138752,
+      "length": 256,
+      "entropy": 3.6232
+    },
+    {
+      "offset": 139008,
+      "length": 256,
+      "entropy": 3.9427
+    },
+    {
+      "offset": 139264,
+      "length": 256,
+      "entropy": 3.9233
+    },
+    {
+      "offset": 139520,
+      "length": 256,
+      "entropy": 3.8986
+    },
+    {
+      "offset": 139776,
+      "length": 256,
+      "entropy": 3.8347
+    },
+    {
+      "offset": 140032,
+      "length": 256,
+      "entropy": 3.8119
+    },
+    {
+      "offset": 140288,
+      "length": 256,
+      "entropy": 3.5411
+    },
+    {
+      "offset": 140544,
+      "length": 256,
+      "entropy": 3.7675
+    },
+    {
+      "offset": 140800,
+      "length": 256,
+      "entropy": 3.7752
+    },
+    {
+      "offset": 141056,
+      "length": 256,
+      "entropy": 3.7339
+    },
+    {
+      "offset": 141312,
+      "length": 256,
+      "entropy": 3.7555
+    },
+    {
+      "offset": 141568,
+      "length": 256,
+      "entropy": 3.745
+    },
+    {
+      "offset": 141824,
+      "length": 256,
+      "entropy": 3.8987
+    },
+    {
+      "offset": 142080,
+      "length": 256,
+      "entropy": 3.8021
+    },
+    {
+      "offset": 142336,
+      "length": 256,
+      "entropy": 3.9023
+    },
+    {
+      "offset": 142592,
+      "length": 256,
+      "entropy": 3.7989
+    },
+    {
+      "offset": 142848,
+      "length": 256,
+      "entropy": 3.8229
+    },
+    {
+      "offset": 143104,
+      "length": 256,
+      "entropy": 3.7989
+    },
+    {
+      "offset": 143360,
+      "length": 256,
+      "entropy": 3.9672
+    },
+    {
+      "offset": 143616,
+      "length": 256,
+      "entropy": 3.7925
+    },
+    {
+      "offset": 143872,
+      "length": 256,
+      "entropy": 3.5412
+    },
+    {
+      "offset": 144128,
+      "length": 256,
+      "entropy": 3.6494
+    },
+    {
+      "offset": 144384,
+      "length": 256,
+      "entropy": 3.9866
+    },
+    {
+      "offset": 144640,
+      "length": 256,
+      "entropy": 3.8682
+    },
+    {
+      "offset": 144896,
+      "length": 256,
+      "entropy": 3.676
+    },
+    {
+      "offset": 145152,
+      "length": 256,
+      "entropy": 3.8529
+    },
+    {
+      "offset": 145408,
+      "length": 256,
+      "entropy": 4.0733
+    },
+    {
+      "offset": 145664,
+      "length": 256,
+      "entropy": 3.9075
+    },
+    {
+      "offset": 145920,
+      "length": 256,
+      "entropy": 3.6898
+    },
+    {
+      "offset": 146176,
+      "length": 256,
+      "entropy": 3.5756
+    },
+    {
+      "offset": 146432,
+      "length": 256,
+      "entropy": 3.9204
+    },
+    {
+      "offset": 146688,
+      "length": 256,
+      "entropy": 3.9596
+    },
+    {
+      "offset": 146944,
+      "length": 256,
+      "entropy": 4.0378
+    },
+    {
+      "offset": 147200,
+      "length": 256,
+      "entropy": 3.6757
+    },
+    {
+      "offset": 147456,
+      "length": 256,
+      "entropy": 3.649
+    },
+    {
+      "offset": 147712,
+      "length": 256,
+      "entropy": 3.6409
+    },
+    {
+      "offset": 147968,
+      "length": 256,
+      "entropy": 3.7178
+    },
+    {
+      "offset": 148224,
+      "length": 256,
+      "entropy": 3.9869
+    },
+    {
+      "offset": 148480,
+      "length": 256,
+      "entropy": 4.0779
+    },
+    {
+      "offset": 148736,
+      "length": 256,
+      "entropy": 3.9652
+    },
+    {
+      "offset": 148992,
+      "length": 256,
+      "entropy": 3.5929
+    },
+    {
+      "offset": 149248,
+      "length": 256,
+      "entropy": 3.6644
+    },
+    {
+      "offset": 149504,
+      "length": 256,
+      "entropy": 3.6637
+    },
+    {
+      "offset": 149760,
+      "length": 256,
+      "entropy": 3.8215
+    },
+    {
+      "offset": 150016,
+      "length": 256,
+      "entropy": 3.3989
+    },
+    {
+      "offset": 150272,
+      "length": 256,
+      "entropy": 3.3549
+    },
+    {
+      "offset": 150528,
+      "length": 256,
+      "entropy": 2.2939
+    },
+    {
+      "offset": 150784,
+      "length": 256,
+      "entropy": 1.9637
+    },
+    {
+      "offset": 151040,
+      "length": 256,
+      "entropy": 1.9202
+    },
+    {
+      "offset": 151296,
+      "length": 256,
+      "entropy": 1.9233
+    },
+    {
+      "offset": 151552,
+      "length": 256,
+      "entropy": 2.4434
+    },
+    {
+      "offset": 151808,
+      "length": 256,
+      "entropy": 2.0145
+    },
+    {
+      "offset": 152064,
+      "length": 256,
+      "entropy": 1.8973
+    },
+    {
+      "offset": 152320,
+      "length": 256,
+      "entropy": 1.9187
+    },
+    {
+      "offset": 152576,
+      "length": 256,
+      "entropy": 2.4563
+    },
+    {
+      "offset": 152832,
+      "length": 256,
+      "entropy": 1.9901
+    },
+    {
+      "offset": 153088,
+      "length": 256,
+      "entropy": 1.9432
+    },
+    {
+      "offset": 153344,
+      "length": 256,
+      "entropy": 2.38
+    },
+    {
+      "offset": 153600,
+      "length": 256,
+      "entropy": 3.2515
+    },
+    {
+      "offset": 153856,
+      "length": 256,
+      "entropy": 3.4863
+    },
+    {
+      "offset": 154112,
+      "length": 256,
+      "entropy": 3.342
+    },
+    {
+      "offset": 154368,
+      "length": 256,
+      "entropy": 3.5765
+    },
+    {
+      "offset": 154624,
+      "length": 256,
+      "entropy": 3.5589
+    },
+    {
+      "offset": 154880,
+      "length": 256,
+      "entropy": 3.2684
+    },
+    {
+      "offset": 155136,
+      "length": 256,
+      "entropy": 3.3587
+    },
+    {
+      "offset": 155392,
+      "length": 256,
+      "entropy": 3.5024
+    },
+    {
+      "offset": 155648,
+      "length": 256,
+      "entropy": 3.8083
+    },
+    {
+      "offset": 155904,
+      "length": 256,
+      "entropy": 3.6359
+    },
+    {
+      "offset": 156160,
+      "length": 256,
+      "entropy": 3.6542
+    },
+    {
+      "offset": 156416,
+      "length": 256,
+      "entropy": 3.2455
+    },
+    {
+      "offset": 156672,
+      "length": 256,
+      "entropy": 4.0239
+    },
+    {
+      "offset": 156928,
+      "length": 256,
+      "entropy": 3.0818
+    },
+    {
+      "offset": 157184,
+      "length": 256,
+      "entropy": 2.0657
+    },
+    {
+      "offset": 157440,
+      "length": 256,
+      "entropy": 2.1696
+    },
+    {
+      "offset": 157696,
+      "length": 256,
+      "entropy": 1.8806
+    },
+    {
+      "offset": 157952,
+      "length": 256,
+      "entropy": 3.4687
+    },
+    {
+      "offset": 158208,
+      "length": 256,
+      "entropy": 4.2803
+    },
+    {
+      "offset": 158464,
+      "length": 256,
+      "entropy": 5.2916
+    },
+    {
+      "offset": 158720,
+      "length": 256,
+      "entropy": 4.9239
+    },
+    {
+      "offset": 158976,
+      "length": 256,
+      "entropy": 4.7495
+    },
+    {
+      "offset": 159232,
+      "length": 256,
+      "entropy": 2.0044
+    },
+    {
+      "offset": 159488,
+      "length": 256,
+      "entropy": 2.2349
+    },
+    {
+      "offset": 159744,
+      "length": 256,
+      "entropy": 1.7547
+    },
+    {
+      "offset": 160000,
+      "length": 256,
+      "entropy": 2.17
+    },
+    {
+      "offset": 160256,
+      "length": 256,
+      "entropy": 1.8564
+    },
+    {
+      "offset": 160512,
+      "length": 256,
+      "entropy": 1.8763
+    },
+    {
+      "offset": 160768,
+      "length": 256,
+      "entropy": 1.9976
+    },
+    {
+      "offset": 161024,
+      "length": 256,
+      "entropy": 2.1074
+    },
+    {
+      "offset": 161280,
+      "length": 256,
+      "entropy": 2.0639
+    },
+    {
+      "offset": 161536,
+      "length": 256,
+      "entropy": 2.1509
+    },
+    {
+      "offset": 161792,
+      "length": 256,
+      "entropy": 2.7638
+    },
+    {
+      "offset": 162048,
+      "length": 256,
+      "entropy": 3.1248
+    },
+    {
+      "offset": 162304,
+      "length": 256,
+      "entropy": 2.9243
+    },
+    {
+      "offset": 162560,
+      "length": 256,
+      "entropy": 2.9731
+    },
+    {
+      "offset": 162816,
+      "length": 256,
+      "entropy": 3.1013
+    },
+    {
+      "offset": 163072,
+      "length": 256,
+      "entropy": 2.8833
+    },
+    {
+      "offset": 163328,
+      "length": 256,
+      "entropy": 2.5061
+    },
+    {
+      "offset": 163584,
+      "length": 256,
+      "entropy": 1.9607
+    },
+    {
+      "offset": 163840,
+      "length": 256,
+      "entropy": 2.0017
+    },
+    {
+      "offset": 164096,
+      "length": 256,
+      "entropy": 2.1198
+    },
+    {
+      "offset": 164352,
+      "length": 256,
+      "entropy": 2.0885
+    },
+    {
+      "offset": 164608,
+      "length": 256,
+      "entropy": 2.2403
+    },
+    {
+      "offset": 164864,
+      "length": 256,
+      "entropy": 2.4144
+    },
+    {
+      "offset": 165120,
+      "length": 256,
+      "entropy": 2.1656
+    },
+    {
+      "offset": 165376,
+      "length": 256,
+      "entropy": 2.0486
+    },
+    {
+      "offset": 165632,
+      "length": 256,
+      "entropy": 2.2151
+    },
+    {
+      "offset": 165888,
+      "length": 256,
+      "entropy": 2.1233
+    },
+    {
+      "offset": 166144,
+      "length": 256,
+      "entropy": 2.4501
+    },
+    {
+      "offset": 166400,
+      "length": 256,
+      "entropy": 2.022
+    },
+    {
+      "offset": 166656,
+      "length": 256,
+      "entropy": 1.936
+    },
+    {
+      "offset": 166912,
+      "length": 256,
+      "entropy": 2.0796
+    },
+    {
+      "offset": 167168,
+      "length": 256,
+      "entropy": 2.173
+    },
+    {
+      "offset": 167424,
+      "length": 256,
+      "entropy": 2.0349
+    },
+    {
+      "offset": 167680,
+      "length": 256,
+      "entropy": 2.9404
+    },
+    {
+      "offset": 167936,
+      "length": 256,
+      "entropy": 2.778
+    },
+    {
+      "offset": 168192,
+      "length": 256,
+      "entropy": 2.8193
+    },
+    {
+      "offset": 168448,
+      "length": 256,
+      "entropy": 2.8797
+    },
+    {
+      "offset": 168704,
+      "length": 256,
+      "entropy": 2.7731
+    },
+    {
+      "offset": 168960,
+      "length": 256,
+      "entropy": 3.0072
+    },
+    {
+      "offset": 169216,
+      "length": 256,
+      "entropy": 2.6097
+    },
+    {
+      "offset": 169472,
+      "length": 256,
+      "entropy": 3.5898
+    },
+    {
+      "offset": 169728,
+      "length": 256,
+      "entropy": 5.7668
+    },
+    {
+      "offset": 169984,
+      "length": 256,
+      "entropy": 5.8219
+    },
+    {
+      "offset": 170240,
+      "length": 256,
+      "entropy": 5.7687
+    },
+    {
+      "offset": 170496,
+      "length": 256,
+      "entropy": 5.3534
+    },
+    {
+      "offset": 170752,
+      "length": 256,
+      "entropy": 4.3113
+    },
+    {
+      "offset": 171008,
+      "length": 256,
+      "entropy": 3.8962
+    },
+    {
+      "offset": 171264,
+      "length": 256,
+      "entropy": 3.4158
+    },
+    {
+      "offset": 171520,
+      "length": 256,
+      "entropy": 4.1571
+    },
+    {
+      "offset": 171776,
+      "length": 256,
+      "entropy": 3.5178
+    },
+    {
+      "offset": 172032,
+      "length": 256,
+      "entropy": 3.6053
+    },
+    {
+      "offset": 172288,
+      "length": 256,
+      "entropy": 3.8813
+    },
+    {
+      "offset": 172544,
+      "length": 256,
+      "entropy": 4.3767
+    },
+    {
+      "offset": 172800,
+      "length": 256,
+      "entropy": 4.4663
+    },
+    {
+      "offset": 173056,
+      "length": 256,
+      "entropy": 3.8984
+    },
+    {
+      "offset": 173312,
+      "length": 256,
+      "entropy": 4.1523
+    },
+    {
+      "offset": 173568,
+      "length": 256,
+      "entropy": 4.0069
+    },
+    {
+      "offset": 173824,
+      "length": 256,
+      "entropy": 4.055
+    },
+    {
+      "offset": 174080,
+      "length": 256,
+      "entropy": 3.5388
+    },
+    {
+      "offset": 174336,
+      "length": 256,
+      "entropy": 3.8836
+    },
+    {
+      "offset": 174592,
+      "length": 256,
+      "entropy": 4.0152
+    },
+    {
+      "offset": 174848,
+      "length": 256,
+      "entropy": 3.1539
+    },
+    {
+      "offset": 175104,
+      "length": 256,
+      "entropy": 3.9756
+    },
+    {
+      "offset": 175360,
+      "length": 256,
+      "entropy": 4.0728
+    },
+    {
+      "offset": 175616,
+      "length": 256,
+      "entropy": 3.4961
+    },
+    {
+      "offset": 175872,
+      "length": 256,
+      "entropy": 4.1158
+    },
+    {
+      "offset": 176128,
+      "length": 256,
+      "entropy": 3.8716
+    },
+    {
+      "offset": 176384,
+      "length": 256,
+      "entropy": 4.1592
+    },
+    {
+      "offset": 176640,
+      "length": 256,
+      "entropy": 4.0947
+    },
+    {
+      "offset": 176896,
+      "length": 256,
+      "entropy": 4.0909
+    },
+    {
+      "offset": 177152,
+      "length": 256,
+      "entropy": 3.509
+    },
+    {
+      "offset": 177408,
+      "length": 256,
+      "entropy": 4.1221
+    },
+    {
+      "offset": 177664,
+      "length": 256,
+      "entropy": 4.1656
+    },
+    {
+      "offset": 177920,
+      "length": 256,
+      "entropy": 3.7261
+    },
+    {
+      "offset": 178176,
+      "length": 256,
+      "entropy": 4.0526
+    },
+    {
+      "offset": 178432,
+      "length": 256,
+      "entropy": 4.1496
+    },
+    {
+      "offset": 178688,
+      "length": 256,
+      "entropy": 4.1442
+    },
+    {
+      "offset": 178944,
+      "length": 256,
+      "entropy": 3.6332
+    },
+    {
+      "offset": 179200,
+      "length": 256,
+      "entropy": 3.2243
+    },
+    {
+      "offset": 179456,
+      "length": 256,
+      "entropy": 3.4082
+    },
+    {
+      "offset": 179712,
+      "length": 256,
+      "entropy": 3.7423
+    },
+    {
+      "offset": 179968,
+      "length": 256,
+      "entropy": 3.8197
+    },
+    {
+      "offset": 180224,
+      "length": 256,
+      "entropy": 3.972
+    },
+    {
+      "offset": 180480,
+      "length": 256,
+      "entropy": 4.2969
+    },
+    {
+      "offset": 180736,
+      "length": 256,
+      "entropy": 4.2903
+    },
+    {
+      "offset": 180992,
+      "length": 256,
+      "entropy": 3.9563
+    },
+    {
+      "offset": 181248,
+      "length": 256,
+      "entropy": 4.0456
+    },
+    {
+      "offset": 181504,
+      "length": 256,
+      "entropy": 4.3575
+    },
+    {
+      "offset": 181760,
+      "length": 256,
+      "entropy": 5.6446
+    },
+    {
+      "offset": 182016,
+      "length": 256,
+      "entropy": 6.014
+    },
+    {
+      "offset": 182272,
+      "length": 256,
+      "entropy": 6.0436
+    },
+    {
+      "offset": 182528,
+      "length": 256,
+      "entropy": 4.556
+    },
+    {
+      "offset": 182784,
+      "length": 256,
+      "entropy": 4.0134
+    },
+    {
+      "offset": 183040,
+      "length": 256,
+      "entropy": 3.8072
+    },
+    {
+      "offset": 183296,
+      "length": 256,
+      "entropy": 3.7909
+    },
+    {
+      "offset": 183552,
+      "length": 256,
+      "entropy": 4.0877
+    },
+    {
+      "offset": 183808,
+      "length": 256,
+      "entropy": 3.8856
+    },
+    {
+      "offset": 184064,
+      "length": 256,
+      "entropy": 3.7852
+    },
+    {
+      "offset": 184320,
+      "length": 256,
+      "entropy": 3.9305
+    },
+    {
+      "offset": 184576,
+      "length": 256,
+      "entropy": 3.7088
+    },
+    {
+      "offset": 184832,
+      "length": 256,
+      "entropy": 3.8176
+    },
+    {
+      "offset": 185088,
+      "length": 256,
+      "entropy": 3.6217
+    },
+    {
+      "offset": 185344,
+      "length": 256,
+      "entropy": 3.7575
+    },
+    {
+      "offset": 185600,
+      "length": 256,
+      "entropy": 3.8483
+    },
+    {
+      "offset": 185856,
+      "length": 256,
+      "entropy": 3.8679
+    },
+    {
+      "offset": 186112,
+      "length": 256,
+      "entropy": 3.7406
+    },
+    {
+      "offset": 186368,
+      "length": 256,
+      "entropy": 4.0458
+    },
+    {
+      "offset": 186624,
+      "length": 256,
+      "entropy": 3.8274
+    },
+    {
+      "offset": 186880,
+      "length": 256,
+      "entropy": 3.9747
+    },
+    {
+      "offset": 187136,
+      "length": 256,
+      "entropy": 3.7434
+    },
+    {
+      "offset": 187392,
+      "length": 256,
+      "entropy": 4.0526
+    },
+    {
+      "offset": 187648,
+      "length": 256,
+      "entropy": 3.9901
+    },
+    {
+      "offset": 187904,
+      "length": 256,
+      "entropy": 3.8727
+    },
+    {
+      "offset": 188160,
+      "length": 256,
+      "entropy": 3.9834
+    },
+    {
+      "offset": 188416,
+      "length": 256,
+      "entropy": 3.6072
+    },
+    {
+      "offset": 188672,
+      "length": 256,
+      "entropy": 4.1019
+    },
+    {
+      "offset": 188928,
+      "length": 256,
+      "entropy": 3.5067
+    },
+    {
+      "offset": 189184,
+      "length": 256,
+      "entropy": 5.0908
+    },
+    {
+      "offset": 189440,
+      "length": 256,
+      "entropy": 5.618
+    },
+    {
+      "offset": 189696,
+      "length": 256,
+      "entropy": 5.9279
+    },
+    {
+      "offset": 189952,
+      "length": 256,
+      "entropy": 4.7163
+    },
+    {
+      "offset": 190208,
+      "length": 256,
+      "entropy": 4.0572
+    },
+    {
+      "offset": 190464,
+      "length": 256,
+      "entropy": 3.6802
+    },
+    {
+      "offset": 190720,
+      "length": 256,
+      "entropy": 3.6938
+    },
+    {
+      "offset": 190976,
+      "length": 256,
+      "entropy": 3.8145
+    },
+    {
+      "offset": 191232,
+      "length": 256,
+      "entropy": 3.5893
+    },
+    {
+      "offset": 191488,
+      "length": 256,
+      "entropy": 3.6283
+    },
+    {
+      "offset": 191744,
+      "length": 256,
+      "entropy": 3.6449
+    },
+    {
+      "offset": 192000,
+      "length": 256,
+      "entropy": 3.6186
+    },
+    {
+      "offset": 192256,
+      "length": 256,
+      "entropy": 4.1731
+    },
+    {
+      "offset": 192512,
+      "length": 256,
+      "entropy": 3.7896
+    },
+    {
+      "offset": 192768,
+      "length": 256,
+      "entropy": 3.8547
+    },
+    {
+      "offset": 193024,
+      "length": 256,
+      "entropy": 3.8561
+    },
+    {
+      "offset": 193280,
+      "length": 256,
+      "entropy": 3.6889
+    },
+    {
+      "offset": 193536,
+      "length": 256,
+      "entropy": 3.8388
+    },
+    {
+      "offset": 193792,
+      "length": 256,
+      "entropy": 3.8012
+    },
+    {
+      "offset": 194048,
+      "length": 256,
+      "entropy": 3.9602
+    },
+    {
+      "offset": 194304,
+      "length": 256,
+      "entropy": 3.9594
+    },
+    {
+      "offset": 194560,
+      "length": 256,
+      "entropy": 3.8079
+    },
+    {
+      "offset": 194816,
+      "length": 256,
+      "entropy": 3.7977
+    },
+    {
+      "offset": 195072,
+      "length": 256,
+      "entropy": 3.7199
+    },
+    {
+      "offset": 195328,
+      "length": 256,
+      "entropy": 3.7161
+    },
+    {
+      "offset": 195584,
+      "length": 256,
+      "entropy": 3.8006
+    },
+    {
+      "offset": 195840,
+      "length": 256,
+      "entropy": 3.731
+    },
+    {
+      "offset": 196096,
+      "length": 256,
+      "entropy": 3.8186
+    },
+    {
+      "offset": 196352,
+      "length": 256,
+      "entropy": 3.8345
+    },
+    {
+      "offset": 196608,
+      "length": 256,
+      "entropy": 4.0341
+    },
+    {
+      "offset": 196864,
+      "length": 256,
+      "entropy": 4.0813
+    },
+    {
+      "offset": 197120,
+      "length": 256,
+      "entropy": 4.0287
+    },
+    {
+      "offset": 197376,
+      "length": 256,
+      "entropy": 4.2331
+    },
+    {
+      "offset": 197632,
+      "length": 256,
+      "entropy": 5.4577
+    },
+    {
+      "offset": 197888,
+      "length": 256,
+      "entropy": 6.1561
+    },
+    {
+      "offset": 198144,
+      "length": 256,
+      "entropy": 5.1709
+    },
+    {
+      "offset": 198400,
+      "length": 256,
+      "entropy": 3.6232
+    },
+    {
+      "offset": 198656,
+      "length": 256,
+      "entropy": 3.7342
+    },
+    {
+      "offset": 198912,
+      "length": 256,
+      "entropy": 3.988
+    },
+    {
+      "offset": 199168,
+      "length": 256,
+      "entropy": 3.9011
+    },
+    {
+      "offset": 199424,
+      "length": 256,
+      "entropy": 3.952
+    },
+    {
+      "offset": 199680,
+      "length": 256,
+      "entropy": 4.045
+    },
+    {
+      "offset": 199936,
+      "length": 256,
+      "entropy": 4.0997
+    },
+    {
+      "offset": 200192,
+      "length": 256,
+      "entropy": 3.6373
+    },
+    {
+      "offset": 200448,
+      "length": 256,
+      "entropy": 3.8999
+    },
+    {
+      "offset": 200704,
+      "length": 256,
+      "entropy": 4.1391
+    },
+    {
+      "offset": 200960,
+      "length": 256,
+      "entropy": 4.0139
+    },
+    {
+      "offset": 201216,
+      "length": 256,
+      "entropy": 4.1822
+    },
+    {
+      "offset": 201472,
+      "length": 256,
+      "entropy": 4.195
+    },
+    {
+      "offset": 201728,
+      "length": 256,
+      "entropy": 4.2086
+    },
+    {
+      "offset": 201984,
+      "length": 256,
+      "entropy": 3.9873
+    },
+    {
+      "offset": 202240,
+      "length": 256,
+      "entropy": 3.9507
+    },
+    {
+      "offset": 202496,
+      "length": 256,
+      "entropy": 4.0234
+    },
+    {
+      "offset": 202752,
+      "length": 256,
+      "entropy": 4.047
+    },
+    {
+      "offset": 203008,
+      "length": 256,
+      "entropy": 4.0858
+    },
+    {
+      "offset": 203264,
+      "length": 256,
+      "entropy": 3.9884
+    },
+    {
+      "offset": 203520,
+      "length": 256,
+      "entropy": 3.9681
+    },
+    {
+      "offset": 203776,
+      "length": 256,
+      "entropy": 3.5793
+    },
+    {
+      "offset": 204032,
+      "length": 256,
+      "entropy": 3.8239
+    },
+    {
+      "offset": 204288,
+      "length": 256,
+      "entropy": 3.9232
+    },
+    {
+      "offset": 204544,
+      "length": 144,
+      "entropy": 3.8912
+    }
+  ],
+  "unclaimed_ranges": [
+    {
+      "index": 0,
+      "start": 51,
+      "end": 204688,
+      "size": 204637,
+      "file": "range_0000_0x00000033_0x00031f90.bin"
+    }
+  ],
+  "coverage": {
+    "source_bytes": 204688,
+    "raw_copy_bytes": 204688,
+    "bytes_in_recognised_mesh_spans": 0,
+    "bytes_in_unclaimed_ranges": 204637,
+    "note": "All source bytes are retained in the .original.rss copy; unclaimed ranges are separately carved."
+  }
+}
