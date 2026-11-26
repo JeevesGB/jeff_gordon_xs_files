@@ -1,0 +1,1035 @@
+{
+  "file": "SDROPZN.RSS",
+  "size": 879525,
+  "sha256": "a242fd6905ce6858af98336a312d7f2df3f9a1411768f6109a76a13d71562ea6",
+  "original_copy": "SDROPZN.RSS.original",
+  "texture_reference_count": 22,
+  "unique_texture_identifiers": 19,
+  "plausible_atlas_rect_count": 22,
+  "zero_padding_after_rect_count": 22,
+  "texture_identifiers_grouped": [
+    {
+      "identifier": "Dropzo_a",
+      "occurrences": 1,
+      "surface_labels": [
+        "skrim"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "t5stars",
+      "occurrences": 1,
+      "surface_labels": [
+        "stars"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "ROAD",
+      "occurrences": 1,
+      "surface_labels": [
+        "Road"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "FINSHLN",
+      "occurrences": 1,
+      "surface_labels": [
+        "finishlin"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "drop05",
+      "occurrences": 1,
+      "surface_labels": [
+        "newalls"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "Rock_aa",
+      "occurrences": 1,
+      "surface_labels": [
+        "mountans"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "newmine",
+      "occurrences": 4,
+      "surface_labels": [
+        "stelplat",
+        "wood",
+        "tippl",
+        "mine2"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.25,
+          0.25
+        ],
+        [
+          0.0,
+          0.25,
+          0.25,
+          0.25
+        ],
+        [
+          0.25,
+          0.0,
+          0.25,
+          0.25
+        ],
+        [
+          0.25,
+          0.2500457763671875,
+          0.25,
+          0.24993896484375
+        ]
+      ]
+    },
+    {
+      "identifier": "Cactus_a",
+      "occurrences": 1,
+      "surface_labels": [
+        "cact_a"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "drop04",
+      "occurrences": 1,
+      "surface_labels": [
+        "newstands"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "Yuca",
+      "occurrences": 1,
+      "surface_labels": [
+        "yuca_a"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "board1",
+      "occurrences": 1,
+      "surface_labels": [
+        "sign#1"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "CAUTN",
+      "occurrences": 1,
+      "surface_labels": [
+        "dangersign"
+      ],
+      "atlas_rects": [
+        [
+          0.031494140625,
+          0.02362060546875,
+          0.4409332275390625,
+          0.4763641357421875
+        ]
+      ]
+    },
+    {
+      "identifier": "Dropsign",
+      "occurrences": 1,
+      "surface_labels": [
+        "tunlsign"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "dropcrwd",
+      "occurrences": 1,
+      "surface_labels": [
+        "Crowd Map"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "WODPNL",
+      "occurrences": 1,
+      "surface_labels": [
+        "stside"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "drop03",
+      "occurrences": 1,
+      "surface_labels": [
+        "newbuilding"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "STRTLIT",
+      "occurrences": 1,
+      "surface_labels": [
+        "light"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "t5start",
+      "occurrences": 1,
+      "surface_labels": [
+        "start/finish"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "board2",
+      "occurrences": 1,
+      "surface_labels": [
+        "sign#2"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    }
+  ],
+  "texture_references": [
+    {
+      "identifier": "Dropzo_a",
+      "identifier_offset": 154,
+      "surface_label": "skrim",
+      "surface_label_offset": 109,
+      "gap_from_label": 45,
+      "next_string": "stars",
+      "next_string_offset": 181,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 73 74 61 72 73 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 93,
+      "context_end": 197,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "t5stars",
+      "identifier_offset": 226,
+      "surface_label": "stars",
+      "surface_label_offset": 181,
+      "gap_from_label": 45,
+      "next_string": "Track",
+      "next_string_offset": 252,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 54 72 61 63 6b 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 165,
+      "context_end": 268,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "ROAD",
+      "identifier_offset": 343,
+      "surface_label": "Road",
+      "surface_label_offset": 299,
+      "gap_from_label": 44,
+      "next_string": "finishlin",
+      "next_string_offset": 366,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 66 69 6e 69 73 68 6c 69 6e 00 ff ff ff ff",
+      "context_start": 283,
+      "context_end": 382,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "FINSHLN",
+      "identifier_offset": 415,
+      "surface_label": "finishlin",
+      "surface_label_offset": 366,
+      "gap_from_label": 49,
+      "next_string": "newalls",
+      "next_string_offset": 441,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 6e 65 77 61 6c 6c 73 00 ff ff ff ff ff ff",
+      "context_start": 350,
+      "context_end": 457,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "drop05",
+      "identifier_offset": 488,
+      "surface_label": "newalls",
+      "surface_label_offset": 441,
+      "gap_from_label": 47,
+      "next_string": "Drop Mountains",
+      "next_string_offset": 513,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 44 72 6f 70 20 4d 6f 75 6e 74 61 69 6e 73",
+      "context_start": 425,
+      "context_end": 529,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 432,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 504,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Rock_aa",
+      "identifier_offset": 617,
+      "surface_label": "mountans",
+      "surface_label_offset": 569,
+      "gap_from_label": 48,
+      "next_string": "minemtrl",
+      "next_string_offset": 643,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 6d 69 6e 65 6d 74 72 6c 00 ff ff ff ff ff",
+      "context_start": 553,
+      "context_end": 659,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "newmine",
+      "identifier_offset": 741,
+      "surface_label": "stelplat",
+      "surface_label_offset": 693,
+      "gap_from_label": 48,
+      "next_string": "wood",
+      "next_string_offset": 767,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16384,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.25,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 40 00 00 00 40 00 00 00 00 77 6f 6f 64 00 ff ff ff ff ff ff e5 e5 e5",
+      "context_start": 677,
+      "context_end": 783,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "newmine",
+      "identifier_offset": 811,
+      "surface_label": "wood",
+      "surface_label_offset": 767,
+      "gap_from_label": 44,
+      "next_string": "tippl",
+      "next_string_offset": 837,
+      "post_identifier_u32_le": [
+        0,
+        16384,
+        16384,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.25,
+        0.25,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 40 00 00 00 40 00 00 00 40 00 00 00 00 74 69 70 70 6c 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 751,
+      "context_end": 853,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 899,
+          "u32_le": [
+            64,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "newmine",
+      "identifier_offset": 882,
+      "surface_label": "tippl",
+      "surface_label_offset": 837,
+      "gap_from_label": 45,
+      "next_string": "mine2",
+      "next_string_offset": 908,
+      "post_identifier_u32_le": [
+        16384,
+        0,
+        16384,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.0,
+        0.25,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 00 00 00 00 00 40 00 00 00 40 00 00 00 00 6d 69 6e 65 32 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 821,
+      "context_end": 924,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "newmine",
+      "identifier_offset": 953,
+      "surface_label": "mine2",
+      "surface_label_offset": 908,
+      "gap_from_label": 45,
+      "next_string": "cact_a",
+      "next_string_offset": 979,
+      "post_identifier_u32_le": [
+        16384,
+        16387,
+        16384,
+        16380
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.2500457763671875,
+        0.25,
+        0.24993896484375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 03 40 00 00 00 40 00 00 fc 3f 00 00 00 00 63 61 63 74 5f 61 00 ff ff ff ff ff ff e5",
+      "context_start": 892,
+      "context_end": 995,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Cactus_a",
+      "identifier_offset": 1025,
+      "surface_label": "cact_a",
+      "surface_label_offset": 979,
+      "gap_from_label": 46,
+      "next_string": "newstands",
+      "next_string_offset": 1052,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 6e 65 77 73 74 61 6e 64 73 00 ff ff ff ff",
+      "context_start": 963,
+      "context_end": 1068,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "drop04",
+      "identifier_offset": 1101,
+      "surface_label": "newstands",
+      "surface_label_offset": 1052,
+      "gap_from_label": 49,
+      "next_string": "yuca_a",
+      "next_string_offset": 1126,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 79 75 63 61 5f 61 00 ff ff ff ff ff ff e5",
+      "context_start": 1036,
+      "context_end": 1142,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1117,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Yuca",
+      "identifier_offset": 1172,
+      "surface_label": "yuca_a",
+      "surface_label_offset": 1126,
+      "gap_from_label": 46,
+      "next_string": "sign#1",
+      "next_string_offset": 1195,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 73 69 67 6e 23 31 00 ff ff ff ff ff ff e5",
+      "context_start": 1110,
+      "context_end": 1211,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "board1",
+      "identifier_offset": 1241,
+      "surface_label": "sign#1",
+      "surface_label_offset": 1195,
+      "gap_from_label": 46,
+      "next_string": "dangersign",
+      "next_string_offset": 1266,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 64 61 6e 67 65 72 73 69 67 6e 00 ff ff ff",
+      "context_start": 1179,
+      "context_end": 1282,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1321,
+          "u16_le": [
+            4096,
+            8
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1257,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "CAUTN",
+      "identifier_offset": 1316,
+      "surface_label": "dangersign",
+      "surface_label_offset": 1266,
+      "gap_from_label": 50,
+      "next_string": "tunlsign",
+      "next_string_offset": 1340,
+      "post_identifier_u32_le": [
+        2064,
+        1548,
+        28897,
+        31219
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.031494140625,
+        0.02362060546875,
+        0.4409332275390625,
+        0.4763641357421875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "10 08 00 00 0c 06 00 00 e1 70 00 00 f3 79 00 00 00 00 74 75 6e 6c 73 69 67 6e 00 ff ff ff ff ff",
+      "context_start": 1250,
+      "context_end": 1356,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Dropsign",
+      "identifier_offset": 1388,
+      "surface_label": "tunlsign",
+      "surface_label_offset": 1340,
+      "gap_from_label": 48,
+      "next_string": "Drop Stands",
+      "next_string_offset": 1415,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 44 72 6f 70 20 53 74 61 6e 64 73 00 ff ff",
+      "context_start": 1324,
+      "context_end": 1431,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "dropcrwd",
+      "identifier_offset": 1517,
+      "surface_label": "Crowd Map",
+      "surface_label_offset": 1468,
+      "gap_from_label": 49,
+      "next_string": "stside",
+      "next_string_offset": 1544,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 73 74 73 69 64 65 00 ff ff ff ff ff ff e5",
+      "context_start": 1452,
+      "context_end": 1560,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "WODPNL",
+      "identifier_offset": 1590,
+      "surface_label": "stside",
+      "surface_label_offset": 1544,
+      "gap_from_label": 46,
+      "next_string": "newbuilding",
+      "next_string_offset": 1615,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 6e 65 77 62 75 69 6c 64 69 6e 67 00 ff ff",
+      "context_start": 1528,
+      "context_end": 1631,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1512,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1606,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "drop03",
+      "identifier_offset": 1666,
+      "surface_label": "newbuilding",
+      "surface_label_offset": 1615,
+      "gap_from_label": 51,
+      "next_string": "light",
+      "next_string_offset": 1691,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 6c 69 67 68 74 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 1599,
+      "context_end": 1707,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1606,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1682,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "STRTLIT",
+      "identifier_offset": 1736,
+      "surface_label": "light",
+      "surface_label_offset": 1691,
+      "gap_from_label": 45,
+      "next_string": "start/finish",
+      "next_string_offset": 1762,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 73 74 61 72 74 2f 66 69 6e 69 73 68 00 ff",
+      "context_start": 1675,
+      "context_end": 1778,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "t5start",
+      "identifier_offset": 1814,
+      "surface_label": "start/finish",
+      "surface_label_offset": 1762,
+      "gap_from_label": 52,
+      "next_string": "sign#2",
+      "next_string_offset": 1840,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 73 69 67 6e 23 32 00 ff ff ff ff ff ff e5",
+      "context_start": 1746,
+      "context_end": 1856,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1902,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "board2",
+      "identifier_offset": 1886,
+      "surface_label": "sign#2",
+      "surface_label_offset": 1840,
+      "gap_from_label": 46,
+      "next_string": "Skrim",
+      "next_string_offset": 1914,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 0b 01 00 53 6b 72 69 6d 00 00 00 00 00 00",
+      "context_start": 1824,
+      "context_end": 1930,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1902,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    }
+  ],
+  "verified_decoded_images": [],
+  "zlib_stream_candidates": [],
+  "standard_signature_counts": {
+    "PNG": 0,
+    "JPEG": 6,
+    "BMP": 0,
+    "GIF87a": 0,
+    "GIF89a": 0,
+    "DDS": 0,
+    "PCX": 2517
+  },
+  "conclusion": {
+    "verified_images_extracted": 0,
+    "zlib_streams_found": 0,
+    "texture_payload_format": "not established",
+    "note": "References are material/surface identifiers. A zlib stream is not classified as a texture without dimensions, pixel format and successful image reconstruction."
+  }
+}

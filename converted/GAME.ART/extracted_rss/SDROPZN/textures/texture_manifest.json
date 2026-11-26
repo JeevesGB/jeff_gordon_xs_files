@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Dropzo_a",
+    "offset": 154,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "skrim"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      154
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t5stars",
+    "offset": 226,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "stars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      226
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "ROAD",
+    "offset": 343,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Road"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      343
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "FINSHLN",
+    "offset": 415,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "finishlin"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      415
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "drop05",
+    "offset": 488,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "newalls"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      488
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "Rock_aa",
+    "offset": 617,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "mountans"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      617
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "newmine",
+    "offset": 741,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "stelplat",
+      "wood",
+      "tippl",
+      "mine2"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      741,
+      811,
+      882,
+      953
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "Cactus_a",
+    "offset": 1025,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "cact_a"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1025
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "drop04",
+    "offset": 1101,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "newstands"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1101
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "Yuca",
+    "offset": 1172,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "yuca_a"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1172
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "board1",
+    "offset": 1241,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "sign#1"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1241
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "CAUTN",
+    "offset": 1316,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "dangersign"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1316
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "Dropsign",
+    "offset": 1388,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "tunlsign"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1388
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "dropcrwd",
+    "offset": 1517,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Crowd Map"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1517
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "WODPNL",
+    "offset": 1590,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "stside"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1590
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "drop03",
+    "offset": 1666,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "newbuilding"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1666
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "STRTLIT",
+    "offset": 1736,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "light"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1736
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t5start",
+    "offset": 1814,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "start/finish"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1814
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "board2",
+    "offset": 1886,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "sign#2"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1886
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]
