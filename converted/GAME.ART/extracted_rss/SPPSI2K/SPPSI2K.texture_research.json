@@ -1,0 +1,3132 @@
+{
+  "file": "SPPSI2K.RSS",
+  "size": 675248,
+  "sha256": "50e89af655eb864b1b7564f941fdb3ffaad9b2308c619d5e02fa13507ece4edb",
+  "original_copy": "SPPSI2K.RSS.original",
+  "texture_reference_count": 74,
+  "unique_texture_identifiers": 24,
+  "plausible_atlas_rect_count": 74,
+  "zero_padding_after_rect_count": 74,
+  "texture_identifiers_grouped": [
+    {
+      "identifier": "T6redblu",
+      "occurrences": 2,
+      "surface_labels": [
+        "Pepsi Red",
+        "Pepsi Blue"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.2498931884765625,
+          0.5
+        ],
+        [
+          0.2578277587890625,
+          0.0,
+          0.242156982421875,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T6crdlit",
+      "occurrences": 2,
+      "surface_labels": [
+        "CrowdT1",
+        "CrowdB1"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.03985595703125
+        ],
+        [
+          0.0,
+          0.035430908203125,
+          0.5,
+          0.4645538330078125
+        ]
+      ]
+    },
+    {
+      "identifier": "T6crddrk",
+      "occurrences": 2,
+      "surface_labels": [
+        "CrowdT2",
+        "CrowdB2"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.0400543212890625
+        ],
+        [
+          0.0,
+          0.03936767578125,
+          0.5,
+          0.4606170654296875
+        ]
+      ]
+    },
+    {
+      "identifier": "T6WlFNCE",
+      "occurrences": 9,
+      "surface_labels": [
+        "RoadFenceStad",
+        "Stadium Side",
+        "Stnds UndrAwnBrte",
+        "Stnds Undr Not lit",
+        "FL Xgird",
+        "Ter Bridge Fence",
+        "Fence Top(Crop)",
+        "Fence (crop)",
+        "Fence Bottom (crop)"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.129913330078125,
+          0.5,
+          0.3700714111328125
+        ],
+        [
+          0.0,
+          0.0,
+          0.37481689453125,
+          0.1250457763671875
+        ],
+        [
+          0.0,
+          0.3464508056640625,
+          0.5,
+          0.1219635009765625
+        ],
+        [
+          0.0,
+          0.4038848876953125,
+          0.5,
+          0.07366943359375
+        ],
+        [
+          0.374755859375,
+          0.0,
+          0.1252288818359375,
+          0.124847412109375
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.2947235107421875
+        ],
+        [
+          0.0,
+          0.129913330078125,
+          0.5,
+          0.216522216796875
+        ],
+        [
+          0.4251861572265625,
+          0.3070831298828125,
+          0.074798583984375,
+          0.192901611328125
+        ],
+        [
+          0.0,
+          0.3031463623046875,
+          0.5,
+          0.1652679443359375
+        ]
+      ]
+    },
+    {
+      "identifier": "T6PepOne",
+      "occurrences": 5,
+      "surface_labels": [
+        "StandsPepBanner",
+        "Pepsi One bb",
+        "Finish Line bb",
+        "BB Lights",
+        "Pepsi Ban Wall"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.38238525390625,
+          0.5,
+          0.0544281005859375
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.3740081787109375
+        ],
+        [
+          0.0,
+          0.3764495849609375,
+          0.5,
+          0.0649871826171875
+        ],
+        [
+          0.0,
+          0.4420013427734375,
+          0.5,
+          0.0579833984375
+        ],
+        [
+          0.0,
+          0.3818817138671875,
+          0.5,
+          0.05511474609375
+        ]
+      ]
+    },
+    {
+      "identifier": "T6PB00",
+      "occurrences": 1,
+      "surface_labels": [
+        "Pepsi Ball Animation"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T6711FTO",
+      "occurrences": 2,
+      "surface_labels": [
+        "711 bb",
+        "Frito BB"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.247467041015625
+        ],
+        [
+          0.0,
+          0.2525177001953125,
+          0.5,
+          0.247467041015625
+        ]
+      ]
+    },
+    {
+      "identifier": "T6cave01",
+      "occurrences": 4,
+      "surface_labels": [
+        "Cave01",
+        "Cave02",
+        "Cave03",
+        "Cave04"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.250152587890625,
+          0.5
+        ],
+        [
+          0.250030517578125,
+          0.0,
+          0.2499542236328125,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.2499542236328125,
+          0.5
+        ],
+        [
+          0.250091552734375,
+          0.0,
+          0.2498931884765625,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T6Wtr01",
+      "occurrences": 1,
+      "surface_labels": [
+        "Water"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T6MntSnw",
+      "occurrences": 6,
+      "surface_labels": [
+        "Cave Mnt01",
+        "Cave Mnt02",
+        "Cave Mnt 03",
+        "WaterFall",
+        "Ground Snow",
+        "Snow Roof"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.24505615234375,
+          0.245086669921875
+        ],
+        [
+          0.2529296875,
+          0.0,
+          0.2450103759765625,
+          0.245086669921875
+        ],
+        [
+          0.0058746337890625,
+          0.2548980712890625,
+          0.240753173828125,
+          0.245086669921875
+        ],
+        [
+          0.2548980712890625,
+          0.0039215087890625,
+          0.243133544921875,
+          0.2411651611328125
+        ],
+        [
+          0.2548980712890625,
+          0.258819580078125,
+          0.2411651611328125,
+          0.2411651611328125
+        ],
+        [
+          0.2568511962890625,
+          0.2568511962890625,
+          0.2392120361328125,
+          0.2411651611328125
+        ]
+      ]
+    },
+    {
+      "identifier": "T6Cncrt",
+      "occurrences": 1,
+      "surface_labels": [
+        "Tunnel Entry"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T6CncIce",
+      "occurrences": 1,
+      "surface_labels": [
+        "Cave Cncrete Ice"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T6IceCol",
+      "occurrences": 1,
+      "surface_labels": [
+        "Ice Collumn Cave"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T6trebck",
+      "occurrences": 1,
+      "surface_labels": [
+        "Tree Back"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T6tunnel",
+      "occurrences": 4,
+      "surface_labels": [
+        "Terrain TunCeil Unlit",
+        "Terrain Tun Ciel lit",
+        "Terrain Tun Wal unli",
+        "Terrain Tun Wall lit"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.25,
+          0.25
+        ],
+        [
+          0.25,
+          0.0,
+          0.25,
+          0.25
+        ],
+        [
+          0.0,
+          0.25,
+          0.25,
+          0.25
+        ],
+        [
+          0.25,
+          0.25,
+          0.25,
+          0.25
+        ]
+      ]
+    },
+    {
+      "identifier": "T6Tree01",
+      "occurrences": 2,
+      "surface_labels": [
+        "PineA",
+        "Pine C"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.011810302734375,
+          0.245391845703125,
+          0.4842376708984375
+        ],
+        [
+          0.2598419189453125,
+          0.00787353515625,
+          0.2362060546875,
+          0.4881744384765625
+        ]
+      ]
+    },
+    {
+      "identifier": "T6Tree00",
+      "occurrences": 2,
+      "surface_labels": [
+        "Pine D",
+        "Tree 01"
+      ],
+      "atlas_rects": [
+        [
+          0.011810302734375,
+          0.0,
+          0.22833251953125,
+          0.5
+        ],
+        [
+          0.2524566650390625,
+          0.0,
+          0.247528076171875,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T6Blding",
+      "occurrences": 6,
+      "surface_labels": [
+        "Base Unlit",
+        "Base Lit",
+        "Windows non lite",
+        "Window Lit",
+        "Angle Non lit",
+        "Angle Lit"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.250091552734375,
+          0.2498931884765625,
+          0.2498931884765625
+        ],
+        [
+          0.2498626708984375,
+          0.250030517578125,
+          0.2501220703125,
+          0.2499542236328125
+        ],
+        [
+          0.0,
+          0.0,
+          0.2501220703125,
+          0.1501617431640625
+        ],
+        [
+          0.2501220703125,
+          0.0,
+          0.2498626708984375,
+          0.1501617431640625
+        ],
+        [
+          0.0,
+          0.1501617431640625,
+          0.2501220703125,
+          0.1002349853515625
+        ],
+        [
+          0.2501220703125,
+          0.1501617431640625,
+          0.2498626708984375,
+          0.09979248046875
+        ]
+      ]
+    },
+    {
+      "identifier": "T6Trk00",
+      "occurrences": 3,
+      "surface_labels": [
+        "Track Snow",
+        "Trak no snow Centr",
+        "Trak nosnow Edge"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0024871826171875,
+          0.5,
+          0.244903564453125
+        ],
+        [
+          0.02362060546875,
+          0.2524566650390625,
+          0.4645538330078125,
+          0.245025634765625
+        ],
+        [
+          0.0,
+          0.2525177001953125,
+          0.5,
+          0.244964599609375
+        ]
+      ]
+    },
+    {
+      "identifier": "T6trk01",
+      "occurrences": 3,
+      "surface_labels": [
+        "Trak Trans",
+        "Track Strt Finish line",
+        "Trk Trans Cnter"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0024871826171875,
+          0.5,
+          0.245147705078125
+        ],
+        [
+          0.0,
+          0.2525177001953125,
+          0.5,
+          0.244964599609375
+        ],
+        [
+          0.02362060546875,
+          0.0024871826171875,
+          0.466552734375,
+          0.244842529296875
+        ]
+      ]
+    },
+    {
+      "identifier": "T6trkcnt",
+      "occurrences": 7,
+      "surface_labels": [
+        "Trk Snow Cnter",
+        "Blmp sides",
+        "Blimp nose",
+        "Blmp Cabin",
+        "Blmp Grey",
+        "Lt Pole tex",
+        "Light Bulb"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0024261474609375,
+          0.5,
+          0.245086669921875
+        ],
+        [
+          0.2523345947265625,
+          0.252716064453125,
+          0.1097869873046875,
+          0.1097869873046875
+        ],
+        [
+          0.2637786865234375,
+          0.3818817138671875,
+          0.2362060546875,
+          0.11810302734375
+        ],
+        [
+          0.39019775390625,
+          0.2525634765625,
+          0.1097869873046875,
+          0.122314453125
+        ],
+        [
+          0.2559051513671875,
+          0.3976287841796875,
+          0.066925048828125,
+          0.066925048828125
+        ],
+        [
+          0.0,
+          0.2523956298828125,
+          0.110107421875,
+          0.24407958984375
+        ],
+        [
+          0.129913330078125,
+          0.2523956298828125,
+          0.107666015625,
+          0.1200408935546875
+        ]
+      ]
+    },
+    {
+      "identifier": "T6Walls",
+      "occurrences": 6,
+      "surface_labels": [
+        "Walls Rail Wall",
+        "Pepsi Wall",
+        "Orange Arrw Wall",
+        "Concrete (walls)",
+        "Conc wall",
+        "Rail Wall"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.26226806640625,
+          0.5,
+          0.1121673583984375
+        ],
+        [
+          0.0,
+          0.3818817138671875,
+          0.5,
+          0.11810302734375
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.122039794921875
+        ],
+        [
+          0.0,
+          0.1250457763671875,
+          0.5,
+          0.12335205078125
+        ],
+        [
+          0.0,
+          0.127410888671875,
+          0.5,
+          0.1190338134765625
+        ],
+        [
+          0.0,
+          0.2559051513671875,
+          0.5,
+          0.1259765625
+        ]
+      ]
+    },
+    {
+      "identifier": "T6scrim",
+      "occurrences": 2,
+      "surface_labels": [
+        "Skrim 1",
+        "Skrim 2"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0048675537109375,
+          0.5,
+          0.2421112060546875
+        ],
+        [
+          0.0,
+          0.2548980712890625,
+          0.5,
+          0.24407958984375
+        ]
+      ]
+    },
+    {
+      "identifier": "T6Stars",
+      "occurrences": 1,
+      "surface_labels": [
+        "Skrim Stars"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    }
+  ],
+  "texture_references": [
+    {
+      "identifier": "T6redblu",
+      "identifier_offset": 159,
+      "surface_label": "Pepsi Red",
+      "surface_label_offset": 110,
+      "gap_from_label": 49,
+      "next_string": "Pepsi Blue",
+      "next_string_offset": 186,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16377,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.2498931884765625,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 f9 3f 00 00 00 80 00 00 00 00 50 65 70 73 69 20 42 6c 75 65 00 ff ff ff",
+      "context_start": 94,
+      "context_end": 202,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 231,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6redblu",
+      "identifier_offset": 236,
+      "surface_label": "Pepsi Blue",
+      "surface_label_offset": 186,
+      "gap_from_label": 50,
+      "next_string": "Stands",
+      "next_string_offset": 263,
+      "post_identifier_u32_le": [
+        16897,
+        0,
+        15870,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2578277587890625,
+        0.0,
+        0.242156982421875,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 42 00 00 00 00 00 00 fe 3d 00 00 00 80 00 00 00 00 53 74 61 6e 64 73 00 ff ff ff ff ff ff e5",
+      "context_start": 170,
+      "context_end": 279,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 154,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6crdlit",
+      "identifier_offset": 358,
+      "surface_label": "CrowdT1",
+      "surface_label_offset": 311,
+      "gap_from_label": 47,
+      "next_string": "CrowdT2",
+      "next_string_offset": 385,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        2612
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.03985595703125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 34 0a 00 00 00 00 43 72 6f 77 64 54 32 00 ff ff ff ff ff ff",
+      "context_start": 295,
+      "context_end": 401,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6crddrk",
+      "identifier_offset": 432,
+      "surface_label": "CrowdT2",
+      "surface_label_offset": 385,
+      "gap_from_label": 47,
+      "next_string": "CrowdB1",
+      "next_string_offset": 459,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        2625
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.0400543212890625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 41 0a 00 00 00 00 43 72 6f 77 64 42 31 00 ff ff ff ff ff ff",
+      "context_start": 369,
+      "context_end": 475,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6crdlit",
+      "identifier_offset": 506,
+      "surface_label": "CrowdB1",
+      "surface_label_offset": 459,
+      "gap_from_label": 47,
+      "next_string": "CrowdB2",
+      "next_string_offset": 533,
+      "post_identifier_u32_le": [
+        0,
+        2322,
+        32768,
+        30445
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.035430908203125,
+        0.5,
+        0.4645538330078125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 12 09 00 00 00 80 00 00 ed 76 00 00 00 00 43 72 6f 77 64 42 32 00 ff ff ff ff ff ff",
+      "context_start": 443,
+      "context_end": 549,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6crddrk",
+      "identifier_offset": 580,
+      "surface_label": "CrowdB2",
+      "surface_label_offset": 533,
+      "gap_from_label": 47,
+      "next_string": "RoadFenceStad",
+      "next_string_offset": 607,
+      "post_identifier_u32_le": [
+        0,
+        2580,
+        32768,
+        30187
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.03936767578125,
+        0.5,
+        0.4606170654296875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 14 0a 00 00 00 80 00 00 eb 75 00 00 00 00 52 6f 61 64 46 65 6e 63 65 53 74 61 64 00",
+      "context_start": 517,
+      "context_end": 623,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6WlFNCE",
+      "identifier_offset": 660,
+      "surface_label": "RoadFenceStad",
+      "surface_label_offset": 607,
+      "gap_from_label": 53,
+      "next_string": "B!",
+      "next_string_offset": 673,
+      "post_identifier_u32_le": [
+        0,
+        8514,
+        32768,
+        24253
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.129913330078125,
+        0.5,
+        0.3700714111328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 42 21 00 00 00 80 00 00 bd 5e 00 00 00 00 53 74 61 6e 64 73 50 65 70 42 61 6e 6e 65",
+      "context_start": 591,
+      "context_end": 689,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6PepOne",
+      "identifier_offset": 742,
+      "surface_label": "StandsPepBanner",
+      "surface_label_offset": 687,
+      "gap_from_label": 55,
+      "next_string": "Stadium Side",
+      "next_string_offset": 769,
+      "post_identifier_u32_le": [
+        0,
+        25060,
+        32768,
+        3567
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.38238525390625,
+        0.5,
+        0.0544281005859375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 e4 61 00 00 00 80 00 00 ef 0d 00 00 00 00 53 74 61 64 69 75 6d 20 53 69 64 65 00 ff",
+      "context_start": 671,
+      "context_end": 785,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 816,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6WlFNCE",
+      "identifier_offset": 821,
+      "surface_label": "Stadium Side",
+      "surface_label_offset": 769,
+      "gap_from_label": 52,
+      "next_string": "Stnds UndrAwnBrte",
+      "next_string_offset": 848,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        24564,
+        8195
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.37481689453125,
+        0.1250457763671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 f4 5f 00 00 03 20 00 00 00 00 53 74 6e 64 73 20 55 6e 64 72 41 77 6e 42",
+      "context_start": 753,
+      "context_end": 864,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 737,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6WlFNCE",
+      "identifier_offset": 905,
+      "surface_label": "Stnds UndrAwnBrte",
+      "surface_label_offset": 848,
+      "gap_from_label": 57,
+      "next_string": "Stnds Undr Not lit",
+      "next_string_offset": 932,
+      "post_identifier_u32_le": [
+        0,
+        22705,
+        32768,
+        7993
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.3464508056640625,
+        0.5,
+        0.1219635009765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 b1 58 00 00 00 80 00 00 39 1f 00 00 00 00 53 74 6e 64 73 20 55 6e 64 72 20 4e 6f 74",
+      "context_start": 832,
+      "context_end": 948,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 985,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6WlFNCE",
+      "identifier_offset": 990,
+      "surface_label": "Stnds Undr Not lit",
+      "surface_label_offset": 932,
+      "gap_from_label": 58,
+      "next_string": "eg",
+      "next_string_offset": 1003,
+      "post_identifier_u32_le": [
+        0,
+        26469,
+        32768,
+        4828
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.4038848876953125,
+        0.5,
+        0.07366943359375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 65 67 00 00 00 80 00 00 dc 12 00 00 00 00 53 69 67 6e 73 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 916,
+      "context_end": 1019,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 900,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6WlFNCE",
+      "identifier_offset": 1112,
+      "surface_label": "FL Xgird",
+      "surface_label_offset": 1064,
+      "gap_from_label": 48,
+      "next_string": "Pepsi One bb",
+      "next_string_offset": 1139,
+      "post_identifier_u32_le": [
+        24560,
+        0,
+        8207,
+        8182
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.374755859375,
+        0.0,
+        0.1252288818359375,
+        0.124847412109375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "f0 5f 00 00 00 00 00 00 0f 20 00 00 f6 1f 00 00 00 00 50 65 70 73 69 20 4f 6e 65 20 62 62 00 ff",
+      "context_start": 1048,
+      "context_end": 1155,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1186,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6PepOne",
+      "identifier_offset": 1191,
+      "surface_label": "Pepsi One bb",
+      "surface_label_offset": 1139,
+      "gap_from_label": 52,
+      "next_string": "Pepsi BB",
+      "next_string_offset": 1218,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        24511
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.3740081787109375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 bf 5f 00 00 00 00 50 65 70 73 69 20 42 42 00 ff ff ff ff ff",
+      "context_start": 1123,
+      "context_end": 1234,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1107,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1261,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6PepOne",
+      "identifier_offset": 1429,
+      "surface_label": "Finish Line bb",
+      "surface_label_offset": 1375,
+      "gap_from_label": 54,
+      "next_string": "_`",
+      "next_string_offset": 1442,
+      "post_identifier_u32_le": [
+        0,
+        24671,
+        32768,
+        4259
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.3764495849609375,
+        0.5,
+        0.0649871826171875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 5f 60 00 00 00 80 00 00 a3 10 00 00 00 00 50 65 70 73 69 20 42 61 6c 6c 20 41 6e 69",
+      "context_start": 1359,
+      "context_end": 1458,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1343,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1511,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6PB00",
+      "identifier_offset": 1516,
+      "surface_label": "Pepsi Ball Animation",
+      "surface_label_offset": 1456,
+      "gap_from_label": 60,
+      "next_string": "Pepsi Thin Banner",
+      "next_string_offset": 1541,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 50 65 70 73 69 20 54 68 69 6e 20 42 61 6e",
+      "context_start": 1440,
+      "context_end": 1557,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1424,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1532,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6PepOne",
+      "identifier_offset": 1674,
+      "surface_label": "BB Lights",
+      "surface_label_offset": 1625,
+      "gap_from_label": 49,
+      "next_string": "'q",
+      "next_string_offset": 1687,
+      "post_identifier_u32_le": [
+        0,
+        28967,
+        32768,
+        3800
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.4420013427734375,
+        0.5,
+        0.0579833984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 27 71 00 00 00 80 00 00 d8 0e 00 00 00 00 37 31 31 20 62 62 00 ff ff ff ff ff ff e5",
+      "context_start": 1609,
+      "context_end": 1703,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1742,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6711FTO",
+      "identifier_offset": 1747,
+      "surface_label": "711 bb",
+      "surface_label_offset": 1701,
+      "gap_from_label": 46,
+      "next_string": "Z?",
+      "next_string_offset": 1768,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        16218
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.247467041015625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 5a 3f 00 00 00 00 46 72 69 74 6f 20 42 42 00 ff ff ff ff ff",
+      "context_start": 1685,
+      "context_end": 1784,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1669,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1817,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6711FTO",
+      "identifier_offset": 1822,
+      "surface_label": "Frito BB",
+      "surface_label_offset": 1774,
+      "gap_from_label": 48,
+      "next_string": "Z?",
+      "next_string_offset": 1843,
+      "post_identifier_u32_le": [
+        0,
+        16549,
+        32768,
+        16218
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2525177001953125,
+        0.5,
+        0.247467041015625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 a5 40 00 00 00 80 00 00 5a 3f 00 00 00 00 54 65 72 72 61 69 6e 00 ff ff ff ff ff ff",
+      "context_start": 1758,
+      "context_end": 1859,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1742,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6cave01",
+      "identifier_offset": 1944,
+      "surface_label": "Cave01",
+      "surface_label_offset": 1898,
+      "gap_from_label": 46,
+      "next_string": "Cave02",
+      "next_string_offset": 1971,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16394,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.250152587890625,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 0a 40 00 00 00 80 00 00 00 00 43 61 76 65 30 32 00 ff ff ff ff ff ff e5",
+      "context_start": 1882,
+      "context_end": 1987,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6cave01",
+      "identifier_offset": 2017,
+      "surface_label": "Cave02",
+      "surface_label_offset": 1971,
+      "gap_from_label": 46,
+      "next_string": "Cave03",
+      "next_string_offset": 2044,
+      "post_identifier_u32_le": [
+        16386,
+        0,
+        16381,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.250030517578125,
+        0.0,
+        0.2499542236328125,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "02 40 00 00 00 00 00 00 fd 3f 00 00 00 80 00 00 00 00 43 61 76 65 30 33 00 ff ff ff ff ff ff e5",
+      "context_start": 1955,
+      "context_end": 2060,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2025,
+          "u16_le": [
+            512,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6cave01",
+      "identifier_offset": 2090,
+      "surface_label": "Cave03",
+      "surface_label_offset": 2044,
+      "gap_from_label": 46,
+      "next_string": "Cave04",
+      "next_string_offset": 2117,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16381,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.2499542236328125,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 fd 3f 00 00 00 80 00 00 00 00 43 61 76 65 30 34 00 ff ff ff ff ff ff e5",
+      "context_start": 2028,
+      "context_end": 2133,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6cave01",
+      "identifier_offset": 2163,
+      "surface_label": "Cave04",
+      "surface_label_offset": 2117,
+      "gap_from_label": 46,
+      "next_string": "Water",
+      "next_string_offset": 2190,
+      "post_identifier_u32_le": [
+        16390,
+        0,
+        16377,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.250091552734375,
+        0.0,
+        0.2498931884765625,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "06 40 00 00 00 00 00 00 f9 3f 00 00 00 80 00 00 00 00 57 61 74 65 72 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 2101,
+      "context_end": 2206,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6Wtr01",
+      "identifier_offset": 2235,
+      "surface_label": "Water",
+      "surface_label_offset": 2190,
+      "gap_from_label": 45,
+      "next_string": "Cave Mnt01",
+      "next_string_offset": 2261,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 43 61 76 65 20 4d 6e 74 30 31 00 c8 c8 c8",
+      "context_start": 2174,
+      "context_end": 2277,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6MntSnw",
+      "identifier_offset": 2311,
+      "surface_label": "Cave Mnt01",
+      "surface_label_offset": 2261,
+      "gap_from_label": 50,
+      "next_string": "Cave Mnt02",
+      "next_string_offset": 2338,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16060,
+        16062
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.24505615234375,
+        0.245086669921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 bc 3e 00 00 be 3e 00 00 00 00 43 61 76 65 20 4d 6e 74 30 32 00 c8 c8 c8",
+      "context_start": 2245,
+      "context_end": 2354,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6MntSnw",
+      "identifier_offset": 2388,
+      "surface_label": "Cave Mnt02",
+      "surface_label_offset": 2338,
+      "gap_from_label": 50,
+      "next_string": "Cave Mnt 03",
+      "next_string_offset": 2415,
+      "post_identifier_u32_le": [
+        16576,
+        0,
+        16057,
+        16062
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2529296875,
+        0.0,
+        0.2450103759765625,
+        0.245086669921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c0 40 00 00 00 00 00 00 b9 3e 00 00 be 3e 00 00 00 00 43 61 76 65 20 4d 6e 74 20 30 33 00 c8 c8",
+      "context_start": 2322,
+      "context_end": 2431,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6MntSnw",
+      "identifier_offset": 2466,
+      "surface_label": "Cave Mnt 03",
+      "surface_label_offset": 2415,
+      "gap_from_label": 51,
+      "next_string": "AA",
+      "next_string_offset": 2479,
+      "post_identifier_u32_le": [
+        385,
+        16705,
+        15778,
+        16062
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.2548980712890625,
+        0.240753173828125,
+        0.245086669921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 41 41 00 00 a2 3d 00 00 be 3e 00 00 00 00 57 61 74 65 72 46 61 6c 6c 00 ff ff ff c8",
+      "context_start": 2399,
+      "context_end": 2495,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6MntSnw",
+      "identifier_offset": 2542,
+      "surface_label": "WaterFall",
+      "surface_label_offset": 2493,
+      "gap_from_label": 49,
+      "next_string": "AA",
+      "next_string_offset": 2551,
+      "post_identifier_u32_le": [
+        16705,
+        257,
+        15934,
+        15805
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2548980712890625,
+        0.0039215087890625,
+        0.243133544921875,
+        0.2411651611328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "41 41 00 00 01 01 00 00 3e 3e 00 00 bd 3d 00 00 00 00 54 75 6e 6e 65 6c 20 45 6e 74 72 79 00 ff",
+      "context_start": 2477,
+      "context_end": 2567,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6Cncrt",
+      "identifier_offset": 2621,
+      "surface_label": "Tunnel Entry",
+      "surface_label_offset": 2569,
+      "gap_from_label": 52,
+      "next_string": "Ground Snow",
+      "next_string_offset": 2647,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 47 72 6f 75 6e 64 20 53 6e 6f 77 00 c8 c8",
+      "context_start": 2553,
+      "context_end": 2663,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6MntSnw",
+      "identifier_offset": 2698,
+      "surface_label": "Ground Snow",
+      "surface_label_offset": 2647,
+      "gap_from_label": 51,
+      "next_string": "AA",
+      "next_string_offset": 2707,
+      "post_identifier_u32_le": [
+        16705,
+        16962,
+        15805,
+        15805
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2548980712890625,
+        0.258819580078125,
+        0.2411651611328125,
+        0.2411651611328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "41 41 00 00 42 42 00 00 bd 3d 00 00 bd 3d 00 00 00 00 43 61 76 65 20 43 6e 63 72 65 74 65 20 49",
+      "context_start": 2631,
+      "context_end": 2723,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2638,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6CncIce",
+      "identifier_offset": 2781,
+      "surface_label": "Cave Cncrete Ice",
+      "surface_label_offset": 2725,
+      "gap_from_label": 56,
+      "next_string": "Ice Collumn Cave",
+      "next_string_offset": 2808,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 49 63 65 20 43 6f 6c 6c 75 6d 6e 20 43 61",
+      "context_start": 2709,
+      "context_end": 2824,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6IceCol",
+      "identifier_offset": 2864,
+      "surface_label": "Ice Collumn Cave",
+      "surface_label_offset": 2808,
+      "gap_from_label": 56,
+      "next_string": "T Empty",
+      "next_string_offset": 2891,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 54 20 45 6d 70 74 79 00 ff ff ff ff ff ff",
+      "context_start": 2792,
+      "context_end": 2907,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6WlFNCE",
+      "identifier_offset": 3047,
+      "surface_label": "Ter Bridge Fence",
+      "surface_label_offset": 2991,
+      "gap_from_label": 56,
+      "next_string": "sK",
+      "next_string_offset": 3068,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        19315
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.2947235107421875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 73 4b 00 00 00 00 54 72 65 65 20 42 61 63 6b 00 ff ff ff ff",
+      "context_start": 2975,
+      "context_end": 3084,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6trebck",
+      "identifier_offset": 3123,
+      "surface_label": "Tree Back",
+      "surface_label_offset": 3074,
+      "gap_from_label": 49,
+      "next_string": "T Empty 2",
+      "next_string_offset": 3150,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 54 20 45 6d 70 74 79 20 32 00 ff ff ff ff",
+      "context_start": 3058,
+      "context_end": 3166,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6tunnel",
+      "identifier_offset": 3323,
+      "surface_label": "Terrain TunCeil Unlit",
+      "surface_label_offset": 3262,
+      "gap_from_label": 61,
+      "next_string": "Terrain Tun Ciel lit",
+      "next_string_offset": 3350,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16384,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.25,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 40 00 00 00 40 00 00 00 00 54 65 72 72 61 69 6e 20 54 75 6e 20 43 69",
+      "context_start": 3246,
+      "context_end": 3366,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 3405,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6tunnel",
+      "identifier_offset": 3410,
+      "surface_label": "Terrain Tun Ciel lit",
+      "surface_label_offset": 3350,
+      "gap_from_label": 60,
+      "next_string": "Terrain Tun Wal unli",
+      "next_string_offset": 3437,
+      "post_identifier_u32_le": [
+        16384,
+        0,
+        16384,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.0,
+        0.25,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 00 00 00 00 00 40 00 00 00 40 00 00 00 00 54 65 72 72 61 69 6e 20 54 75 6e 20 57 61",
+      "context_start": 3334,
+      "context_end": 3453,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 3318,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 3492,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6tunnel",
+      "identifier_offset": 3497,
+      "surface_label": "Terrain Tun Wal unli",
+      "surface_label_offset": 3437,
+      "gap_from_label": 60,
+      "next_string": "Terrain Tun Wall lit",
+      "next_string_offset": 3524,
+      "post_identifier_u32_le": [
+        0,
+        16384,
+        16384,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.25,
+        0.25,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 40 00 00 00 40 00 00 00 40 00 00 00 00 54 65 72 72 61 69 6e 20 54 75 6e 20 57 61",
+      "context_start": 3421,
+      "context_end": 3540,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 3405,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 3579,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6tunnel",
+      "identifier_offset": 3584,
+      "surface_label": "Terrain Tun Wall lit",
+      "surface_label_offset": 3524,
+      "gap_from_label": 60,
+      "next_string": "PineTrees",
+      "next_string_offset": 3611,
+      "post_identifier_u32_le": [
+        16384,
+        16384,
+        16384,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.25,
+        0.25,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 00 40 00 00 00 40 00 00 00 40 00 00 00 00 50 69 6e 65 54 72 65 65 73 00 ff ff ff ff",
+      "context_start": 3508,
+      "context_end": 3627,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 3492,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6Tree01",
+      "identifier_offset": 3707,
+      "surface_label": "PineA",
+      "surface_label_offset": 3662,
+      "gap_from_label": 45,
+      "next_string": "Pine C",
+      "next_string_offset": 3734,
+      "post_identifier_u32_le": [
+        0,
+        774,
+        16082,
+        31735
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.011810302734375,
+        0.245391845703125,
+        0.4842376708984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 06 03 00 00 d2 3e 00 00 f7 7b 00 00 00 00 50 69 6e 65 20 43 00 ff ff ff ff ff ff e5",
+      "context_start": 3646,
+      "context_end": 3750,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 3775,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6Tree01",
+      "identifier_offset": 3780,
+      "surface_label": "Pine C",
+      "surface_label_offset": 3734,
+      "gap_from_label": 46,
+      "next_string": "x<",
+      "next_string_offset": 3797,
+      "post_identifier_u32_le": [
+        17029,
+        516,
+        15480,
+        31993
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2598419189453125,
+        0.00787353515625,
+        0.2362060546875,
+        0.4881744384765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "85 42 00 00 04 02 00 00 78 3c 00 00 f9 7c 00 00 00 00 50 69 6e 65 20 44 00 ff ff ff ff ff ff e5",
+      "context_start": 3718,
+      "context_end": 3813,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 3702,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 3848,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6Tree00",
+      "identifier_offset": 3853,
+      "surface_label": "Pine D",
+      "surface_label_offset": 3807,
+      "gap_from_label": 46,
+      "next_string": "t:",
+      "next_string_offset": 3870,
+      "post_identifier_u32_le": [
+        774,
+        0,
+        14964,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.011810302734375,
+        0.0,
+        0.22833251953125,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "06 03 00 00 00 00 00 00 74 3a 00 00 00 80 00 00 00 00 54 72 65 65 20 30 31 00 ff ff ff ff ff ff",
+      "context_start": 3791,
+      "context_end": 3886,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 3775,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6Tree00",
+      "identifier_offset": 3927,
+      "surface_label": "Tree 01",
+      "surface_label_offset": 3880,
+      "gap_from_label": 47,
+      "next_string": "^?",
+      "next_string_offset": 3944,
+      "post_identifier_u32_le": [
+        16545,
+        0,
+        16222,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2524566650390625,
+        0.0,
+        0.247528076171875,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "a1 40 00 00 00 00 00 00 5e 3f 00 00 00 80 00 00 00 00 42 75 69 6c 64 69 6e 67 00 ff ff ff ff ff",
+      "context_start": 3864,
+      "context_end": 3960,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6Blding",
+      "identifier_offset": 4054,
+      "surface_label": "Base Unlit",
+      "surface_label_offset": 4004,
+      "gap_from_label": 50,
+      "next_string": "Base Lit",
+      "next_string_offset": 4081,
+      "post_identifier_u32_le": [
+        0,
+        16390,
+        16377,
+        16377
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.250091552734375,
+        0.2498931884765625,
+        0.2498931884765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 06 40 00 00 f9 3f 00 00 f9 3f 00 00 00 00 42 61 73 65 20 4c 69 74 00 ff ff ff ff ff",
+      "context_start": 3988,
+      "context_end": 4097,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6Blding",
+      "identifier_offset": 4129,
+      "surface_label": "Base Lit",
+      "surface_label_offset": 4081,
+      "gap_from_label": 48,
+      "next_string": "Windows non lite",
+      "next_string_offset": 4156,
+      "post_identifier_u32_le": [
+        16375,
+        16386,
+        16392,
+        16381
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2498626708984375,
+        0.250030517578125,
+        0.2501220703125,
+        0.2499542236328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "f7 3f 00 00 02 40 00 00 08 40 00 00 fd 3f 00 00 00 00 57 69 6e 64 6f 77 73 20 6e 6f 6e 20 6c 69",
+      "context_start": 4065,
+      "context_end": 4172,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4141,
+          "u16_le": [
+            512,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4143,
+          "u16_le": [
+            64,
+            2048
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4145,
+          "u16_le": [
+            2048,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6Blding",
+      "identifier_offset": 4212,
+      "surface_label": "Windows non lite",
+      "surface_label_offset": 4156,
+      "gap_from_label": 56,
+      "next_string": "q&",
+      "next_string_offset": 4233,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16392,
+        9841
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.2501220703125,
+        0.1501617431640625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 08 40 00 00 71 26 00 00 00 00 57 69 6e 64 6f 77 20 4c 69 74 00 ff ff ff",
+      "context_start": 4140,
+      "context_end": 4249,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4228,
+          "u16_le": [
+            2048,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6Blding",
+      "identifier_offset": 4289,
+      "surface_label": "Window Lit",
+      "surface_label_offset": 4239,
+      "gap_from_label": 50,
+      "next_string": "q&",
+      "next_string_offset": 4310,
+      "post_identifier_u32_le": [
+        16392,
+        0,
+        16375,
+        9841
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2501220703125,
+        0.0,
+        0.2498626708984375,
+        0.1501617431640625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "08 40 00 00 00 00 00 00 f7 3f 00 00 71 26 00 00 00 00 53 6e 6f 77 20 52 6f 6f 66 00 ff ff ff ff",
+      "context_start": 4223,
+      "context_end": 4326,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4297,
+          "u16_le": [
+            2048,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6MntSnw",
+      "identifier_offset": 4365,
+      "surface_label": "Snow Roof",
+      "surface_label_offset": 4316,
+      "gap_from_label": 49,
+      "next_string": "==",
+      "next_string_offset": 4382,
+      "post_identifier_u32_le": [
+        16833,
+        16833,
+        15677,
+        15805
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2568511962890625,
+        0.2568511962890625,
+        0.2392120361328125,
+        0.2411651611328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c1 41 00 00 c1 41 00 00 3d 3d 00 00 bd 3d 00 00 00 00 41 6e 67 6c 65 20 4e 6f 6e 20 6c 69 74 00",
+      "context_start": 4300,
+      "context_end": 4398,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4297,
+          "u16_le": [
+            2048,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6Blding",
+      "identifier_offset": 4445,
+      "surface_label": "Angle Non lit",
+      "surface_label_offset": 4392,
+      "gap_from_label": 53,
+      "next_string": "q&",
+      "next_string_offset": 4458,
+      "post_identifier_u32_le": [
+        0,
+        9841,
+        16392,
+        6569
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.1501617431640625,
+        0.2501220703125,
+        0.1002349853515625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 71 26 00 00 08 40 00 00 a9 19 00 00 00 00 41 6e 67 6c 65 20 4c 69 74 00 ff ff ff ff",
+      "context_start": 4376,
+      "context_end": 4474,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4461,
+          "u16_le": [
+            2048,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4529,
+          "u16_le": [
+            2048,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6Blding",
+      "identifier_offset": 4521,
+      "surface_label": "Angle Lit",
+      "surface_label_offset": 4472,
+      "gap_from_label": 49,
+      "next_string": "q&",
+      "next_string_offset": 4534,
+      "post_identifier_u32_le": [
+        16392,
+        9841,
+        16375,
+        6540
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2501220703125,
+        0.1501617431640625,
+        0.2498626708984375,
+        0.09979248046875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "08 40 00 00 71 26 00 00 f7 3f 00 00 8c 19 00 00 00 00 54 72 61 63 6b 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 4456,
+      "context_end": 4550,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4461,
+          "u16_le": [
+            2048,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4529,
+          "u16_le": [
+            2048,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6Trk00",
+      "identifier_offset": 4645,
+      "surface_label": "Track Snow",
+      "surface_label_offset": 4595,
+      "gap_from_label": 50,
+      "next_string": "Trak Trans",
+      "next_string_offset": 4671,
+      "post_identifier_u32_le": [
+        0,
+        163,
+        32768,
+        16050
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0024871826171875,
+        0.5,
+        0.244903564453125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 a3 00 00 00 00 80 00 00 b2 3e 00 00 00 00 54 72 61 6b 20 54 72 61 6e 73 00 ff ff ff",
+      "context_start": 4579,
+      "context_end": 4687,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6trk01",
+      "identifier_offset": 4721,
+      "surface_label": "Trak Trans",
+      "surface_label_offset": 4671,
+      "gap_from_label": 50,
+      "next_string": "Trak no snow Centr",
+      "next_string_offset": 4747,
+      "post_identifier_u32_le": [
+        0,
+        163,
+        32768,
+        16066
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0024871826171875,
+        0.5,
+        0.245147705078125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 a3 00 00 00 00 80 00 00 c2 3e 00 00 00 00 54 72 61 6b 20 6e 6f 20 73 6e 6f 77 20 43",
+      "context_start": 4655,
+      "context_end": 4763,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6Trk00",
+      "identifier_offset": 4805,
+      "surface_label": "Trak no snow Centr",
+      "surface_label_offset": 4747,
+      "gap_from_label": 58,
+      "next_string": "Trak nosnow Edge",
+      "next_string_offset": 4831,
+      "post_identifier_u32_le": [
+        1548,
+        16545,
+        30445,
+        16058
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.02362060546875,
+        0.2524566650390625,
+        0.4645538330078125,
+        0.245025634765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "0c 06 00 00 a1 40 00 00 ed 76 00 00 ba 3e 00 00 00 00 54 72 61 6b 20 6e 6f 73 6e 6f 77 20 45 64",
+      "context_start": 4731,
+      "context_end": 4847,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6Trk00",
+      "identifier_offset": 4887,
+      "surface_label": "Trak nosnow Edge",
+      "surface_label_offset": 4831,
+      "gap_from_label": 56,
+      "next_string": "Track Strt Finish line",
+      "next_string_offset": 4913,
+      "post_identifier_u32_le": [
+        0,
+        16549,
+        32768,
+        16054
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2525177001953125,
+        0.5,
+        0.244964599609375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 a5 40 00 00 00 80 00 00 b6 3e 00 00 00 00 54 72 61 63 6b 20 53 74 72 74 20 46 69 6e",
+      "context_start": 4815,
+      "context_end": 4929,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6trk01",
+      "identifier_offset": 4975,
+      "surface_label": "Track Strt Finish line",
+      "surface_label_offset": 4913,
+      "gap_from_label": 62,
+      "next_string": "Trk Trans Cnter",
+      "next_string_offset": 5001,
+      "post_identifier_u32_le": [
+        0,
+        16549,
+        32768,
+        16054
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2525177001953125,
+        0.5,
+        0.244964599609375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 a5 40 00 00 00 80 00 00 b6 3e 00 00 00 00 54 72 6b 20 54 72 61 6e 73 20 43 6e 74 65",
+      "context_start": 4897,
+      "context_end": 5017,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6trk01",
+      "identifier_offset": 5056,
+      "surface_label": "Trk Trans Cnter",
+      "surface_label_offset": 5001,
+      "gap_from_label": 55,
+      "next_string": "pw",
+      "next_string_offset": 5072,
+      "post_identifier_u32_le": [
+        1548,
+        163,
+        30576,
+        16046
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.02362060546875,
+        0.0024871826171875,
+        0.466552734375,
+        0.244842529296875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "0c 06 00 00 a3 00 00 00 70 77 00 00 ae 3e 00 00 00 00 54 72 6b 20 53 6e 6f 77 20 43 6e 74 65 72",
+      "context_start": 4985,
+      "context_end": 5088,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6trkcnt",
+      "identifier_offset": 5136,
+      "surface_label": "Trk Snow Cnter",
+      "surface_label_offset": 5082,
+      "gap_from_label": 54,
+      "next_string": "Blimp",
+      "next_string_offset": 5163,
+      "post_identifier_u32_le": [
+        0,
+        159,
+        32768,
+        16062
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0024261474609375,
+        0.5,
+        0.245086669921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 9f 00 00 00 00 80 00 00 be 3e 00 00 00 00 42 6c 69 6d 70 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 5066,
+      "context_end": 5179,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6trkcnt",
+      "identifier_offset": 5260,
+      "surface_label": "Blmp sides",
+      "surface_label_offset": 5210,
+      "gap_from_label": 50,
+      "next_string": "Blimp nose",
+      "next_string_offset": 5287,
+      "post_identifier_u32_le": [
+        16537,
+        16562,
+        7195,
+        7195
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2523345947265625,
+        0.252716064453125,
+        0.1097869873046875,
+        0.1097869873046875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "99 40 00 00 b2 40 00 00 1b 1c 00 00 1b 1c 00 00 00 00 42 6c 69 6d 70 20 6e 6f 73 65 00 ff ff ff",
+      "context_start": 5194,
+      "context_end": 5303,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6trkcnt",
+      "identifier_offset": 5337,
+      "surface_label": "Blimp nose",
+      "surface_label_offset": 5287,
+      "gap_from_label": 50,
+      "next_string": "x<",
+      "next_string_offset": 5354,
+      "post_identifier_u32_le": [
+        17287,
+        25027,
+        15480,
+        7740
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2637786865234375,
+        0.3818817138671875,
+        0.2362060546875,
+        0.11810302734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "87 43 00 00 c3 61 00 00 78 3c 00 00 3c 1e 00 00 00 00 42 6c 6d 70 20 70 65 70 73 69 00 ff ff ff",
+      "context_start": 5271,
+      "context_end": 5370,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6trkcnt",
+      "identifier_offset": 5491,
+      "surface_label": "Blmp Cabin",
+      "surface_label_offset": 5441,
+      "gap_from_label": 50,
+      "next_string": "Blmp Grey",
+      "next_string_offset": 5518,
+      "post_identifier_u32_le": [
+        25572,
+        16552,
+        7195,
+        8016
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.39019775390625,
+        0.2525634765625,
+        0.1097869873046875,
+        0.122314453125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "e4 63 00 00 a8 40 00 00 1b 1c 00 00 50 1f 00 00 00 00 42 6c 6d 70 20 47 72 65 79 00 ff ff ff ff",
+      "context_start": 5425,
+      "context_end": 5534,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6trkcnt",
+      "identifier_offset": 5567,
+      "surface_label": "Blmp Grey",
+      "surface_label_offset": 5518,
+      "gap_from_label": 49,
+      "next_string": "Walls",
+      "next_string_offset": 5594,
+      "post_identifier_u32_le": [
+        16771,
+        26059,
+        4386,
+        4386
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2559051513671875,
+        0.3976287841796875,
+        0.066925048828125,
+        0.066925048828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "83 41 00 00 cb 65 00 00 22 11 00 00 22 11 00 00 00 00 57 61 6c 6c 73 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 5502,
+      "context_end": 5610,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6Walls",
+      "identifier_offset": 5696,
+      "surface_label": "Walls Rail Wall",
+      "surface_label_offset": 5641,
+      "gap_from_label": 55,
+      "next_string": "$C",
+      "next_string_offset": 5708,
+      "post_identifier_u32_le": [
+        0,
+        17188,
+        32768,
+        7351
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.26226806640625,
+        0.5,
+        0.1121673583984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 24 43 00 00 00 80 00 00 b7 1c 00 00 00 00 50 65 70 73 69 20 42 61 6e 20 57 61 6c 6c",
+      "context_start": 5625,
+      "context_end": 5724,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6PepOne",
+      "identifier_offset": 5776,
+      "surface_label": "Pepsi Ban Wall",
+      "surface_label_offset": 5722,
+      "gap_from_label": 54,
+      "next_string": "Pepsi Wall",
+      "next_string_offset": 5803,
+      "post_identifier_u32_le": [
+        0,
+        25027,
+        32768,
+        3612
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.3818817138671875,
+        0.5,
+        0.05511474609375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 c3 61 00 00 00 80 00 00 1c 0e 00 00 00 00 50 65 70 73 69 20 57 61 6c 6c 00 ff ff ff",
+      "context_start": 5706,
+      "context_end": 5819,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6Walls",
+      "identifier_offset": 5853,
+      "surface_label": "Pepsi Wall",
+      "surface_label_offset": 5803,
+      "gap_from_label": 50,
+      "next_string": "Orange Arrw Wall",
+      "next_string_offset": 5879,
+      "post_identifier_u32_le": [
+        0,
+        25027,
+        32768,
+        7740
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.3818817138671875,
+        0.5,
+        0.11810302734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 c3 61 00 00 00 80 00 00 3c 1e 00 00 00 00 4f 72 61 6e 67 65 20 41 72 72 77 20 57 61",
+      "context_start": 5787,
+      "context_end": 5895,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6Walls",
+      "identifier_offset": 5935,
+      "surface_label": "Orange Arrw Wall",
+      "surface_label_offset": 5879,
+      "gap_from_label": 56,
+      "next_string": "Concrete (walls)",
+      "next_string_offset": 5961,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        7998
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.122039794921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 3e 1f 00 00 00 00 43 6f 6e 63 72 65 74 65 20 28 77 61 6c 6c",
+      "context_start": 5863,
+      "context_end": 5977,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6Walls",
+      "identifier_offset": 6017,
+      "surface_label": "Concrete (walls)",
+      "surface_label_offset": 5961,
+      "gap_from_label": 56,
+      "next_string": "Fence Top(Crop)",
+      "next_string_offset": 6043,
+      "post_identifier_u32_le": [
+        0,
+        8195,
+        32768,
+        8084
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.1250457763671875,
+        0.5,
+        0.12335205078125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 03 20 00 00 00 80 00 00 94 1f 00 00 00 00 46 65 6e 63 65 20 54 6f 70 28 43 72 6f 70",
+      "context_start": 5945,
+      "context_end": 6059,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6WlFNCE",
+      "identifier_offset": 6098,
+      "surface_label": "Fence Top(Crop)",
+      "surface_label_offset": 6043,
+      "gap_from_label": 55,
+      "next_string": "B!",
+      "next_string_offset": 6111,
+      "post_identifier_u32_le": [
+        0,
+        8514,
+        32768,
+        14190
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.129913330078125,
+        0.5,
+        0.216522216796875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 42 21 00 00 00 80 00 00 6e 37 00 00 00 00 46 65 6e 63 65 20 28 63 72 6f 70 29 00 ff",
+      "context_start": 6027,
+      "context_end": 6127,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6WlFNCE",
+      "identifier_offset": 6177,
+      "surface_label": "Fence (crop)",
+      "surface_label_offset": 6125,
+      "gap_from_label": 52,
+      "next_string": "b1",
+      "next_string_offset": 6198,
+      "post_identifier_u32_le": [
+        27865,
+        20125,
+        4902,
+        12642
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.4251861572265625,
+        0.3070831298828125,
+        0.074798583984375,
+        0.192901611328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "d9 6c 00 00 9d 4e 00 00 26 13 00 00 62 31 00 00 00 00 46 65 6e 63 65 20 42 6f 74 74 6f 6d 20 28",
+      "context_start": 6109,
+      "context_end": 6214,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6WlFNCE",
+      "identifier_offset": 6263,
+      "surface_label": "Fence Bottom (crop)",
+      "surface_label_offset": 6204,
+      "gap_from_label": 59,
+      "next_string": "O*",
+      "next_string_offset": 6284,
+      "post_identifier_u32_le": [
+        0,
+        19867,
+        32768,
+        10831
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.3031463623046875,
+        0.5,
+        0.1652679443359375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 9b 4d 00 00 00 80 00 00 4f 2a 00 00 00 00 43 6f 6e 63 20 77 61 6c 6c 00 ff ff ff ff",
+      "context_start": 6188,
+      "context_end": 6300,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6Walls",
+      "identifier_offset": 6339,
+      "surface_label": "Conc wall",
+      "surface_label_offset": 6290,
+      "gap_from_label": 49,
+      "next_string": "Rail Wall",
+      "next_string_offset": 6365,
+      "post_identifier_u32_le": [
+        0,
+        8350,
+        32768,
+        7801
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.127410888671875,
+        0.5,
+        0.1190338134765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 9e 20 00 00 00 80 00 00 79 1e 00 00 00 00 52 61 69 6c 20 57 61 6c 6c 00 ff ff ff ff",
+      "context_start": 6274,
+      "context_end": 6381,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6Walls",
+      "identifier_offset": 6414,
+      "surface_label": "Rail Wall",
+      "surface_label_offset": 6365,
+      "gap_from_label": 49,
+      "next_string": "@ ",
+      "next_string_offset": 6434,
+      "post_identifier_u32_le": [
+        0,
+        16771,
+        32768,
+        8256
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2559051513671875,
+        0.5,
+        0.1259765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 83 41 00 00 00 80 00 00 40 20 00 00 00 00 4c 69 67 68 74 20 50 6f 6c 65 00 ff ff ff",
+      "context_start": 6349,
+      "context_end": 6450,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T6trkcnt",
+      "identifier_offset": 6543,
+      "surface_label": "Lt Pole tex",
+      "surface_label_offset": 6492,
+      "gap_from_label": 51,
+      "next_string": "|>",
+      "next_string_offset": 6564,
+      "post_identifier_u32_le": [
+        0,
+        16541,
+        7216,
+        15996
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2523956298828125,
+        0.110107421875,
+        0.24407958984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 9d 40 00 00 30 1c 00 00 7c 3e 00 00 00 00 4c 69 67 68 74 20 42 75 6c 62 00 ff ff ff",
+      "context_start": 6476,
+      "context_end": 6580,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 6615,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6trkcnt",
+      "identifier_offset": 6620,
+      "surface_label": "Light Bulb",
+      "surface_label_offset": 6570,
+      "gap_from_label": 50,
+      "next_string": "B!",
+      "next_string_offset": 6629,
+      "post_identifier_u32_le": [
+        8514,
+        16541,
+        7056,
+        7867
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.129913330078125,
+        0.2523956298828125,
+        0.107666015625,
+        0.1200408935546875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "42 21 00 00 9d 40 00 00 90 1b 00 00 bb 1e 00 00 00 00 54 31 20 53 6b 72 69 6d 20 53 75 72 66 61",
+      "context_start": 6554,
+      "context_end": 6645,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 6538,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6scrim",
+      "identifier_offset": 6752,
+      "surface_label": "Skrim 1",
+      "surface_label_offset": 6705,
+      "gap_from_label": 47,
+      "next_string": "Skrim 2",
+      "next_string_offset": 6778,
+      "post_identifier_u32_le": [
+        0,
+        319,
+        32768,
+        15867
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0048675537109375,
+        0.5,
+        0.2421112060546875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 3f 01 00 00 00 80 00 00 fb 3d 00 00 00 00 53 6b 72 69 6d 20 32 00 ff ff ff ff ff ff",
+      "context_start": 6689,
+      "context_end": 6794,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 6820,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6scrim",
+      "identifier_offset": 6825,
+      "surface_label": "Skrim 2",
+      "surface_label_offset": 6778,
+      "gap_from_label": 47,
+      "next_string": "AA",
+      "next_string_offset": 6837,
+      "post_identifier_u32_le": [
+        0,
+        16705,
+        32768,
+        15996
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2548980712890625,
+        0.5,
+        0.24407958984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 41 41 00 00 00 80 00 00 7c 3e 00 00 00 00 53 6b 72 69 6d 20 53 74 61 72 73 00 ff ff",
+      "context_start": 6762,
+      "context_end": 6853,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 6747,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 6897,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T6Stars",
+      "identifier_offset": 6902,
+      "surface_label": "Skrim Stars",
+      "surface_label_offset": 6851,
+      "gap_from_label": 51,
+      "next_string": "dl",
+      "next_string_offset": 6931,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 e2 00 01 64 6c 00 00 d9 e9 f7 00 ae 70 aa",
+      "context_start": 6835,
+      "context_end": 6947,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 6820,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    }
+  ],
+  "verified_decoded_images": [],
+  "zlib_stream_candidates": [],
+  "standard_signature_counts": {
+    "PNG": 0,
+    "JPEG": 11,
+    "BMP": 1,
+    "GIF87a": 0,
+    "GIF89a": 0,
+    "DDS": 0,
+    "PCX": 2619
+  },
+  "conclusion": {
+    "verified_images_extracted": 0,
+    "zlib_streams_found": 0,
+    "texture_payload_format": "not established",
+    "note": "References are material/surface identifiers. A zlib stream is not classified as a texture without dimensions, pixel format and successful image reconstruction."
+  }
+}

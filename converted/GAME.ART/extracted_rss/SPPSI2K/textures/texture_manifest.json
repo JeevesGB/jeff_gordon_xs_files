@@ -1,0 +1,438 @@
+[
+  {
+    "name": "T6redblu",
+    "offset": 159,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Pepsi Red",
+      "Pepsi Blue"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      159,
+      236
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6crdlit",
+    "offset": 358,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "CrowdT1",
+      "CrowdB1"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      358,
+      506
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6crddrk",
+    "offset": 432,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "CrowdT2",
+      "CrowdB2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      432,
+      580
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6WlFNCE",
+    "offset": 660,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "RoadFenceStad",
+      "Stadium Side",
+      "Stnds UndrAwnBrte",
+      "Stnds Undr Not lit",
+      "FL Xgird",
+      "Ter Bridge Fence",
+      "Fence Top(Crop)",
+      "Fence (crop)",
+      "Fence Bottom (crop)"
+    ],
+    "occurrences": 9,
+    "occurrences_at_offsets": [
+      660,
+      821,
+      905,
+      990,
+      1112,
+      3047,
+      6098,
+      6177,
+      6263
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6PepOne",
+    "offset": 742,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "StandsPepBanner",
+      "Pepsi One bb",
+      "Finish Line bb",
+      "BB Lights",
+      "Pepsi Ban Wall"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      742,
+      1191,
+      1429,
+      1674,
+      5776
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6PB00",
+    "offset": 1516,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Pepsi Ball Animation"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1516
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6711FTO",
+    "offset": 1747,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "711 bb",
+      "Frito BB"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1747,
+      1822
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6cave01",
+    "offset": 1944,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Cave01",
+      "Cave02",
+      "Cave03",
+      "Cave04"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      1944,
+      2017,
+      2090,
+      2163
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6Wtr01",
+    "offset": 2235,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Water"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2235
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6MntSnw",
+    "offset": 2311,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Cave Mnt01",
+      "Cave Mnt02",
+      "Cave Mnt 03",
+      "WaterFall",
+      "Ground Snow",
+      "Snow Roof"
+    ],
+    "occurrences": 6,
+    "occurrences_at_offsets": [
+      2311,
+      2388,
+      2466,
+      2542,
+      2698,
+      4365
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6Cncrt",
+    "offset": 2621,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Tunnel Entry"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2621
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6CncIce",
+    "offset": 2781,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Cave Cncrete Ice"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2781
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6IceCol",
+    "offset": 2864,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Ice Collumn Cave"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2864
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6trebck",
+    "offset": 3123,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Tree Back"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3123
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6tunnel",
+    "offset": 3323,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Terrain TunCeil Unlit",
+      "Terrain Tun Ciel lit",
+      "Terrain Tun Wal unli",
+      "Terrain Tun Wall lit"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      3323,
+      3410,
+      3497,
+      3584
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6Tree01",
+    "offset": 3707,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "PineA",
+      "Pine C"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3707,
+      3780
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6Tree00",
+    "offset": 3853,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Pine D",
+      "Tree 01"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3853,
+      3927
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6Blding",
+    "offset": 4054,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Base Unlit",
+      "Base Lit",
+      "Windows non lite",
+      "Window Lit",
+      "Angle Non lit",
+      "Angle Lit"
+    ],
+    "occurrences": 6,
+    "occurrences_at_offsets": [
+      4054,
+      4129,
+      4212,
+      4289,
+      4445,
+      4521
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6Trk00",
+    "offset": 4645,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Track Snow",
+      "Trak no snow Centr",
+      "Trak nosnow Edge"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      4645,
+      4805,
+      4887
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6trk01",
+    "offset": 4721,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Trak Trans",
+      "Track Strt Finish line",
+      "Trk Trans Cnter"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      4721,
+      4975,
+      5056
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6trkcnt",
+    "offset": 5136,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Trk Snow Cnter",
+      "Blmp sides",
+      "Blimp nose",
+      "Blmp Cabin",
+      "Blmp Grey",
+      "Lt Pole tex",
+      "Light Bulb"
+    ],
+    "occurrences": 7,
+    "occurrences_at_offsets": [
+      5136,
+      5260,
+      5337,
+      5491,
+      5567,
+      6543,
+      6620
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6Walls",
+    "offset": 5696,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Walls Rail Wall",
+      "Pepsi Wall",
+      "Orange Arrw Wall",
+      "Concrete (walls)",
+      "Conc wall",
+      "Rail Wall"
+    ],
+    "occurrences": 6,
+    "occurrences_at_offsets": [
+      5696,
+      5853,
+      5935,
+      6017,
+      6339,
+      6414
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6scrim",
+    "offset": 6752,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim 1",
+      "Skrim 2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      6752,
+      6825
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T6Stars",
+    "offset": 6902,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim Stars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      6902
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]
