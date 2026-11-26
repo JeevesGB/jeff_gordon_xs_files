@@ -1,0 +1,841 @@
+{
+  "file": "INDGO.RSS",
+  "size": 31756,
+  "sha256": "f4e40ebef702364f6b44c71ac516ff196038ea60af03de024db2407e643ed95a",
+  "original_copy": "INDGO.RSS.original",
+  "texture_reference_count": 20,
+  "unique_texture_identifiers": 3,
+  "plausible_atlas_rect_count": 20,
+  "zero_padding_after_rect_count": 20,
+  "texture_identifiers_grouped": [
+    {
+      "identifier": "Indigo",
+      "occurrences": 14,
+      "surface_labels": [
+        "Indigo Front_0",
+        "Indigo Top_0",
+        "Indigo Back_0",
+        "Indigo Side_0",
+        "Indigo Bottom_0",
+        "Indigo Wing_0",
+        "Indigo Airbrake Left",
+        "Indigo AirbrakeRight",
+        "Indigo Front_1",
+        "Indigo Top_1",
+        "Indigo Back_1",
+        "Indigo Side_1",
+        "Indigo Bottom_1",
+        "Indigo Wing_1"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.25,
+          0.039215087890625
+        ],
+        [
+          0.0,
+          0.23529052734375,
+          0.5,
+          0.149017333984375
+        ],
+        [
+          0.0024871826171875,
+          0.039215087890625,
+          0.2444915771484375,
+          0.1941070556640625
+        ],
+        [
+          0.0,
+          0.3901824951171875,
+          0.5,
+          0.10980224609375
+        ],
+        [
+          0.0,
+          0.3901824951171875,
+          0.1627349853515625,
+          0.04705810546875
+        ],
+        [
+          0.1705780029296875,
+          0.3882293701171875,
+          0.12744140625,
+          0.0215606689453125
+        ],
+        [
+          0.25,
+          0.0,
+          0.25,
+          0.1156768798828125
+        ],
+        [
+          0.25,
+          0.117645263671875,
+          0.25,
+          0.1156768798828125
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          0.039215087890625
+        ],
+        [
+          0.0,
+          0.23529052734375,
+          0.5,
+          0.149017333984375
+        ],
+        [
+          0.0024871826171875,
+          0.039215087890625,
+          0.1705780029296875,
+          0.1941070556640625
+        ],
+        [
+          0.0,
+          0.3980255126953125,
+          0.5,
+          0.101959228515625
+        ],
+        [
+          0.0,
+          0.3901824951171875,
+          0.1627349853515625,
+          0.04705810546875
+        ],
+        [
+          0.1705780029296875,
+          0.3882293701171875,
+          0.12744140625,
+          0.0215606689453125
+        ]
+      ]
+    },
+    {
+      "identifier": "carshdw",
+      "occurrences": 1,
+      "surface_labels": [
+        "car shadow"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "Indgo1_2",
+      "occurrences": 5,
+      "surface_labels": [
+        "IndigoFront_2",
+        "IndigoTop_2",
+        "IndigoBack_2",
+        "IndigoSide_2",
+        "IndigoBottom_2"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    }
+  ],
+  "texture_references": [
+    {
+      "identifier": "Indigo",
+      "identifier_offset": 162,
+      "surface_label": "Indigo Front_0",
+      "surface_label_offset": 108,
+      "gap_from_label": 54,
+      "next_string": "Indigo Top_0",
+      "next_string_offset": 187,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16384,
+        2570
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.25,
+        0.039215087890625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 40 00 00 0a 0a 00 00 00 00 49 6e 64 69 67 6f 20 54 6f 70 5f 30 00 ff",
+      "context_start": 92,
+      "context_end": 203,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 234,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Indigo",
+      "identifier_offset": 239,
+      "surface_label": "Indigo Top_0",
+      "surface_label_offset": 187,
+      "gap_from_label": 52,
+      "next_string": "<<",
+      "next_string_offset": 250,
+      "post_identifier_u32_le": [
+        0,
+        15420,
+        32768,
+        9766
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.23529052734375,
+        0.5,
+        0.149017333984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 3c 3c 00 00 00 80 00 00 26 26 00 00 00 00 49 6e 64 69 67 6f 20 42 61 63 6b 5f 30 00",
+      "context_start": 171,
+      "context_end": 266,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 157,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Indigo",
+      "identifier_offset": 317,
+      "surface_label": "Indigo Back_0",
+      "surface_label_offset": 264,
+      "gap_from_label": 53,
+      "next_string": "Indigo Side_0",
+      "next_string_offset": 342,
+      "post_identifier_u32_le": [
+        163,
+        2570,
+        16023,
+        12721
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0024871826171875,
+        0.039215087890625,
+        0.2444915771484375,
+        0.1941070556640625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "a3 00 00 00 0a 0a 00 00 97 3e 00 00 b1 31 00 00 00 00 49 6e 64 69 67 6f 20 53 69 64 65 5f 30 00",
+      "context_start": 248,
+      "context_end": 358,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Indigo",
+      "identifier_offset": 395,
+      "surface_label": "Indigo Side_0",
+      "surface_label_offset": 342,
+      "gap_from_label": 53,
+      "next_string": "Indigo Bottom_0",
+      "next_string_offset": 420,
+      "post_identifier_u32_le": [
+        0,
+        25571,
+        32768,
+        7196
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.3901824951171875,
+        0.5,
+        0.10980224609375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 e3 63 00 00 00 80 00 00 1c 1c 00 00 00 00 49 6e 64 69 67 6f 20 42 6f 74 74 6f 6d 5f",
+      "context_start": 326,
+      "context_end": 436,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Indigo",
+      "identifier_offset": 475,
+      "surface_label": "Indigo Bottom_0",
+      "surface_label_offset": 420,
+      "gap_from_label": 55,
+      "next_string": "Indigo Wing_0",
+      "next_string_offset": 500,
+      "post_identifier_u32_le": [
+        0,
+        25571,
+        10665,
+        3084
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.3901824951171875,
+        0.1627349853515625,
+        0.04705810546875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 e3 63 00 00 a9 29 00 00 0c 0c 00 00 00 00 49 6e 64 69 67 6f 20 57 69 6e 67 5f 30 00",
+      "context_start": 404,
+      "context_end": 516,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Indigo",
+      "identifier_offset": 553,
+      "surface_label": "Indigo Wing_0",
+      "surface_label_offset": 500,
+      "gap_from_label": 53,
+      "next_string": "cc",
+      "next_string_offset": 564,
+      "post_identifier_u32_le": [
+        11179,
+        25443,
+        8352,
+        1413
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.1705780029296875,
+        0.3882293701171875,
+        0.12744140625,
+        0.0215606689453125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "ab 2b 00 00 63 63 00 00 a0 20 00 00 85 05 00 00 00 00 63 61 72 20 73 68 61 64 6f 77 00 ff ff ff",
+      "context_start": 484,
+      "context_end": 580,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 623,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "carshdw",
+      "identifier_offset": 628,
+      "surface_label": "car shadow",
+      "surface_label_offset": 578,
+      "gap_from_label": 50,
+      "next_string": "Indigo Airbrake",
+      "next_string_offset": 654,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 49 6e 64 69 67 6f 20 41 69 72 62 72 61 6b",
+      "context_start": 562,
+      "context_end": 670,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 548,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Indigo",
+      "identifier_offset": 771,
+      "surface_label": "Indigo Airbrake Left",
+      "surface_label_offset": 711,
+      "gap_from_label": 60,
+      "next_string": "Indigo AirbrakeRight",
+      "next_string_offset": 796,
+      "post_identifier_u32_le": [
+        16384,
+        0,
+        16384,
+        7581
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.0,
+        0.25,
+        0.1156768798828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 00 00 00 00 00 40 00 00 9d 1d 00 00 00 00 49 6e 64 69 67 6f 20 41 69 72 62 72 61 6b",
+      "context_start": 695,
+      "context_end": 812,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Indigo",
+      "identifier_offset": 856,
+      "surface_label": "Indigo AirbrakeRight",
+      "surface_label_offset": 796,
+      "gap_from_label": 60,
+      "next_string": "Indigo_1",
+      "next_string_offset": 881,
+      "post_identifier_u32_le": [
+        16384,
+        7710,
+        16384,
+        7581
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.117645263671875,
+        0.25,
+        0.1156768798828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 1e 1e 00 00 00 40 00 00 9d 1d 00 00 00 00 49 6e 64 69 67 6f 5f 31 00 ff ff ff ff ff",
+      "context_start": 780,
+      "context_end": 897,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Indigo",
+      "identifier_offset": 985,
+      "surface_label": "Indigo Front_1",
+      "surface_label_offset": 931,
+      "gap_from_label": 54,
+      "next_string": "Indigo Top_1",
+      "next_string_offset": 1010,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16384,
+        2570
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.25,
+        0.039215087890625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 40 00 00 0a 0a 00 00 00 00 49 6e 64 69 67 6f 20 54 6f 70 5f 31 00 ff",
+      "context_start": 915,
+      "context_end": 1026,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1057,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Indigo",
+      "identifier_offset": 1062,
+      "surface_label": "Indigo Top_1",
+      "surface_label_offset": 1010,
+      "gap_from_label": 52,
+      "next_string": "<<",
+      "next_string_offset": 1073,
+      "post_identifier_u32_le": [
+        0,
+        15420,
+        32768,
+        9766
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.23529052734375,
+        0.5,
+        0.149017333984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 3c 3c 00 00 00 80 00 00 26 26 00 00 00 00 49 6e 64 69 67 6f 20 42 61 63 6b 5f 31 00",
+      "context_start": 994,
+      "context_end": 1089,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 980,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Indigo",
+      "identifier_offset": 1140,
+      "surface_label": "Indigo Back_1",
+      "surface_label_offset": 1087,
+      "gap_from_label": 53,
+      "next_string": "Indigo Side_1",
+      "next_string_offset": 1165,
+      "post_identifier_u32_le": [
+        163,
+        2570,
+        11179,
+        12721
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0024871826171875,
+        0.039215087890625,
+        0.1705780029296875,
+        0.1941070556640625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "a3 00 00 00 0a 0a 00 00 ab 2b 00 00 b1 31 00 00 00 00 49 6e 64 69 67 6f 20 53 69 64 65 5f 31 00",
+      "context_start": 1071,
+      "context_end": 1181,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Indigo",
+      "identifier_offset": 1218,
+      "surface_label": "Indigo Side_1",
+      "surface_label_offset": 1165,
+      "gap_from_label": 53,
+      "next_string": "Indigo Bottom_1",
+      "next_string_offset": 1243,
+      "post_identifier_u32_le": [
+        0,
+        26085,
+        32768,
+        6682
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.3980255126953125,
+        0.5,
+        0.101959228515625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 e5 65 00 00 00 80 00 00 1a 1a 00 00 00 00 49 6e 64 69 67 6f 20 42 6f 74 74 6f 6d 5f",
+      "context_start": 1149,
+      "context_end": 1259,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Indigo",
+      "identifier_offset": 1298,
+      "surface_label": "Indigo Bottom_1",
+      "surface_label_offset": 1243,
+      "gap_from_label": 55,
+      "next_string": "Indigo Wing_1",
+      "next_string_offset": 1323,
+      "post_identifier_u32_le": [
+        0,
+        25571,
+        10665,
+        3084
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.3901824951171875,
+        0.1627349853515625,
+        0.04705810546875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 e3 63 00 00 a9 29 00 00 0c 0c 00 00 00 00 49 6e 64 69 67 6f 20 57 69 6e 67 5f 31 00",
+      "context_start": 1227,
+      "context_end": 1339,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Indigo",
+      "identifier_offset": 1376,
+      "surface_label": "Indigo Wing_1",
+      "surface_label_offset": 1323,
+      "gap_from_label": 53,
+      "next_string": "cc",
+      "next_string_offset": 1387,
+      "post_identifier_u32_le": [
+        11179,
+        25443,
+        8352,
+        1413
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.1705780029296875,
+        0.3882293701171875,
+        0.12744140625,
+        0.0215606689453125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "ab 2b 00 00 63 63 00 00 a0 20 00 00 85 05 00 00 00 00 49 6e 64 69 67 6f 5f 32 00 ff ff ff ff ff",
+      "context_start": 1307,
+      "context_end": 1403,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Indgo1_2",
+      "identifier_offset": 1504,
+      "surface_label": "IndigoFront_2",
+      "surface_label_offset": 1451,
+      "gap_from_label": 53,
+      "next_string": "IndigoTop_2",
+      "next_string_offset": 1531,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 49 6e 64 69 67 6f 54 6f 70 5f 32 00 ff ff",
+      "context_start": 1435,
+      "context_end": 1547,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Indgo1_2",
+      "identifier_offset": 1582,
+      "surface_label": "IndigoTop_2",
+      "surface_label_offset": 1531,
+      "gap_from_label": 51,
+      "next_string": "IndigoBack_2",
+      "next_string_offset": 1609,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 49 6e 64 69 67 6f 42 61 63 6b 5f 32 00 ff",
+      "context_start": 1515,
+      "context_end": 1625,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1656,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1522,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Indgo1_2",
+      "identifier_offset": 1661,
+      "surface_label": "IndigoBack_2",
+      "surface_label_offset": 1609,
+      "gap_from_label": 52,
+      "next_string": "IndigoSide_2",
+      "next_string_offset": 1688,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 49 6e 64 69 67 6f 53 69 64 65 5f 32 00 ff",
+      "context_start": 1593,
+      "context_end": 1704,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1577,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1735,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Indgo1_2",
+      "identifier_offset": 1740,
+      "surface_label": "IndigoSide_2",
+      "surface_label_offset": 1688,
+      "gap_from_label": 52,
+      "next_string": "IndigoBottom_2",
+      "next_string_offset": 1767,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 49 6e 64 69 67 6f 42 6f 74 74 6f 6d 5f 32",
+      "context_start": 1672,
+      "context_end": 1783,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1656,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Indgo1_2",
+      "identifier_offset": 1821,
+      "surface_label": "IndigoBottom_2",
+      "surface_label_offset": 1767,
+      "gap_from_label": 54,
+      "next_string": "indigo",
+      "next_string_offset": 1851,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 06 00 00 69 6e 64 69 67 6f 00 00 00 00 00",
+      "context_start": 1751,
+      "context_end": 1867,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1735,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    }
+  ],
+  "verified_decoded_images": [],
+  "zlib_stream_candidates": [],
+  "standard_signature_counts": {
+    "PNG": 0,
+    "JPEG": 0,
+    "BMP": 0,
+    "GIF87a": 0,
+    "GIF89a": 0,
+    "DDS": 0,
+    "PCX": 34
+  },
+  "conclusion": {
+    "verified_images_extracted": 0,
+    "zlib_streams_found": 0,
+    "texture_payload_format": "not established",
+    "note": "References are material/surface identifiers. A zlib stream is not classified as a texture without dimensions, pixel format and successful image reconstruction."
+  }
+}

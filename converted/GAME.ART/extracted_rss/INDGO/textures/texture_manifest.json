@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Indigo",
+    "offset": 162,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Indigo Front_0",
+      "Indigo Top_0",
+      "Indigo Back_0",
+      "Indigo Side_0",
+      "Indigo Bottom_0",
+      "Indigo Wing_0",
+      "Indigo Airbrake Left",
+      "Indigo AirbrakeRight",
+      "Indigo Front_1",
+      "Indigo Top_1",
+      "Indigo Back_1",
+      "Indigo Side_1",
+      "Indigo Bottom_1",
+      "Indigo Wing_1"
+    ],
+    "occurrences": 14,
+    "occurrences_at_offsets": [
+      162,
+      239,
+      317,
+      395,
+      475,
+      553,
+      771,
+      856,
+      985,
+      1062,
+      1140,
+      1218,
+      1298,
+      1376
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "carshdw",
+    "offset": 628,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "car shadow"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      628
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "Indgo1_2",
+    "offset": 1504,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "IndigoFront_2",
+      "IndigoTop_2",
+      "IndigoBack_2",
+      "IndigoSide_2",
+      "IndigoBottom_2"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      1504,
+      1582,
+      1661,
+      1740,
+      1821
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]

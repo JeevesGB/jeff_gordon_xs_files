@@ -1,0 +1,63 @@
+ASCII STRINGS (byte offsets)
+0x00000000 [50] fRssExport Version (V1) - Fri Feb 26 11:51:53 1999
+0x0000003a [8] Indigo_0
+0x0000006c [14] Indigo Front_0
+0x000000a2 [6] Indigo
+0x000000bb [12] Indigo Top_0
+0x000000ef [6] Indigo
+0x00000108 [13] Indigo Back_0
+0x0000013d [6] Indigo
+0x00000156 [13] Indigo Side_0
+0x0000018b [6] Indigo
+0x000001a4 [15] Indigo Bottom_0
+0x000001db [6] Indigo
+0x000001f4 [13] Indigo Wing_0
+0x00000229 [6] Indigo
+0x00000242 [10] car shadow
+0x00000274 [7] carshdw
+0x0000028e [15] Indigo Airbrake
+0x000002c7 [20] Indigo Airbrake Left
+0x00000303 [6] Indigo
+0x0000031c [20] Indigo AirbrakeRight
+0x00000358 [6] Indigo
+0x00000371 [8] Indigo_1
+0x000003a3 [14] Indigo Front_1
+0x000003d9 [6] Indigo
+0x000003f2 [12] Indigo Top_1
+0x00000426 [6] Indigo
+0x0000043f [13] Indigo Back_1
+0x00000474 [6] Indigo
+0x0000048d [13] Indigo Side_1
+0x000004c2 [6] Indigo
+0x000004db [15] Indigo Bottom_1
+0x00000512 [6] Indigo
+0x0000052b [13] Indigo Wing_1
+0x00000560 [6] Indigo
+0x00000579 [8] Indigo_2
+0x000005ab [13] IndigoFront_2
+0x000005e0 [8] Indgo1_2
+0x000005fb [11] IndigoTop_2
+0x0000062e [8] Indgo1_2
+0x00000649 [12] IndigoBack_2
+0x0000067d [8] Indgo1_2
+0x00000698 [12] IndigoSide_2
+0x000006cc [8] Indgo1_2
+0x000006e7 [14] IndigoBottom_2
+0x0000071d [8] Indgo1_2
+0x0000073b [6] indigo
+0x0000106f [8] Indigo_0
+0x0000498f [8] Indigo_1
+0x00006277 [8] Indigo_2
+0x000067a4 [13] indigo shadow
+0x0000680f [10] car shadow
+0x000068c2 [13] indigo bottom
+0x00006b0d [8] Indigo_0
+0x000072dd [8] Indigo_1
+0x000076c2 [12] indigo brake
+0x000077bc [15] Indigo Airbrake
+0x000079bc [11] indigo_left
+0x00007a85 [8] Indigo_0
+0x00007ae4 [12] indigo_right
+0x00007bae [8] Indigo_0
+
+UTF-16LE STRINGS (byte offsets)

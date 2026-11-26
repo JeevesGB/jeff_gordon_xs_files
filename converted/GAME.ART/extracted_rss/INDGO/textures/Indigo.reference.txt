@@ -1,0 +1,7 @@
+RSS texture reference: Indigo
+RSS byte offset: 0x000000a2
+Detection evidence: surface_label_then_texture_identifier
+Associated surface labels: Indigo Front_0, Indigo Top_0, Indigo Back_0, Indigo Side_0, Indigo Bottom_0, Indigo Wing_0, Indigo Airbrake Left, Indigo AirbrakeRight, Indigo Front_1, Indigo Top_1, Indigo Back_1, Indigo Side_1, Indigo Bottom_1, Indigo Wing_1\n
+No matching pixel/image asset was present in the supplied archive or asset search path.
+This file is a reference record, NOT an image. The RSS stores a texture identifier here;
+the actual bitmap may be a separate game asset or use a proprietary encoding.

@@ -1,0 +1,4 @@
+﻿name,offset,evidence,surface_labels,occurrences,asset_status,copied_files
+Indigo,162,surface_label_then_texture_identifier,Indigo Front_0; Indigo Top_0; Indigo Back_0; Indigo Side_0; Indigo Bottom_0; Indigo Wing_0; Indigo Airbrake Left; Indigo AirbrakeRight; Indigo Front_1; Indigo Top_1; Indigo Back_1; Indigo Side_1; Indigo Bottom_1; Indigo Wing_1,14,reference_only_no_pixel_asset_found,
+carshdw,628,surface_label_then_texture_identifier,car shadow,1,reference_only_no_pixel_asset_found,
+Indgo1_2,1504,surface_label_then_texture_identifier,IndigoFront_2; IndigoTop_2; IndigoBack_2; IndigoSide_2; IndigoBottom_2,5,reference_only_no_pixel_asset_found,

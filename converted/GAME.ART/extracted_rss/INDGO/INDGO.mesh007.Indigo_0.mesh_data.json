@@ -1,0 +1,63 @@
+{
+  "mesh_name": "Indigo_0",
+  "header_words": [
+    0,
+    4294934528,
+    0
+  ],
+  "face_records": [
+    {
+      "face_index": 0,
+      "flag_raw": 5,
+      "extra_u32_raw": [
+        1684957440,
+        1601136489,
+        1751607666
+      ],
+      "vertices": [
+        {
+          "vertex_index": 1,
+          "attributes_u32_raw": [
+            0,
+            4294934528,
+            0,
+            763,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            65535.5
+          ]
+        },
+        {
+          "vertex_index": 0,
+          "attributes_u32_raw": [
+            0,
+            4294934528,
+            0,
+            65536,
+            0
+          ],
+          "uv_fixed16": [
+            0.0,
+            65535.5
+          ]
+        },
+        {
+          "vertex_index": 2,
+          "attributes_u32_raw": [
+            0,
+            4294934528,
+            0,
+            65536,
+            65536
+          ],
+          "uv_fixed16": [
+            0.0,
+            65535.5
+          ]
+        }
+      ]
+    }
+  ]
+}
