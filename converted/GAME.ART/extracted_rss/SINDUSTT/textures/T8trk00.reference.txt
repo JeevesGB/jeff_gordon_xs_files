@@ -1,0 +1,7 @@
+RSS texture reference: T8trk00
+RSS byte offset: 0x00000294
+Detection evidence: surface_label_then_texture_identifier
+Associated surface labels: Track1, Track2, track3, track4, track5, track6\n
+No matching pixel/image asset was present in the supplied archive or asset search path.
+This file is a reference record, NOT an image. The RSS stores a texture identifier here;
+the actual bitmap may be a separate game asset or use a proprietary encoding.

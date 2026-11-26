@@ -1,0 +1,5 @@
+﻿name,offset,evidence,surface_labels,occurrences,asset_status,copied_files
+t8start,110,surface_label_then_texture_identifier,start/finish,1,reference_only_no_pixel_asset_found,
+t8bann00,243,surface_label_then_texture_identifier,pepsifresh00,1,reference_only_no_pixel_asset_found,
+T8wall00,381,surface_label_then_texture_identifier,eextrawall-00; Wallturn00; Walls007,3,reference_only_no_pixel_asset_found,
+T8trk00,660,surface_label_then_texture_identifier,Track1; Track2; track3; track4; track5; track6,6,reference_only_no_pixel_asset_found,

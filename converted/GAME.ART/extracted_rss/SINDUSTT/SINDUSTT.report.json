@@ -1,0 +1,7393 @@
+{
+  "file": "SINDUSTT.RSS",
+  "size": 147084,
+  "sha256": "a7c771000ea8a4536a539e233ccd5417ee5587620b96d9eaf9f3db5de3662f0b",
+  "header": "fRssExport Version (V1) - Thu Apr 29 09:58:35 1999",
+  "header_bytes_hex": "665273734578706f72742056657273696f6e2028563129202d20546875204170722032392030393a35383a333520313939390a",
+  "mesh_parser_note": "Heuristic only; not a complete documented RSS specification.",
+  "meshes": [],
+  "embedded_image_files": [],
+  "texture_references": [
+    {
+      "name": "t8start",
+      "offset": 110,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "start/finish"
+      ],
+      "occurrences": 1,
+      "occurrences_at_offsets": [
+        110
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    },
+    {
+      "name": "t8bann00",
+      "offset": 243,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "pepsifresh00"
+      ],
+      "occurrences": 1,
+      "occurrences_at_offsets": [
+        243
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    },
+    {
+      "name": "T8wall00",
+      "offset": 381,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "eextrawall-00",
+        "Wallturn00",
+        "Walls007"
+      ],
+      "occurrences": 3,
+      "occurrences_at_offsets": [
+        381,
+        458,
+        533
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    },
+    {
+      "name": "T8trk00",
+      "offset": 660,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "Track1",
+        "Track2",
+        "track3",
+        "track4",
+        "track5",
+        "track6"
+      ],
+      "occurrences": 6,
+      "occurrences_at_offsets": [
+        660,
+        732,
+        804,
+        876,
+        948,
+        1020
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    }
+  ],
+  "texture_extraction_note": "The RSS files contain probable texture identifiers/material references. Validated standard embedded images are exported separately; external matching assets are copied when present. Reference records are not image data.",
+  "ascii_strings": [
+    {
+      "offset": 0,
+      "length": 50,
+      "text": "fRssExport Version (V1) - Thu Apr 29 09:58:35 1999"
+    },
+    {
+      "offset": 58,
+      "length": 12,
+      "text": "start/finish"
+    },
+    {
+      "offset": 110,
+      "length": 7,
+      "text": "t8start"
+    },
+    {
+      "offset": 136,
+      "length": 13,
+      "text": "newpepbann-00"
+    },
+    {
+      "offset": 191,
+      "length": 12,
+      "text": "pepsifresh00"
+    },
+    {
+      "offset": 243,
+      "length": 8,
+      "text": "t8bann00"
+    },
+    {
+      "offset": 270,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 328,
+      "length": 13,
+      "text": "eextrawall-00"
+    },
+    {
+      "offset": 381,
+      "length": 8,
+      "text": "T8wall00"
+    },
+    {
+      "offset": 408,
+      "length": 10,
+      "text": "Wallturn00"
+    },
+    {
+      "offset": 458,
+      "length": 8,
+      "text": "T8wall00"
+    },
+    {
+      "offset": 485,
+      "length": 8,
+      "text": "Walls007"
+    },
+    {
+      "offset": 533,
+      "length": 8,
+      "text": "T8wall00"
+    },
+    {
+      "offset": 560,
+      "length": 12,
+      "text": "tracksurface"
+    },
+    {
+      "offset": 614,
+      "length": 6,
+      "text": "Track1"
+    },
+    {
+      "offset": 660,
+      "length": 7,
+      "text": "T8trk00"
+    },
+    {
+      "offset": 686,
+      "length": 6,
+      "text": "Track2"
+    },
+    {
+      "offset": 732,
+      "length": 7,
+      "text": "T8trk00"
+    },
+    {
+      "offset": 758,
+      "length": 6,
+      "text": "track3"
+    },
+    {
+      "offset": 804,
+      "length": 7,
+      "text": "T8trk00"
+    },
+    {
+      "offset": 830,
+      "length": 6,
+      "text": "track4"
+    },
+    {
+      "offset": 876,
+      "length": 7,
+      "text": "T8trk00"
+    },
+    {
+      "offset": 902,
+      "length": 6,
+      "text": "track5"
+    },
+    {
+      "offset": 948,
+      "length": 7,
+      "text": "T8trk00"
+    },
+    {
+      "offset": 974,
+      "length": 6,
+      "text": "track6"
+    },
+    {
+      "offset": 1020,
+      "length": 7,
+      "text": "T8trk00"
+    },
+    {
+      "offset": 1153,
+      "length": 3,
+      "text": "06z"
+    },
+    {
+      "offset": 1189,
+      "length": 3,
+      "text": "ty:"
+    },
+    {
+      "offset": 1265,
+      "length": 3,
+      "text": "NQ#"
+    },
+    {
+      "offset": 1333,
+      "length": 3,
+      "text": "d};"
+    },
+    {
+      "offset": 1349,
+      "length": 3,
+      "text": "OXZ"
+    },
+    {
+      "offset": 1501,
+      "length": 3,
+      "text": "L|;"
+    },
+    {
+      "offset": 1525,
+      "length": 3,
+      "text": "tKf"
+    },
+    {
+      "offset": 1681,
+      "length": 3,
+      "text": "p@z"
+    },
+    {
+      "offset": 1733,
+      "length": 3,
+      "text": "P2Y"
+    },
+    {
+      "offset": 1781,
+      "length": 3,
+      "text": "P2Y"
+    },
+    {
+      "offset": 1789,
+      "length": 3,
+      "text": "L$E"
+    },
+    {
+      "offset": 1829,
+      "length": 3,
+      "text": "J%6"
+    },
+    {
+      "offset": 1841,
+      "length": 3,
+      "text": "C5,"
+    },
+    {
+      "offset": 1853,
+      "length": 3,
+      "text": "DJ\""
+    },
+    {
+      "offset": 2089,
+      "length": 3,
+      "text": "DV1"
+    },
+    {
+      "offset": 2237,
+      "length": 3,
+      "text": "4.-"
+    },
+    {
+      "offset": 2249,
+      "length": 3,
+      "text": "^P#"
+    },
+    {
+      "offset": 2389,
+      "length": 3,
+      "text": "L$E"
+    },
+    {
+      "offset": 2426,
+      "length": 5,
+      "text": "start"
+    },
+    {
+      "offset": 2555,
+      "length": 12,
+      "text": "start/finish"
+    },
+    {
+      "offset": 3372,
+      "length": 7,
+      "text": "start01"
+    },
+    {
+      "offset": 3503,
+      "length": 12,
+      "text": "start/finish"
+    },
+    {
+      "offset": 4160,
+      "length": 14,
+      "text": "pepsibanner-01"
+    },
+    {
+      "offset": 4250,
+      "length": 13,
+      "text": "newpepbann-00"
+    },
+    {
+      "offset": 4428,
+      "length": 14,
+      "text": "#walls-00[0-0]"
+    },
+    {
+      "offset": 4638,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 5619,
+      "length": 14,
+      "text": "#walls-00[0-1]"
+    },
+    {
+      "offset": 5737,
+      "length": 3,
+      "text": "+~O"
+    },
+    {
+      "offset": 5749,
+      "length": 3,
+      "text": "+~O"
+    },
+    {
+      "offset": 5853,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 6994,
+      "length": 14,
+      "text": "#walls-00[1-0]"
+    },
+    {
+      "offset": 7420,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 10161,
+      "length": 14,
+      "text": "#walls-00[1-1]"
+    },
+    {
+      "offset": 10843,
+      "length": 3,
+      "text": ">oU"
+    },
+    {
+      "offset": 10855,
+      "length": 3,
+      "text": ">oU"
+    },
+    {
+      "offset": 10911,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 16532,
+      "length": 14,
+      "text": "#walls-00[2-0]"
+    },
+    {
+      "offset": 16922,
+      "length": 3,
+      "text": "fd["
+    },
+    {
+      "offset": 16934,
+      "length": 3,
+      "text": "fd["
+    },
+    {
+      "offset": 17150,
+      "length": 3,
+      "text": ">'F"
+    },
+    {
+      "offset": 17210,
+      "length": 3,
+      "text": "8VF"
+    },
+    {
+      "offset": 17222,
+      "length": 3,
+      "text": "8VF"
+    },
+    {
+      "offset": 17234,
+      "length": 3,
+      "text": "8VF"
+    },
+    {
+      "offset": 17246,
+      "length": 3,
+      "text": "8VF"
+    },
+    {
+      "offset": 17258,
+      "length": 3,
+      "text": "8VF"
+    },
+    {
+      "offset": 17270,
+      "length": 3,
+      "text": "8VF"
+    },
+    {
+      "offset": 17282,
+      "length": 3,
+      "text": "8VF"
+    },
+    {
+      "offset": 17366,
+      "length": 3,
+      "text": ">'F"
+    },
+    {
+      "offset": 17402,
+      "length": 3,
+      "text": ">'F"
+    },
+    {
+      "offset": 17462,
+      "length": 3,
+      "text": "8VF"
+    },
+    {
+      "offset": 17474,
+      "length": 3,
+      "text": "8VF"
+    },
+    {
+      "offset": 17486,
+      "length": 3,
+      "text": "8VF"
+    },
+    {
+      "offset": 17498,
+      "length": 3,
+      "text": "8VF"
+    },
+    {
+      "offset": 17510,
+      "length": 3,
+      "text": "8VF"
+    },
+    {
+      "offset": 17522,
+      "length": 3,
+      "text": "8VF"
+    },
+    {
+      "offset": 17534,
+      "length": 3,
+      "text": "8VF"
+    },
+    {
+      "offset": 17546,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 25407,
+      "length": 14,
+      "text": "#walls-00[2-1]"
+    },
+    {
+      "offset": 25573,
+      "length": 3,
+      "text": "Mh^"
+    },
+    {
+      "offset": 25585,
+      "length": 3,
+      "text": "Mh^"
+    },
+    {
+      "offset": 25713,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 27334,
+      "length": 14,
+      "text": "#walls-00[3-0]"
+    },
+    {
+      "offset": 27736,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 29837,
+      "length": 14,
+      "text": "#walls-00[3-1]"
+    },
+    {
+      "offset": 29883,
+      "length": 3,
+      "text": "Kh^"
+    },
+    {
+      "offset": 29907,
+      "length": 3,
+      "text": "Kh^"
+    },
+    {
+      "offset": 30119,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 31420,
+      "length": 14,
+      "text": "#walls-00[4-0]"
+    },
+    {
+      "offset": 31618,
+      "length": 3,
+      "text": "8\";"
+    },
+    {
+      "offset": 31642,
+      "length": 3,
+      "text": "8\";"
+    },
+    {
+      "offset": 31750,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 33371,
+      "length": 14,
+      "text": "#walls-00[4-1]"
+    },
+    {
+      "offset": 33513,
+      "length": 3,
+      "text": "N^_"
+    },
+    {
+      "offset": 33525,
+      "length": 3,
+      "text": "N^_"
+    },
+    {
+      "offset": 33725,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 35666,
+      "length": 14,
+      "text": "#walls-00[5-0]"
+    },
+    {
+      "offset": 35852,
+      "length": 3,
+      "text": "l?I"
+    },
+    {
+      "offset": 35864,
+      "length": 3,
+      "text": "l?I"
+    },
+    {
+      "offset": 35876,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 36857,
+      "length": 14,
+      "text": "#walls-00[5-1]"
+    },
+    {
+      "offset": 36899,
+      "length": 3,
+      "text": "l?I"
+    },
+    {
+      "offset": 36923,
+      "length": 3,
+      "text": "l?I"
+    },
+    {
+      "offset": 36975,
+      "length": 3,
+      "text": "Kt8"
+    },
+    {
+      "offset": 36987,
+      "length": 3,
+      "text": "Kt8"
+    },
+    {
+      "offset": 36999,
+      "length": 3,
+      "text": "xxO"
+    },
+    {
+      "offset": 37011,
+      "length": 3,
+      "text": "xxO"
+    },
+    {
+      "offset": 37091,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 38232,
+      "length": 14,
+      "text": "#=track01[0-0]"
+    },
+    {
+      "offset": 38610,
+      "length": 3,
+      "text": "4Z%"
+    },
+    {
+      "offset": 38622,
+      "length": 12,
+      "text": "tracksurface"
+    },
+    {
+      "offset": 41843,
+      "length": 14,
+      "text": "#=track01[0-1]"
+    },
+    {
+      "offset": 42021,
+      "length": 3,
+      "text": "3u6"
+    },
+    {
+      "offset": 42153,
+      "length": 3,
+      "text": "+~O"
+    },
+    {
+      "offset": 42245,
+      "length": 12,
+      "text": "tracksurface"
+    },
+    {
+      "offset": 45733,
+      "length": 14,
+      "text": "#=track01[1-0]"
+    },
+    {
+      "offset": 45823,
+      "length": 3,
+      "text": "4Z%"
+    },
+    {
+      "offset": 46315,
+      "length": 3,
+      "text": "Nnx"
+    },
+    {
+      "offset": 46531,
+      "length": 12,
+      "text": "tracksurface"
+    },
+    {
+      "offset": 47343,
+      "length": 3,
+      "text": "d]."
+    },
+    {
+      "offset": 48272,
+      "length": 3,
+      "text": "d]."
+    },
+    {
+      "offset": 48361,
+      "length": 3,
+      "text": "d]."
+    },
+    {
+      "offset": 53846,
+      "length": 14,
+      "text": "#=track01[1-1]"
+    },
+    {
+      "offset": 53916,
+      "length": 3,
+      "text": "7~Q"
+    },
+    {
+      "offset": 53924,
+      "length": 3,
+      "text": "ruG"
+    },
+    {
+      "offset": 53940,
+      "length": 3,
+      "text": "3u6"
+    },
+    {
+      "offset": 53984,
+      "length": 3,
+      "text": "T\\%"
+    },
+    {
+      "offset": 53988,
+      "length": 3,
+      "text": "S\"R"
+    },
+    {
+      "offset": 54128,
+      "length": 3,
+      "text": "hhx"
+    },
+    {
+      "offset": 54132,
+      "length": 3,
+      "text": "l=:"
+    },
+    {
+      "offset": 54312,
+      "length": 3,
+      "text": ">oU"
+    },
+    {
+      "offset": 54420,
+      "length": 3,
+      "text": "6I "
+    },
+    {
+      "offset": 54644,
+      "length": 12,
+      "text": "tracksurface"
+    },
+    {
+      "offset": 61959,
+      "length": 14,
+      "text": "#=track01[2-0]"
+    },
+    {
+      "offset": 62229,
+      "length": 3,
+      "text": "fd["
+    },
+    {
+      "offset": 62325,
+      "length": 3,
+      "text": "^$Y"
+    },
+    {
+      "offset": 62349,
+      "length": 3,
+      "text": "Din"
+    },
+    {
+      "offset": 62769,
+      "length": 12,
+      "text": "tracksurface"
+    },
+    {
+      "offset": 63531,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 63645,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 63734,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 64421,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 64510,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 64560,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 64599,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 64649,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 64713,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 64777,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 64802,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 65871,
+      "length": 3,
+      "text": "w,'"
+    },
+    {
+      "offset": 66583,
+      "length": 3,
+      "text": "~?0"
+    },
+    {
+      "offset": 66735,
+      "length": 4,
+      "text": "4Vd3"
+    },
+    {
+      "offset": 66760,
+      "length": 4,
+      "text": "2_z4"
+    },
+    {
+      "offset": 66824,
+      "length": 4,
+      "text": "1Q_2"
+    },
+    {
+      "offset": 66849,
+      "length": 4,
+      "text": "4Vd4"
+    },
+    {
+      "offset": 66913,
+      "length": 4,
+      "text": "2_z6"
+    },
+    {
+      "offset": 67027,
+      "length": 4,
+      "text": "2_z7"
+    },
+    {
+      "offset": 68184,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 68273,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 68298,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 68337,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 68387,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 68426,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 69455,
+      "length": 3,
+      "text": "2_z"
+    },
+    {
+      "offset": 70084,
+      "length": 14,
+      "text": "#=track01[2-1]"
+    },
+    {
+      "offset": 70318,
+      "length": 3,
+      "text": "4tn"
+    },
+    {
+      "offset": 70334,
+      "length": 3,
+      "text": "@[/"
+    },
+    {
+      "offset": 70474,
+      "length": 3,
+      "text": ">W7"
+    },
+    {
+      "offset": 70610,
+      "length": 3,
+      "text": "Mh^"
+    },
+    {
+      "offset": 70634,
+      "length": 3,
+      "text": "f^="
+    },
+    {
+      "offset": 70670,
+      "length": 3,
+      "text": "k~U"
+    },
+    {
+      "offset": 70682,
+      "length": 3,
+      "text": "IdF"
+    },
+    {
+      "offset": 70718,
+      "length": 3,
+      "text": "k~U"
+    },
+    {
+      "offset": 70730,
+      "length": 3,
+      "text": "JdF"
+    },
+    {
+      "offset": 70894,
+      "length": 12,
+      "text": "tracksurface"
+    },
+    {
+      "offset": 71122,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 71261,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 71300,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 71350,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 75330,
+      "length": 4,
+      "text": ";px8"
+    },
+    {
+      "offset": 75483,
+      "length": 4,
+      "text": ";px9"
+    },
+    {
+      "offset": 75508,
+      "length": 4,
+      "text": "7`f:"
+    },
+    {
+      "offset": 75533,
+      "length": 3,
+      "text": "5X["
+    },
+    {
+      "offset": 75597,
+      "length": 4,
+      "text": ";px:"
+    },
+    {
+      "offset": 75622,
+      "length": 3,
+      "text": "5X["
+    },
+    {
+      "offset": 75661,
+      "length": 4,
+      "text": "7`f;"
+    },
+    {
+      "offset": 75686,
+      "length": 4,
+      "text": "-/3<"
+    },
+    {
+      "offset": 75711,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 75750,
+      "length": 4,
+      "text": "5X[9"
+    },
+    {
+      "offset": 75775,
+      "length": 4,
+      "text": "7`f<"
+    },
+    {
+      "offset": 75800,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 75889,
+      "length": 3,
+      "text": ";px"
+    },
+    {
+      "offset": 78000,
+      "length": 4,
+      "text": ";px5"
+    },
+    {
+      "offset": 78089,
+      "length": 4,
+      "text": "7`f7"
+    },
+    {
+      "offset": 78114,
+      "length": 3,
+      "text": ";px"
+    },
+    {
+      "offset": 78203,
+      "length": 3,
+      "text": "7`f"
+    },
+    {
+      "offset": 78267,
+      "length": 4,
+      "text": "-/39"
+    },
+    {
+      "offset": 78292,
+      "length": 3,
+      "text": "7`f"
+    },
+    {
+      "offset": 78381,
+      "length": 3,
+      "text": "-/3"
+    },
+    {
+      "offset": 78470,
+      "length": 3,
+      "text": ";px"
+    },
+    {
+      "offset": 78476,
+      "length": 14,
+      "text": "#=track01[3-0]"
+    },
+    {
+      "offset": 78662,
+      "length": 3,
+      "text": "L]H"
+    },
+    {
+      "offset": 79010,
+      "length": 3,
+      "text": "h2|"
+    },
+    {
+      "offset": 79274,
+      "length": 12,
+      "text": "tracksurface"
+    },
+    {
+      "offset": 80150,
+      "length": 3,
+      "text": "5X["
+    },
+    {
+      "offset": 80303,
+      "length": 3,
+      "text": "5X["
+    },
+    {
+      "offset": 80328,
+      "length": 3,
+      "text": "9bq"
+    },
+    {
+      "offset": 80353,
+      "length": 3,
+      "text": "9dp"
+    },
+    {
+      "offset": 80417,
+      "length": 3,
+      "text": "5X["
+    },
+    {
+      "offset": 80442,
+      "length": 3,
+      "text": "9dp"
+    },
+    {
+      "offset": 80481,
+      "length": 3,
+      "text": "9bq"
+    },
+    {
+      "offset": 80506,
+      "length": 3,
+      "text": "4Vd"
+    },
+    {
+      "offset": 80531,
+      "length": 3,
+      "text": "1Q_"
+    },
+    {
+      "offset": 80570,
+      "length": 3,
+      "text": "9dp"
+    },
+    {
+      "offset": 80595,
+      "length": 3,
+      "text": "9bq"
+    },
+    {
+      "offset": 80620,
+      "length": 3,
+      "text": "1Q_"
+    },
+    {
+      "offset": 80659,
+      "length": 3,
+      "text": "4Vd"
+    },
+    {
+      "offset": 80684,
+      "length": 3,
+      "text": "2_z"
+    },
+    {
+      "offset": 80748,
+      "length": 3,
+      "text": "1Q_"
+    },
+    {
+      "offset": 80773,
+      "length": 3,
+      "text": "4Vd"
+    },
+    {
+      "offset": 80837,
+      "length": 3,
+      "text": "2_z"
+    },
+    {
+      "offset": 80951,
+      "length": 3,
+      "text": "2_z"
+    },
+    {
+      "offset": 81015,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 81154,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 81282,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 81485,
+      "length": 4,
+      "text": ".9g "
+    },
+    {
+      "offset": 81599,
+      "length": 3,
+      "text": ".9g"
+    },
+    {
+      "offset": 81688,
+      "length": 3,
+      "text": ".9g"
+    },
+    {
+      "offset": 82020,
+      "length": 3,
+      "text": "~{$"
+    },
+    {
+      "offset": 84180,
+      "length": 3,
+      "text": "5X["
+    },
+    {
+      "offset": 84269,
+      "length": 3,
+      "text": "5X["
+    },
+    {
+      "offset": 84333,
+      "length": 3,
+      "text": "9bq"
+    },
+    {
+      "offset": 84358,
+      "length": 3,
+      "text": "5X["
+    },
+    {
+      "offset": 84447,
+      "length": 3,
+      "text": "9bq"
+    },
+    {
+      "offset": 84511,
+      "length": 3,
+      "text": "4Vd"
+    },
+    {
+      "offset": 84536,
+      "length": 3,
+      "text": "9bq"
+    },
+    {
+      "offset": 84625,
+      "length": 3,
+      "text": "4Vd"
+    },
+    {
+      "offset": 84689,
+      "length": 3,
+      "text": "2_z"
+    },
+    {
+      "offset": 84714,
+      "length": 3,
+      "text": "4Vd"
+    },
+    {
+      "offset": 84803,
+      "length": 3,
+      "text": "2_z"
+    },
+    {
+      "offset": 84892,
+      "length": 3,
+      "text": "2_z"
+    },
+    {
+      "offset": 85579,
+      "length": 4,
+      "text": ".9g0"
+    },
+    {
+      "offset": 85643,
+      "length": 4,
+      "text": ".9g2"
+    },
+    {
+      "offset": 85732,
+      "length": 4,
+      "text": ".9g\""
+    },
+    {
+      "offset": 86114,
+      "length": 3,
+      "text": "~{6"
+    },
+    {
+      "offset": 86178,
+      "length": 3,
+      "text": "~{8"
+    },
+    {
+      "offset": 86267,
+      "length": 3,
+      "text": "~{("
+    },
+    {
+      "offset": 86678,
+      "length": 14,
+      "text": "#=track01[3-1]"
+    },
+    {
+      "offset": 86912,
+      "length": 3,
+      "text": "hL^"
+    },
+    {
+      "offset": 86928,
+      "length": 3,
+      "text": "Kh^"
+    },
+    {
+      "offset": 87228,
+      "length": 3,
+      "text": "k~U"
+    },
+    {
+      "offset": 87252,
+      "length": 3,
+      "text": "JdF"
+    },
+    {
+      "offset": 87300,
+      "length": 3,
+      "text": "g^="
+    },
+    {
+      "offset": 87452,
+      "length": 12,
+      "text": "tracksurface"
+    },
+    {
+      "offset": 87591,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 87730,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 87819,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 90286,
+      "length": 4,
+      "text": ".9g\""
+    },
+    {
+      "offset": 90400,
+      "length": 3,
+      "text": ".9g"
+    },
+    {
+      "offset": 90489,
+      "length": 3,
+      "text": ".9g"
+    },
+    {
+      "offset": 91329,
+      "length": 4,
+      "text": "7`f2"
+    },
+    {
+      "offset": 91354,
+      "length": 4,
+      "text": "-/33"
+    },
+    {
+      "offset": 91379,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 91418,
+      "length": 4,
+      "text": "5X[1"
+    },
+    {
+      "offset": 91443,
+      "length": 4,
+      "text": "7`f3"
+    },
+    {
+      "offset": 91468,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 91507,
+      "length": 4,
+      "text": "-/35"
+    },
+    {
+      "offset": 91532,
+      "length": 4,
+      "text": ".6>6"
+    },
+    {
+      "offset": 91557,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 91596,
+      "length": 4,
+      "text": ",,,2"
+    },
+    {
+      "offset": 91621,
+      "length": 4,
+      "text": "-/36"
+    },
+    {
+      "offset": 91646,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 91685,
+      "length": 4,
+      "text": ".6>7"
+    },
+    {
+      "offset": 91774,
+      "length": 4,
+      "text": ",,,5"
+    },
+    {
+      "offset": 91799,
+      "length": 4,
+      "text": ".6>8"
+    },
+    {
+      "offset": 93757,
+      "length": 4,
+      "text": ".9g<"
+    },
+    {
+      "offset": 93846,
+      "length": 4,
+      "text": "-/31"
+    },
+    {
+      "offset": 93871,
+      "length": 3,
+      "text": "7`f"
+    },
+    {
+      "offset": 93960,
+      "length": 3,
+      "text": "-/3"
+    },
+    {
+      "offset": 94024,
+      "length": 4,
+      "text": ".6>2"
+    },
+    {
+      "offset": 94049,
+      "length": 3,
+      "text": "-/3"
+    },
+    {
+      "offset": 94138,
+      "length": 3,
+      "text": ".6>"
+    },
+    {
+      "offset": 94227,
+      "length": 3,
+      "text": ".6>"
+    },
+    {
+      "offset": 94500,
+      "length": 14,
+      "text": "#=track01[4-0]"
+    },
+    {
+      "offset": 95034,
+      "length": 3,
+      "text": "8\";"
+    },
+    {
+      "offset": 95046,
+      "length": 3,
+      "text": "dyA"
+    },
+    {
+      "offset": 95298,
+      "length": 12,
+      "text": "tracksurface"
+    },
+    {
+      "offset": 99353,
+      "length": 4,
+      "text": ",,,0"
+    },
+    {
+      "offset": 99492,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 99556,
+      "length": 4,
+      "text": ",,,5"
+    },
+    {
+      "offset": 99581,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 99670,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 99709,
+      "length": 4,
+      "text": ",,,7"
+    },
+    {
+      "offset": 99798,
+      "length": 4,
+      "text": ",,,4"
+    },
+    {
+      "offset": 99823,
+      "length": 4,
+      "text": ",,,8"
+    },
+    {
+      "offset": 102290,
+      "length": 4,
+      "text": ",,,7"
+    },
+    {
+      "offset": 102340,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 102379,
+      "length": 4,
+      "text": ",,,="
+    },
+    {
+      "offset": 102613,
+      "length": 14,
+      "text": "#=track01[4-1]"
+    },
+    {
+      "offset": 102971,
+      "length": 3,
+      "text": "N^_"
+    },
+    {
+      "offset": 103051,
+      "length": 3,
+      "text": "LrA"
+    },
+    {
+      "offset": 103175,
+      "length": 3,
+      "text": "|,D"
+    },
+    {
+      "offset": 103255,
+      "length": 3,
+      "text": "`Hc"
+    },
+    {
+      "offset": 103411,
+      "length": 12,
+      "text": "tracksurface"
+    },
+    {
+      "offset": 105063,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 106245,
+      "length": 4,
+      "text": ",,,#"
+    },
+    {
+      "offset": 106359,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 106448,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 107847,
+      "length": 4,
+      "text": ",,,8"
+    },
+    {
+      "offset": 107872,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 107961,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 108000,
+      "length": 4,
+      "text": ",,,9"
+    },
+    {
+      "offset": 108089,
+      "length": 4,
+      "text": ",,,7"
+    },
+    {
+      "offset": 108114,
+      "length": 4,
+      "text": ",,,:"
+    },
+    {
+      "offset": 110250,
+      "length": 4,
+      "text": ",,,5"
+    },
+    {
+      "offset": 110339,
+      "length": 4,
+      "text": ",,,7"
+    },
+    {
+      "offset": 110364,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 110403,
+      "length": 4,
+      "text": ",,,9"
+    },
+    {
+      "offset": 110453,
+      "length": 3,
+      "text": ",,,"
+    },
+    {
+      "offset": 110492,
+      "length": 4,
+      "text": ",,,'"
+    },
+    {
+      "offset": 110726,
+      "length": 14,
+      "text": "#=track01[5-0]"
+    },
+    {
+      "offset": 110936,
+      "length": 3,
+      "text": "l?I"
+    },
+    {
+      "offset": 111080,
+      "length": 12,
+      "text": "tracksurface"
+    },
+    {
+      "offset": 114034,
+      "length": 14,
+      "text": "#=track01[5-1]"
+    },
+    {
+      "offset": 114320,
+      "length": 3,
+      "text": "xxO"
+    },
+    {
+      "offset": 114344,
+      "length": 3,
+      "text": "Kt8"
+    },
+    {
+      "offset": 114388,
+      "length": 3,
+      "text": "l?I"
+    },
+    {
+      "offset": 114448,
+      "length": 12,
+      "text": "tracksurface"
+    },
+    {
+      "offset": 118025,
+      "length": 15,
+      "text": "#%walls-01[0-0]"
+    },
+    {
+      "offset": 118320,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 120261,
+      "length": 15,
+      "text": "#%walls-01[0-1]"
+    },
+    {
+      "offset": 120404,
+      "length": 3,
+      "text": "3u6"
+    },
+    {
+      "offset": 120416,
+      "length": 3,
+      "text": "3u6"
+    },
+    {
+      "offset": 120500,
+      "length": 3,
+      "text": "3u6"
+    },
+    {
+      "offset": 120520,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 122141,
+      "length": 15,
+      "text": "#%walls-01[1-0]"
+    },
+    {
+      "offset": 122424,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 124045,
+      "length": 15,
+      "text": "#%walls-01[1-1]"
+    },
+    {
+      "offset": 124104,
+      "length": 3,
+      "text": "3u6"
+    },
+    {
+      "offset": 124128,
+      "length": 3,
+      "text": "3u6"
+    },
+    {
+      "offset": 124184,
+      "length": 3,
+      "text": "ruG"
+    },
+    {
+      "offset": 124196,
+      "length": 3,
+      "text": "ruG"
+    },
+    {
+      "offset": 124248,
+      "length": 3,
+      "text": "3u6"
+    },
+    {
+      "offset": 124280,
+      "length": 3,
+      "text": "ruG"
+    },
+    {
+      "offset": 124304,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 125925,
+      "length": 15,
+      "text": "#%walls-02[1-0]"
+    },
+    {
+      "offset": 126112,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 126933,
+      "length": 15,
+      "text": "#%walls-02[1-1]"
+    },
+    {
+      "offset": 127120,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 127941,
+      "length": 15,
+      "text": "#%walls-02[2-0]"
+    },
+    {
+      "offset": 128128,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 128949,
+      "length": 15,
+      "text": "#%walls-02[2-1]"
+    },
+    {
+      "offset": 129160,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 130141,
+      "length": 15,
+      "text": "#%walls-03[1-0]"
+    },
+    {
+      "offset": 130184,
+      "length": 3,
+      "text": "`Hc"
+    },
+    {
+      "offset": 130208,
+      "length": 3,
+      "text": "`Hc"
+    },
+    {
+      "offset": 130304,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 130965,
+      "length": 15,
+      "text": "#%walls-05[0-1]"
+    },
+    {
+      "offset": 131104,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 131605,
+      "length": 15,
+      "text": "#%walls-05[1-0]"
+    },
+    {
+      "offset": 131648,
+      "length": 3,
+      "text": "^$Y"
+    },
+    {
+      "offset": 131660,
+      "length": 3,
+      "text": "Din"
+    },
+    {
+      "offset": 131672,
+      "length": 3,
+      "text": "Din"
+    },
+    {
+      "offset": 131684,
+      "length": 3,
+      "text": "^$Y"
+    },
+    {
+      "offset": 131744,
+      "length": 3,
+      "text": "^$Y"
+    },
+    {
+      "offset": 131756,
+      "length": 3,
+      "text": "Din"
+    },
+    {
+      "offset": 131984,
+      "length": 3,
+      "text": "Din"
+    },
+    {
+      "offset": 131996,
+      "length": 3,
+      "text": "^$Y"
+    },
+    {
+      "offset": 132032,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 134773,
+      "length": 15,
+      "text": "#%walls-05[1-1]"
+    },
+    {
+      "offset": 135008,
+      "length": 3,
+      "text": "4tn"
+    },
+    {
+      "offset": 135020,
+      "length": 3,
+      "text": "4tn"
+    },
+    {
+      "offset": 135108,
+      "length": 3,
+      "text": "f^="
+    },
+    {
+      "offset": 135120,
+      "length": 3,
+      "text": "f^="
+    },
+    {
+      "offset": 135156,
+      "length": 3,
+      "text": "IdF"
+    },
+    {
+      "offset": 135168,
+      "length": 3,
+      "text": "IdF"
+    },
+    {
+      "offset": 135204,
+      "length": 3,
+      "text": "JdF"
+    },
+    {
+      "offset": 135216,
+      "length": 3,
+      "text": "JdF"
+    },
+    {
+      "offset": 135272,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 138333,
+      "length": 15,
+      "text": "#%walls-05[2-0]"
+    },
+    {
+      "offset": 138544,
+      "length": 3,
+      "text": "h2|"
+    },
+    {
+      "offset": 138556,
+      "length": 3,
+      "text": "h2|"
+    },
+    {
+      "offset": 138712,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 140653,
+      "length": 15,
+      "text": "#%walls-05[2-1]"
+    },
+    {
+      "offset": 140892,
+      "length": 3,
+      "text": "JdF"
+    },
+    {
+      "offset": 140916,
+      "length": 3,
+      "text": "JdF"
+    },
+    {
+      "offset": 140964,
+      "length": 3,
+      "text": "g^="
+    },
+    {
+      "offset": 140976,
+      "length": 3,
+      "text": "g^="
+    },
+    {
+      "offset": 141152,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 143893,
+      "length": 15,
+      "text": "#%walls-05[3-0]"
+    },
+    {
+      "offset": 144248,
+      "length": 3,
+      "text": "8\";"
+    },
+    {
+      "offset": 144260,
+      "length": 3,
+      "text": "8\";"
+    },
+    {
+      "offset": 144272,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    },
+    {
+      "offset": 146053,
+      "length": 15,
+      "text": "#%walls-05[3-1]"
+    },
+    {
+      "offset": 146264,
+      "length": 16,
+      "text": "brandnewwalls-00"
+    }
+  ],
+  "utf16le_strings": [
+    {
+      "offset": 87274,
+      "length": 6,
+      "text": ")FC"
+    },
+    {
+      "offset": 87274,
+      "length": 6,
+      "text": ")FC"
+    },
+    {
+      "offset": 140938,
+      "length": 6,
+      "text": ")FC"
+    },
+    {
+      "offset": 140938,
+      "length": 6,
+      "text": ")FC"
+    },
+    {
+      "offset": 140950,
+      "length": 6,
+      "text": ")FC"
+    },
+    {
+      "offset": 140950,
+      "length": 6,
+      "text": ")FC"
+    }
+  ],
+  "embedded_filename_references": [],
+  "embedded_signatures": [
+    {
+      "type": "PCX",
+      "offset": 50,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 390,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 1211,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 1259,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 1883,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 1931,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 1937,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 2568,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 3083,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 3221,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 3391,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 3417,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 3429,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 3871,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 4009,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 4423,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 4712,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 4748,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 4952,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 5310,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5492,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5572,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 5927,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 5963,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 6167,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 6525,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 6707,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 6787,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 7322,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 7368,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 7376,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 7388,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 7494,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 7530,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 7952,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 8194,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 8296,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 8332,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 8572,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 8696,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 8754,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 10393,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 10681,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 10753,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 10907,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 10985,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 11021,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 11583,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 11707,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 11765,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 11923,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 14827,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 14863,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 15067,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 16848,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 16896,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 16999,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 17011,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 17112,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 17256,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 17620,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 17656,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 18238,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 18262,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 18298,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 18880,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 25483,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 25787,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 25823,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 26027,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 26385,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 26567,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 26647,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 27422,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 27477,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 27489,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 27810,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 27846,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 28050,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 28408,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 28590,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 28670,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 30021,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 30193,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 30229,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 30433,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 30791,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 31746,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 31824,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 31860,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 32064,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 32262,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 33505,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 33799,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 33835,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 34039,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 34397,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 34579,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 34659,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 35950,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 35986,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 36190,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 36548,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 36730,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 36810,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 37165,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 37201,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 37405,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 37763,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 37945,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 38025,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 38653,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 38742,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 39387,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 39501,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 39590,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 40962,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 41051,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 41790,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 43010,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 43124,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 43213,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 44585,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 44674,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 45413,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 45477,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 45566,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 46025,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 46091,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 46993,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 47032,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 47096,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 47185,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 47271,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 47360,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 48300,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 49850,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 51274,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 51326,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 51363,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 52255,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 52342,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 52369,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 54200,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 54234,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 54246,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 54414,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 54426,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 55384,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 55473,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 57794,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 57933,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 58061,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 59439,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 59528,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 59832,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 59921,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 62030,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 62093,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 62155,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 62167,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 62242,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 62275,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 62299,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 62305,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 62313,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 63203,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 63292,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 65902,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 65916,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 66029,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 66143,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 66232,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 66473,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 66537,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 66626,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 66773,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 66862,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 66990,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 67061,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 69500,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 69564,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 69653,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 69817,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 70184,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 70196,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 70202,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 70462,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 71481,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 71545,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 71634,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 71844,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 71908,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 71997,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 72284,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 72398,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 72487,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 77357,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 77446,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 77560,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "JPEG",
+      "offset": 77944,
+      "signature_hex": "ffd8ff"
+    },
+    {
+      "type": "PCX",
+      "offset": 78691,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 78852,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 78864,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 79420,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 79484,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 79573,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 79776,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 79840,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 79915,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 79929,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 80039,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 80042,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 80106,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 80220,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 80697,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 80786,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 80914,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 81914,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 81978,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 82067,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 83958,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 84106,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 84200,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 84934,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 84937,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 85791,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 86514,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 86603,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 86778,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 86790,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 86946,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 86970,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 87076,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 87576,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 87715,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 87804,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 87913,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 88110,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 88192,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 88249,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 88306,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 88338,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 88395,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 91744,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 92845,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 92909,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 92998,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 94888,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 94900,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 95068,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 95080,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 95086,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 95191,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 95378,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 95467,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 95671,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 95685,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 95774,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 95885,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 95888,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 95999,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 96002,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 96088,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 96091,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 96337,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 96401,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 96490,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 96777,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 100164,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 100246,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 100249,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 100278,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 100310,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 100313,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 100367,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 100399,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 100402,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 100693,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 100842,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 100846,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 100931,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 100935,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 102905,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 103304,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 104151,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 104240,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 105048,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 105180,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 106730,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 107323,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 107412,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 107540,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 108154,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 108206,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 108243,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 108500,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 108505,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 109135,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 109222,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 109249,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 111585,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 111631,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 111649,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 111720,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 111738,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 111759,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 111809,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 111823,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 111845,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 111912,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 111959,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 113009,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 113064,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 113153,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 113892,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 113956,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 113988,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 114647,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 115180,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 115213,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 115327,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 115416,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 116778,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 116783,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 116966,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 117055,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 117401,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 117794,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 117858,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 117947,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 118394,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 118430,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 118634,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 118992,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 119174,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 119254,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 119310,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 119492,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 120594,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 120630,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 120834,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 121192,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 121350,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 121532,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 122252,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 122498,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 122534,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 122738,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 122936,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 123118,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 123198,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 124378,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 124414,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 124618,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 124976,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 125134,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 125316,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 126129,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 126186,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 126222,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 126426,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 126784,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 127137,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 127194,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 127230,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 127434,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 127676,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 127712,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 127916,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 128145,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 128202,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 128238,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 128442,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 128800,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 129234,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 129270,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 129474,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 129832,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 130014,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 130094,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 130182,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 130378,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 130414,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 130618,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 131178,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 131214,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 131682,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 131700,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 131712,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 131772,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 131824,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 131836,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 131860,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 131884,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 131908,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 131932,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 131944,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 131956,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 132012,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 132030,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 132106,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 132142,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 132704,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 132828,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 132886,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 134508,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 134544,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 134748,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 134832,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 134844,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 134928,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 135100,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 135124,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 135148,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 135172,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 135196,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 135220,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 135234,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 135240,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 135346,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 135382,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 135944,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 136068,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 136126,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 138068,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 138104,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 138308,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 138386,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 138612,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 138636,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 138660,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 138684,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 138708,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 138786,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 138822,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 139026,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 139268,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 139304,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 139508,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 140754,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 140920,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 140932,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 140956,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 140980,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 141004,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 141016,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 141028,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 141138,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 141226,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 141262,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 141466,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 141824,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 142006,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 142086,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 143937,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 143961,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 144114,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 144204,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 144216,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 144234,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 144346,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 144382,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 144784,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 144966,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 145046,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 146097,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 146121,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 146190,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 146281,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 146338,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 146374,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 146578,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 146776,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 146958,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 147038,
+      "signature_hex": "0a"
+    }
+  ],
+  "entropy_256_byte_windows": [
+    {
+      "offset": 0,
+      "length": 256,
+      "entropy": 3.9158
+    },
+    {
+      "offset": 256,
+      "length": 256,
+      "entropy": 3.5491
+    },
+    {
+      "offset": 512,
+      "length": 256,
+      "entropy": 3.2103
+    },
+    {
+      "offset": 768,
+      "length": 256,
+      "entropy": 3.3052
+    },
+    {
+      "offset": 1024,
+      "length": 256,
+      "entropy": 5.747
+    },
+    {
+      "offset": 1280,
+      "length": 256,
+      "entropy": 5.9957
+    },
+    {
+      "offset": 1536,
+      "length": 256,
+      "entropy": 6.0409
+    },
+    {
+      "offset": 1792,
+      "length": 256,
+      "entropy": 6.0229
+    },
+    {
+      "offset": 2048,
+      "length": 256,
+      "entropy": 6.1774
+    },
+    {
+      "offset": 2304,
+      "length": 256,
+      "entropy": 5.8244
+    },
+    {
+      "offset": 2560,
+      "length": 256,
+      "entropy": 3.7597
+    },
+    {
+      "offset": 2816,
+      "length": 256,
+      "entropy": 3.3763
+    },
+    {
+      "offset": 3072,
+      "length": 256,
+      "entropy": 3.1546
+    },
+    {
+      "offset": 3328,
+      "length": 256,
+      "entropy": 4.9649
+    },
+    {
+      "offset": 3584,
+      "length": 256,
+      "entropy": 2.9866
+    },
+    {
+      "offset": 3840,
+      "length": 256,
+      "entropy": 3.0479
+    },
+    {
+      "offset": 4096,
+      "length": 256,
+      "entropy": 3.8229
+    },
+    {
+      "offset": 4352,
+      "length": 256,
+      "entropy": 4.6687
+    },
+    {
+      "offset": 4608,
+      "length": 256,
+      "entropy": 3.2937
+    },
+    {
+      "offset": 4864,
+      "length": 256,
+      "entropy": 2.3486
+    },
+    {
+      "offset": 5120,
+      "length": 256,
+      "entropy": 2.4094
+    },
+    {
+      "offset": 5376,
+      "length": 256,
+      "entropy": 2.6552
+    },
+    {
+      "offset": 5632,
+      "length": 256,
+      "entropy": 5.3814
+    },
+    {
+      "offset": 5888,
+      "length": 256,
+      "entropy": 2.5135
+    },
+    {
+      "offset": 6144,
+      "length": 256,
+      "entropy": 2.6707
+    },
+    {
+      "offset": 6400,
+      "length": 256,
+      "entropy": 2.6038
+    },
+    {
+      "offset": 6656,
+      "length": 256,
+      "entropy": 2.4143
+    },
+    {
+      "offset": 6912,
+      "length": 256,
+      "entropy": 4.57
+    },
+    {
+      "offset": 7168,
+      "length": 256,
+      "entropy": 5.8218
+    },
+    {
+      "offset": 7424,
+      "length": 256,
+      "entropy": 2.2042
+    },
+    {
+      "offset": 7680,
+      "length": 256,
+      "entropy": 2.0165
+    },
+    {
+      "offset": 7936,
+      "length": 256,
+      "entropy": 1.9508
+    },
+    {
+      "offset": 8192,
+      "length": 256,
+      "entropy": 1.9882
+    },
+    {
+      "offset": 8448,
+      "length": 256,
+      "entropy": 2.0031
+    },
+    {
+      "offset": 8704,
+      "length": 256,
+      "entropy": 2.1066
+    },
+    {
+      "offset": 8960,
+      "length": 256,
+      "entropy": 2.2876
+    },
+    {
+      "offset": 9216,
+      "length": 256,
+      "entropy": 1.9619
+    },
+    {
+      "offset": 9472,
+      "length": 256,
+      "entropy": 2.1493
+    },
+    {
+      "offset": 9728,
+      "length": 256,
+      "entropy": 1.8434
+    },
+    {
+      "offset": 9984,
+      "length": 256,
+      "entropy": 2.6973
+    },
+    {
+      "offset": 10240,
+      "length": 256,
+      "entropy": 5.6475
+    },
+    {
+      "offset": 10496,
+      "length": 256,
+      "entropy": 5.9436
+    },
+    {
+      "offset": 10752,
+      "length": 256,
+      "entropy": 4.7845
+    },
+    {
+      "offset": 11008,
+      "length": 256,
+      "entropy": 1.9388
+    },
+    {
+      "offset": 11264,
+      "length": 256,
+      "entropy": 1.9763
+    },
+    {
+      "offset": 11520,
+      "length": 256,
+      "entropy": 1.9774
+    },
+    {
+      "offset": 11776,
+      "length": 256,
+      "entropy": 1.993
+    },
+    {
+      "offset": 12032,
+      "length": 256,
+      "entropy": 1.9395
+    },
+    {
+      "offset": 12288,
+      "length": 256,
+      "entropy": 1.9995
+    },
+    {
+      "offset": 12544,
+      "length": 256,
+      "entropy": 1.9763
+    },
+    {
+      "offset": 12800,
+      "length": 256,
+      "entropy": 1.996
+    },
+    {
+      "offset": 13056,
+      "length": 256,
+      "entropy": 1.9744
+    },
+    {
+      "offset": 13312,
+      "length": 256,
+      "entropy": 1.9395
+    },
+    {
+      "offset": 13568,
+      "length": 256,
+      "entropy": 2.082
+    },
+    {
+      "offset": 13824,
+      "length": 256,
+      "entropy": 2.5998
+    },
+    {
+      "offset": 14080,
+      "length": 256,
+      "entropy": 2.1596
+    },
+    {
+      "offset": 14336,
+      "length": 256,
+      "entropy": 2.0108
+    },
+    {
+      "offset": 14592,
+      "length": 256,
+      "entropy": 2.0457
+    },
+    {
+      "offset": 14848,
+      "length": 256,
+      "entropy": 2.1739
+    },
+    {
+      "offset": 15104,
+      "length": 256,
+      "entropy": 1.9875
+    },
+    {
+      "offset": 15360,
+      "length": 256,
+      "entropy": 2.0538
+    },
+    {
+      "offset": 15616,
+      "length": 256,
+      "entropy": 2.0067
+    },
+    {
+      "offset": 15872,
+      "length": 256,
+      "entropy": 1.9562
+    },
+    {
+      "offset": 16128,
+      "length": 256,
+      "entropy": 2.2652
+    },
+    {
+      "offset": 16384,
+      "length": 256,
+      "entropy": 3.5833
+    },
+    {
+      "offset": 16640,
+      "length": 256,
+      "entropy": 5.6585
+    },
+    {
+      "offset": 16896,
+      "length": 256,
+      "entropy": 5.6991
+    },
+    {
+      "offset": 17152,
+      "length": 256,
+      "entropy": 5.0686
+    },
+    {
+      "offset": 17408,
+      "length": 256,
+      "entropy": 4.4405
+    },
+    {
+      "offset": 17664,
+      "length": 256,
+      "entropy": 1.8786
+    },
+    {
+      "offset": 17920,
+      "length": 256,
+      "entropy": 2.4223
+    },
+    {
+      "offset": 18176,
+      "length": 256,
+      "entropy": 2.1143
+    },
+    {
+      "offset": 18432,
+      "length": 256,
+      "entropy": 1.9608
+    },
+    {
+      "offset": 18688,
+      "length": 256,
+      "entropy": 2.1854
+    },
+    {
+      "offset": 18944,
+      "length": 256,
+      "entropy": 1.9395
+    },
+    {
+      "offset": 19200,
+      "length": 256,
+      "entropy": 2.204
+    },
+    {
+      "offset": 19456,
+      "length": 256,
+      "entropy": 2.6564
+    },
+    {
+      "offset": 19712,
+      "length": 256,
+      "entropy": 2.2465
+    },
+    {
+      "offset": 19968,
+      "length": 256,
+      "entropy": 2.0026
+    },
+    {
+      "offset": 20224,
+      "length": 256,
+      "entropy": 2.4318
+    },
+    {
+      "offset": 20480,
+      "length": 256,
+      "entropy": 2.7843
+    },
+    {
+      "offset": 20736,
+      "length": 256,
+      "entropy": 2.2331
+    },
+    {
+      "offset": 20992,
+      "length": 256,
+      "entropy": 2.236
+    },
+    {
+      "offset": 21248,
+      "length": 256,
+      "entropy": 2.4735
+    },
+    {
+      "offset": 21504,
+      "length": 256,
+      "entropy": 2.4337
+    },
+    {
+      "offset": 21760,
+      "length": 256,
+      "entropy": 2.185
+    },
+    {
+      "offset": 22016,
+      "length": 256,
+      "entropy": 2.8131
+    },
+    {
+      "offset": 22272,
+      "length": 256,
+      "entropy": 2.6742
+    },
+    {
+      "offset": 22528,
+      "length": 256,
+      "entropy": 2.37
+    },
+    {
+      "offset": 22784,
+      "length": 256,
+      "entropy": 2.1684
+    },
+    {
+      "offset": 23040,
+      "length": 256,
+      "entropy": 2.2938
+    },
+    {
+      "offset": 23296,
+      "length": 256,
+      "entropy": 2.5945
+    },
+    {
+      "offset": 23552,
+      "length": 256,
+      "entropy": 2.4838
+    },
+    {
+      "offset": 23808,
+      "length": 256,
+      "entropy": 2.9218
+    },
+    {
+      "offset": 24064,
+      "length": 256,
+      "entropy": 2.4747
+    },
+    {
+      "offset": 24320,
+      "length": 256,
+      "entropy": 2.8523
+    },
+    {
+      "offset": 24576,
+      "length": 256,
+      "entropy": 2.2412
+    },
+    {
+      "offset": 24832,
+      "length": 256,
+      "entropy": 2.4391
+    },
+    {
+      "offset": 25088,
+      "length": 256,
+      "entropy": 2.2826
+    },
+    {
+      "offset": 25344,
+      "length": 256,
+      "entropy": 4.534
+    },
+    {
+      "offset": 25600,
+      "length": 256,
+      "entropy": 4.3751
+    },
+    {
+      "offset": 25856,
+      "length": 256,
+      "entropy": 2.4921
+    },
+    {
+      "offset": 26112,
+      "length": 256,
+      "entropy": 2.5661
+    },
+    {
+      "offset": 26368,
+      "length": 256,
+      "entropy": 2.3361
+    },
+    {
+      "offset": 26624,
+      "length": 256,
+      "entropy": 2.1876
+    },
+    {
+      "offset": 26880,
+      "length": 256,
+      "entropy": 2.2048
+    },
+    {
+      "offset": 27136,
+      "length": 256,
+      "entropy": 2.6806
+    },
+    {
+      "offset": 27392,
+      "length": 256,
+      "entropy": 5.7065
+    },
+    {
+      "offset": 27648,
+      "length": 256,
+      "entropy": 4.0249
+    },
+    {
+      "offset": 27904,
+      "length": 256,
+      "entropy": 1.9421
+    },
+    {
+      "offset": 28160,
+      "length": 256,
+      "entropy": 2.0509
+    },
+    {
+      "offset": 28416,
+      "length": 256,
+      "entropy": 1.6321
+    },
+    {
+      "offset": 28672,
+      "length": 256,
+      "entropy": 1.6264
+    },
+    {
+      "offset": 28928,
+      "length": 256,
+      "entropy": 1.6744
+    },
+    {
+      "offset": 29184,
+      "length": 256,
+      "entropy": 1.6423
+    },
+    {
+      "offset": 29440,
+      "length": 256,
+      "entropy": 1.9397
+    },
+    {
+      "offset": 29696,
+      "length": 256,
+      "entropy": 3.4632
+    },
+    {
+      "offset": 29952,
+      "length": 256,
+      "entropy": 4.938
+    },
+    {
+      "offset": 30208,
+      "length": 256,
+      "entropy": 2.3292
+    },
+    {
+      "offset": 30464,
+      "length": 256,
+      "entropy": 2.4812
+    },
+    {
+      "offset": 30720,
+      "length": 256,
+      "entropy": 2.4466
+    },
+    {
+      "offset": 30976,
+      "length": 256,
+      "entropy": 2.1654
+    },
+    {
+      "offset": 31232,
+      "length": 256,
+      "entropy": 2.9686
+    },
+    {
+      "offset": 31488,
+      "length": 256,
+      "entropy": 5.7674
+    },
+    {
+      "offset": 31744,
+      "length": 256,
+      "entropy": 2.6821
+    },
+    {
+      "offset": 32000,
+      "length": 256,
+      "entropy": 1.8713
+    },
+    {
+      "offset": 32256,
+      "length": 256,
+      "entropy": 2.0121
+    },
+    {
+      "offset": 32512,
+      "length": 256,
+      "entropy": 2.0557
+    },
+    {
+      "offset": 32768,
+      "length": 256,
+      "entropy": 2.0457
+    },
+    {
+      "offset": 33024,
+      "length": 256,
+      "entropy": 2.3022
+    },
+    {
+      "offset": 33280,
+      "length": 256,
+      "entropy": 4.2082
+    },
+    {
+      "offset": 33536,
+      "length": 256,
+      "entropy": 5.3795
+    },
+    {
+      "offset": 33792,
+      "length": 256,
+      "entropy": 2.4543
+    },
+    {
+      "offset": 34048,
+      "length": 256,
+      "entropy": 2.3767
+    },
+    {
+      "offset": 34304,
+      "length": 256,
+      "entropy": 2.2062
+    },
+    {
+      "offset": 34560,
+      "length": 256,
+      "entropy": 2.1351
+    },
+    {
+      "offset": 34816,
+      "length": 256,
+      "entropy": 2.2024
+    },
+    {
+      "offset": 35072,
+      "length": 256,
+      "entropy": 2.1704
+    },
+    {
+      "offset": 35328,
+      "length": 256,
+      "entropy": 2.1509
+    },
+    {
+      "offset": 35584,
+      "length": 256,
+      "entropy": 4.7291
+    },
+    {
+      "offset": 35840,
+      "length": 256,
+      "entropy": 2.9645
+    },
+    {
+      "offset": 36096,
+      "length": 256,
+      "entropy": 1.9298
+    },
+    {
+      "offset": 36352,
+      "length": 256,
+      "entropy": 2.0769
+    },
+    {
+      "offset": 36608,
+      "length": 256,
+      "entropy": 2.2885
+    },
+    {
+      "offset": 36864,
+      "length": 256,
+      "entropy": 5.2882
+    },
+    {
+      "offset": 37120,
+      "length": 256,
+      "entropy": 2.207
+    },
+    {
+      "offset": 37376,
+      "length": 256,
+      "entropy": 2.4577
+    },
+    {
+      "offset": 37632,
+      "length": 256,
+      "entropy": 2.3682
+    },
+    {
+      "offset": 37888,
+      "length": 256,
+      "entropy": 2.4784
+    },
+    {
+      "offset": 38144,
+      "length": 256,
+      "entropy": 4.4625
+    },
+    {
+      "offset": 38400,
+      "length": 256,
+      "entropy": 6.0511
+    },
+    {
+      "offset": 38656,
+      "length": 256,
+      "entropy": 3.3398
+    },
+    {
+      "offset": 38912,
+      "length": 256,
+      "entropy": 3.373
+    },
+    {
+      "offset": 39168,
+      "length": 256,
+      "entropy": 3.3943
+    },
+    {
+      "offset": 39424,
+      "length": 256,
+      "entropy": 3.3564
+    },
+    {
+      "offset": 39680,
+      "length": 256,
+      "entropy": 3.5545
+    },
+    {
+      "offset": 39936,
+      "length": 256,
+      "entropy": 3.4959
+    },
+    {
+      "offset": 40192,
+      "length": 256,
+      "entropy": 3.4468
+    },
+    {
+      "offset": 40448,
+      "length": 256,
+      "entropy": 3.3745
+    },
+    {
+      "offset": 40704,
+      "length": 256,
+      "entropy": 3.4929
+    },
+    {
+      "offset": 40960,
+      "length": 256,
+      "entropy": 3.3705
+    },
+    {
+      "offset": 41216,
+      "length": 256,
+      "entropy": 3.5405
+    },
+    {
+      "offset": 41472,
+      "length": 256,
+      "entropy": 3.435
+    },
+    {
+      "offset": 41728,
+      "length": 256,
+      "entropy": 4.3854
+    },
+    {
+      "offset": 41984,
+      "length": 256,
+      "entropy": 6.0246
+    },
+    {
+      "offset": 42240,
+      "length": 256,
+      "entropy": 3.5413
+    },
+    {
+      "offset": 42496,
+      "length": 256,
+      "entropy": 3.4894
+    },
+    {
+      "offset": 42752,
+      "length": 256,
+      "entropy": 3.3701
+    },
+    {
+      "offset": 43008,
+      "length": 256,
+      "entropy": 3.5042
+    },
+    {
+      "offset": 43264,
+      "length": 256,
+      "entropy": 3.4308
+    },
+    {
+      "offset": 43520,
+      "length": 256,
+      "entropy": 3.4139
+    },
+    {
+      "offset": 43776,
+      "length": 256,
+      "entropy": 3.5578
+    },
+    {
+      "offset": 44032,
+      "length": 256,
+      "entropy": 3.5469
+    },
+    {
+      "offset": 44288,
+      "length": 256,
+      "entropy": 3.5547
+    },
+    {
+      "offset": 44544,
+      "length": 256,
+      "entropy": 3.5234
+    },
+    {
+      "offset": 44800,
+      "length": 256,
+      "entropy": 3.5011
+    },
+    {
+      "offset": 45056,
+      "length": 256,
+      "entropy": 3.4648
+    },
+    {
+      "offset": 45312,
+      "length": 256,
+      "entropy": 3.5388
+    },
+    {
+      "offset": 45568,
+      "length": 256,
+      "entropy": 3.9905
+    },
+    {
+      "offset": 45824,
+      "length": 256,
+      "entropy": 6.0539
+    },
+    {
+      "offset": 46080,
+      "length": 256,
+      "entropy": 5.9269
+    },
+    {
+      "offset": 46336,
+      "length": 256,
+      "entropy": 5.9484
+    },
+    {
+      "offset": 46592,
+      "length": 256,
+      "entropy": 3.0781
+    },
+    {
+      "offset": 46848,
+      "length": 256,
+      "entropy": 3.3468
+    },
+    {
+      "offset": 47104,
+      "length": 256,
+      "entropy": 3.4944
+    },
+    {
+      "offset": 47360,
+      "length": 256,
+      "entropy": 3.3871
+    },
+    {
+      "offset": 47616,
+      "length": 256,
+      "entropy": 3.5389
+    },
+    {
+      "offset": 47872,
+      "length": 256,
+      "entropy": 3.047
+    },
+    {
+      "offset": 48128,
+      "length": 256,
+      "entropy": 3.4441
+    },
+    {
+      "offset": 48384,
+      "length": 256,
+      "entropy": 3.238
+    },
+    {
+      "offset": 48640,
+      "length": 256,
+      "entropy": 3.2074
+    },
+    {
+      "offset": 48896,
+      "length": 256,
+      "entropy": 3.3715
+    },
+    {
+      "offset": 49152,
+      "length": 256,
+      "entropy": 3.2821
+    },
+    {
+      "offset": 49408,
+      "length": 256,
+      "entropy": 3.0205
+    },
+    {
+      "offset": 49664,
+      "length": 256,
+      "entropy": 3.1619
+    },
+    {
+      "offset": 49920,
+      "length": 256,
+      "entropy": 3.1326
+    },
+    {
+      "offset": 50176,
+      "length": 256,
+      "entropy": 3.2334
+    },
+    {
+      "offset": 50432,
+      "length": 256,
+      "entropy": 3.4228
+    },
+    {
+      "offset": 50688,
+      "length": 256,
+      "entropy": 3.2161
+    },
+    {
+      "offset": 50944,
+      "length": 256,
+      "entropy": 3.3183
+    },
+    {
+      "offset": 51200,
+      "length": 256,
+      "entropy": 3.2288
+    },
+    {
+      "offset": 51456,
+      "length": 256,
+      "entropy": 3.3708
+    },
+    {
+      "offset": 51712,
+      "length": 256,
+      "entropy": 3.4296
+    },
+    {
+      "offset": 51968,
+      "length": 256,
+      "entropy": 2.8675
+    },
+    {
+      "offset": 52224,
+      "length": 256,
+      "entropy": 3.1019
+    },
+    {
+      "offset": 52480,
+      "length": 256,
+      "entropy": 3.2786
+    },
+    {
+      "offset": 52736,
+      "length": 256,
+      "entropy": 3.1216
+    },
+    {
+      "offset": 52992,
+      "length": 256,
+      "entropy": 3.2623
+    },
+    {
+      "offset": 53248,
+      "length": 256,
+      "entropy": 3.2278
+    },
+    {
+      "offset": 53504,
+      "length": 256,
+      "entropy": 2.6971
+    },
+    {
+      "offset": 53760,
+      "length": 256,
+      "entropy": 4.296
+    },
+    {
+      "offset": 54016,
+      "length": 256,
+      "entropy": 6.0583
+    },
+    {
+      "offset": 54272,
+      "length": 256,
+      "entropy": 6.0066
+    },
+    {
+      "offset": 54528,
+      "length": 256,
+      "entropy": 4.8994
+    },
+    {
+      "offset": 54784,
+      "length": 256,
+      "entropy": 3.5759
+    },
+    {
+      "offset": 55040,
+      "length": 256,
+      "entropy": 3.4125
+    },
+    {
+      "offset": 55296,
+      "length": 256,
+      "entropy": 3.6548
+    },
+    {
+      "offset": 55552,
+      "length": 256,
+      "entropy": 3.6219
+    },
+    {
+      "offset": 55808,
+      "length": 256,
+      "entropy": 3.3349
+    },
+    {
+      "offset": 56064,
+      "length": 256,
+      "entropy": 2.9348
+    },
+    {
+      "offset": 56320,
+      "length": 256,
+      "entropy": 3.1529
+    },
+    {
+      "offset": 56576,
+      "length": 256,
+      "entropy": 3.1481
+    },
+    {
+      "offset": 56832,
+      "length": 256,
+      "entropy": 3.2393
+    },
+    {
+      "offset": 57088,
+      "length": 256,
+      "entropy": 3.1527
+    },
+    {
+      "offset": 57344,
+      "length": 256,
+      "entropy": 3.0666
+    },
+    {
+      "offset": 57600,
+      "length": 256,
+      "entropy": 3.1074
+    },
+    {
+      "offset": 57856,
+      "length": 256,
+      "entropy": 3.186
+    },
+    {
+      "offset": 58112,
+      "length": 256,
+      "entropy": 3.0574
+    },
+    {
+      "offset": 58368,
+      "length": 256,
+      "entropy": 3.0569
+    },
+    {
+      "offset": 58624,
+      "length": 256,
+      "entropy": 2.9928
+    },
+    {
+      "offset": 58880,
+      "length": 256,
+      "entropy": 3.3026
+    },
+    {
+      "offset": 59136,
+      "length": 256,
+      "entropy": 3.1344
+    },
+    {
+      "offset": 59392,
+      "length": 256,
+      "entropy": 3.548
+    },
+    {
+      "offset": 59648,
+      "length": 256,
+      "entropy": 3.4747
+    },
+    {
+      "offset": 59904,
+      "length": 256,
+      "entropy": 3.1308
+    },
+    {
+      "offset": 60160,
+      "length": 256,
+      "entropy": 2.974
+    },
+    {
+      "offset": 60416,
+      "length": 256,
+      "entropy": 3.0639
+    },
+    {
+      "offset": 60672,
+      "length": 256,
+      "entropy": 2.9999
+    },
+    {
+      "offset": 60928,
+      "length": 256,
+      "entropy": 3.0162
+    },
+    {
+      "offset": 61184,
+      "length": 256,
+      "entropy": 2.7459
+    },
+    {
+      "offset": 61440,
+      "length": 256,
+      "entropy": 2.9358
+    },
+    {
+      "offset": 61696,
+      "length": 256,
+      "entropy": 2.6736
+    },
+    {
+      "offset": 61952,
+      "length": 256,
+      "entropy": 5.5293
+    },
+    {
+      "offset": 62208,
+      "length": 256,
+      "entropy": 6.0175
+    },
+    {
+      "offset": 62464,
+      "length": 256,
+      "entropy": 5.5881
+    },
+    {
+      "offset": 62720,
+      "length": 256,
+      "entropy": 4.1959
+    },
+    {
+      "offset": 62976,
+      "length": 256,
+      "entropy": 3.4122
+    },
+    {
+      "offset": 63232,
+      "length": 256,
+      "entropy": 3.4335
+    },
+    {
+      "offset": 63488,
+      "length": 256,
+      "entropy": 3.5709
+    },
+    {
+      "offset": 63744,
+      "length": 256,
+      "entropy": 3.5384
+    },
+    {
+      "offset": 64000,
+      "length": 256,
+      "entropy": 3.4913
+    },
+    {
+      "offset": 64256,
+      "length": 256,
+      "entropy": 3.5671
+    },
+    {
+      "offset": 64512,
+      "length": 256,
+      "entropy": 3.6817
+    },
+    {
+      "offset": 64768,
+      "length": 256,
+      "entropy": 3.6961
+    },
+    {
+      "offset": 65024,
+      "length": 256,
+      "entropy": 3.6546
+    },
+    {
+      "offset": 65280,
+      "length": 256,
+      "entropy": 3.3515
+    },
+    {
+      "offset": 65536,
+      "length": 256,
+      "entropy": 3.6113
+    },
+    {
+      "offset": 65792,
+      "length": 256,
+      "entropy": 3.0204
+    },
+    {
+      "offset": 66048,
+      "length": 256,
+      "entropy": 2.9706
+    },
+    {
+      "offset": 66304,
+      "length": 256,
+      "entropy": 2.7072
+    },
+    {
+      "offset": 66560,
+      "length": 256,
+      "entropy": 3.3552
+    },
+    {
+      "offset": 66816,
+      "length": 256,
+      "entropy": 3.5564
+    },
+    {
+      "offset": 67072,
+      "length": 256,
+      "entropy": 3.601
+    },
+    {
+      "offset": 67328,
+      "length": 256,
+      "entropy": 3.2377
+    },
+    {
+      "offset": 67584,
+      "length": 256,
+      "entropy": 3.3093
+    },
+    {
+      "offset": 67840,
+      "length": 256,
+      "entropy": 3.2623
+    },
+    {
+      "offset": 68096,
+      "length": 256,
+      "entropy": 3.5144
+    },
+    {
+      "offset": 68352,
+      "length": 256,
+      "entropy": 3.6552
+    },
+    {
+      "offset": 68608,
+      "length": 256,
+      "entropy": 3.5675
+    },
+    {
+      "offset": 68864,
+      "length": 256,
+      "entropy": 3.3083
+    },
+    {
+      "offset": 69120,
+      "length": 256,
+      "entropy": 3.2286
+    },
+    {
+      "offset": 69376,
+      "length": 256,
+      "entropy": 3.5179
+    },
+    {
+      "offset": 69632,
+      "length": 256,
+      "entropy": 3.6043
+    },
+    {
+      "offset": 69888,
+      "length": 256,
+      "entropy": 3.5337
+    },
+    {
+      "offset": 70144,
+      "length": 256,
+      "entropy": 5.9364
+    },
+    {
+      "offset": 70400,
+      "length": 256,
+      "entropy": 6.0066
+    },
+    {
+      "offset": 70656,
+      "length": 256,
+      "entropy": 5.6887
+    },
+    {
+      "offset": 70912,
+      "length": 256,
+      "entropy": 3.1191
+    },
+    {
+      "offset": 71168,
+      "length": 256,
+      "entropy": 3.6451
+    },
+    {
+      "offset": 71424,
+      "length": 256,
+      "entropy": 3.526
+    },
+    {
+      "offset": 71680,
+      "length": 256,
+      "entropy": 3.6396
+    },
+    {
+      "offset": 71936,
+      "length": 256,
+      "entropy": 3.3408
+    },
+    {
+      "offset": 72192,
+      "length": 256,
+      "entropy": 3.2588
+    },
+    {
+      "offset": 72448,
+      "length": 256,
+      "entropy": 3.278
+    },
+    {
+      "offset": 72704,
+      "length": 256,
+      "entropy": 3.3874
+    },
+    {
+      "offset": 72960,
+      "length": 256,
+      "entropy": 3.6172
+    },
+    {
+      "offset": 73216,
+      "length": 256,
+      "entropy": 3.5782
+    },
+    {
+      "offset": 73472,
+      "length": 256,
+      "entropy": 3.2365
+    },
+    {
+      "offset": 73728,
+      "length": 256,
+      "entropy": 3.626
+    },
+    {
+      "offset": 73984,
+      "length": 256,
+      "entropy": 3.1418
+    },
+    {
+      "offset": 74240,
+      "length": 256,
+      "entropy": 2.9888
+    },
+    {
+      "offset": 74496,
+      "length": 256,
+      "entropy": 2.9727
+    },
+    {
+      "offset": 74752,
+      "length": 256,
+      "entropy": 3.3001
+    },
+    {
+      "offset": 75008,
+      "length": 256,
+      "entropy": 3.7446
+    },
+    {
+      "offset": 75264,
+      "length": 256,
+      "entropy": 3.8971
+    },
+    {
+      "offset": 75520,
+      "length": 256,
+      "entropy": 3.6113
+    },
+    {
+      "offset": 75776,
+      "length": 256,
+      "entropy": 3.4361
+    },
+    {
+      "offset": 76032,
+      "length": 256,
+      "entropy": 3.0875
+    },
+    {
+      "offset": 76288,
+      "length": 256,
+      "entropy": 3.3289
+    },
+    {
+      "offset": 76544,
+      "length": 256,
+      "entropy": 3.5339
+    },
+    {
+      "offset": 76800,
+      "length": 256,
+      "entropy": 3.4098
+    },
+    {
+      "offset": 77056,
+      "length": 256,
+      "entropy": 3.3402
+    },
+    {
+      "offset": 77312,
+      "length": 256,
+      "entropy": 3.5942
+    },
+    {
+      "offset": 77568,
+      "length": 256,
+      "entropy": 3.6845
+    },
+    {
+      "offset": 77824,
+      "length": 256,
+      "entropy": 3.8997
+    },
+    {
+      "offset": 78080,
+      "length": 256,
+      "entropy": 3.6068
+    },
+    {
+      "offset": 78336,
+      "length": 256,
+      "entropy": 4.1652
+    },
+    {
+      "offset": 78592,
+      "length": 256,
+      "entropy": 5.8101
+    },
+    {
+      "offset": 78848,
+      "length": 256,
+      "entropy": 6.0581
+    },
+    {
+      "offset": 79104,
+      "length": 256,
+      "entropy": 5.632
+    },
+    {
+      "offset": 79360,
+      "length": 256,
+      "entropy": 2.7334
+    },
+    {
+      "offset": 79616,
+      "length": 256,
+      "entropy": 2.7572
+    },
+    {
+      "offset": 79872,
+      "length": 256,
+      "entropy": 2.942
+    },
+    {
+      "offset": 80128,
+      "length": 256,
+      "entropy": 3.6111
+    },
+    {
+      "offset": 80384,
+      "length": 256,
+      "entropy": 3.3771
+    },
+    {
+      "offset": 80640,
+      "length": 256,
+      "entropy": 3.4275
+    },
+    {
+      "offset": 80896,
+      "length": 256,
+      "entropy": 3.2314
+    },
+    {
+      "offset": 81152,
+      "length": 256,
+      "entropy": 3.1997
+    },
+    {
+      "offset": 81408,
+      "length": 256,
+      "entropy": 3.6481
+    },
+    {
+      "offset": 81664,
+      "length": 256,
+      "entropy": 3.665
+    },
+    {
+      "offset": 81920,
+      "length": 256,
+      "entropy": 3.4077
+    },
+    {
+      "offset": 82176,
+      "length": 256,
+      "entropy": 3.3692
+    },
+    {
+      "offset": 82432,
+      "length": 256,
+      "entropy": 3.3721
+    },
+    {
+      "offset": 82688,
+      "length": 256,
+      "entropy": 3.532
+    },
+    {
+      "offset": 82944,
+      "length": 256,
+      "entropy": 3.5997
+    },
+    {
+      "offset": 83200,
+      "length": 256,
+      "entropy": 3.4979
+    },
+    {
+      "offset": 83456,
+      "length": 256,
+      "entropy": 3.3455
+    },
+    {
+      "offset": 83712,
+      "length": 256,
+      "entropy": 3.4986
+    },
+    {
+      "offset": 83968,
+      "length": 256,
+      "entropy": 3.619
+    },
+    {
+      "offset": 84224,
+      "length": 256,
+      "entropy": 3.4009
+    },
+    {
+      "offset": 84480,
+      "length": 256,
+      "entropy": 3.2954
+    },
+    {
+      "offset": 84736,
+      "length": 256,
+      "entropy": 3.5481
+    },
+    {
+      "offset": 84992,
+      "length": 256,
+      "entropy": 2.8752
+    },
+    {
+      "offset": 85248,
+      "length": 256,
+      "entropy": 3.6271
+    },
+    {
+      "offset": 85504,
+      "length": 256,
+      "entropy": 3.6156
+    },
+    {
+      "offset": 85760,
+      "length": 256,
+      "entropy": 3.6515
+    },
+    {
+      "offset": 86016,
+      "length": 256,
+      "entropy": 3.524
+    },
+    {
+      "offset": 86272,
+      "length": 256,
+      "entropy": 3.4484
+    },
+    {
+      "offset": 86528,
+      "length": 256,
+      "entropy": 4.3161
+    },
+    {
+      "offset": 86784,
+      "length": 256,
+      "entropy": 5.7758
+    },
+    {
+      "offset": 87040,
+      "length": 256,
+      "entropy": 5.6013
+    },
+    {
+      "offset": 87296,
+      "length": 256,
+      "entropy": 5.0594
+    },
+    {
+      "offset": 87552,
+      "length": 256,
+      "entropy": 3.1903
+    },
+    {
+      "offset": 87808,
+      "length": 256,
+      "entropy": 3.2258
+    },
+    {
+      "offset": 88064,
+      "length": 256,
+      "entropy": 3.3436
+    },
+    {
+      "offset": 88320,
+      "length": 256,
+      "entropy": 3.1986
+    },
+    {
+      "offset": 88576,
+      "length": 256,
+      "entropy": 3.1997
+    },
+    {
+      "offset": 88832,
+      "length": 256,
+      "entropy": 3.3109
+    },
+    {
+      "offset": 89088,
+      "length": 256,
+      "entropy": 3.3293
+    },
+    {
+      "offset": 89344,
+      "length": 256,
+      "entropy": 3.2734
+    },
+    {
+      "offset": 89600,
+      "length": 256,
+      "entropy": 3.3017
+    },
+    {
+      "offset": 89856,
+      "length": 256,
+      "entropy": 3.2785
+    },
+    {
+      "offset": 90112,
+      "length": 256,
+      "entropy": 3.7111
+    },
+    {
+      "offset": 90368,
+      "length": 256,
+      "entropy": 3.3993
+    },
+    {
+      "offset": 90624,
+      "length": 256,
+      "entropy": 2.8813
+    },
+    {
+      "offset": 90880,
+      "length": 256,
+      "entropy": 2.9009
+    },
+    {
+      "offset": 91136,
+      "length": 256,
+      "entropy": 3.1645
+    },
+    {
+      "offset": 91392,
+      "length": 256,
+      "entropy": 3.5243
+    },
+    {
+      "offset": 91648,
+      "length": 256,
+      "entropy": 3.718
+    },
+    {
+      "offset": 91904,
+      "length": 256,
+      "entropy": 3.0831
+    },
+    {
+      "offset": 92160,
+      "length": 256,
+      "entropy": 3.1114
+    },
+    {
+      "offset": 92416,
+      "length": 256,
+      "entropy": 3.1817
+    },
+    {
+      "offset": 92672,
+      "length": 256,
+      "entropy": 3.2225
+    },
+    {
+      "offset": 92928,
+      "length": 256,
+      "entropy": 3.2809
+    },
+    {
+      "offset": 93184,
+      "length": 256,
+      "entropy": 2.9966
+    },
+    {
+      "offset": 93440,
+      "length": 256,
+      "entropy": 3.4732
+    },
+    {
+      "offset": 93696,
+      "length": 256,
+      "entropy": 3.8603
+    },
+    {
+      "offset": 93952,
+      "length": 256,
+      "entropy": 3.5379
+    },
+    {
+      "offset": 94208,
+      "length": 256,
+      "entropy": 3.4581
+    },
+    {
+      "offset": 94464,
+      "length": 256,
+      "entropy": 5.0044
+    },
+    {
+      "offset": 94720,
+      "length": 256,
+      "entropy": 6.0569
+    },
+    {
+      "offset": 94976,
+      "length": 256,
+      "entropy": 6.1499
+    },
+    {
+      "offset": 95232,
+      "length": 256,
+      "entropy": 4.4457
+    },
+    {
+      "offset": 95488,
+      "length": 256,
+      "entropy": 3.2171
+    },
+    {
+      "offset": 95744,
+      "length": 256,
+      "entropy": 2.9955
+    },
+    {
+      "offset": 96000,
+      "length": 256,
+      "entropy": 3.1674
+    },
+    {
+      "offset": 96256,
+      "length": 256,
+      "entropy": 3.3172
+    },
+    {
+      "offset": 96512,
+      "length": 256,
+      "entropy": 3.3815
+    },
+    {
+      "offset": 96768,
+      "length": 256,
+      "entropy": 3.6818
+    },
+    {
+      "offset": 97024,
+      "length": 256,
+      "entropy": 3.5348
+    },
+    {
+      "offset": 97280,
+      "length": 256,
+      "entropy": 3.7113
+    },
+    {
+      "offset": 97536,
+      "length": 256,
+      "entropy": 3.5811
+    },
+    {
+      "offset": 97792,
+      "length": 256,
+      "entropy": 3.3848
+    },
+    {
+      "offset": 98048,
+      "length": 256,
+      "entropy": 3.5517
+    },
+    {
+      "offset": 98304,
+      "length": 256,
+      "entropy": 3.5327
+    },
+    {
+      "offset": 98560,
+      "length": 256,
+      "entropy": 3.6371
+    },
+    {
+      "offset": 98816,
+      "length": 256,
+      "entropy": 3.6969
+    },
+    {
+      "offset": 99072,
+      "length": 256,
+      "entropy": 3.2825
+    },
+    {
+      "offset": 99328,
+      "length": 256,
+      "entropy": 3.2
+    },
+    {
+      "offset": 99584,
+      "length": 256,
+      "entropy": 3.5467
+    },
+    {
+      "offset": 99840,
+      "length": 256,
+      "entropy": 3.4342
+    },
+    {
+      "offset": 100096,
+      "length": 256,
+      "entropy": 3.1987
+    },
+    {
+      "offset": 100352,
+      "length": 256,
+      "entropy": 3.201
+    },
+    {
+      "offset": 100608,
+      "length": 256,
+      "entropy": 3.2778
+    },
+    {
+      "offset": 100864,
+      "length": 256,
+      "entropy": 3.5364
+    },
+    {
+      "offset": 101120,
+      "length": 256,
+      "entropy": 3.3695
+    },
+    {
+      "offset": 101376,
+      "length": 256,
+      "entropy": 3.5626
+    },
+    {
+      "offset": 101632,
+      "length": 256,
+      "entropy": 3.4791
+    },
+    {
+      "offset": 101888,
+      "length": 256,
+      "entropy": 2.8544
+    },
+    {
+      "offset": 102144,
+      "length": 256,
+      "entropy": 3.1834
+    },
+    {
+      "offset": 102400,
+      "length": 256,
+      "entropy": 3.3847
+    },
+    {
+      "offset": 102656,
+      "length": 256,
+      "entropy": 5.6329
+    },
+    {
+      "offset": 102912,
+      "length": 256,
+      "entropy": 6.084
+    },
+    {
+      "offset": 103168,
+      "length": 256,
+      "entropy": 6.2298
+    },
+    {
+      "offset": 103424,
+      "length": 256,
+      "entropy": 3.2333
+    },
+    {
+      "offset": 103680,
+      "length": 256,
+      "entropy": 3.2538
+    },
+    {
+      "offset": 103936,
+      "length": 256,
+      "entropy": 3.4264
+    },
+    {
+      "offset": 104192,
+      "length": 256,
+      "entropy": 3.5234
+    },
+    {
+      "offset": 104448,
+      "length": 256,
+      "entropy": 3.4506
+    },
+    {
+      "offset": 104704,
+      "length": 256,
+      "entropy": 3.2925
+    },
+    {
+      "offset": 104960,
+      "length": 256,
+      "entropy": 3.2646
+    },
+    {
+      "offset": 105216,
+      "length": 256,
+      "entropy": 3.3671
+    },
+    {
+      "offset": 105472,
+      "length": 256,
+      "entropy": 3.5217
+    },
+    {
+      "offset": 105728,
+      "length": 256,
+      "entropy": 3.4675
+    },
+    {
+      "offset": 105984,
+      "length": 256,
+      "entropy": 3.566
+    },
+    {
+      "offset": 106240,
+      "length": 256,
+      "entropy": 3.5683
+    },
+    {
+      "offset": 106496,
+      "length": 256,
+      "entropy": 3.3935
+    },
+    {
+      "offset": 106752,
+      "length": 256,
+      "entropy": 3.319
+    },
+    {
+      "offset": 107008,
+      "length": 256,
+      "entropy": 3.4579
+    },
+    {
+      "offset": 107264,
+      "length": 256,
+      "entropy": 3.5007
+    },
+    {
+      "offset": 107520,
+      "length": 256,
+      "entropy": 3.5263
+    },
+    {
+      "offset": 107776,
+      "length": 256,
+      "entropy": 3.5586
+    },
+    {
+      "offset": 108032,
+      "length": 256,
+      "entropy": 3.4737
+    },
+    {
+      "offset": 108288,
+      "length": 256,
+      "entropy": 3.4082
+    },
+    {
+      "offset": 108544,
+      "length": 256,
+      "entropy": 3.438
+    },
+    {
+      "offset": 108800,
+      "length": 256,
+      "entropy": 2.9651
+    },
+    {
+      "offset": 109056,
+      "length": 256,
+      "entropy": 3.3124
+    },
+    {
+      "offset": 109312,
+      "length": 256,
+      "entropy": 3.2795
+    },
+    {
+      "offset": 109568,
+      "length": 256,
+      "entropy": 3.4152
+    },
+    {
+      "offset": 109824,
+      "length": 256,
+      "entropy": 3.3331
+    },
+    {
+      "offset": 110080,
+      "length": 256,
+      "entropy": 3.558
+    },
+    {
+      "offset": 110336,
+      "length": 256,
+      "entropy": 3.3704
+    },
+    {
+      "offset": 110592,
+      "length": 256,
+      "entropy": 4.1977
+    },
+    {
+      "offset": 110848,
+      "length": 256,
+      "entropy": 6.1561
+    },
+    {
+      "offset": 111104,
+      "length": 256,
+      "entropy": 2.9458
+    },
+    {
+      "offset": 111360,
+      "length": 256,
+      "entropy": 3.1942
+    },
+    {
+      "offset": 111616,
+      "length": 256,
+      "entropy": 3.0424
+    },
+    {
+      "offset": 111872,
+      "length": 256,
+      "entropy": 3.2786
+    },
+    {
+      "offset": 112128,
+      "length": 256,
+      "entropy": 3.2087
+    },
+    {
+      "offset": 112384,
+      "length": 256,
+      "entropy": 3.2381
+    },
+    {
+      "offset": 112640,
+      "length": 256,
+      "entropy": 3.2786
+    },
+    {
+      "offset": 112896,
+      "length": 256,
+      "entropy": 3.2645
+    },
+    {
+      "offset": 113152,
+      "length": 256,
+      "entropy": 3.109
+    },
+    {
+      "offset": 113408,
+      "length": 256,
+      "entropy": 3.2307
+    },
+    {
+      "offset": 113664,
+      "length": 256,
+      "entropy": 3.2294
+    },
+    {
+      "offset": 113920,
+      "length": 256,
+      "entropy": 4.2598
+    },
+    {
+      "offset": 114176,
+      "length": 256,
+      "entropy": 5.8238
+    },
+    {
+      "offset": 114432,
+      "length": 256,
+      "entropy": 3.8924
+    },
+    {
+      "offset": 114688,
+      "length": 256,
+      "entropy": 3.3407
+    },
+    {
+      "offset": 114944,
+      "length": 256,
+      "entropy": 3.3856
+    },
+    {
+      "offset": 115200,
+      "length": 256,
+      "entropy": 3.0727
+    },
+    {
+      "offset": 115456,
+      "length": 256,
+      "entropy": 3.4442
+    },
+    {
+      "offset": 115712,
+      "length": 256,
+      "entropy": 3.4142
+    },
+    {
+      "offset": 115968,
+      "length": 256,
+      "entropy": 3.498
+    },
+    {
+      "offset": 116224,
+      "length": 256,
+      "entropy": 3.4185
+    },
+    {
+      "offset": 116480,
+      "length": 256,
+      "entropy": 3.2923
+    },
+    {
+      "offset": 116736,
+      "length": 256,
+      "entropy": 3.424
+    },
+    {
+      "offset": 116992,
+      "length": 256,
+      "entropy": 3.445
+    },
+    {
+      "offset": 117248,
+      "length": 256,
+      "entropy": 3.4394
+    },
+    {
+      "offset": 117504,
+      "length": 256,
+      "entropy": 3.4126
+    },
+    {
+      "offset": 117760,
+      "length": 256,
+      "entropy": 3.1224
+    },
+    {
+      "offset": 118016,
+      "length": 256,
+      "entropy": 4.8979
+    },
+    {
+      "offset": 118272,
+      "length": 256,
+      "entropy": 3.5172
+    },
+    {
+      "offset": 118528,
+      "length": 256,
+      "entropy": 2.3044
+    },
+    {
+      "offset": 118784,
+      "length": 256,
+      "entropy": 2.3719
+    },
+    {
+      "offset": 119040,
+      "length": 256,
+      "entropy": 2.0724
+    },
+    {
+      "offset": 119296,
+      "length": 256,
+      "entropy": 2.2861
+    },
+    {
+      "offset": 119552,
+      "length": 256,
+      "entropy": 2.4325
+    },
+    {
+      "offset": 119808,
+      "length": 256,
+      "entropy": 2.3728
+    },
+    {
+      "offset": 120064,
+      "length": 256,
+      "entropy": 2.4843
+    },
+    {
+      "offset": 120320,
+      "length": 256,
+      "entropy": 4.9191
+    },
+    {
+      "offset": 120576,
+      "length": 256,
+      "entropy": 1.8947
+    },
+    {
+      "offset": 120832,
+      "length": 256,
+      "entropy": 2.0308
+    },
+    {
+      "offset": 121088,
+      "length": 256,
+      "entropy": 1.9679
+    },
+    {
+      "offset": 121344,
+      "length": 256,
+      "entropy": 2.0094
+    },
+    {
+      "offset": 121600,
+      "length": 256,
+      "entropy": 1.9707
+    },
+    {
+      "offset": 121856,
+      "length": 256,
+      "entropy": 1.9556
+    },
+    {
+      "offset": 122112,
+      "length": 256,
+      "entropy": 4.7192
+    },
+    {
+      "offset": 122368,
+      "length": 256,
+      "entropy": 3.6623
+    },
+    {
+      "offset": 122624,
+      "length": 256,
+      "entropy": 2.3989
+    },
+    {
+      "offset": 122880,
+      "length": 256,
+      "entropy": 2.4534
+    },
+    {
+      "offset": 123136,
+      "length": 256,
+      "entropy": 2.4989
+    },
+    {
+      "offset": 123392,
+      "length": 256,
+      "entropy": 2.5252
+    },
+    {
+      "offset": 123648,
+      "length": 256,
+      "entropy": 2.4952
+    },
+    {
+      "offset": 123904,
+      "length": 256,
+      "entropy": 3.4629
+    },
+    {
+      "offset": 124160,
+      "length": 256,
+      "entropy": 4.4431
+    },
+    {
+      "offset": 124416,
+      "length": 256,
+      "entropy": 2.013
+    },
+    {
+      "offset": 124672,
+      "length": 256,
+      "entropy": 2.2825
+    },
+    {
+      "offset": 124928,
+      "length": 256,
+      "entropy": 2.1977
+    },
+    {
+      "offset": 125184,
+      "length": 256,
+      "entropy": 1.9255
+    },
+    {
+      "offset": 125440,
+      "length": 256,
+      "entropy": 2.2562
+    },
+    {
+      "offset": 125696,
+      "length": 256,
+      "entropy": 2.4432
+    },
+    {
+      "offset": 125952,
+      "length": 256,
+      "entropy": 4.4785
+    },
+    {
+      "offset": 126208,
+      "length": 256,
+      "entropy": 2.5568
+    },
+    {
+      "offset": 126464,
+      "length": 256,
+      "entropy": 2.4567
+    },
+    {
+      "offset": 126720,
+      "length": 256,
+      "entropy": 2.4126
+    },
+    {
+      "offset": 126976,
+      "length": 256,
+      "entropy": 4.319
+    },
+    {
+      "offset": 127232,
+      "length": 256,
+      "entropy": 2.3356
+    },
+    {
+      "offset": 127488,
+      "length": 256,
+      "entropy": 2.2566
+    },
+    {
+      "offset": 127744,
+      "length": 256,
+      "entropy": 2.3434
+    },
+    {
+      "offset": 128000,
+      "length": 256,
+      "entropy": 4.2982
+    },
+    {
+      "offset": 128256,
+      "length": 256,
+      "entropy": 2.586
+    },
+    {
+      "offset": 128512,
+      "length": 256,
+      "entropy": 2.5755
+    },
+    {
+      "offset": 128768,
+      "length": 256,
+      "entropy": 3.1112
+    },
+    {
+      "offset": 129024,
+      "length": 256,
+      "entropy": 4.2149
+    },
+    {
+      "offset": 129280,
+      "length": 256,
+      "entropy": 2.2242
+    },
+    {
+      "offset": 129536,
+      "length": 256,
+      "entropy": 2.4301
+    },
+    {
+      "offset": 129792,
+      "length": 256,
+      "entropy": 2.5423
+    },
+    {
+      "offset": 130048,
+      "length": 256,
+      "entropy": 4.3793
+    },
+    {
+      "offset": 130304,
+      "length": 256,
+      "entropy": 1.9834
+    },
+    {
+      "offset": 130560,
+      "length": 256,
+      "entropy": 1.6235
+    },
+    {
+      "offset": 130816,
+      "length": 256,
+      "entropy": 3.2345
+    },
+    {
+      "offset": 131072,
+      "length": 256,
+      "entropy": 2.9288
+    },
+    {
+      "offset": 131328,
+      "length": 256,
+      "entropy": 1.8839
+    },
+    {
+      "offset": 131584,
+      "length": 256,
+      "entropy": 4.928
+    },
+    {
+      "offset": 131840,
+      "length": 256,
+      "entropy": 4.8303
+    },
+    {
+      "offset": 132096,
+      "length": 256,
+      "entropy": 1.8761
+    },
+    {
+      "offset": 132352,
+      "length": 256,
+      "entropy": 1.871
+    },
+    {
+      "offset": 132608,
+      "length": 256,
+      "entropy": 1.822
+    },
+    {
+      "offset": 132864,
+      "length": 256,
+      "entropy": 2.3018
+    },
+    {
+      "offset": 133120,
+      "length": 256,
+      "entropy": 2.5424
+    },
+    {
+      "offset": 133376,
+      "length": 256,
+      "entropy": 2.4097
+    },
+    {
+      "offset": 133632,
+      "length": 256,
+      "entropy": 2.2256
+    },
+    {
+      "offset": 133888,
+      "length": 256,
+      "entropy": 2.0231
+    },
+    {
+      "offset": 134144,
+      "length": 256,
+      "entropy": 2.0138
+    },
+    {
+      "offset": 134400,
+      "length": 256,
+      "entropy": 2.0538
+    },
+    {
+      "offset": 134656,
+      "length": 256,
+      "entropy": 3.9397
+    },
+    {
+      "offset": 134912,
+      "length": 256,
+      "entropy": 5.4189
+    },
+    {
+      "offset": 135168,
+      "length": 256,
+      "entropy": 3.7906
+    },
+    {
+      "offset": 135424,
+      "length": 256,
+      "entropy": 1.8584
+    },
+    {
+      "offset": 135680,
+      "length": 256,
+      "entropy": 1.8646
+    },
+    {
+      "offset": 135936,
+      "length": 256,
+      "entropy": 1.8999
+    },
+    {
+      "offset": 136192,
+      "length": 256,
+      "entropy": 1.7467
+    },
+    {
+      "offset": 136448,
+      "length": 256,
+      "entropy": 1.6503
+    },
+    {
+      "offset": 136704,
+      "length": 256,
+      "entropy": 1.8056
+    },
+    {
+      "offset": 136960,
+      "length": 256,
+      "entropy": 1.9638
+    },
+    {
+      "offset": 137216,
+      "length": 256,
+      "entropy": 2.084
+    },
+    {
+      "offset": 137472,
+      "length": 256,
+      "entropy": 2.1619
+    },
+    {
+      "offset": 137728,
+      "length": 256,
+      "entropy": 2.3519
+    },
+    {
+      "offset": 137984,
+      "length": 256,
+      "entropy": 2.0381
+    },
+    {
+      "offset": 138240,
+      "length": 256,
+      "entropy": 4.2191
+    },
+    {
+      "offset": 138496,
+      "length": 256,
+      "entropy": 5.0344
+    },
+    {
+      "offset": 138752,
+      "length": 256,
+      "entropy": 1.9142
+    },
+    {
+      "offset": 139008,
+      "length": 256,
+      "entropy": 2.1544
+    },
+    {
+      "offset": 139264,
+      "length": 256,
+      "entropy": 2.1769
+    },
+    {
+      "offset": 139520,
+      "length": 256,
+      "entropy": 2.1551
+    },
+    {
+      "offset": 139776,
+      "length": 256,
+      "entropy": 2.5351
+    },
+    {
+      "offset": 140032,
+      "length": 256,
+      "entropy": 2.5905
+    },
+    {
+      "offset": 140288,
+      "length": 256,
+      "entropy": 2.6691
+    },
+    {
+      "offset": 140544,
+      "length": 256,
+      "entropy": 4.1007
+    },
+    {
+      "offset": 140800,
+      "length": 256,
+      "entropy": 4.8352
+    },
+    {
+      "offset": 141056,
+      "length": 256,
+      "entropy": 3.8645
+    },
+    {
+      "offset": 141312,
+      "length": 256,
+      "entropy": 1.9084
+    },
+    {
+      "offset": 141568,
+      "length": 256,
+      "entropy": 2.0411
+    },
+    {
+      "offset": 141824,
+      "length": 256,
+      "entropy": 2.0303
+    },
+    {
+      "offset": 142080,
+      "length": 256,
+      "entropy": 2.2673
+    },
+    {
+      "offset": 142336,
+      "length": 256,
+      "entropy": 2.4224
+    },
+    {
+      "offset": 142592,
+      "length": 256,
+      "entropy": 2.4037
+    },
+    {
+      "offset": 142848,
+      "length": 256,
+      "entropy": 2.2726
+    },
+    {
+      "offset": 143104,
+      "length": 256,
+      "entropy": 2.0751
+    },
+    {
+      "offset": 143360,
+      "length": 256,
+      "entropy": 2.105
+    },
+    {
+      "offset": 143616,
+      "length": 256,
+      "entropy": 2.045
+    },
+    {
+      "offset": 143872,
+      "length": 256,
+      "entropy": 5.3548
+    },
+    {
+      "offset": 144128,
+      "length": 256,
+      "entropy": 4.6223
+    },
+    {
+      "offset": 144384,
+      "length": 256,
+      "entropy": 2.0213
+    },
+    {
+      "offset": 144640,
+      "length": 256,
+      "entropy": 2.0612
+    },
+    {
+      "offset": 144896,
+      "length": 256,
+      "entropy": 1.9768
+    },
+    {
+      "offset": 145152,
+      "length": 256,
+      "entropy": 1.9976
+    },
+    {
+      "offset": 145408,
+      "length": 256,
+      "entropy": 2.0814
+    },
+    {
+      "offset": 145664,
+      "length": 256,
+      "entropy": 2.105
+    },
+    {
+      "offset": 145920,
+      "length": 256,
+      "entropy": 3.761
+    },
+    {
+      "offset": 146176,
+      "length": 256,
+      "entropy": 3.6617
+    },
+    {
+      "offset": 146432,
+      "length": 256,
+      "entropy": 1.8559
+    },
+    {
+      "offset": 146688,
+      "length": 256,
+      "entropy": 2.0656
+    },
+    {
+      "offset": 146944,
+      "length": 140,
+      "entropy": 1.8771
+    }
+  ],
+  "unclaimed_ranges": [
+    {
+      "index": 0,
+      "start": 51,
+      "end": 147084,
+      "size": 147033,
+      "file": "range_0000_0x00000033_0x00023e8c.bin"
+    }
+  ],
+  "coverage": {
+    "source_bytes": 147084,
+    "raw_copy_bytes": 147084,
+    "bytes_in_recognised_mesh_spans": 0,
+    "bytes_in_unclaimed_ranges": 147033,
+    "note": "All source bytes are retained in the .original.rss copy; unclaimed ranges are separately carved."
+  }
+}

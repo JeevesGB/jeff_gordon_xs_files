@@ -1,0 +1,72 @@
+[
+  {
+    "name": "t8start",
+    "offset": 110,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "start/finish"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      110
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t8bann00",
+    "offset": 243,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "pepsifresh00"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      243
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T8wall00",
+    "offset": 381,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "eextrawall-00",
+      "Wallturn00",
+      "Walls007"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      381,
+      458,
+      533
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T8trk00",
+    "offset": 660,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Track1",
+      "Track2",
+      "track3",
+      "track4",
+      "track5",
+      "track6"
+    ],
+    "occurrences": 6,
+    "occurrences_at_offsets": [
+      660,
+      732,
+      804,
+      876,
+      948,
+      1020
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]
