@@ -1,0 +1,304 @@
+[
+  {
+    "name": "T1skrim",
+    "offset": 163,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim 1",
+      "Skrim 2",
+      "Skrim Stars"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      163,
+      236,
+      313
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "newT1",
+    "offset": 446,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Asphalt Glow",
+      "Ramp",
+      "Asphalt",
+      "Track Finish Line"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      446,
+      514,
+      585,
+      666
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "Wall3",
+    "offset": 735,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Walls"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      735
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "clvrcrwd",
+    "offset": 852,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Crowd",
+      "Stands Support"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      852,
+      933
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t1cement",
+    "offset": 1006,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Ground"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1006
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "skybox",
+    "offset": 1138,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Sky Box Window",
+      "Sky Box Wall",
+      "Sky Box Top",
+      "Gate Windows",
+      "Gate Towers",
+      "Gates Bottom",
+      "Radar Top",
+      "Radar Walls",
+      "Radar Dish"
+    ],
+    "occurrences": 9,
+    "occurrences_at_offsets": [
+      1138,
+      1215,
+      1291,
+      2175,
+      2251,
+      2328,
+      3848,
+      3924,
+      3999
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t1light",
+    "offset": 1420,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Light Pole",
+      "Light Glow",
+      "Light Lens"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      1420,
+      1496,
+      1572
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "support",
+    "offset": 1655,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Structure Surface"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1655
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t1ban1",
+    "offset": 1799,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Billboard 1 Surface",
+      "Billboard 2 Surface"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1799,
+      1883
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t1ban2",
+    "offset": 1967,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Billboard 3 Surface",
+      "Billboard 4 Surface"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1967,
+      2051
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t1fnce",
+    "offset": 2398,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Fence"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2398
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t1vidsgn",
+    "offset": 2528,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Sign Face 1",
+      "Sign Face 2",
+      "Sign Face 3"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      2528,
+      2606,
+      2684
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "Baffle",
+    "offset": 2812,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Baffle Front",
+      "Baffle Side"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      2812,
+      2888
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "fingate",
+    "offset": 3017,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Finish Text",
+      "Finish Structure",
+      "Finish Structure 2"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      3017,
+      3099,
+      3183
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t1stripe",
+    "offset": 3254,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Posts"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3254
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "machines",
+    "offset": 3376,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Angled",
+      "Front"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3376,
+      3448
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "portower",
+    "offset": 3642,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Fins",
+      "Tower Sides"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3642,
+      3720
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "grneon",
+    "offset": 4075,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Track Lines"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4075
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]

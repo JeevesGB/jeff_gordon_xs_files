@@ -1,0 +1,7 @@
+RSS texture reference: Baffle
+RSS byte offset: 0x00000afc
+Detection evidence: surface_label_then_texture_identifier
+Associated surface labels: Baffle Front, Baffle Side\n
+No matching pixel/image asset was present in the supplied archive or asset search path.
+This file is a reference record, NOT an image. The RSS stores a texture identifier here;
+the actual bitmap may be a separate game asset or use a proprietary encoding.
