@@ -1,0 +1,256 @@
+[
+  {
+    "name": "T10tk00",
+    "offset": 155,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Track Edge",
+      "Track Center"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      155,
+      233
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T10_Fin",
+    "offset": 307,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Fin Chck",
+      "Material #96",
+      "Fin Line Sign"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      307,
+      385,
+      1252
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T10DOrnt",
+    "offset": 517,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Dis orient"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      517
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T10acc0",
+    "offset": 592,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "D O Acc1",
+      "D O acc2",
+      "D O acc3",
+      "D O acc4",
+      "D O SkyLite edge",
+      "Wall Acc",
+      "Wall ACC 2",
+      "AC 01",
+      "AC 02",
+      "AC 03"
+    ],
+    "occurrences": 10,
+    "occurrences_at_offsets": [
+      592,
+      666,
+      740,
+      814,
+      896,
+      2444,
+      2520,
+      3143,
+      3214,
+      3285
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T10_RAD",
+    "offset": 973,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Radioactive",
+      "Barrier Wall"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      973,
+      1479
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T10_Orng",
+    "offset": 1095,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Orange"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1095
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T10_Crd",
+    "offset": 1173,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "stands crwd",
+      "Crowd"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1173,
+      2591
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T10glass",
+    "offset": 1323,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Glass"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1323
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T10purp",
+    "offset": 1401,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Purple Panl"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1401
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T10arrow",
+    "offset": 1550,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Arrow"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1550
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T10hall",
+    "offset": 1680,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Tunnel Hall Lit",
+      "Tunnel Hall Dark",
+      "Tunnel Ceil Lit",
+      "Tunnel Ceil Dark",
+      "Tunnel Curb Lit",
+      "Tunnel Curb Unlit",
+      "Bld Hall Base"
+    ],
+    "occurrences": 7,
+    "occurrences_at_offsets": [
+      1680,
+      1762,
+      1843,
+      1925,
+      2006,
+      2089,
+      2730
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T10tek2",
+    "offset": 2167,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Tunnel tek 2",
+      "Tunnel Tek 2 b"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      2167,
+      2247
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T10matte",
+    "offset": 2318,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Matte"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2318
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T10Skrim",
+    "offset": 2862,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim 1",
+      "Skrim 2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      2862,
+      2936
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T10Stars",
+    "offset": 3014,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim Stars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3014
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]

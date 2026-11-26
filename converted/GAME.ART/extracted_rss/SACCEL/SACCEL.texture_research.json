@@ -1,0 +1,1530 @@
+{
+  "file": "SACCEL.RSS",
+  "size": 475073,
+  "sha256": "606c0d5d3e5c4b417c53ac29d61e95472a1fd5c58ee109d81a6c18f52f7061fc",
+  "original_copy": "SACCEL.RSS.original",
+  "texture_reference_count": 37,
+  "unique_texture_identifiers": 15,
+  "plausible_atlas_rect_count": 37,
+  "zero_padding_after_rect_count": 37,
+  "texture_identifiers_grouped": [
+    {
+      "identifier": "T10tk00",
+      "occurrences": 2,
+      "surface_labels": [
+        "Track Edge",
+        "Track Center"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.24407958984375
+        ],
+        [
+          0.0,
+          0.2559051513671875,
+          0.5,
+          0.240142822265625
+        ]
+      ]
+    },
+    {
+      "identifier": "T10_Fin",
+      "occurrences": 3,
+      "surface_labels": [
+        "Fin Chck",
+        "Material #96",
+        "Fin Line Sign"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.2598419189453125,
+          0.5,
+          0.2351531982421875
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.240142822265625
+        ],
+        [
+          0.0,
+          0.00787353515625,
+          0.5,
+          0.232269287109375
+        ]
+      ]
+    },
+    {
+      "identifier": "T10DOrnt",
+      "occurrences": 1,
+      "surface_labels": [
+        "Dis orient"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T10acc0",
+      "occurrences": 10,
+      "surface_labels": [
+        "D O Acc1",
+        "D O acc2",
+        "D O acc3",
+        "D O acc4",
+        "D O SkyLite edge",
+        "Wall Acc",
+        "Wall ACC 2",
+        "AC 01",
+        "AC 02",
+        "AC 03"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0901947021484375,
+          0.5,
+          0.1862640380859375
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.2960662841796875
+        ],
+        [
+          0.0,
+          0.1235198974609375,
+          0.5,
+          0.1249847412109375
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.4058685302734375
+        ],
+        [
+          0.1548919677734375,
+          0.1705780029296875,
+          0.1921539306640625,
+          0.025482177734375
+        ],
+        [
+          0.0,
+          0.17254638671875,
+          0.5,
+          0.1294097900390625
+        ],
+        [
+          0.0,
+          0.039215087890625,
+          0.5,
+          0.258819580078125
+        ],
+        [
+          0.0,
+          0.3803863525390625,
+          0.5,
+          0.11248779296875
+        ],
+        [
+          0.0,
+          0.2509765625,
+          0.5,
+          0.11248779296875
+        ],
+        [
+          0.0,
+          0.1122589111328125,
+          0.5,
+          0.11248779296875
+        ]
+      ]
+    },
+    {
+      "identifier": "T10_RAD",
+      "occurrences": 2,
+      "surface_labels": [
+        "Radioactive",
+        "Barrier Wall"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.4291229248046875
+        ],
+        [
+          0.0,
+          0.4409332275390625,
+          0.5,
+          0.059051513671875
+        ]
+      ]
+    },
+    {
+      "identifier": "T10_Orng",
+      "occurrences": 1,
+      "surface_labels": [
+        "Orange"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T10_Crd",
+      "occurrences": 2,
+      "surface_labels": [
+        "stands crwd",
+        "Crowd"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.035430908203125,
+          0.5,
+          0.4645538330078125
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T10glass",
+      "occurrences": 1,
+      "surface_labels": [
+        "Glass"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T10purp",
+      "occurrences": 1,
+      "surface_labels": [
+        "Purple Panl"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T10arrow",
+      "occurrences": 1,
+      "surface_labels": [
+        "Arrow"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T10hall",
+      "occurrences": 7,
+      "surface_labels": [
+        "Tunnel Hall Lit",
+        "Tunnel Hall Dark",
+        "Tunnel Ceil Lit",
+        "Tunnel Ceil Dark",
+        "Tunnel Curb Lit",
+        "Tunnel Curb Unlit",
+        "Bld Hall Base"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.2548980712890625,
+          0.249969482421875,
+          0.245086669921875
+        ],
+        [
+          0.2500152587890625,
+          0.2548980712890625,
+          0.249969482421875,
+          0.245086669921875
+        ],
+        [
+          0.0,
+          0.0,
+          0.249969482421875,
+          0.245086669921875
+        ],
+        [
+          0.2500152587890625,
+          0.0,
+          0.249969482421875,
+          0.245086669921875
+        ],
+        [
+          0.0,
+          0.4764556884765625,
+          0.2500152587890625,
+          0.023529052734375
+        ],
+        [
+          0.2490081787109375,
+          0.4764556884765625,
+          0.2509765625,
+          0.023529052734375
+        ],
+        [
+          0.2490081787109375,
+          0.2862701416015625,
+          0.2509765625,
+          0.213714599609375
+        ]
+      ]
+    },
+    {
+      "identifier": "T10tek2",
+      "occurrences": 2,
+      "surface_labels": [
+        "Tunnel tek 2",
+        "Tunnel Tek 2 b"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.3070831298828125,
+          0.5,
+          0.0472412109375
+        ],
+        [
+          0.0,
+          0.2519683837890625,
+          0.5,
+          0.06298828125
+        ]
+      ]
+    },
+    {
+      "identifier": "T10matte",
+      "occurrences": 1,
+      "surface_labels": [
+        "Matte"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T10Skrim",
+      "occurrences": 2,
+      "surface_labels": [
+        "Skrim 1",
+        "Skrim 2"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0048675537109375,
+          0.5,
+          0.2421112060546875
+        ],
+        [
+          0.0,
+          0.2548980712890625,
+          0.5,
+          0.24407958984375
+        ]
+      ]
+    },
+    {
+      "identifier": "T10Stars",
+      "occurrences": 1,
+      "surface_labels": [
+        "Skrim Stars"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    }
+  ],
+  "texture_references": [
+    {
+      "identifier": "T10tk00",
+      "identifier_offset": 155,
+      "surface_label": "Track Edge",
+      "surface_label_offset": 105,
+      "gap_from_label": 50,
+      "next_string": "|>",
+      "next_string_offset": 175,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        15996
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.24407958984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 7c 3e 00 00 00 00 54 72 61 63 6b 20 43 65 6e 74 65 72 00 ff",
+      "context_start": 89,
+      "context_end": 191,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10tk00",
+      "identifier_offset": 233,
+      "surface_label": "Track Center",
+      "surface_label_offset": 181,
+      "gap_from_label": 52,
+      "next_string": "z=",
+      "next_string_offset": 253,
+      "post_identifier_u32_le": [
+        0,
+        16771,
+        32768,
+        15738
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2559051513671875,
+        0.5,
+        0.240142822265625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 83 41 00 00 00 80 00 00 7a 3d 00 00 00 00 46 69 6e 20 43 68 63 6b 00 ff ff ff ff ff",
+      "context_start": 165,
+      "context_end": 269,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10_Fin",
+      "identifier_offset": 307,
+      "surface_label": "Fin Chck",
+      "surface_label_offset": 259,
+      "gap_from_label": 48,
+      "next_string": "3<",
+      "next_string_offset": 327,
+      "post_identifier_u32_le": [
+        0,
+        17029,
+        32768,
+        15411
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2598419189453125,
+        0.5,
+        0.2351531982421875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 85 42 00 00 00 80 00 00 33 3c 00 00 00 00 4d 61 74 65 72 69 61 6c 20 23 39 36 00 ff",
+      "context_start": 243,
+      "context_end": 343,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10_Fin",
+      "identifier_offset": 385,
+      "surface_label": "Material #96",
+      "surface_label_offset": 333,
+      "gap_from_label": 52,
+      "next_string": "z=",
+      "next_string_offset": 405,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        15738
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.240142822265625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 7a 3d 00 00 00 00 44 69 73 20 4f 72 69 65 6e 74 61 74 6f 72",
+      "context_start": 317,
+      "context_end": 421,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10DOrnt",
+      "identifier_offset": 517,
+      "surface_label": "Dis orient",
+      "surface_label_offset": 467,
+      "gap_from_label": 50,
+      "next_string": "D O Acc1",
+      "next_string_offset": 544,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 44 20 4f 20 41 63 63 31 00 ff ff ff ff ff",
+      "context_start": 451,
+      "context_end": 560,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10acc0",
+      "identifier_offset": 592,
+      "surface_label": "D O Acc1",
+      "surface_label_offset": 544,
+      "gap_from_label": 48,
+      "next_string": "D O acc2",
+      "next_string_offset": 618,
+      "post_identifier_u32_le": [
+        0,
+        5911,
+        32768,
+        12207
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0901947021484375,
+        0.5,
+        0.1862640380859375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 17 17 00 00 00 80 00 00 af 2f 00 00 00 00 44 20 4f 20 61 63 63 32 00 ff ff ff ff ff",
+      "context_start": 528,
+      "context_end": 634,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10acc0",
+      "identifier_offset": 666,
+      "surface_label": "D O acc2",
+      "surface_label_offset": 618,
+      "gap_from_label": 48,
+      "next_string": "D O acc3",
+      "next_string_offset": 692,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        19403
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.2960662841796875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 cb 4b 00 00 00 00 44 20 4f 20 61 63 63 33 00 ff ff ff ff ff",
+      "context_start": 602,
+      "context_end": 708,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10acc0",
+      "identifier_offset": 740,
+      "surface_label": "D O acc3",
+      "surface_label_offset": 692,
+      "gap_from_label": 48,
+      "next_string": "D O acc4",
+      "next_string_offset": 766,
+      "post_identifier_u32_le": [
+        0,
+        8095,
+        32768,
+        8191
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.1235198974609375,
+        0.5,
+        0.1249847412109375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 9f 1f 00 00 00 80 00 00 ff 1f 00 00 00 00 44 20 4f 20 61 63 63 34 00 ff ff ff ff ff",
+      "context_start": 676,
+      "context_end": 782,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10acc0",
+      "identifier_offset": 814,
+      "surface_label": "D O acc4",
+      "surface_label_offset": 766,
+      "gap_from_label": 48,
+      "next_string": "D O SkyLite edge",
+      "next_string_offset": 840,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        26599
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.4058685302734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 e7 67 00 00 00 00 44 20 4f 20 53 6b 79 4c 69 74 65 20 65 64",
+      "context_start": 750,
+      "context_end": 856,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10acc0",
+      "identifier_offset": 896,
+      "surface_label": "D O SkyLite edge",
+      "surface_label_offset": 840,
+      "gap_from_label": 56,
+      "next_string": "11",
+      "next_string_offset": 912,
+      "post_identifier_u32_le": [
+        10151,
+        11179,
+        12593,
+        1670
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.1548919677734375,
+        0.1705780029296875,
+        0.1921539306640625,
+        0.025482177734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "a7 27 00 00 ab 2b 00 00 31 31 00 00 86 06 00 00 00 00 52 61 64 69 6f 61 63 74 69 76 65 00 ff ff",
+      "context_start": 824,
+      "context_end": 928,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10_RAD",
+      "identifier_offset": 973,
+      "surface_label": "Radioactive",
+      "surface_label_offset": 922,
+      "gap_from_label": 51,
+      "next_string": "Not Used",
+      "next_string_offset": 999,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        28123
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.4291229248046875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 db 6d 00 00 00 00 4e 6f 74 20 55 73 65 64 00 ff ff ff ff ff",
+      "context_start": 906,
+      "context_end": 1015,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10_Orng",
+      "identifier_offset": 1095,
+      "surface_label": "Orange",
+      "surface_label_offset": 1049,
+      "gap_from_label": 46,
+      "next_string": "stands crwd",
+      "next_string_offset": 1122,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 73 74 61 6e 64 73 20 63 72 77 64 00 ff ff",
+      "context_start": 1033,
+      "context_end": 1138,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10_Crd",
+      "identifier_offset": 1173,
+      "surface_label": "stands crwd",
+      "surface_label_offset": 1122,
+      "gap_from_label": 51,
+      "next_string": "Fin Line Sign",
+      "next_string_offset": 1199,
+      "post_identifier_u32_le": [
+        0,
+        2322,
+        32768,
+        30445
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.035430908203125,
+        0.5,
+        0.4645538330078125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 12 09 00 00 00 80 00 00 ed 76 00 00 00 00 46 69 6e 20 4c 69 6e 65 20 53 69 67 6e 00",
+      "context_start": 1106,
+      "context_end": 1215,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1113,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T10_Fin",
+      "identifier_offset": 1252,
+      "surface_label": "Fin Line Sign",
+      "surface_label_offset": 1199,
+      "gap_from_label": 53,
+      "next_string": "v;",
+      "next_string_offset": 1272,
+      "post_identifier_u32_le": [
+        0,
+        516,
+        32768,
+        15222
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.00787353515625,
+        0.5,
+        0.232269287109375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 04 02 00 00 00 80 00 00 76 3b 00 00 00 00 47 6c 61 73 73 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 1183,
+      "context_end": 1288,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1168,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1318,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T10glass",
+      "identifier_offset": 1323,
+      "surface_label": "Glass",
+      "surface_label_offset": 1278,
+      "gap_from_label": 45,
+      "next_string": "Purple Panl",
+      "next_string_offset": 1350,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 50 75 72 70 6c 65 20 50 61 6e 6c 00 ff ff",
+      "context_start": 1262,
+      "context_end": 1366,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10purp",
+      "identifier_offset": 1401,
+      "surface_label": "Purple Panl",
+      "surface_label_offset": 1350,
+      "gap_from_label": 51,
+      "next_string": "Barrier Wall",
+      "next_string_offset": 1427,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 42 61 72 72 69 65 72 20 57 61 6c 6c 00 ff",
+      "context_start": 1334,
+      "context_end": 1443,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1341,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T10_RAD",
+      "identifier_offset": 1479,
+      "surface_label": "Barrier Wall",
+      "surface_label_offset": 1427,
+      "gap_from_label": 52,
+      "next_string": "Arrow",
+      "next_string_offset": 1505,
+      "post_identifier_u32_le": [
+        0,
+        28897,
+        32768,
+        3870
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.4409332275390625,
+        0.5,
+        0.059051513671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 e1 70 00 00 00 80 00 00 1e 0f 00 00 00 00 41 72 72 6f 77 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 1411,
+      "context_end": 1521,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10arrow",
+      "identifier_offset": 1550,
+      "surface_label": "Arrow",
+      "surface_label_offset": 1505,
+      "gap_from_label": 45,
+      "next_string": "Tunnel",
+      "next_string_offset": 1577,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 54 75 6e 6e 65 6c 00 ff ff ff ff ff ff e5",
+      "context_start": 1489,
+      "context_end": 1593,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10hall",
+      "identifier_offset": 1680,
+      "surface_label": "Tunnel Hall Lit",
+      "surface_label_offset": 1625,
+      "gap_from_label": 55,
+      "next_string": "AA",
+      "next_string_offset": 1692,
+      "post_identifier_u32_le": [
+        0,
+        16705,
+        16382,
+        16062
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2548980712890625,
+        0.249969482421875,
+        0.245086669921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 41 41 00 00 fe 3f 00 00 be 3e 00 00 00 00 54 75 6e 6e 65 6c 20 48 61 6c 6c 20 44 61",
+      "context_start": 1609,
+      "context_end": 1708,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10hall",
+      "identifier_offset": 1762,
+      "surface_label": "Tunnel Hall Dark",
+      "surface_label_offset": 1706,
+      "gap_from_label": 56,
+      "next_string": "AA",
+      "next_string_offset": 1774,
+      "post_identifier_u32_le": [
+        16385,
+        16705,
+        16382,
+        16062
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2500152587890625,
+        0.2548980712890625,
+        0.249969482421875,
+        0.245086669921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 40 00 00 41 41 00 00 fe 3f 00 00 be 3e 00 00 00 00 54 75 6e 6e 65 6c 20 43 65 69 6c 20 4c 69",
+      "context_start": 1690,
+      "context_end": 1790,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1838,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T10hall",
+      "identifier_offset": 1843,
+      "surface_label": "Tunnel Ceil Lit",
+      "surface_label_offset": 1788,
+      "gap_from_label": 55,
+      "next_string": "Tunnel Ceil Dark",
+      "next_string_offset": 1869,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16382,
+        16062
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.249969482421875,
+        0.245086669921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 fe 3f 00 00 be 3e 00 00 00 00 54 75 6e 6e 65 6c 20 43 65 69 6c 20 44 61",
+      "context_start": 1772,
+      "context_end": 1885,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1757,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1769,
+          "u16_le": [
+            256,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T10hall",
+      "identifier_offset": 1925,
+      "surface_label": "Tunnel Ceil Dark",
+      "surface_label_offset": 1869,
+      "gap_from_label": 56,
+      "next_string": "Tunnel Curb Lit",
+      "next_string_offset": 1951,
+      "post_identifier_u32_le": [
+        16385,
+        0,
+        16382,
+        16062
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2500152587890625,
+        0.0,
+        0.249969482421875,
+        0.245086669921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 40 00 00 00 00 00 00 fe 3f 00 00 be 3e 00 00 00 00 54 75 6e 6e 65 6c 20 43 75 72 62 20 4c 69",
+      "context_start": 1853,
+      "context_end": 1967,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2001,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T10hall",
+      "identifier_offset": 2006,
+      "surface_label": "Tunnel Curb Lit",
+      "surface_label_offset": 1951,
+      "gap_from_label": 55,
+      "next_string": "Tunnel Curb Unlit",
+      "next_string_offset": 2032,
+      "post_identifier_u32_le": [
+        0,
+        31225,
+        16385,
+        1542
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.4764556884765625,
+        0.2500152587890625,
+        0.023529052734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 f9 79 00 00 01 40 00 00 06 06 00 00 00 00 54 75 6e 6e 65 6c 20 43 75 72 62 20 55 6e",
+      "context_start": 1935,
+      "context_end": 2048,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1920,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1932,
+          "u16_le": [
+            256,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 2084,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T10hall",
+      "identifier_offset": 2089,
+      "surface_label": "Tunnel Curb Unlit",
+      "surface_label_offset": 2032,
+      "gap_from_label": 57,
+      "next_string": "@@",
+      "next_string_offset": 2105,
+      "post_identifier_u32_le": [
+        16319,
+        31225,
+        16448,
+        1542
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2490081787109375,
+        0.4764556884765625,
+        0.2509765625,
+        0.023529052734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "bf 3f 00 00 f9 79 00 00 40 40 00 00 06 06 00 00 00 00 54 75 6e 6e 65 6c 20 74 65 6b 20 32 00 ff",
+      "context_start": 2016,
+      "context_end": 2121,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2001,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 2021,
+          "u16_le": [
+            256,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T10tek2",
+      "identifier_offset": 2167,
+      "surface_label": "Tunnel tek 2",
+      "surface_label_offset": 2115,
+      "gap_from_label": 52,
+      "next_string": "Tunnel Tek 2 b",
+      "next_string_offset": 2193,
+      "post_identifier_u32_le": [
+        0,
+        20125,
+        32768,
+        3096
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.3070831298828125,
+        0.5,
+        0.0472412109375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 9d 4e 00 00 00 80 00 00 18 0c 00 00 00 00 54 75 6e 6e 65 6c 20 54 65 6b 20 32 20 62",
+      "context_start": 2099,
+      "context_end": 2209,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10tek2",
+      "identifier_offset": 2247,
+      "surface_label": "Tunnel Tek 2 b",
+      "surface_label_offset": 2193,
+      "gap_from_label": 54,
+      "next_string": "Matte",
+      "next_string_offset": 2273,
+      "post_identifier_u32_le": [
+        0,
+        16513,
+        32768,
+        4128
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2519683837890625,
+        0.5,
+        0.06298828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 81 40 00 00 00 80 00 00 20 10 00 00 00 00 4d 61 74 74 65 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 2177,
+      "context_end": 2289,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10matte",
+      "identifier_offset": 2318,
+      "surface_label": "Matte",
+      "surface_label_offset": 2273,
+      "gap_from_label": 45,
+      "next_string": "Walls Etc",
+      "next_string_offset": 2345,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 57 61 6c 6c 73 20 45 74 63 00 ff ff ff ff",
+      "context_start": 2257,
+      "context_end": 2361,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10acc0",
+      "identifier_offset": 2444,
+      "surface_label": "Wall Acc",
+      "surface_label_offset": 2396,
+      "gap_from_label": 48,
+      "next_string": ",,",
+      "next_string_offset": 2456,
+      "post_identifier_u32_le": [
+        0,
+        11308,
+        32768,
+        8481
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.17254638671875,
+        0.5,
+        0.1294097900390625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 2c 2c 00 00 00 80 00 00 21 21 00 00 00 00 57 61 6c 6c 20 41 43 43 20 32 00 ff ff ff",
+      "context_start": 2380,
+      "context_end": 2472,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10acc0",
+      "identifier_offset": 2520,
+      "surface_label": "Wall ACC 2",
+      "surface_label_offset": 2470,
+      "gap_from_label": 50,
+      "next_string": "BB",
+      "next_string_offset": 2540,
+      "post_identifier_u32_le": [
+        0,
+        2570,
+        32768,
+        16962
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.039215087890625,
+        0.5,
+        0.258819580078125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 0a 0a 00 00 00 80 00 00 42 42 00 00 00 00 43 72 6f 77 64 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 2454,
+      "context_end": 2556,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2608,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T10_Crd",
+      "identifier_offset": 2591,
+      "surface_label": "Crowd",
+      "surface_label_offset": 2546,
+      "gap_from_label": 45,
+      "next_string": "Building Materials",
+      "next_string_offset": 2617,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 42 75 69 6c 64 69 6e 67 20 4d 61 74 65 72",
+      "context_start": 2530,
+      "context_end": 2633,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10hall",
+      "identifier_offset": 2730,
+      "surface_label": "Bld Hall Base",
+      "surface_label_offset": 2677,
+      "gap_from_label": 53,
+      "next_string": "II",
+      "next_string_offset": 2742,
+      "post_identifier_u32_le": [
+        16319,
+        18761,
+        16448,
+        14006
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2490081787109375,
+        0.2862701416015625,
+        0.2509765625,
+        0.213714599609375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "bf 3f 00 00 49 49 00 00 40 40 00 00 b6 36 00 00 00 00 54 31 30 20 53 6b 72 69 6d 20 53 75 72 66",
+      "context_start": 2661,
+      "context_end": 2758,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10Skrim",
+      "identifier_offset": 2862,
+      "surface_label": "Skrim 1",
+      "surface_label_offset": 2815,
+      "gap_from_label": 47,
+      "next_string": "Skrim 2",
+      "next_string_offset": 2889,
+      "post_identifier_u32_le": [
+        0,
+        319,
+        32768,
+        15867
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0048675537109375,
+        0.5,
+        0.2421112060546875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 3f 01 00 00 00 80 00 00 fb 3d 00 00 00 00 53 6b 72 69 6d 20 32 00 ff ff ff ff ff ff",
+      "context_start": 2799,
+      "context_end": 2905,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10Skrim",
+      "identifier_offset": 2936,
+      "surface_label": "Skrim 2",
+      "surface_label_offset": 2889,
+      "gap_from_label": 47,
+      "next_string": "AA",
+      "next_string_offset": 2949,
+      "post_identifier_u32_le": [
+        0,
+        16705,
+        32768,
+        15996
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2548980712890625,
+        0.5,
+        0.24407958984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 41 41 00 00 00 80 00 00 7c 3e 00 00 00 00 53 6b 72 69 6d 20 53 74 61 72 73 00 ff ff",
+      "context_start": 2873,
+      "context_end": 2965,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10Stars",
+      "identifier_offset": 3014,
+      "surface_label": "Skrim Stars",
+      "surface_label_offset": 2963,
+      "gap_from_label": 51,
+      "next_string": "AC Round Blding",
+      "next_string_offset": 3041,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 41 43 20 52 6f 75 6e 64 20 42 6c 64 69 6e",
+      "context_start": 2947,
+      "context_end": 3057,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10acc0",
+      "identifier_offset": 3143,
+      "surface_label": "AC 01",
+      "surface_label_offset": 3098,
+      "gap_from_label": 45,
+      "next_string": "aa",
+      "next_string_offset": 3155,
+      "post_identifier_u32_le": [
+        0,
+        24929,
+        32768,
+        7372
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.3803863525390625,
+        0.5,
+        0.11248779296875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 61 61 00 00 00 80 00 00 cc 1c 00 00 00 00 41 43 20 30 32 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 3082,
+      "context_end": 3171,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10acc0",
+      "identifier_offset": 3214,
+      "surface_label": "AC 02",
+      "surface_label_offset": 3169,
+      "gap_from_label": 45,
+      "next_string": "@@",
+      "next_string_offset": 3226,
+      "post_identifier_u32_le": [
+        0,
+        16448,
+        32768,
+        7372
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2509765625,
+        0.5,
+        0.11248779296875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 40 40 00 00 00 80 00 00 cc 1c 00 00 00 00 41 43 20 30 33 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 3153,
+      "context_end": 3242,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T10acc0",
+      "identifier_offset": 3285,
+      "surface_label": "AC 03",
+      "surface_label_offset": 3240,
+      "gap_from_label": 45,
+      "next_string": "dl",
+      "next_string_offset": 3314,
+      "post_identifier_u32_le": [
+        0,
+        7357,
+        32768,
+        7372
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.1122589111328125,
+        0.5,
+        0.11248779296875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 bd 1c 00 00 00 80 00 00 cc 1c 00 00 00 00 50 00 01 64 6c 00 00 6f d9 e8 ff 31 6e f7",
+      "context_start": 3224,
+      "context_end": 3330,
+      "nearby_dimension_candidates": []
+    }
+  ],
+  "verified_decoded_images": [],
+  "zlib_stream_candidates": [],
+  "standard_signature_counts": {
+    "PNG": 0,
+    "JPEG": 19,
+    "BMP": 0,
+    "GIF87a": 0,
+    "GIF89a": 0,
+    "DDS": 0,
+    "PCX": 717
+  },
+  "conclusion": {
+    "verified_images_extracted": 0,
+    "zlib_streams_found": 0,
+    "texture_payload_format": "not established",
+    "note": "References are material/surface identifiers. A zlib stream is not classified as a texture without dimensions, pixel format and successful image reconstruction."
+  }
+}
