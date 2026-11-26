@@ -1,0 +1,4372 @@
+{
+  "file": "SFRITO.RSS",
+  "size": 656550,
+  "sha256": "881b02251b33e15b25344980b678f228876337de339afd42001b172d63b10192",
+  "original_copy": "SFRITO.RSS.original",
+  "texture_reference_count": 112,
+  "unique_texture_identifiers": 30,
+  "plausible_atlas_rect_count": 100,
+  "zero_padding_after_rect_count": 112,
+  "texture_identifiers_grouped": [
+    {
+      "identifier": "T9_Crwd",
+      "occurrences": 17,
+      "surface_labels": [
+        "CrowdT1",
+        "CrowdT2",
+        "CrowdB1",
+        "CrowdB2",
+        "Un used",
+        "Stadium Side",
+        "Gate Windows",
+        "Gate Towers",
+        "Gates Bottom",
+        "Arch Cncrte",
+        "FL Xgird",
+        "Tram Side",
+        "Tram Front",
+        "Tram Bttm",
+        "Tram Pole",
+        "BS BridgeSide",
+        "CorkScrw"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.2490081787109375,
+          0.01763916015625
+        ],
+        [
+          0.2548980712890625,
+          0.0,
+          0.245086669921875,
+          0.0215606689453125
+        ],
+        [
+          0.0,
+          0.023529052734375,
+          0.2470550537109375,
+          0.2235260009765625
+        ],
+        [
+          0.2529296875,
+          0.0196075439453125,
+          0.2470550537109375,
+          0.2254791259765625
+        ],
+        [
+          0.0,
+          0.1250457763671875,
+          0.5,
+          0.37493896484375
+        ],
+        [
+          0.2529296875,
+          0.37841796875,
+          0.188232421875,
+          0.0921478271484375
+        ],
+        [
+          0.12548828125,
+          0.2568511962890625,
+          0.1215667724609375,
+          0.117645263671875
+        ],
+        [
+          0.0,
+          0.2529296875,
+          0.1215667724609375,
+          0.1215667724609375
+        ],
+        [
+          0.1313629150390625,
+          0.2568511962890625,
+          0.119598388671875,
+          0.0352935791015625
+        ],
+        [
+          0.0,
+          0.3803863525390625,
+          0.1215667724609375,
+          0.117645263671875
+        ],
+        [
+          0.12548828125,
+          0.441162109375,
+          0.062744140625,
+          0.0588226318359375
+        ],
+        [
+          0.1843109130859375,
+          0.37646484375,
+          0.062744140625,
+          0.062744140625
+        ],
+        [
+          0.2078399658203125,
+          0.3823394775390625,
+          0.023529052734375,
+          0.0509796142578125
+        ],
+        [
+          0.12744140625,
+          0.37841796875,
+          0.0588226318359375,
+          0.056854248046875
+        ],
+        [
+          0.188232421875,
+          0.441162109375,
+          0.056854248046875,
+          0.0588226318359375
+        ],
+        [
+          0.447052001953125,
+          0.3803863525390625,
+          0.0529327392578125,
+          0.119598388671875
+        ],
+        [
+          0.258819580078125,
+          0.2548980712890625,
+          0.2411651611328125,
+          0.117645263671875
+        ]
+      ]
+    },
+    {
+      "identifier": "T9Walls",
+      "occurrences": 7,
+      "surface_labels": [
+        "Stands Top edge",
+        "Stnds UndrAwnBrte",
+        "Stnds Undr Not lit",
+        "RdWall",
+        "Concrete",
+        "Wl Stone",
+        "Wl rail"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.181976318359375,
+          0.5,
+          0.0624237060546875
+        ],
+        [
+          0.0,
+          0.14959716796875,
+          0.5,
+          0.0904541015625
+        ],
+        [
+          0.0,
+          0.161407470703125,
+          0.074798583984375,
+          0.0602569580078125
+        ],
+        [
+          0.0,
+          0.00787353515625,
+          0.5,
+          0.1102294921875
+        ],
+        [
+          0.0,
+          0.1259765625,
+          0.5,
+          0.1259765625
+        ],
+        [
+          0.0,
+          0.2598419189453125,
+          0.5,
+          0.1102294921875
+        ],
+        [
+          0.0,
+          0.3897552490234375,
+          0.5,
+          0.1102294921875
+        ]
+      ]
+    },
+    {
+      "identifier": "T9_IceWl",
+      "occurrences": 9,
+      "surface_labels": [
+        "RW SnowWal",
+        "RW IceWall",
+        "RW Snw to IceWall",
+        "RW IceFade",
+        "RW Grnd Ice",
+        "VG IceFade",
+        "VG GrndIce",
+        "VG Ice Wall",
+        "VG IceWall1"
+      ],
+      "atlas_rects": [
+        [
+          0.0058746337890625,
+          0.2529296875,
+          0.2411651611328125,
+          0.2470550537109375
+        ],
+        [
+          0.0,
+          0.0,
+          0.2490081787109375,
+          0.245086669921875
+        ],
+        [
+          0.2490081787109375,
+          0.2548980712890625,
+          0.243133544921875,
+          0.245086669921875
+        ],
+        [
+          0.117645263671875,
+          0.0745086669921875,
+          0.1215667724609375,
+          0.119598388671875
+        ],
+        [
+          0.3882293701171875,
+          0.3588104248046875,
+          0.08038330078125,
+          0.0823516845703125
+        ],
+        [
+          0.1156768798828125,
+          0.056854248046875,
+          0.1372528076171875,
+          0.1372528076171875
+        ],
+        [
+          0.11175537109375,
+          0.0588226318359375,
+          0.1215667724609375,
+          0.149017333984375
+        ],
+        [
+          0.2529296875,
+          0.0,
+          0.2470550537109375,
+          0.245086669921875
+        ],
+        [
+          0.0,
+          0.0,
+          0.2568511962890625,
+          0.2470550537109375
+        ]
+      ]
+    },
+    {
+      "identifier": "T9pepone",
+      "occurrences": 5,
+      "surface_labels": [
+        "Billboard 1 Surface",
+        "FinLn Pepsi one",
+        "Finish Sign",
+        "Ice Stalag",
+        "BS IceStlg"
+      ],
+      "atlas_rects": [
+        [
+          0.011810302734375,
+          0.00787353515625,
+          0.4881744384765625,
+          0.3621978759765625
+        ],
+        [
+          0.00787353515625,
+          0.0,
+          0.4881744384765625,
+          0.3748779296875
+        ],
+        [
+          0.0,
+          0.3818817138671875,
+          0.5,
+          0.114166259765625
+        ],
+        [
+          0.0,
+          0.4478759765625,
+          0.5,
+          0.0491180419921875
+        ],
+        [
+          0.0,
+          0.4488067626953125,
+          0.5,
+          0.0472412109375
+        ]
+      ]
+    },
+    {
+      "identifier": "T9711fto",
+      "occurrences": 2,
+      "surface_labels": [
+        "Frito bb",
+        "711 bb"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.2637786865234375,
+          0.5,
+          0.2362060546875
+        ],
+        [
+          0.0,
+          0.00787353515625,
+          0.5,
+          0.2362060546875
+        ]
+      ]
+    },
+    {
+      "identifier": "T9_SnwRk",
+      "occurrences": 11,
+      "surface_labels": [
+        "H snrk1",
+        "H snrk2",
+        "H snrk3",
+        "H IceFade",
+        "H Grnd Snow",
+        "CS IceFade",
+        "CS GrndIce",
+        "CS SnRk3",
+        "CS SnRk2",
+        "CS SnRk1",
+        "Bobsled snow"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.245086669921875,
+          0.245086669921875
+        ],
+        [
+          0.2470550537109375,
+          0.0,
+          0.2529296875,
+          0.245086669921875
+        ],
+        [
+          0.0039215087890625,
+          0.2509765625,
+          0.2411651611328125,
+          0.2490081787109375
+        ],
+        [
+          0.2548980712890625,
+          0.2548980712890625,
+          0.243133544921875,
+          0.243133544921875
+        ],
+        [
+          0.258819580078125,
+          0.2548980712890625,
+          0.23529052734375,
+          0.2411651611328125
+        ],
+        [
+          0.2548980712890625,
+          0.2548980712890625,
+          0.2392120361328125,
+          0.2411651611328125
+        ],
+        [
+          0.2548980712890625,
+          0.2548980712890625,
+          0.243133544921875,
+          0.243133544921875
+        ],
+        [
+          0.0058746337890625,
+          0.2529296875,
+          0.2392120361328125,
+          0.2470550537109375
+        ],
+        [
+          0.2490081787109375,
+          0.0,
+          0.2509765625,
+          0.243133544921875
+        ],
+        [
+          0.0,
+          0.0,
+          0.243133544921875,
+          0.2490081787109375
+        ],
+        [
+          0.260772705078125,
+          0.26861572265625,
+          0.2333221435546875,
+          0.2235260009765625
+        ]
+      ]
+    },
+    {
+      "identifier": "T9_Vill",
+      "occurrences": 15,
+      "surface_labels": [
+        "Vpanel1",
+        "Vpanel2",
+        "Vwal",
+        "Vwind1",
+        "Vwind2",
+        "Vdoor1",
+        "Vpanel3",
+        "Vpanel4",
+        "Vpanel5",
+        "Vwal1",
+        "Vdoor2",
+        "Vwind3",
+        "VcabPan",
+        "VcabDr",
+        "VcabWin"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.122039794921875,
+          0.122039794921875
+        ],
+        [
+          0.0,
+          0.122039794921875,
+          0.11810302734375,
+          0.1259765625
+        ],
+        [
+          0.13385009765625,
+          0.0,
+          0.11810302734375,
+          0.122039794921875
+        ],
+        [
+          0.1259765625,
+          0.122039794921875,
+          0.129913330078125,
+          0.129913330078125
+        ],
+        [
+          0.1259765625,
+          0.1259765625,
+          0.1259765625,
+          0.1259765625
+        ],
+        [
+          0.129913330078125,
+          0.122039794921875,
+          0.11810302734375,
+          0.129913330078125
+        ],
+        [
+          0.1259765625,
+          0.0,
+          0.122039794921875,
+          0.11810302734375
+        ],
+        [
+          0.129913330078125,
+          0.011810302734375,
+          0.114166259765625,
+          0.11810302734375
+        ],
+        [
+          0.129913330078125,
+          0.129913330078125,
+          0.114166259765625,
+          0.1259765625
+        ],
+        [
+          0.0,
+          0.0,
+          0.122039794921875,
+          0.122039794921875
+        ],
+        [
+          0.0,
+          0.129913330078125,
+          0.122039794921875,
+          0.11810302734375
+        ],
+        [
+          0.122039794921875,
+          0.122039794921875,
+          0.129913330078125,
+          0.1259765625
+        ],
+        [
+          0.0,
+          0.2559051513671875,
+          0.2519683837890625,
+          0.24407958984375
+        ],
+        [
+          0.2559051513671875,
+          0.0,
+          0.24407958984375,
+          0.2559051513671875
+        ],
+        [
+          0.2519683837890625,
+          0.2559051513671875,
+          0.248016357421875,
+          0.24407958984375
+        ]
+      ]
+    },
+    {
+      "identifier": "T9Tree0",
+      "occurrences": 2,
+      "surface_labels": [
+        "PineA",
+        "Pine C"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.2498321533203125,
+          0.5
+        ],
+        [
+          0.25,
+          0.0,
+          0.25,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T9ArwOrn",
+      "occurrences": 1,
+      "surface_labels": [
+        "Arrows Orange"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T9_Tunnl",
+      "occurrences": 10,
+      "surface_labels": [
+        "Tnwl-u",
+        "TnWl-L",
+        "TnLt",
+        "TnCiel",
+        "Tn wl 2",
+        "CS Tnwl-u",
+        "CS TnWl-L",
+        "CS TnLt",
+        "CS TnCiel",
+        "CS Tn wl 2"
+      ],
+      "atlas_rects": [
+        [
+          0.2598419189453125,
+          0.2519683837890625,
+          0.240142822265625,
+          0.248016357421875
+        ],
+        [
+          0.0,
+          0.2519683837890625,
+          0.2559051513671875,
+          0.248016357421875
+        ],
+        [
+          0.0,
+          0.0,
+          0.2519683837890625,
+          0.137786865234375
+        ],
+        [
+          0.0,
+          0.137786865234375,
+          0.248016357421875,
+          0.106292724609375
+        ],
+        [
+          0.2637786865234375,
+          0.0,
+          0.2362060546875,
+          0.24407958984375
+        ],
+        [
+          0.2598419189453125,
+          0.2559051513671875,
+          0.240142822265625,
+          0.24407958984375
+        ],
+        [
+          0.0,
+          0.2559051513671875,
+          0.2519683837890625,
+          0.24407958984375
+        ],
+        [
+          0.0,
+          0.0,
+          0.248016357421875,
+          0.1259765625
+        ],
+        [
+          0.0,
+          0.1318817138671875,
+          0.2598419189453125,
+          0.1161346435546875
+        ],
+        [
+          0.2559051513671875,
+          0.0,
+          0.24407958984375,
+          0.2519683837890625
+        ]
+      ]
+    },
+    {
+      "identifier": "T9TreBck",
+      "occurrences": 1,
+      "surface_labels": [
+        "CSTree BckGrnd"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.011810302734375,
+          0.5,
+          0.4881744384765625
+        ]
+      ]
+    },
+    {
+      "identifier": "T9_IceCr",
+      "occurrences": 7,
+      "surface_labels": [
+        "CT Ground Ice",
+        "CT Iw1",
+        "CT IW 2",
+        "Frozen Yeti",
+        "CT IcWl Crop",
+        "CT icewl-3",
+        "Cryst Ground"
+      ],
+      "atlas_rects": [
+        [
+          0.258819580078125,
+          0.2568511962890625,
+          0.2392120361328125,
+          0.2411651611328125
+        ],
+        [
+          0.2490081787109375,
+          0.001953125,
+          0.2509765625,
+          0.243133544921875
+        ],
+        [
+          0.2529296875,
+          0.001953125,
+          0.2470550537109375,
+          0.245086669921875
+        ],
+        [
+          0.0,
+          0.2548980712890625,
+          0.2470550537109375,
+          0.245086669921875
+        ],
+        [
+          0.2509765625,
+          0.001953125,
+          0.2490081787109375,
+          0.180389404296875
+        ],
+        [
+          0.0,
+          0.001953125,
+          0.2470550537109375,
+          0.245086669921875
+        ],
+        [
+          0.2548980712890625,
+          0.2548980712890625,
+          0.2411651611328125,
+          0.243133544921875
+        ]
+      ]
+    },
+    {
+      "identifier": "T9trk",
+      "occurrences": 2,
+      "surface_labels": [
+        "Track Edge",
+        "Track Center"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.012298583984375,
+          0.4969940185546875,
+          0.2248382568359375
+        ],
+        [
+          0.0,
+          0.2677154541015625,
+          0.5,
+          0.224395751953125
+        ]
+      ]
+    },
+    {
+      "identifier": "T9Trkns",
+      "occurrences": 2,
+      "surface_labels": [
+        "Trk no Snow Edge",
+        "Trak no snow center"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.2449951171875
+        ],
+        [
+          0.0,
+          0.2637786865234375,
+          0.5,
+          0.232269287109375
+        ]
+      ]
+    },
+    {
+      "identifier": "T9tktrn",
+      "occurrences": 2,
+      "surface_labels": [
+        "TrackTransC",
+        "Track Trans E"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.2716522216796875,
+          0.5,
+          0.220458984375
+        ],
+        [
+          0.011810302734375,
+          0.019683837890625,
+          0.4842376708984375,
+          0.216522216796875
+        ]
+      ]
+    },
+    {
+      "identifier": "T9TrkSF",
+      "occurrences": 2,
+      "surface_labels": [
+        "TrakSF edge",
+        "Trak SF center"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.00787353515625,
+          0.5,
+          0.2362060546875
+        ],
+        [
+          0.0,
+          0.2637786865234375,
+          0.5,
+          0.22833251953125
+        ]
+      ]
+    },
+    {
+      "identifier": "T9Cry-1",
+      "occurrences": 2,
+      "surface_labels": [
+        "Cry-1 Blue",
+        "Cry-1 Pink"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.25,
+          0.5
+        ],
+        [
+          0.25006103515625,
+          0.0,
+          0.2499237060546875,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T9Skrim",
+      "occurrences": 2,
+      "surface_labels": [
+        "Skrim 1",
+        "Skrim 2"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0048675537109375,
+          0.5,
+          0.2421112060546875
+        ],
+        [
+          0.0,
+          0.2548980712890625,
+          0.5,
+          0.24407958984375
+        ]
+      ]
+    },
+    {
+      "identifier": "T9Stars",
+      "occurrences": 1,
+      "surface_labels": [
+        "Skrim Stars"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "aci.",
+      "occurrences": 1,
+      "surface_labels": [
+        "INP."
+      ],
+      "atlas_rects": []
+    },
+    {
+      "identifier": "PQV-",
+      "occurrences": 1,
+      "surface_labels": [
+        "egm/"
+      ],
+      "atlas_rects": []
+    },
+    {
+      "identifier": "PQV.",
+      "occurrences": 1,
+      "surface_labels": [
+        "UTZ."
+      ],
+      "atlas_rects": []
+    },
+    {
+      "identifier": "rvzE",
+      "occurrences": 1,
+      "surface_labels": [
+        ".,*D"
+      ],
+      "atlas_rects": []
+    },
+    {
+      "identifier": "JIOw",
+      "occurrences": 1,
+      "surface_labels": [
+        "jirx"
+      ],
+      "atlas_rects": []
+    },
+    {
+      "identifier": "Q_f1",
+      "occurrences": 1,
+      "surface_labels": [
+        "Q_f2"
+      ],
+      "atlas_rects": []
+    },
+    {
+      "identifier": "Q_f2",
+      "occurrences": 2,
+      "surface_labels": [
+        "Q_f3",
+        "7>c("
+      ],
+      "atlas_rects": []
+    },
+    {
+      "identifier": "Vac3",
+      "occurrences": 1,
+      "surface_labels": [
+        "Vac4"
+      ],
+      "atlas_rects": []
+    },
+    {
+      "identifier": "Vac4",
+      "occurrences": 1,
+      "surface_labels": [
+        "Vac5"
+      ],
+      "atlas_rects": []
+    },
+    {
+      "identifier": "Q_f0",
+      "occurrences": 1,
+      "surface_labels": [
+        "Q_f#"
+      ],
+      "atlas_rects": []
+    },
+    {
+      "identifier": "Vhouse3",
+      "occurrences": 1,
+      "surface_labels": [
+        "@No1"
+      ],
+      "atlas_rects": []
+    }
+  ],
+  "texture_references": [
+    {
+      "identifier": "T9_Crwd",
+      "identifier_offset": 153,
+      "surface_label": "CrowdT1",
+      "surface_label_offset": 106,
+      "gap_from_label": 47,
+      "next_string": "CrowdT2",
+      "next_string_offset": 179,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16319,
+        1156
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.2490081787109375,
+        0.01763916015625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 bf 3f 00 00 84 04 00 00 00 00 43 72 6f 77 64 54 32 00 ff ff ff ff ff ff",
+      "context_start": 90,
+      "context_end": 195,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 221,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9_Crwd",
+      "identifier_offset": 226,
+      "surface_label": "CrowdT2",
+      "surface_label_offset": 179,
+      "gap_from_label": 47,
+      "next_string": "AA",
+      "next_string_offset": 234,
+      "post_identifier_u32_le": [
+        16705,
+        0,
+        16062,
+        1413
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2548980712890625,
+        0.0,
+        0.245086669921875,
+        0.0215606689453125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "41 41 00 00 00 00 00 00 be 3e 00 00 85 05 00 00 00 00 43 72 6f 77 64 42 31 00 ff ff ff ff ff ff",
+      "context_start": 163,
+      "context_end": 250,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 148,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 294,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9_Crwd",
+      "identifier_offset": 299,
+      "surface_label": "CrowdB1",
+      "surface_label_offset": 252,
+      "gap_from_label": 47,
+      "next_string": "??",
+      "next_string_offset": 315,
+      "post_identifier_u32_le": [
+        0,
+        1542,
+        16191,
+        14649
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.023529052734375,
+        0.2470550537109375,
+        0.2235260009765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 06 06 00 00 3f 3f 00 00 39 39 00 00 00 00 43 72 6f 77 64 42 32 00 ff ff ff ff ff ff",
+      "context_start": 236,
+      "context_end": 331,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 221,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 367,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9_Crwd",
+      "identifier_offset": 372,
+      "surface_label": "CrowdB2",
+      "surface_label_offset": 325,
+      "gap_from_label": 47,
+      "next_string": "??",
+      "next_string_offset": 388,
+      "post_identifier_u32_le": [
+        16576,
+        1285,
+        16191,
+        14777
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2529296875,
+        0.0196075439453125,
+        0.2470550537109375,
+        0.2254791259765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c0 40 00 00 05 05 00 00 3f 3f 00 00 b9 39 00 00 00 00 55 6e 20 75 73 65 64 00 ff ff ff ff ff ff",
+      "context_start": 309,
+      "context_end": 404,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 294,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 440,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9_Crwd",
+      "identifier_offset": 445,
+      "surface_label": "Un used",
+      "surface_label_offset": 398,
+      "gap_from_label": 47,
+      "next_string": "Stands Top edge",
+      "next_string_offset": 471,
+      "post_identifier_u32_le": [
+        0,
+        8195,
+        32768,
+        24572
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.1250457763671875,
+        0.5,
+        0.37493896484375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 03 20 00 00 00 80 00 00 fc 5f 00 00 00 00 53 74 61 6e 64 73 20 54 6f 70 20 65 64 67",
+      "context_start": 382,
+      "context_end": 487,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 367,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 521,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9Walls",
+      "identifier_offset": 526,
+      "surface_label": "Stands Top edge",
+      "surface_label_offset": 471,
+      "gap_from_label": 55,
+      "next_string": "Stadium Side",
+      "next_string_offset": 552,
+      "post_identifier_u32_le": [
+        0,
+        11926,
+        32768,
+        4091
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.181976318359375,
+        0.5,
+        0.0624237060546875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 96 2e 00 00 00 80 00 00 fb 0f 00 00 00 00 53 74 61 64 69 75 6d 20 53 69 64 65 00 ff",
+      "context_start": 455,
+      "context_end": 568,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 440,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9_Crwd",
+      "identifier_offset": 604,
+      "surface_label": "Stadium Side",
+      "surface_label_offset": 552,
+      "gap_from_label": 52,
+      "next_string": "00",
+      "next_string_offset": 620,
+      "post_identifier_u32_le": [
+        16576,
+        24800,
+        12336,
+        6039
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2529296875,
+        0.37841796875,
+        0.188232421875,
+        0.0921478271484375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c0 40 00 00 e0 60 00 00 30 30 00 00 97 17 00 00 00 00 53 74 6e 64 73 20 55 6e 64 72 41 77 6e 42",
+      "context_start": 536,
+      "context_end": 636,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 682,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9Walls",
+      "identifier_offset": 687,
+      "surface_label": "Stnds UndrAwnBrte",
+      "surface_label_offset": 630,
+      "gap_from_label": 57,
+      "next_string": "L&",
+      "next_string_offset": 699,
+      "post_identifier_u32_le": [
+        0,
+        9804,
+        32768,
+        5928
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.14959716796875,
+        0.5,
+        0.0904541015625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 4c 26 00 00 00 80 00 00 28 17 00 00 00 00 53 74 6e 64 73 20 55 6e 64 72 20 4e 6f 74",
+      "context_start": 614,
+      "context_end": 715,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 599,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9Walls",
+      "identifier_offset": 771,
+      "surface_label": "Stnds Undr Not lit",
+      "surface_label_offset": 713,
+      "gap_from_label": 58,
+      "next_string": "R)",
+      "next_string_offset": 783,
+      "post_identifier_u32_le": [
+        0,
+        10578,
+        4902,
+        3949
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.161407470703125,
+        0.074798583984375,
+        0.0602569580078125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 52 29 00 00 26 13 00 00 6d 0f 00 00 00 00 47 61 74 65 73 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 697,
+      "context_end": 799,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Crwd",
+      "identifier_offset": 896,
+      "surface_label": "Gate Windows",
+      "surface_label_offset": 844,
+      "gap_from_label": 52,
+      "next_string": "  ",
+      "next_string_offset": 904,
+      "post_identifier_u32_le": [
+        8224,
+        16833,
+        7967,
+        7710
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.12548828125,
+        0.2568511962890625,
+        0.1215667724609375,
+        0.117645263671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "20 20 00 00 c1 41 00 00 1f 1f 00 00 1e 1e 00 00 00 00 47 61 74 65 20 54 6f 77 65 72 73 00 ff ff",
+      "context_start": 828,
+      "context_end": 920,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Crwd",
+      "identifier_offset": 973,
+      "surface_label": "Gate Towers",
+      "surface_label_offset": 922,
+      "gap_from_label": 51,
+      "next_string": "Gates Bottom",
+      "next_string_offset": 999,
+      "post_identifier_u32_le": [
+        0,
+        16576,
+        7967,
+        7967
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2529296875,
+        0.1215667724609375,
+        0.1215667724609375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 c0 40 00 00 1f 1f 00 00 1f 1f 00 00 00 00 47 61 74 65 73 20 42 6f 74 74 6f 6d 00 ff",
+      "context_start": 906,
+      "context_end": 1015,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Crwd",
+      "identifier_offset": 1051,
+      "surface_label": "Gates Bottom",
+      "surface_label_offset": 999,
+      "gap_from_label": 52,
+      "next_string": "Rock Wall 01 mat",
+      "next_string_offset": 1077,
+      "post_identifier_u32_le": [
+        8609,
+        16833,
+        7838,
+        2313
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.1313629150390625,
+        0.2568511962890625,
+        0.119598388671875,
+        0.0352935791015625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "a1 21 00 00 c1 41 00 00 9e 1e 00 00 09 09 00 00 00 00 52 6f 63 6b 20 57 61 6c 6c 20 30 31 20 6d",
+      "context_start": 983,
+      "context_end": 1093,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_IceWl",
+      "identifier_offset": 1185,
+      "surface_label": "RW SnowWal",
+      "surface_label_offset": 1135,
+      "gap_from_label": 50,
+      "next_string": "??",
+      "next_string_offset": 1206,
+      "post_identifier_u32_le": [
+        385,
+        16576,
+        15805,
+        16191
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.2529296875,
+        0.2411651611328125,
+        0.2470550537109375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 c0 40 00 00 bd 3d 00 00 3f 3f 00 00 00 00 52 57 20 49 63 65 57 61 6c 6c 00 ff ff ff",
+      "context_start": 1119,
+      "context_end": 1222,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_IceWl",
+      "identifier_offset": 1262,
+      "surface_label": "RW IceWall",
+      "surface_label_offset": 1212,
+      "gap_from_label": 50,
+      "next_string": "RW Snw to IceWall",
+      "next_string_offset": 1289,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16319,
+        16062
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.2490081787109375,
+        0.245086669921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 bf 3f 00 00 be 3e 00 00 00 00 52 57 20 53 6e 77 20 74 6f 20 49 63 65 57",
+      "context_start": 1196,
+      "context_end": 1305,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_IceWl",
+      "identifier_offset": 1346,
+      "surface_label": "RW Snw to IceWall",
+      "surface_label_offset": 1289,
+      "gap_from_label": 57,
+      "next_string": "AA",
+      "next_string_offset": 1359,
+      "post_identifier_u32_le": [
+        16319,
+        16705,
+        15934,
+        16062
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2490081787109375,
+        0.2548980712890625,
+        0.243133544921875,
+        0.245086669921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "bf 3f 00 00 41 41 00 00 3e 3e 00 00 be 3e 00 00 00 00 52 57 20 49 63 65 46 61 64 65 00 ff ff ff",
+      "context_start": 1273,
+      "context_end": 1375,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_IceWl",
+      "identifier_offset": 1423,
+      "surface_label": "RW IceFade",
+      "surface_label_offset": 1373,
+      "gap_from_label": 50,
+      "next_string": "RW Grnd Ice",
+      "next_string_offset": 1450,
+      "post_identifier_u32_le": [
+        7710,
+        4883,
+        7967,
+        7838
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.117645263671875,
+        0.0745086669921875,
+        0.1215667724609375,
+        0.119598388671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "1e 1e 00 00 13 13 00 00 1f 1f 00 00 9e 1e 00 00 00 00 52 57 20 47 72 6e 64 20 49 63 65 00 ff ff",
+      "context_start": 1357,
+      "context_end": 1466,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_IceWl",
+      "identifier_offset": 1501,
+      "surface_label": "RW Grnd Ice",
+      "surface_label_offset": 1450,
+      "gap_from_label": 51,
+      "next_string": "cc",
+      "next_string_offset": 1510,
+      "post_identifier_u32_le": [
+        25443,
+        23515,
+        5268,
+        5397
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.3882293701171875,
+        0.3588104248046875,
+        0.08038330078125,
+        0.0823516845703125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "63 63 00 00 db 5b 00 00 94 14 00 00 15 15 00 00 00 00 42 69 6c 6c 62 6f 61 72 64 20 53 75 72 66",
+      "context_start": 1434,
+      "context_end": 1526,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9pepone",
+      "identifier_offset": 1646,
+      "surface_label": "Billboard 1 Surface",
+      "surface_label_offset": 1587,
+      "gap_from_label": 59,
+      "next_string": "Frito bb",
+      "next_string_offset": 1673,
+      "post_identifier_u32_le": [
+        774,
+        516,
+        31993,
+        23737
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.011810302734375,
+        0.00787353515625,
+        0.4881744384765625,
+        0.3621978759765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "06 03 00 00 04 02 00 00 f9 7c 00 00 b9 5c 00 00 00 00 46 72 69 74 6f 20 62 62 00 ff ff ff ff ff",
+      "context_start": 1571,
+      "context_end": 1689,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9711fto",
+      "identifier_offset": 1721,
+      "surface_label": "Frito bb",
+      "surface_label_offset": 1673,
+      "gap_from_label": 48,
+      "next_string": "x<",
+      "next_string_offset": 1742,
+      "post_identifier_u32_le": [
+        0,
+        17287,
+        32768,
+        15480
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2637786865234375,
+        0.5,
+        0.2362060546875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 87 43 00 00 00 80 00 00 78 3c 00 00 00 00 37 31 31 20 62 62 00 ff ff ff ff ff ff e5",
+      "context_start": 1657,
+      "context_end": 1758,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1641,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9711fto",
+      "identifier_offset": 1794,
+      "surface_label": "711 bb",
+      "surface_label_offset": 1748,
+      "gap_from_label": 46,
+      "next_string": "x<",
+      "next_string_offset": 1815,
+      "post_identifier_u32_le": [
+        0,
+        516,
+        32768,
+        15480
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.00787353515625,
+        0.5,
+        0.2362060546875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 04 02 00 00 00 80 00 00 78 3c 00 00 00 00 41 72 63 68 00 ff ff ff ff ff ff e5 e5 e5",
+      "context_start": 1732,
+      "context_end": 1831,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Crwd",
+      "identifier_offset": 1918,
+      "surface_label": "Arch Cncrte",
+      "surface_label_offset": 1867,
+      "gap_from_label": 51,
+      "next_string": "aa",
+      "next_string_offset": 1930,
+      "post_identifier_u32_le": [
+        0,
+        24929,
+        7967,
+        7710
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.3803863525390625,
+        0.1215667724609375,
+        0.117645263671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 61 61 00 00 1f 1f 00 00 1e 1e 00 00 00 00 48 69 6c 6c 73 2d 53 6e 6f 77 52 6f 63 6b",
+      "context_start": 1851,
+      "context_end": 1946,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_SnwRk",
+      "identifier_offset": 2047,
+      "surface_label": "H snrk1",
+      "surface_label_offset": 2000,
+      "gap_from_label": 47,
+      "next_string": "H snrk2",
+      "next_string_offset": 2074,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16062,
+        16062
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.245086669921875,
+        0.245086669921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 be 3e 00 00 be 3e 00 00 00 00 48 20 73 6e 72 6b 32 00 ff ff ff ff ff ff",
+      "context_start": 1984,
+      "context_end": 2090,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_SnwRk",
+      "identifier_offset": 2121,
+      "surface_label": "H snrk2",
+      "surface_label_offset": 2074,
+      "gap_from_label": 47,
+      "next_string": "??",
+      "next_string_offset": 2130,
+      "post_identifier_u32_le": [
+        16191,
+        0,
+        16576,
+        16062
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2470550537109375,
+        0.0,
+        0.2529296875,
+        0.245086669921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "3f 3f 00 00 00 00 00 00 c0 40 00 00 be 3e 00 00 00 00 48 20 73 6e 72 6b 33 00 ff ff ff ff ff ff",
+      "context_start": 2058,
+      "context_end": 2146,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_SnwRk",
+      "identifier_offset": 2195,
+      "surface_label": "H snrk3",
+      "surface_label_offset": 2148,
+      "gap_from_label": 47,
+      "next_string": "@@",
+      "next_string_offset": 2208,
+      "post_identifier_u32_le": [
+        257,
+        16448,
+        15805,
+        16319
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0039215087890625,
+        0.2509765625,
+        0.2411651611328125,
+        0.2490081787109375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 01 00 00 40 40 00 00 bd 3d 00 00 bf 3f 00 00 00 00 48 20 49 63 65 46 61 64 65 00 ff ff ff ff",
+      "context_start": 2132,
+      "context_end": 2224,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_SnwRk",
+      "identifier_offset": 2271,
+      "surface_label": "H IceFade",
+      "surface_label_offset": 2222,
+      "gap_from_label": 49,
+      "next_string": "AA",
+      "next_string_offset": 2280,
+      "post_identifier_u32_le": [
+        16705,
+        16705,
+        15934,
+        15934
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2548980712890625,
+        0.2548980712890625,
+        0.243133544921875,
+        0.243133544921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "41 41 00 00 41 41 00 00 3e 3e 00 00 3e 3e 00 00 00 00 48 20 47 72 6e 64 20 53 6e 6f 77 00 ff ff",
+      "context_start": 2206,
+      "context_end": 2296,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_SnwRk",
+      "identifier_offset": 2349,
+      "surface_label": "H Grnd Snow",
+      "surface_label_offset": 2298,
+      "gap_from_label": 51,
+      "next_string": "BB",
+      "next_string_offset": 2358,
+      "post_identifier_u32_le": [
+        16962,
+        16705,
+        15420,
+        15805
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.258819580078125,
+        0.2548980712890625,
+        0.23529052734375,
+        0.2411651611328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "42 42 00 00 41 41 00 00 3c 3c 00 00 bd 3d 00 00 00 00 56 69 6c 6c 61 67 65 20 4d 61 74 65 72 69",
+      "context_start": 2282,
+      "context_end": 2374,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Vill",
+      "identifier_offset": 2482,
+      "surface_label": "Vpanel1",
+      "surface_label_offset": 2435,
+      "gap_from_label": 47,
+      "next_string": "Vpanel2",
+      "next_string_offset": 2508,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        7998,
+        7998
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.122039794921875,
+        0.122039794921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 3e 1f 00 00 3e 1f 00 00 00 00 56 70 61 6e 65 6c 32 00 fd fd fd fd fd fd",
+      "context_start": 2419,
+      "context_end": 2524,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Vill",
+      "identifier_offset": 2555,
+      "surface_label": "Vpanel2",
+      "surface_label_offset": 2508,
+      "gap_from_label": 47,
+      "next_string": "@ ",
+      "next_string_offset": 2575,
+      "post_identifier_u32_le": [
+        0,
+        7998,
+        7740,
+        8256
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.122039794921875,
+        0.11810302734375,
+        0.1259765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 3e 1f 00 00 3c 1e 00 00 40 20 00 00 00 00 56 77 61 6c 00 ff ff ff ff ff ff e5 e5 e5",
+      "context_start": 2492,
+      "context_end": 2591,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Vill",
+      "identifier_offset": 2625,
+      "surface_label": "Vwal",
+      "surface_label_offset": 2581,
+      "gap_from_label": 44,
+      "next_string": "D\"",
+      "next_string_offset": 2633,
+      "post_identifier_u32_le": [
+        8772,
+        0,
+        7740,
+        7998
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.13385009765625,
+        0.0,
+        0.11810302734375,
+        0.122039794921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "44 22 00 00 00 00 00 00 3c 1e 00 00 3e 1f 00 00 00 00 56 77 69 6e 64 31 00 ff ff ff ff ff ff e5",
+      "context_start": 2565,
+      "context_end": 2649,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Vill",
+      "identifier_offset": 2697,
+      "surface_label": "Vwind1",
+      "surface_label_offset": 2651,
+      "gap_from_label": 46,
+      "next_string": "@ ",
+      "next_string_offset": 2705,
+      "post_identifier_u32_le": [
+        8256,
+        7998,
+        8514,
+        8514
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.1259765625,
+        0.122039794921875,
+        0.129913330078125,
+        0.129913330078125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "40 20 00 00 3e 1f 00 00 42 21 00 00 42 21 00 00 00 00 56 77 69 6e 64 32 00 ff ff ff ff ff ff e5",
+      "context_start": 2635,
+      "context_end": 2721,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Vill",
+      "identifier_offset": 2769,
+      "surface_label": "Vwind2",
+      "surface_label_offset": 2723,
+      "gap_from_label": 46,
+      "next_string": "@ ",
+      "next_string_offset": 2777,
+      "post_identifier_u32_le": [
+        8256,
+        8256,
+        8256,
+        8256
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.1259765625,
+        0.1259765625,
+        0.1259765625,
+        0.1259765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "40 20 00 00 40 20 00 00 40 20 00 00 40 20 00 00 00 00 56 64 6f 6f 72 31 00 ff ff ff ff ff ff e5",
+      "context_start": 2707,
+      "context_end": 2793,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Vill",
+      "identifier_offset": 2841,
+      "surface_label": "Vdoor1",
+      "surface_label_offset": 2795,
+      "gap_from_label": 46,
+      "next_string": "B!",
+      "next_string_offset": 2849,
+      "post_identifier_u32_le": [
+        8514,
+        7998,
+        7740,
+        8514
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.129913330078125,
+        0.122039794921875,
+        0.11810302734375,
+        0.129913330078125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "42 21 00 00 3e 1f 00 00 3c 1e 00 00 42 21 00 00 00 00 56 73 6e 77 00 fc fc fc fc fc fc e5 e5 e5",
+      "context_start": 2779,
+      "context_end": 2865,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Vill",
+      "identifier_offset": 2984,
+      "surface_label": "Vpanel3",
+      "surface_label_offset": 2937,
+      "gap_from_label": 47,
+      "next_string": "@ ",
+      "next_string_offset": 2992,
+      "post_identifier_u32_le": [
+        8256,
+        0,
+        7998,
+        7740
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.1259765625,
+        0.0,
+        0.122039794921875,
+        0.11810302734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "40 20 00 00 00 00 00 00 3e 1f 00 00 3c 1e 00 00 00 00 56 70 61 6e 65 6c 34 00 ff ff ff ff ff ff",
+      "context_start": 2921,
+      "context_end": 3008,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Vill",
+      "identifier_offset": 3057,
+      "surface_label": "Vpanel4",
+      "surface_label_offset": 3010,
+      "gap_from_label": 47,
+      "next_string": "B!",
+      "next_string_offset": 3065,
+      "post_identifier_u32_le": [
+        8514,
+        774,
+        7482,
+        7740
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.129913330078125,
+        0.011810302734375,
+        0.114166259765625,
+        0.11810302734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "42 21 00 00 06 03 00 00 3a 1d 00 00 3c 1e 00 00 00 00 56 70 61 6e 65 6c 35 00 ff ff ff ff ff ff",
+      "context_start": 2994,
+      "context_end": 3081,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Vill",
+      "identifier_offset": 3130,
+      "surface_label": "Vpanel5",
+      "surface_label_offset": 3083,
+      "gap_from_label": 47,
+      "next_string": "B!",
+      "next_string_offset": 3138,
+      "post_identifier_u32_le": [
+        8514,
+        8514,
+        7482,
+        8256
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.129913330078125,
+        0.129913330078125,
+        0.114166259765625,
+        0.1259765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "42 21 00 00 42 21 00 00 3a 1d 00 00 40 20 00 00 00 00 56 77 61 6c 31 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 3067,
+      "context_end": 3154,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Vill",
+      "identifier_offset": 3201,
+      "surface_label": "Vwal1",
+      "surface_label_offset": 3156,
+      "gap_from_label": 45,
+      "next_string": "Vdoor2",
+      "next_string_offset": 3227,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        7998,
+        7998
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.122039794921875,
+        0.122039794921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 3e 1f 00 00 3e 1f 00 00 00 00 56 64 6f 6f 72 32 00 ff ff ff ff ff ff e5",
+      "context_start": 3140,
+      "context_end": 3243,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Vill",
+      "identifier_offset": 3273,
+      "surface_label": "Vdoor2",
+      "surface_label_offset": 3227,
+      "gap_from_label": 46,
+      "next_string": "B!",
+      "next_string_offset": 3285,
+      "post_identifier_u32_le": [
+        0,
+        8514,
+        7998,
+        7740
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.129913330078125,
+        0.122039794921875,
+        0.11810302734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 42 21 00 00 3e 1f 00 00 3c 1e 00 00 00 00 56 77 69 6e 64 33 00 ff ff ff ff ff ff e5",
+      "context_start": 3211,
+      "context_end": 3301,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Vill",
+      "identifier_offset": 3345,
+      "surface_label": "Vwind3",
+      "surface_label_offset": 3299,
+      "gap_from_label": 46,
+      "next_string": "B!",
+      "next_string_offset": 3361,
+      "post_identifier_u32_le": [
+        7998,
+        7998,
+        8514,
+        8256
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.122039794921875,
+        0.122039794921875,
+        0.129913330078125,
+        0.1259765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "3e 1f 00 00 3e 1f 00 00 42 21 00 00 40 20 00 00 00 00 56 63 61 62 50 61 6e 00 ff ff ff ff ff ff",
+      "context_start": 3283,
+      "context_end": 3377,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Vill",
+      "identifier_offset": 3418,
+      "surface_label": "VcabPan",
+      "surface_label_offset": 3371,
+      "gap_from_label": 47,
+      "next_string": "|>",
+      "next_string_offset": 3438,
+      "post_identifier_u32_le": [
+        0,
+        16771,
+        16513,
+        15996
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2559051513671875,
+        0.2519683837890625,
+        0.24407958984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 83 41 00 00 81 40 00 00 7c 3e 00 00 00 00 56 63 61 62 44 72 00 ff ff ff ff ff ff e5",
+      "context_start": 3355,
+      "context_end": 3454,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Vill",
+      "identifier_offset": 3490,
+      "surface_label": "VcabDr",
+      "surface_label_offset": 3444,
+      "gap_from_label": 46,
+      "next_string": "|>",
+      "next_string_offset": 3506,
+      "post_identifier_u32_le": [
+        16771,
+        0,
+        15996,
+        16771
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2559051513671875,
+        0.0,
+        0.24407958984375,
+        0.2559051513671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "83 41 00 00 00 00 00 00 7c 3e 00 00 83 41 00 00 00 00 56 63 61 62 57 69 6e 00 ff ff ff ff ff ff",
+      "context_start": 3428,
+      "context_end": 3522,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Vill",
+      "identifier_offset": 3563,
+      "surface_label": "VcabWin",
+      "surface_label_offset": 3516,
+      "gap_from_label": 47,
+      "next_string": "~?",
+      "next_string_offset": 3579,
+      "post_identifier_u32_le": [
+        16513,
+        16771,
+        16254,
+        15996
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2519683837890625,
+        0.2559051513671875,
+        0.248016357421875,
+        0.24407958984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 40 00 00 83 41 00 00 7e 3f 00 00 7c 3e 00 00 00 00 56 69 6c 6c 61 67 65 20 47 72 6f 75 6e 64",
+      "context_start": 3500,
+      "context_end": 3595,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_IceWl",
+      "identifier_offset": 3695,
+      "surface_label": "VG IceFade",
+      "surface_label_offset": 3645,
+      "gap_from_label": 50,
+      "next_string": "##",
+      "next_string_offset": 3712,
+      "post_identifier_u32_le": [
+        7581,
+        3726,
+        8995,
+        8995
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.1156768798828125,
+        0.056854248046875,
+        0.1372528076171875,
+        0.1372528076171875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "9d 1d 00 00 8e 0e 00 00 23 23 00 00 23 23 00 00 00 00 56 47 20 47 72 6e 64 49 63 65 00 ff ff ff",
+      "context_start": 3629,
+      "context_end": 3728,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_IceWl",
+      "identifier_offset": 3772,
+      "surface_label": "VG GrndIce",
+      "surface_label_offset": 3722,
+      "gap_from_label": 50,
+      "next_string": "&&",
+      "next_string_offset": 3793,
+      "post_identifier_u32_le": [
+        7324,
+        3855,
+        7967,
+        9766
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.11175537109375,
+        0.0588226318359375,
+        0.1215667724609375,
+        0.149017333984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "9c 1c 00 00 0f 0f 00 00 1f 1f 00 00 26 26 00 00 00 00 56 47 20 49 63 65 20 57 61 6c 6c 00 ff ff",
+      "context_start": 3706,
+      "context_end": 3809,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_IceWl",
+      "identifier_offset": 3850,
+      "surface_label": "VG Ice Wall",
+      "surface_label_offset": 3799,
+      "gap_from_label": 51,
+      "next_string": "??",
+      "next_string_offset": 3867,
+      "post_identifier_u32_le": [
+        16576,
+        0,
+        16191,
+        16062
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2529296875,
+        0.0,
+        0.2470550537109375,
+        0.245086669921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c0 40 00 00 00 00 00 00 3f 3f 00 00 be 3e 00 00 00 00 56 47 20 49 63 65 57 61 6c 6c 31 00 ff ff",
+      "context_start": 3783,
+      "context_end": 3883,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_IceWl",
+      "identifier_offset": 3928,
+      "surface_label": "VG IceWall1",
+      "surface_label_offset": 3877,
+      "gap_from_label": 51,
+      "next_string": "??",
+      "next_string_offset": 3949,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16833,
+        16191
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.2568511962890625,
+        0.2470550537109375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 c1 41 00 00 3f 3f 00 00 00 00 50 69 6e 65 54 72 65 65 73 00 ff ff ff ff",
+      "context_start": 3861,
+      "context_end": 3965,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9Tree0",
+      "identifier_offset": 4051,
+      "surface_label": "PineA",
+      "surface_label_offset": 4006,
+      "gap_from_label": 45,
+      "next_string": "Pine C",
+      "next_string_offset": 4077,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16373,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.2498321533203125,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 f5 3f 00 00 00 80 00 00 00 00 50 69 6e 65 20 43 00 ff ff ff ff ff ff e5",
+      "context_start": 3990,
+      "context_end": 4093,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9Tree0",
+      "identifier_offset": 4123,
+      "surface_label": "Pine C",
+      "surface_label_offset": 4077,
+      "gap_from_label": 46,
+      "next_string": "Arrows Orange",
+      "next_string_offset": 4149,
+      "post_identifier_u32_le": [
+        16384,
+        0,
+        16384,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.0,
+        0.25,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 00 00 00 00 00 40 00 00 00 80 00 00 00 00 41 72 72 6f 77 73 20 4f 72 61 6e 67 65 00",
+      "context_start": 4061,
+      "context_end": 4165,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4197,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9ArwOrn",
+      "identifier_offset": 4202,
+      "surface_label": "Arrows Orange",
+      "surface_label_offset": 4149,
+      "gap_from_label": 53,
+      "next_string": "Tunnel",
+      "next_string_offset": 4229,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 54 75 6e 6e 65 6c 00 ff ff ff ff ff ff e5",
+      "context_start": 4133,
+      "context_end": 4245,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4118,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9_Tunnl",
+      "identifier_offset": 4323,
+      "surface_label": "Tnwl-u",
+      "surface_label_offset": 4277,
+      "gap_from_label": 46,
+      "next_string": "z=",
+      "next_string_offset": 4340,
+      "post_identifier_u32_le": [
+        17029,
+        16513,
+        15738,
+        16254
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2598419189453125,
+        0.2519683837890625,
+        0.240142822265625,
+        0.248016357421875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "85 42 00 00 81 40 00 00 7a 3d 00 00 7e 3f 00 00 00 00 54 6e 57 6c 2d 4c 00 ff ff ff ff ff ff e5",
+      "context_start": 4261,
+      "context_end": 4356,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4391,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9_Tunnl",
+      "identifier_offset": 4396,
+      "surface_label": "TnWl-L",
+      "surface_label_offset": 4350,
+      "gap_from_label": 46,
+      "next_string": "~?",
+      "next_string_offset": 4417,
+      "post_identifier_u32_le": [
+        0,
+        16513,
+        16771,
+        16254
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2519683837890625,
+        0.2559051513671875,
+        0.248016357421875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 81 40 00 00 83 41 00 00 7e 3f 00 00 00 00 54 6e 4c 74 00 ff ff ff ff ff ff e5 e5 e5",
+      "context_start": 4334,
+      "context_end": 4433,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4318,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4462,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9_Tunnl",
+      "identifier_offset": 4467,
+      "surface_label": "TnLt",
+      "surface_label_offset": 4423,
+      "gap_from_label": 44,
+      "next_string": "F#",
+      "next_string_offset": 4488,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16513,
+        9030
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.2519683837890625,
+        0.137786865234375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 81 40 00 00 46 23 00 00 00 00 54 6e 43 69 65 6c 00 ff ff ff ff ff ff e5",
+      "context_start": 4407,
+      "context_end": 4504,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4391,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4535,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9_Tunnl",
+      "identifier_offset": 4540,
+      "surface_label": "TnCiel",
+      "surface_label_offset": 4494,
+      "gap_from_label": 46,
+      "next_string": "F#",
+      "next_string_offset": 4553,
+      "post_identifier_u32_le": [
+        0,
+        9030,
+        16254,
+        6966
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.137786865234375,
+        0.248016357421875,
+        0.106292724609375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 46 23 00 00 7e 3f 00 00 36 1b 00 00 00 00 54 6e 20 77 6c 20 32 00 ff ff ff ff ff ff",
+      "context_start": 4478,
+      "context_end": 4569,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4462,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9_Tunnl",
+      "identifier_offset": 4614,
+      "surface_label": "Tn wl 2",
+      "surface_label_offset": 4567,
+      "gap_from_label": 47,
+      "next_string": "x<",
+      "next_string_offset": 4631,
+      "post_identifier_u32_le": [
+        17287,
+        0,
+        15480,
+        15996
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2637786865234375,
+        0.0,
+        0.2362060546875,
+        0.24407958984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "87 43 00 00 00 00 00 00 78 3c 00 00 7c 3e 00 00 00 00 43 6f 72 6b 73 63 72 65 77 20 61 6e 64 20",
+      "context_start": 4551,
+      "context_end": 4647,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_SnwRk",
+      "identifier_offset": 4750,
+      "surface_label": "CS IceFade",
+      "surface_label_offset": 4700,
+      "gap_from_label": 50,
+      "next_string": "AA",
+      "next_string_offset": 4759,
+      "post_identifier_u32_le": [
+        16705,
+        16705,
+        15677,
+        15805
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2548980712890625,
+        0.2548980712890625,
+        0.2392120361328125,
+        0.2411651611328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "41 41 00 00 41 41 00 00 3d 3d 00 00 bd 3d 00 00 00 00 43 53 20 47 72 6e 64 49 63 65 00 ff ff ff",
+      "context_start": 4684,
+      "context_end": 4775,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_SnwRk",
+      "identifier_offset": 4827,
+      "surface_label": "CS GrndIce",
+      "surface_label_offset": 4777,
+      "gap_from_label": 50,
+      "next_string": "AA",
+      "next_string_offset": 4836,
+      "post_identifier_u32_le": [
+        16705,
+        16705,
+        15934,
+        15934
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2548980712890625,
+        0.2548980712890625,
+        0.243133544921875,
+        0.243133544921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "41 41 00 00 41 41 00 00 3e 3e 00 00 3e 3e 00 00 00 00 43 53 54 72 65 65 20 42 63 6b 47 72 6e 64",
+      "context_start": 4761,
+      "context_end": 4852,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9TreBck",
+      "identifier_offset": 4908,
+      "surface_label": "CSTree BckGrnd",
+      "surface_label_offset": 4854,
+      "gap_from_label": 54,
+      "next_string": "CS SnRk3",
+      "next_string_offset": 4935,
+      "post_identifier_u32_le": [
+        0,
+        774,
+        32768,
+        31993
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.011810302734375,
+        0.5,
+        0.4881744384765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 06 03 00 00 00 80 00 00 f9 7c 00 00 00 00 43 53 20 53 6e 52 6b 33 00 ff ff ff ff ff",
+      "context_start": 4838,
+      "context_end": 4951,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_SnwRk",
+      "identifier_offset": 4983,
+      "surface_label": "CS SnRk3",
+      "surface_label_offset": 4935,
+      "gap_from_label": 48,
+      "next_string": "==",
+      "next_string_offset": 5000,
+      "post_identifier_u32_le": [
+        385,
+        16576,
+        15677,
+        16191
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.2529296875,
+        0.2392120361328125,
+        0.2470550537109375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 c0 40 00 00 3d 3d 00 00 3f 3f 00 00 00 00 43 53 20 53 6e 52 6b 32 00 ff ff ff ff ff",
+      "context_start": 4919,
+      "context_end": 5016,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_SnwRk",
+      "identifier_offset": 5058,
+      "surface_label": "CS SnRk2",
+      "surface_label_offset": 5010,
+      "gap_from_label": 48,
+      "next_string": "@@",
+      "next_string_offset": 5075,
+      "post_identifier_u32_le": [
+        16319,
+        0,
+        16448,
+        15934
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2490081787109375,
+        0.0,
+        0.2509765625,
+        0.243133544921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "bf 3f 00 00 00 00 00 00 40 40 00 00 3e 3e 00 00 00 00 43 53 20 53 6e 52 6b 31 00 ff ff ff ff ff",
+      "context_start": 4994,
+      "context_end": 5091,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_SnwRk",
+      "identifier_offset": 5133,
+      "surface_label": "CS SnRk1",
+      "surface_label_offset": 5085,
+      "gap_from_label": 48,
+      "next_string": ">>",
+      "next_string_offset": 5150,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        15934,
+        16319
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.243133544921875,
+        0.2490081787109375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 3e 3e 00 00 bf 3f 00 00 00 00 43 53 20 54 6e 77 6c 2d 75 00 ff ff ff ff",
+      "context_start": 5069,
+      "context_end": 5166,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Tunnl",
+      "identifier_offset": 5209,
+      "surface_label": "CS Tnwl-u",
+      "surface_label_offset": 5160,
+      "gap_from_label": 49,
+      "next_string": "z=",
+      "next_string_offset": 5226,
+      "post_identifier_u32_le": [
+        17029,
+        16771,
+        15738,
+        15996
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2598419189453125,
+        0.2559051513671875,
+        0.240142822265625,
+        0.24407958984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "85 42 00 00 83 41 00 00 7a 3d 00 00 7c 3e 00 00 00 00 43 53 20 54 6e 57 6c 2d 4c 00 ff ff ff ff",
+      "context_start": 5144,
+      "context_end": 5242,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Tunnl",
+      "identifier_offset": 5285,
+      "surface_label": "CS TnWl-L",
+      "surface_label_offset": 5236,
+      "gap_from_label": 49,
+      "next_string": "|>",
+      "next_string_offset": 5306,
+      "post_identifier_u32_le": [
+        0,
+        16771,
+        16513,
+        15996
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2559051513671875,
+        0.2519683837890625,
+        0.24407958984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 83 41 00 00 81 40 00 00 7c 3e 00 00 00 00 43 53 20 54 6e 4c 74 00 ff ff ff ff ff ff",
+      "context_start": 5220,
+      "context_end": 5322,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Tunnl",
+      "identifier_offset": 5359,
+      "surface_label": "CS TnLt",
+      "surface_label_offset": 5312,
+      "gap_from_label": 47,
+      "next_string": "~?",
+      "next_string_offset": 5376,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16254,
+        8256
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.248016357421875,
+        0.1259765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 7e 3f 00 00 40 20 00 00 00 00 43 53 20 54 6e 43 69 65 6c 00 ff ff ff ff",
+      "context_start": 5296,
+      "context_end": 5392,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Tunnl",
+      "identifier_offset": 5435,
+      "surface_label": "CS TnCiel",
+      "surface_label_offset": 5386,
+      "gap_from_label": 49,
+      "next_string": "CS Tn wl 2",
+      "next_string_offset": 5462,
+      "post_identifier_u32_le": [
+        0,
+        8643,
+        17029,
+        7611
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.1318817138671875,
+        0.2598419189453125,
+        0.1161346435546875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 c3 21 00 00 85 42 00 00 bb 1d 00 00 00 00 43 53 20 54 6e 20 77 6c 20 32 00 ff ff ff",
+      "context_start": 5370,
+      "context_end": 5478,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 5507,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9_Tunnl",
+      "identifier_offset": 5512,
+      "surface_label": "CS Tn wl 2",
+      "surface_label_offset": 5462,
+      "gap_from_label": 50,
+      "next_string": "|>",
+      "next_string_offset": 5529,
+      "post_identifier_u32_le": [
+        16771,
+        0,
+        15996,
+        16513
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2559051513671875,
+        0.0,
+        0.24407958984375,
+        0.2519683837890625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "83 41 00 00 00 00 00 00 7c 3e 00 00 81 40 00 00 00 00 46 69 6e 4c 69 6e 65 00 ff ff ff ff ff ff",
+      "context_start": 5446,
+      "context_end": 5545,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 5430,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9_Crwd",
+      "identifier_offset": 5636,
+      "surface_label": "FL Xgird",
+      "surface_label_offset": 5588,
+      "gap_from_label": 48,
+      "next_string": "  ",
+      "next_string_offset": 5644,
+      "post_identifier_u32_le": [
+        8224,
+        28912,
+        4112,
+        3855
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.12548828125,
+        0.441162109375,
+        0.062744140625,
+        0.0588226318359375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "20 20 00 00 f0 70 00 00 10 10 00 00 0f 0f 00 00 00 00 46 69 6e 4c 6e 20 50 65 70 73 69 20 6f 6e",
+      "context_start": 5572,
+      "context_end": 5660,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 5712,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9pepone",
+      "identifier_offset": 5717,
+      "surface_label": "FinLn Pepsi one",
+      "surface_label_offset": 5662,
+      "gap_from_label": 55,
+      "next_string": "Finish Sign",
+      "next_string_offset": 5744,
+      "post_identifier_u32_le": [
+        516,
+        0,
+        31993,
+        24568
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.00787353515625,
+        0.0,
+        0.4881744384765625,
+        0.3748779296875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "04 02 00 00 00 00 00 00 f9 7c 00 00 f8 5f 00 00 00 00 46 69 6e 69 73 68 20 53 69 67 6e 00 ff ff",
+      "context_start": 5646,
+      "context_end": 5760,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 5651,
+          "u16_le": [
+            4096,
+            16
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9pepone",
+      "identifier_offset": 5795,
+      "surface_label": "Finish Sign",
+      "surface_label_offset": 5744,
+      "gap_from_label": 51,
+      "next_string": "Ice Stalag",
+      "next_string_offset": 5822,
+      "post_identifier_u32_le": [
+        0,
+        25027,
+        32768,
+        7482
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.3818817138671875,
+        0.5,
+        0.114166259765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 c3 61 00 00 00 80 00 00 3a 1d 00 00 00 00 49 63 65 20 53 74 61 6c 61 67 00 ff ff ff",
+      "context_start": 5728,
+      "context_end": 5838,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 5867,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9pepone",
+      "identifier_offset": 5872,
+      "surface_label": "Ice Stalag",
+      "surface_label_offset": 5822,
+      "gap_from_label": 50,
+      "next_string": "Tram Materials",
+      "next_string_offset": 5899,
+      "post_identifier_u32_le": [
+        0,
+        29352,
+        32768,
+        3219
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.4478759765625,
+        0.5,
+        0.0491180419921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 a8 72 00 00 00 80 00 00 93 0c 00 00 00 00 54 72 61 6d 20 4d 61 74 65 72 69 61 6c 73",
+      "context_start": 5806,
+      "context_end": 5915,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 5790,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9_Crwd",
+      "identifier_offset": 6004,
+      "surface_label": "Tram Side",
+      "surface_label_offset": 5955,
+      "gap_from_label": 49,
+      "next_string": "//",
+      "next_string_offset": 6012,
+      "post_identifier_u32_le": [
+        12079,
+        24672,
+        4112,
+        4112
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.1843109130859375,
+        0.37646484375,
+        0.062744140625,
+        0.062744140625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "2f 2f 00 00 60 60 00 00 10 10 00 00 10 10 00 00 00 00 54 72 61 6d 20 46 72 6f 6e 74 00 ff ff ff",
+      "context_start": 5939,
+      "context_end": 6028,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Crwd",
+      "identifier_offset": 6080,
+      "surface_label": "Tram Front",
+      "surface_label_offset": 6030,
+      "gap_from_label": 50,
+      "next_string": "55",
+      "next_string_offset": 6088,
+      "post_identifier_u32_le": [
+        13621,
+        25057,
+        1542,
+        3341
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2078399658203125,
+        0.3823394775390625,
+        0.023529052734375,
+        0.0509796142578125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "35 35 00 00 e1 61 00 00 06 06 00 00 0d 0d 00 00 00 00 54 72 61 6d 20 42 74 74 6d 00 ff ff ff ff",
+      "context_start": 6014,
+      "context_end": 6104,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 6150,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9_Crwd",
+      "identifier_offset": 6155,
+      "surface_label": "Tram Bttm",
+      "surface_label_offset": 6106,
+      "gap_from_label": 49,
+      "next_string": "Tram Pole Materials",
+      "next_string_offset": 6181,
+      "post_identifier_u32_le": [
+        8352,
+        24800,
+        3855,
+        3726
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.12744140625,
+        0.37841796875,
+        0.0588226318359375,
+        0.056854248046875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "a0 20 00 00 e0 60 00 00 0f 0f 00 00 8e 0e 00 00 00 00 54 72 61 6d 20 50 6f 6c 65 20 4d 61 74 65",
+      "context_start": 6090,
+      "context_end": 6197,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 6075,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9_Crwd",
+      "identifier_offset": 6291,
+      "surface_label": "Tram Pole",
+      "surface_label_offset": 6242,
+      "gap_from_label": 49,
+      "next_string": "00",
+      "next_string_offset": 6299,
+      "post_identifier_u32_le": [
+        12336,
+        28912,
+        3726,
+        3855
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.188232421875,
+        0.441162109375,
+        0.056854248046875,
+        0.0588226318359375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "30 30 00 00 f0 70 00 00 8e 0e 00 00 0f 0f 00 00 00 00 43 72 79 73 74 61 6c 73 2d 20 49 63 65 57",
+      "context_start": 6226,
+      "context_end": 6315,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_IceCr",
+      "identifier_offset": 6430,
+      "surface_label": "CT Ground Ice",
+      "surface_label_offset": 6377,
+      "gap_from_label": 53,
+      "next_string": "BB",
+      "next_string_offset": 6439,
+      "post_identifier_u32_le": [
+        16962,
+        16833,
+        15677,
+        15805
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.258819580078125,
+        0.2568511962890625,
+        0.2392120361328125,
+        0.2411651611328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "42 42 00 00 c1 41 00 00 3d 3d 00 00 bd 3d 00 00 00 00 43 54 20 49 77 31 00 ff ff ff ff ff ff e5",
+      "context_start": 6361,
+      "context_end": 6455,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_IceCr",
+      "identifier_offset": 6503,
+      "surface_label": "CT Iw1",
+      "surface_label_offset": 6457,
+      "gap_from_label": 46,
+      "next_string": "@@",
+      "next_string_offset": 6520,
+      "post_identifier_u32_le": [
+        16319,
+        128,
+        16448,
+        15934
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2490081787109375,
+        0.001953125,
+        0.2509765625,
+        0.243133544921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "bf 3f 00 00 80 00 00 00 40 40 00 00 3e 3e 00 00 00 00 43 54 20 49 57 20 32 00 ff ff ff ff ff ff",
+      "context_start": 6441,
+      "context_end": 6536,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_IceCr",
+      "identifier_offset": 6577,
+      "surface_label": "CT IW 2",
+      "surface_label_offset": 6530,
+      "gap_from_label": 47,
+      "next_string": "??",
+      "next_string_offset": 6594,
+      "post_identifier_u32_le": [
+        16576,
+        128,
+        16191,
+        16062
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2529296875,
+        0.001953125,
+        0.2470550537109375,
+        0.245086669921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c0 40 00 00 80 00 00 00 3f 3f 00 00 be 3e 00 00 00 00 46 72 6f 7a 65 6e 20 59 65 74 69 00 ff ff",
+      "context_start": 6514,
+      "context_end": 6610,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_IceCr",
+      "identifier_offset": 6655,
+      "surface_label": "Frozen Yeti",
+      "surface_label_offset": 6604,
+      "gap_from_label": 51,
+      "next_string": "AA",
+      "next_string_offset": 6668,
+      "post_identifier_u32_le": [
+        0,
+        16705,
+        16191,
+        16062
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2548980712890625,
+        0.2470550537109375,
+        0.245086669921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 41 41 00 00 3f 3f 00 00 be 3e 00 00 00 00 43 54 20 49 63 57 6c 20 43 72 6f 70 00 ff",
+      "context_start": 6588,
+      "context_end": 6684,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_IceCr",
+      "identifier_offset": 6734,
+      "surface_label": "CT IcWl Crop",
+      "surface_label_offset": 6682,
+      "gap_from_label": 52,
+      "next_string": "@@",
+      "next_string_offset": 6743,
+      "post_identifier_u32_le": [
+        16448,
+        128,
+        16319,
+        11822
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2509765625,
+        0.001953125,
+        0.2490081787109375,
+        0.180389404296875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "40 40 00 00 80 00 00 00 bf 3f 00 00 2e 2e 00 00 00 00 43 54 20 69 63 65 77 6c 2d 33 00 ff ff ff",
+      "context_start": 6666,
+      "context_end": 6759,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_IceCr",
+      "identifier_offset": 6811,
+      "surface_label": "CT icewl-3",
+      "surface_label_offset": 6761,
+      "gap_from_label": 50,
+      "next_string": "??",
+      "next_string_offset": 6828,
+      "post_identifier_u32_le": [
+        0,
+        128,
+        16191,
+        16062
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.001953125,
+        0.2470550537109375,
+        0.245086669921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 80 00 00 00 3f 3f 00 00 be 3e 00 00 00 00 42 6f 62 20 53 6c 65 64 20 54 72 61 63 6b",
+      "context_start": 6745,
+      "context_end": 6844,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Crwd",
+      "identifier_offset": 6947,
+      "surface_label": "BS BridgeSide",
+      "surface_label_offset": 6894,
+      "gap_from_label": 53,
+      "next_string": "rr",
+      "next_string_offset": 6955,
+      "post_identifier_u32_le": [
+        29298,
+        24929,
+        3469,
+        7838
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.447052001953125,
+        0.3803863525390625,
+        0.0529327392578125,
+        0.119598388671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "72 72 00 00 61 61 00 00 8d 0d 00 00 9e 1e 00 00 00 00 42 53 20 49 63 65 53 74 6c 67 00 ff ff ff",
+      "context_start": 6878,
+      "context_end": 6971,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9pepone",
+      "identifier_offset": 7023,
+      "surface_label": "BS IceStlg",
+      "surface_label_offset": 6973,
+      "gap_from_label": 50,
+      "next_string": "Bobsled snow",
+      "next_string_offset": 7050,
+      "post_identifier_u32_le": [
+        0,
+        29413,
+        32768,
+        3096
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.4488067626953125,
+        0.5,
+        0.0472412109375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 e5 72 00 00 00 80 00 00 18 0c 00 00 00 00 42 6f 62 73 6c 65 64 20 73 6e 6f 77 00 ff",
+      "context_start": 6957,
+      "context_end": 7066,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_SnwRk",
+      "identifier_offset": 7102,
+      "surface_label": "Bobsled snow",
+      "surface_label_offset": 7050,
+      "gap_from_label": 52,
+      "next_string": "99",
+      "next_string_offset": 7123,
+      "post_identifier_u32_le": [
+        17090,
+        17604,
+        15291,
+        14649
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.260772705078125,
+        0.26861572265625,
+        0.2333221435546875,
+        0.2235260009765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c2 42 00 00 c4 44 00 00 bb 3b 00 00 39 39 00 00 00 00 43 72 79 73 74 20 47 72 6f 75 6e 64 00 ff",
+      "context_start": 7034,
+      "context_end": 7139,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 7018,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9_IceCr",
+      "identifier_offset": 7181,
+      "surface_label": "Cryst Ground",
+      "surface_label_offset": 7129,
+      "gap_from_label": 52,
+      "next_string": "AA",
+      "next_string_offset": 7190,
+      "post_identifier_u32_le": [
+        16705,
+        16705,
+        15805,
+        15934
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2548980712890625,
+        0.2548980712890625,
+        0.2411651611328125,
+        0.243133544921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "41 41 00 00 41 41 00 00 bd 3d 00 00 3e 3e 00 00 00 00 54 72 61 63 6b 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 7113,
+      "context_end": 7206,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9trk",
+      "identifier_offset": 7305,
+      "surface_label": "Track Edge",
+      "surface_label_offset": 7255,
+      "gap_from_label": 50,
+      "next_string": "Track Center",
+      "next_string_offset": 7329,
+      "post_identifier_u32_le": [
+        0,
+        806,
+        32571,
+        14735
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.012298583984375,
+        0.4969940185546875,
+        0.2248382568359375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 26 03 00 00 3b 7f 00 00 8f 39 00 00 00 00 54 72 61 63 6b 20 43 65 6e 74 65 72 00 ff",
+      "context_start": 7239,
+      "context_end": 7345,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9trk",
+      "identifier_offset": 7381,
+      "surface_label": "Track Center",
+      "surface_label_offset": 7329,
+      "gap_from_label": 52,
+      "next_string": "r9",
+      "next_string_offset": 7399,
+      "post_identifier_u32_le": [
+        0,
+        17545,
+        32768,
+        14706
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2677154541015625,
+        0.5,
+        0.224395751953125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 89 44 00 00 00 80 00 00 72 39 00 00 00 00 54 72 6b 20 6e 6f 20 53 6e 6f 77 20 45 64",
+      "context_start": 7313,
+      "context_end": 7415,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9Trkns",
+      "identifier_offset": 7461,
+      "surface_label": "Trk no Snow Edge",
+      "surface_label_offset": 7405,
+      "gap_from_label": 56,
+      "next_string": "Trak no snow center",
+      "next_string_offset": 7487,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        16056
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.2449951171875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 b8 3e 00 00 00 00 54 72 61 6b 20 6e 6f 20 73 6e 6f 77 20 63",
+      "context_start": 7389,
+      "context_end": 7503,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9Trkns",
+      "identifier_offset": 7546,
+      "surface_label": "Trak no snow center",
+      "surface_label_offset": 7487,
+      "gap_from_label": 59,
+      "next_string": "v;",
+      "next_string_offset": 7566,
+      "post_identifier_u32_le": [
+        0,
+        17287,
+        32768,
+        15222
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2637786865234375,
+        0.5,
+        0.232269287109375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 87 43 00 00 00 80 00 00 76 3b 00 00 00 00 54 72 61 63 6b 54 72 61 6e 73 43 00 ff ff",
+      "context_start": 7471,
+      "context_end": 7582,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9tktrn",
+      "identifier_offset": 7623,
+      "surface_label": "TrackTransC",
+      "surface_label_offset": 7572,
+      "gap_from_label": 51,
+      "next_string": "p8",
+      "next_string_offset": 7643,
+      "post_identifier_u32_le": [
+        0,
+        17803,
+        32768,
+        14448
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2716522216796875,
+        0.5,
+        0.220458984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 8b 45 00 00 00 80 00 00 70 38 00 00 00 00 54 72 61 63 6b 20 54 72 61 6e 73 20 45 00",
+      "context_start": 7556,
+      "context_end": 7659,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9tktrn",
+      "identifier_offset": 7702,
+      "surface_label": "Track Trans E",
+      "surface_label_offset": 7649,
+      "gap_from_label": 53,
+      "next_string": "n7",
+      "next_string_offset": 7722,
+      "post_identifier_u32_le": [
+        774,
+        1290,
+        31735,
+        14190
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.011810302734375,
+        0.019683837890625,
+        0.4842376708984375,
+        0.216522216796875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "06 03 00 00 0a 05 00 00 f7 7b 00 00 6e 37 00 00 00 00 43 6f 72 6b 53 63 72 77 00 ff ff ff ff ff",
+      "context_start": 7633,
+      "context_end": 7738,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9_Crwd",
+      "identifier_offset": 7776,
+      "surface_label": "CorkScrw",
+      "surface_label_offset": 7728,
+      "gap_from_label": 48,
+      "next_string": "BB",
+      "next_string_offset": 7784,
+      "post_identifier_u32_le": [
+        16962,
+        16705,
+        15805,
+        7710
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.258819580078125,
+        0.2548980712890625,
+        0.2411651611328125,
+        0.117645263671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "42 42 00 00 41 41 00 00 bd 3d 00 00 1e 1e 00 00 00 00 54 72 61 6b 53 46 20 65 64 67 65 00 ff ff",
+      "context_start": 7712,
+      "context_end": 7800,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9TrkSF",
+      "identifier_offset": 7853,
+      "surface_label": "TrakSF edge",
+      "surface_label_offset": 7802,
+      "gap_from_label": 51,
+      "next_string": "x<",
+      "next_string_offset": 7873,
+      "post_identifier_u32_le": [
+        0,
+        516,
+        32768,
+        15480
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.00787353515625,
+        0.5,
+        0.2362060546875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 04 02 00 00 00 80 00 00 78 3c 00 00 00 00 54 72 61 6b 20 53 46 20 63 65 6e 74 65 72",
+      "context_start": 7786,
+      "context_end": 7889,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9TrkSF",
+      "identifier_offset": 7933,
+      "surface_label": "Trak SF center",
+      "surface_label_offset": 7879,
+      "gap_from_label": 54,
+      "next_string": "t:",
+      "next_string_offset": 7953,
+      "post_identifier_u32_le": [
+        0,
+        17287,
+        32768,
+        14964
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2637786865234375,
+        0.5,
+        0.22833251953125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 87 43 00 00 00 80 00 00 74 3a 00 00 00 00 57 61 6c 6c 73 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 7863,
+      "context_end": 7969,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9Walls",
+      "identifier_offset": 8052,
+      "surface_label": "RdWall",
+      "surface_label_offset": 8006,
+      "gap_from_label": 46,
+      "next_string": "Concrete",
+      "next_string_offset": 8078,
+      "post_identifier_u32_le": [
+        0,
+        516,
+        32768,
+        7224
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.00787353515625,
+        0.5,
+        0.1102294921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 04 02 00 00 00 80 00 00 38 1c 00 00 00 00 43 6f 6e 63 72 65 74 65 00 ff ff ff ff ff",
+      "context_start": 7990,
+      "context_end": 8094,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9Walls",
+      "identifier_offset": 8126,
+      "surface_label": "Concrete",
+      "surface_label_offset": 8078,
+      "gap_from_label": 48,
+      "next_string": "@ ",
+      "next_string_offset": 8138,
+      "post_identifier_u32_le": [
+        0,
+        8256,
+        32768,
+        8256
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.1259765625,
+        0.5,
+        0.1259765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 40 20 00 00 00 80 00 00 40 20 00 00 00 00 57 6c 20 53 74 6f 6e 65 00 ff ff ff ff ff",
+      "context_start": 8062,
+      "context_end": 8154,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9Walls",
+      "identifier_offset": 8200,
+      "surface_label": "Wl Stone",
+      "surface_label_offset": 8152,
+      "gap_from_label": 48,
+      "next_string": "Wl rail",
+      "next_string_offset": 8226,
+      "post_identifier_u32_le": [
+        0,
+        17029,
+        32768,
+        7224
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2598419189453125,
+        0.5,
+        0.1102294921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 85 42 00 00 00 80 00 00 38 1c 00 00 00 00 57 6c 20 72 61 69 6c 00 ff ff ff ff ff ff",
+      "context_start": 8136,
+      "context_end": 8242,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 8268,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9Walls",
+      "identifier_offset": 8273,
+      "surface_label": "Wl rail",
+      "surface_label_offset": 8226,
+      "gap_from_label": 47,
+      "next_string": "Crystals",
+      "next_string_offset": 8299,
+      "post_identifier_u32_le": [
+        0,
+        25543,
+        32768,
+        7224
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.3897552490234375,
+        0.5,
+        0.1102294921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 c7 63 00 00 00 80 00 00 38 1c 00 00 00 00 43 72 79 73 74 61 6c 73 00 7a bf df 7a bf",
+      "context_start": 8210,
+      "context_end": 8315,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 8195,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9Cry-1",
+      "identifier_offset": 8399,
+      "surface_label": "Cry-1 Blue",
+      "surface_label_offset": 8349,
+      "gap_from_label": 50,
+      "next_string": "Cry-1 Pink",
+      "next_string_offset": 8425,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16384,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.25,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 40 00 00 00 80 00 00 00 00 43 72 79 2d 31 20 50 69 6e 6b 00 cb 8a c9",
+      "context_start": 8333,
+      "context_end": 8441,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9Cry-1",
+      "identifier_offset": 8475,
+      "surface_label": "Cry-1 Pink",
+      "surface_label_offset": 8425,
+      "gap_from_label": 50,
+      "next_string": "T9 Skrim Surface",
+      "next_string_offset": 8501,
+      "post_identifier_u32_le": [
+        16388,
+        0,
+        16379,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25006103515625,
+        0.0,
+        0.2499237060546875,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "04 40 00 00 00 00 00 00 fb 3f 00 00 00 80 00 00 00 00 54 39 20 53 6b 72 69 6d 20 53 75 72 66 61",
+      "context_start": 8409,
+      "context_end": 8517,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T9Skrim",
+      "identifier_offset": 8606,
+      "surface_label": "Skrim 1",
+      "surface_label_offset": 8559,
+      "gap_from_label": 47,
+      "next_string": "Skrim 2",
+      "next_string_offset": 8632,
+      "post_identifier_u32_le": [
+        0,
+        319,
+        32768,
+        15867
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0048675537109375,
+        0.5,
+        0.2421112060546875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 3f 01 00 00 00 80 00 00 fb 3d 00 00 00 00 53 6b 72 69 6d 20 32 00 ff ff ff ff ff ff",
+      "context_start": 8543,
+      "context_end": 8648,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 8674,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9Skrim",
+      "identifier_offset": 8679,
+      "surface_label": "Skrim 2",
+      "surface_label_offset": 8632,
+      "gap_from_label": 47,
+      "next_string": "AA",
+      "next_string_offset": 8691,
+      "post_identifier_u32_le": [
+        0,
+        16705,
+        32768,
+        15996
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2548980712890625,
+        0.5,
+        0.24407958984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 41 41 00 00 00 80 00 00 7c 3e 00 00 00 00 53 6b 72 69 6d 20 53 74 61 72 73 00 ff ff",
+      "context_start": 8616,
+      "context_end": 8707,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 8601,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 8751,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T9Stars",
+      "identifier_offset": 8756,
+      "surface_label": "Skrim Stars",
+      "surface_label_offset": 8705,
+      "gap_from_label": 51,
+      "next_string": "Stands01",
+      "next_string_offset": 8785,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 20 01 00 53 74 61 6e 64 73 30 31 00 00 c0",
+      "context_start": 8689,
+      "context_end": 8801,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 8674,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "aci.",
+      "identifier_offset": 22247,
+      "surface_label": "INP.",
+      "surface_label_offset": 22183,
+      "gap_from_label": 64,
+      "next_string": "_ch.",
+      "next_string_offset": 22336,
+      "post_identifier_u32_le": [
+        4294938920,
+        0,
+        16386,
+        0
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        65535.56701660156,
+        0.0,
+        0.250030517578125,
+        0.0
+      ],
+      "atlas_rect_bounds_plausible": false,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "28 91 ff ff 00 00 00 00 02 40 00 00 00 00 00 00 00 00 00 00 14 14 14 25 00 ce 87 ff ff 00 00 00",
+      "context_start": 22167,
+      "context_end": 22352,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 22195,
+          "u16_le": [
+            512,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 22259,
+          "u16_le": [
+            512,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 22309,
+          "u16_le": [
+            512,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "PQV-",
+      "identifier_offset": 28203,
+      "surface_label": "egm/",
+      "surface_label_offset": 28139,
+      "gap_from_label": 64,
+      "next_string": "UTZ.",
+      "next_string_offset": 28228,
+      "post_identifier_u32_le": [
+        4294964245,
+        4294935346,
+        6603,
+        65536
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        65535.95344543457,
+        65535.51248168945,
+        0.1007537841796875,
+        1.0
+      ],
+      "atlas_rect_bounds_plausible": false,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "15 f4 ff ff 32 83 ff ff cb 19 00 00 00 00 01 00 00 00 00 00 55 54 5a 2e 00 28 91 ff ff 00 00 00",
+      "context_start": 28123,
+      "context_end": 28244,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 28151,
+          "u16_le": [
+            512,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "PQV.",
+      "identifier_offset": 28292,
+      "surface_label": "UTZ.",
+      "surface_label_offset": 28228,
+      "gap_from_label": 64,
+      "next_string": "ZZ`.",
+      "next_string_offset": 28381,
+      "post_identifier_u32_le": [
+        4294938920,
+        0,
+        16386,
+        0
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        65535.56701660156,
+        0.0,
+        0.250030517578125,
+        0.0
+      ],
+      "atlas_rect_bounds_plausible": false,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "28 91 ff ff 00 00 00 00 02 40 00 00 00 00 00 00 00 00 00 00 14 14 14 25 00 ce 87 ff ff 00 00 00",
+      "context_start": 28212,
+      "context_end": 28397,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 28240,
+          "u16_le": [
+            512,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 28304,
+          "u16_le": [
+            512,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 28354,
+          "u16_le": [
+            512,
+            64
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "rvzE",
+      "identifier_offset": 38162,
+      "surface_label": ".,*D",
+      "surface_label_offset": 38098,
+      "gap_from_label": 64,
+      "next_string": "nqu^",
+      "next_string_offset": 38187,
+      "post_identifier_u32_le": [
+        4294966081,
+        4294964304,
+        32608,
+        65536
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        65535.98146057129,
+        65535.954345703125,
+        0.49755859375,
+        1.0
+      ],
+      "atlas_rect_bounds_plausible": false,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "41 fb ff ff 50 f4 ff ff 60 7f 00 00 00 00 01 00 00 00 01 00 6e 71 75 5e 00 41 fb ff ff 50 f4 ff",
+      "context_start": 38082,
+      "context_end": 38203,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "JIOw",
+      "identifier_offset": 43057,
+      "surface_label": "jirx",
+      "surface_label_offset": 42993,
+      "gap_from_label": 64,
+      "next_string": "$2",
+      "next_string_offset": 43209,
+      "post_identifier_u32_le": [
+        5,
+        1074,
+        32750,
+        65536
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        7.62939453125e-05,
+        0.016387939453125,
+        0.499725341796875,
+        1.0
+      ],
+      "atlas_rect_bounds_plausible": false,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "05 00 00 00 32 04 00 00 ee 7f 00 00 00 00 01 00 00 00 01 00 14 14 14 0f 00 05 00 00 00 32 04 00",
+      "context_start": 42977,
+      "context_end": 43225,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Q_f1",
+      "identifier_offset": 56244,
+      "surface_label": "Q_f2",
+      "surface_label_offset": 56180,
+      "gap_from_label": 64,
+      "next_string": "Q_f#",
+      "next_string_offset": 56269,
+      "post_identifier_u32_le": [
+        4294934533,
+        4294966776,
+        24,
+        0
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        65535.500076293945,
+        65535.99206542969,
+        0.0003662109375,
+        0.0
+      ],
+      "atlas_rect_bounds_plausible": false,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "05 80 ff ff f8 fd ff ff 18 00 00 00 00 00 00 00 00 00 01 00 51 5f 66 23 00 05 80 ff ff f8 fd ff",
+      "context_start": 56164,
+      "context_end": 56285,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Q_f2",
+      "identifier_offset": 56422,
+      "surface_label": "Q_f3",
+      "surface_label_offset": 56358,
+      "gap_from_label": 64,
+      "next_string": "Q_f$",
+      "next_string_offset": 56447,
+      "post_identifier_u32_le": [
+        0,
+        4294937195,
+        12948,
+        0
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        65535.54069519043,
+        0.19757080078125,
+        0.0
+      ],
+      "atlas_rect_bounds_plausible": false,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 6b 8a ff ff 94 32 00 00 00 00 00 00 00 00 01 00 51 5f 66 24 00 00 00 00 00 00 80 ff",
+      "context_start": 56342,
+      "context_end": 56463,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Vac3",
+      "identifier_offset": 56600,
+      "surface_label": "Vac4",
+      "surface_label_offset": 56536,
+      "gap_from_label": 64,
+      "next_string": "Q_f%",
+      "next_string_offset": 56625,
+      "post_identifier_u32_le": [
+        0,
+        4294937195,
+        12948,
+        0
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        65535.54069519043,
+        0.19757080078125,
+        0.0
+      ],
+      "atlas_rect_bounds_plausible": false,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 6b 8a ff ff 94 32 00 00 00 00 00 00 00 00 01 00 51 5f 66 25 00 00 00 00 00 00 80 ff",
+      "context_start": 56520,
+      "context_end": 56641,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Vac4",
+      "identifier_offset": 56778,
+      "surface_label": "Vac5",
+      "surface_label_offset": 56714,
+      "gap_from_label": 64,
+      "next_string": "Vac&",
+      "next_string_offset": 56803,
+      "post_identifier_u32_le": [
+        0,
+        4294937195,
+        12948,
+        0
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        65535.54069519043,
+        0.19757080078125,
+        0.0
+      ],
+      "atlas_rect_bounds_plausible": false,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 6b 8a ff ff 94 32 00 00 00 00 00 00 00 00 01 00 56 61 63 26 00 00 00 00 00 00 80 ff",
+      "context_start": 56698,
+      "context_end": 56819,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Q_f2",
+      "identifier_offset": 57223,
+      "surface_label": "7>c(",
+      "surface_label_offset": 57159,
+      "gap_from_label": 64,
+      "next_string": "Qb",
+      "next_string_offset": 57257,
+      "post_identifier_u32_le": [
+        0,
+        4294937195,
+        12948,
+        0
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        65535.54069519043,
+        0.19757080078125,
+        0.0
+      ],
+      "atlas_rect_bounds_plausible": false,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 6b 8a ff ff 94 32 00 00 00 00 00 00 00 00 01 00 51 5f 66 0f 00 00 00 00 00 51 62 00",
+      "context_start": 57143,
+      "context_end": 57273,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Q_f0",
+      "identifier_offset": 63453,
+      "surface_label": "Q_f#",
+      "surface_label_offset": 63389,
+      "gap_from_label": 64,
+      "next_string": "@No\"",
+      "next_string_offset": 63478,
+      "post_identifier_u32_le": [
+        4294934533,
+        4294966776,
+        0,
+        0
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        65535.500076293945,
+        65535.99206542969,
+        0.0,
+        0.0
+      ],
+      "atlas_rect_bounds_plausible": false,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "05 80 ff ff f8 fd ff ff 00 00 00 00 00 00 00 00 00 00 01 00 40 4e 6f 22 00 05 80 ff ff f8 fd ff",
+      "context_start": 63373,
+      "context_end": 63494,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Vhouse3",
+      "identifier_offset": 63776,
+      "surface_label": "@No1",
+      "surface_label_offset": 63720,
+      "gap_from_label": 56,
+      "next_string": "\"=",
+      "next_string_offset": 63940,
+      "post_identifier_u32_le": [
+        811962112,
+        881892607,
+        335896323,
+        0
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        12389.55859375,
+        13456.613265991211,
+        5125.371139526367,
+        0.0
+      ],
+      "atlas_rect_bounds_plausible": false,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 8f 65 30 ff 9c 90 34 03 5f 05 14 00 00 00 00 00 00 00 00 00 00 00 00 00 2f 00 15 96 34 ff ac",
+      "context_start": 63704,
+      "context_end": 63956,
+      "nearby_dimension_candidates": []
+    }
+  ],
+  "verified_decoded_images": [],
+  "zlib_stream_candidates": [],
+  "standard_signature_counts": {
+    "PNG": 0,
+    "JPEG": 0,
+    "BMP": 0,
+    "GIF87a": 0,
+    "GIF89a": 0,
+    "DDS": 0,
+    "PCX": 1431
+  },
+  "conclusion": {
+    "verified_images_extracted": 0,
+    "zlib_streams_found": 0,
+    "texture_payload_format": "not established",
+    "note": "References are material/surface identifiers. A zlib stream is not classified as a texture without dimensions, pixel format and successful image reconstruction."
+  }
+}

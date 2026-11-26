@@ -1,0 +1,7 @@
+RSS texture reference: T9_Vill
+RSS byte offset: 0x000009b2
+Detection evidence: surface_label_then_texture_identifier
+Associated surface labels: Vpanel1, Vpanel2, Vwal, Vwind1, Vwind2, Vdoor1, Vpanel3, Vpanel4, Vpanel5, Vwal1, Vdoor2, Vwind3, VcabPan, VcabDr, VcabWin\n
+No matching pixel/image asset was present in the supplied archive or asset search path.
+This file is a reference record, NOT an image. The RSS stores a texture identifier here;
+the actual bitmap may be a separate game asset or use a proprietary encoding.
