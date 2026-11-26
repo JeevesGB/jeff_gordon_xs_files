@@ -1,0 +1,212 @@
+[
+  {
+    "file": "ALIEN.RSS",
+    "bytes": 33790,
+    "material_reference_occurrences": 23,
+    "unique_texture_identifiers": 4,
+    "plausible_atlas_rects": 23,
+    "zero_padding_after_rect": 23,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "GT90.RSS",
+    "bytes": 31180,
+    "material_reference_occurrences": 26,
+    "unique_texture_identifiers": 4,
+    "plausible_atlas_rects": 26,
+    "zero_padding_after_rect": 26,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "GTS.RSS",
+    "bytes": 30931,
+    "material_reference_occurrences": 22,
+    "unique_texture_identifiers": 4,
+    "plausible_atlas_rects": 22,
+    "zero_padding_after_rect": 22,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "INDGO.RSS",
+    "bytes": 31756,
+    "material_reference_occurrences": 20,
+    "unique_texture_identifiers": 3,
+    "plausible_atlas_rects": 20,
+    "zero_padding_after_rect": 20,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "JCAR.RSS",
+    "bytes": 76021,
+    "material_reference_occurrences": 34,
+    "unique_texture_identifiers": 5,
+    "plausible_atlas_rects": 34,
+    "zero_padding_after_rect": 34,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "PISTN.RSS",
+    "bytes": 36136,
+    "material_reference_occurrences": 22,
+    "unique_texture_identifiers": 4,
+    "plausible_atlas_rects": 22,
+    "zero_padding_after_rect": 22,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "S711.RSS",
+    "bytes": 727957,
+    "material_reference_occurrences": 43,
+    "unique_texture_identifiers": 25,
+    "plausible_atlas_rects": 42,
+    "zero_padding_after_rect": 43,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "SACCEL.RSS",
+    "bytes": 475073,
+    "material_reference_occurrences": 37,
+    "unique_texture_identifiers": 15,
+    "plausible_atlas_rects": 37,
+    "zero_padding_after_rect": 37,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "SCLOVER.RSS",
+    "bytes": 772469,
+    "material_reference_occurrences": 43,
+    "unique_texture_identifiers": 18,
+    "plausible_atlas_rects": 43,
+    "zero_padding_after_rect": 43,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "SDROPZN.RSS",
+    "bytes": 879525,
+    "material_reference_occurrences": 22,
+    "unique_texture_identifiers": 19,
+    "plausible_atlas_rects": 22,
+    "zero_padding_after_rect": 22,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "SFRITO.RSS",
+    "bytes": 656550,
+    "material_reference_occurrences": 112,
+    "unique_texture_identifiers": 30,
+    "plausible_atlas_rects": 100,
+    "zero_padding_after_rect": 112,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "SFUTURE.RSS",
+    "bytes": 705498,
+    "material_reference_occurrences": 92,
+    "unique_texture_identifiers": 12,
+    "plausible_atlas_rects": 92,
+    "zero_padding_after_rect": 92,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "SGAMBLR.RSS",
+    "bytes": 830109,
+    "material_reference_occurrences": 58,
+    "unique_texture_identifiers": 31,
+    "plausible_atlas_rects": 58,
+    "zero_padding_after_rect": 58,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "SINDUST.RSS",
+    "bytes": 643365,
+    "material_reference_occurrences": 111,
+    "unique_texture_identifiers": 25,
+    "plausible_atlas_rects": 111,
+    "zero_padding_after_rect": 111,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "SINDUSTT.RSS",
+    "bytes": 147084,
+    "material_reference_occurrences": 11,
+    "unique_texture_identifiers": 4,
+    "plausible_atlas_rects": 11,
+    "zero_padding_after_rect": 11,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "SNEON.RSS",
+    "bytes": 571197,
+    "material_reference_occurrences": 36,
+    "unique_texture_identifiers": 10,
+    "plausible_atlas_rects": 33,
+    "zero_padding_after_rect": 36,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "SPLANET.RSS",
+    "bytes": 612250,
+    "material_reference_occurrences": 56,
+    "unique_texture_identifiers": 33,
+    "plausible_atlas_rects": 56,
+    "zero_padding_after_rect": 56,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "SPLANETT.RSS",
+    "bytes": 204688,
+    "material_reference_occurrences": 2,
+    "unique_texture_identifiers": 2,
+    "plausible_atlas_rects": 2,
+    "zero_padding_after_rect": 1,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "SPPSI2K.RSS",
+    "bytes": 675248,
+    "material_reference_occurrences": 74,
+    "unique_texture_identifiers": 24,
+    "plausible_atlas_rects": 74,
+    "zero_padding_after_rect": 74,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "SSKIDPAD.RSS",
+    "bytes": 127431,
+    "material_reference_occurrences": 2,
+    "unique_texture_identifiers": 2,
+    "plausible_atlas_rects": 2,
+    "zero_padding_after_rect": 2,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  },
+  {
+    "file": "WHEELS.RSS",
+    "bytes": 49555,
+    "material_reference_occurrences": 2,
+    "unique_texture_identifiers": 1,
+    "plausible_atlas_rects": 2,
+    "zero_padding_after_rect": 2,
+    "verified_decoded_images": 0,
+    "valid_zlib_stream_candidates": 0
+  }
+]

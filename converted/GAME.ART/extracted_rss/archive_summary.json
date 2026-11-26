@@ -1,0 +1,233 @@
+[
+  {
+    "file": "ALIEN.RSS",
+    "size": 33790,
+    "sha256": "da450eff618059ce213d26ac60eb13c9f9bc798d601d1fc748a2ccfbae6f2ae7",
+    "mesh_candidates": 11,
+    "embedded_texture_files": 0,
+    "texture_references": 4,
+    "ascii_strings": 71,
+    "utf16le_strings": 0,
+    "unclaimed_bytes": 3446
+  },
+  {
+    "file": "GT90.RSS",
+    "size": 31180,
+    "sha256": "2eca836bd4db807e9563ecdd6ac465759b13038a182b01378f019894f7f52da1",
+    "mesh_candidates": 11,
+    "embedded_texture_files": 0,
+    "texture_references": 4,
+    "ascii_strings": 77,
+    "utf16le_strings": 0,
+    "unclaimed_bytes": 3776
+  },
+  {
+    "file": "GTS.RSS",
+    "size": 30931,
+    "sha256": "07bc0ca3a38fd862069ea5c5c5ab0b395fdab0cbffeca43bb5ba67c3d2e8b20d",
+    "mesh_candidates": 11,
+    "embedded_texture_files": 0,
+    "texture_references": 4,
+    "ascii_strings": 69,
+    "utf16le_strings": 0,
+    "unclaimed_bytes": 3411
+  },
+  {
+    "file": "INDGO.RSS",
+    "size": 31756,
+    "sha256": "f4e40ebef702364f6b44c71ac516ff196038ea60af03de024db2407e643ed95a",
+    "mesh_candidates": 8,
+    "embedded_texture_files": 0,
+    "texture_references": 3,
+    "ascii_strings": 60,
+    "utf16le_strings": 0,
+    "unclaimed_bytes": 2503
+  },
+  {
+    "file": "JCAR.RSS",
+    "size": 76021,
+    "sha256": "929e0979c44aff33864d9dd0e8c420f8a3c4e29a8ea60d00839d4b7efc39623e",
+    "mesh_candidates": 16,
+    "embedded_texture_files": 0,
+    "texture_references": 5,
+    "ascii_strings": 97,
+    "utf16le_strings": 0,
+    "unclaimed_bytes": 4672
+  },
+  {
+    "file": "PISTN.RSS",
+    "size": 36136,
+    "sha256": "f09ada14b3f2bbb915246f4fb9f40374e19c4100f80eeeca21fc64ed4cce7dbf",
+    "mesh_candidates": 9,
+    "embedded_texture_files": 0,
+    "texture_references": 4,
+    "ascii_strings": 66,
+    "utf16le_strings": 0,
+    "unclaimed_bytes": 3570
+  },
+  {
+    "file": "S711.RSS",
+    "size": 727957,
+    "sha256": "2314a2fb999583c2bda86a53660b3e81b5c5ffd2301be5a6954e310846aef06a",
+    "mesh_candidates": 0,
+    "embedded_texture_files": 0,
+    "texture_references": 25,
+    "ascii_strings": 4270,
+    "utf16le_strings": 0,
+    "unclaimed_bytes": 727906
+  },
+  {
+    "file": "SACCEL.RSS",
+    "size": 475073,
+    "sha256": "606c0d5d3e5c4b417c53ac29d61e95472a1fd5c58ee109d81a6c18f52f7061fc",
+    "mesh_candidates": 0,
+    "embedded_texture_files": 0,
+    "texture_references": 15,
+    "ascii_strings": 4162,
+    "utf16le_strings": 0,
+    "unclaimed_bytes": 475022
+  },
+  {
+    "file": "SCLOVER.RSS",
+    "size": 772469,
+    "sha256": "a11c65bcb77d7a5afe0aebc75ac10821fd58f6c3aa2f5b3002e392d39583229e",
+    "mesh_candidates": 0,
+    "embedded_texture_files": 0,
+    "texture_references": 18,
+    "ascii_strings": 2610,
+    "utf16le_strings": 0,
+    "unclaimed_bytes": 772418
+  },
+  {
+    "file": "SDROPZN.RSS",
+    "size": 879525,
+    "sha256": "a242fd6905ce6858af98336a312d7f2df3f9a1411768f6109a76a13d71562ea6",
+    "mesh_candidates": 0,
+    "embedded_texture_files": 0,
+    "texture_references": 19,
+    "ascii_strings": 11012,
+    "utf16le_strings": 0,
+    "unclaimed_bytes": 879474
+  },
+  {
+    "file": "SFRITO.RSS",
+    "size": 656550,
+    "sha256": "881b02251b33e15b25344980b678f228876337de339afd42001b172d63b10192",
+    "mesh_candidates": 0,
+    "embedded_texture_files": 0,
+    "texture_references": 30,
+    "ascii_strings": 7513,
+    "utf16le_strings": 4,
+    "unclaimed_bytes": 656499
+  },
+  {
+    "file": "SFUTURE.RSS",
+    "size": 705498,
+    "sha256": "12e5101285cc2866365275928790bbc7e45c133b0ed63bd287d63decfa2991cc",
+    "mesh_candidates": 0,
+    "embedded_texture_files": 0,
+    "texture_references": 12,
+    "ascii_strings": 3158,
+    "utf16le_strings": 0,
+    "unclaimed_bytes": 705447
+  },
+  {
+    "file": "SGAMBLR.RSS",
+    "size": 830109,
+    "sha256": "7c7821d2f9c8c7df0e3964c97ead10a14ea47155cbfc7389d537f0a7b75af27d",
+    "mesh_candidates": 0,
+    "embedded_texture_files": 0,
+    "texture_references": 31,
+    "ascii_strings": 4578,
+    "utf16le_strings": 0,
+    "unclaimed_bytes": 830058
+  },
+  {
+    "file": "SINDUST.RSS",
+    "size": 643365,
+    "sha256": "23bdbdd0dfb9e1cc3f8ec4120ef0922c92fb8142bebf781c48ee9c9e941fb838",
+    "mesh_candidates": 0,
+    "embedded_texture_files": 0,
+    "texture_references": 25,
+    "ascii_strings": 1555,
+    "utf16le_strings": 6,
+    "unclaimed_bytes": 643314
+  },
+  {
+    "file": "SINDUSTT.RSS",
+    "size": 147084,
+    "sha256": "a7c771000ea8a4536a539e233ccd5417ee5587620b96d9eaf9f3db5de3662f0b",
+    "mesh_candidates": 0,
+    "embedded_texture_files": 0,
+    "texture_references": 4,
+    "ascii_strings": 400,
+    "utf16le_strings": 6,
+    "unclaimed_bytes": 147033
+  },
+  {
+    "file": "SNEON.RSS",
+    "size": 571197,
+    "sha256": "a92790cdf5c7b87a1ec568584e4b37f1f0c5107e716598b5aa83dcec481641f5",
+    "mesh_candidates": 0,
+    "embedded_texture_files": 0,
+    "texture_references": 10,
+    "ascii_strings": 6473,
+    "utf16le_strings": 0,
+    "unclaimed_bytes": 571146
+  },
+  {
+    "file": "SPLANET.RSS",
+    "size": 612250,
+    "sha256": "8b58940fea7bb2519d7d1cbc143f26ccbea2f82688fc12a56f729d92e0374010",
+    "mesh_candidates": 0,
+    "embedded_texture_files": 0,
+    "texture_references": 33,
+    "ascii_strings": 4434,
+    "utf16le_strings": 0,
+    "unclaimed_bytes": 612199
+  },
+  {
+    "file": "SPLANETT.RSS",
+    "size": 204688,
+    "sha256": "5c099b3f51d1f21f8cbf36816d9e3c9d7afe03f09baafb90aabc435f7015b7f1",
+    "mesh_candidates": 0,
+    "embedded_texture_files": 0,
+    "texture_references": 2,
+    "ascii_strings": 844,
+    "utf16le_strings": 0,
+    "unclaimed_bytes": 204637
+  },
+  {
+    "file": "SPPSI2K.RSS",
+    "size": 675248,
+    "sha256": "50e89af655eb864b1b7564f941fdb3ffaad9b2308c619d5e02fa13507ece4edb",
+    "mesh_candidates": 0,
+    "embedded_texture_files": 0,
+    "texture_references": 24,
+    "ascii_strings": 5062,
+    "utf16le_strings": 0,
+    "unclaimed_bytes": 675197
+  },
+  {
+    "file": "SSKIDPAD.RSS",
+    "size": 127431,
+    "sha256": "d69c6af16fe3846b05cf92ad68700c5b7c8d8f40dc6157efcbd3c3e04e7335b7",
+    "mesh_candidates": 0,
+    "embedded_texture_files": 0,
+    "texture_references": 2,
+    "ascii_strings": 173,
+    "utf16le_strings": 0,
+    "unclaimed_bytes": 127380
+  },
+  {
+    "file": "WHEELS.RSS",
+    "size": 49555,
+    "sha256": "ba3a3d40cfc30e490a9f8fe6d7e27dac2700700f4d3f4e159f9ea546a4c3dae9",
+    "mesh_candidates": 11,
+    "embedded_texture_files": 0,
+    "texture_references": 1,
+    "ascii_strings": 22,
+    "utf16le_strings": 0,
+    "unclaimed_bytes": 2083
+  }
+]

@@ -1,0 +1,5272 @@
+[
+  {
+    "rss_file": "ALIEN.RSS",
+    "name": "Alien",
+    "offset": 160,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Alien Front_0",
+      "Alien Top_0",
+      "Alien Back_0",
+      "Alien Side_0",
+      "Alien Bottom_0",
+      "Alien Wing_0",
+      "Aien Airbrake Left",
+      "Aien Airbrake Right",
+      "Alien Airbrake Side",
+      "Alien Wings",
+      "Alien Front_1",
+      "Alien Top_1",
+      "Alien Back_1",
+      "Alien Side_1",
+      "Alien Bottom_1",
+      "Alien Wing_1"
+    ],
+    "occurrences": 16,
+    "occurrences_at_offsets": [
+      160,
+      235,
+      311,
+      387,
+      465,
+      541,
+      754,
+      837,
+      920,
+      995,
+      1204,
+      1279,
+      1355,
+      1431,
+      1509,
+      1585
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "ALIEN.RSS",
+    "name": "carshdw",
+    "offset": 615,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "car shadow"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      615
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "ALIEN.RSS",
+    "name": "AlienBrk",
+    "offset": 1075,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Alien Tail Light"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1075
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "ALIEN.RSS",
+    "name": "Alien1_2",
+    "offset": 1711,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Alien Front_2",
+      "Alien Top_2",
+      "Alien Back_2",
+      "Alien Side_2",
+      "Alien Bottom_2"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      1711,
+      1789,
+      1868,
+      1947,
+      2028
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "GT90.RSS",
+    "name": "GT90",
+    "offset": 158,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "gt90 Front_0",
+      "gt90 Top_0",
+      "gt90 Back_0",
+      "gt90 Side_0",
+      "gt90 Bottom_0",
+      "gt90 Wing _0",
+      "gt90Engine Bevel_0",
+      "gt90 Wing High_0",
+      "gt90 AB Left",
+      "gt90 AB Right",
+      "gt90 Wing",
+      "gt90 Front_1",
+      "gt90 Top_1",
+      "gt90 Back_1",
+      "gt90 Side_1",
+      "gt90 Bottom_1",
+      "gt90 Wing _1",
+      "gt90Engine Bevel_1",
+      "gt90 Wing High_1"
+    ],
+    "occurrences": 19,
+    "occurrences_at_offsets": [
+      158,
+      231,
+      305,
+      379,
+      455,
+      530,
+      611,
+      690,
+      897,
+      973,
+      1045,
+      1250,
+      1323,
+      1397,
+      1471,
+      1547,
+      1622,
+      1703,
+      1782
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "GT90.RSS",
+    "name": "carshdw",
+    "offset": 764,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "gt90 shadow"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      764
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "GT90.RSS",
+    "name": "GT90Brke",
+    "offset": 1123,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "GT90 Tail Light"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1123
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "GT90.RSS",
+    "name": "GT901_2",
+    "offset": 1905,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "gt90 Front_2",
+      "gt90 Top_2",
+      "gt90 Back_2",
+      "gt90 Side_2",
+      "gt90 Bottom_2"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      1905,
+      1981,
+      2058,
+      2135,
+      2214
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "GTS.RSS",
+    "name": "GTS1",
+    "offset": 156,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "GTS Front_0",
+      "GTS Top_0",
+      "GTS Back_0",
+      "GTS Side_0",
+      "GTS Bottom_0",
+      "GTS Wing_0",
+      "GTS Airbrake Top",
+      "GTS Airbrake Bottm",
+      "GTS Flaps",
+      "GTS Front_1",
+      "GTS Top_1",
+      "GTS Back_1",
+      "GTS Side_1",
+      "GTS Bottom_1",
+      "GTS Wing_1"
+    ],
+    "occurrences": 15,
+    "occurrences_at_offsets": [
+      156,
+      228,
+      301,
+      374,
+      449,
+      522,
+      731,
+      812,
+      884,
+      1085,
+      1157,
+      1230,
+      1303,
+      1378,
+      1451
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "GTS.RSS",
+    "name": "carshdw",
+    "offset": 595,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "GTS Shadow"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      595
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "GTS.RSS",
+    "name": "GTSBrke",
+    "offset": 961,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "GTS Tail Light"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      961
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "GTS.RSS",
+    "name": "GTS1_2",
+    "offset": 1571,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "GTSFront_2",
+      "GTSTop_2",
+      "GTSBack_2",
+      "GTSSide_2",
+      "GTSBottom_2"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      1571,
+      1644,
+      1718,
+      1792,
+      1868
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "INDGO.RSS",
+    "name": "Indigo",
+    "offset": 162,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Indigo Front_0",
+      "Indigo Top_0",
+      "Indigo Back_0",
+      "Indigo Side_0",
+      "Indigo Bottom_0",
+      "Indigo Wing_0",
+      "Indigo Airbrake Left",
+      "Indigo AirbrakeRight",
+      "Indigo Front_1",
+      "Indigo Top_1",
+      "Indigo Back_1",
+      "Indigo Side_1",
+      "Indigo Bottom_1",
+      "Indigo Wing_1"
+    ],
+    "occurrences": 14,
+    "occurrences_at_offsets": [
+      162,
+      239,
+      317,
+      395,
+      475,
+      553,
+      771,
+      856,
+      985,
+      1062,
+      1140,
+      1218,
+      1298,
+      1376
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "INDGO.RSS",
+    "name": "carshdw",
+    "offset": 628,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "car shadow"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      628
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "INDGO.RSS",
+    "name": "Indgo1_2",
+    "offset": 1504,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "IndigoFront_2",
+      "IndigoTop_2",
+      "IndigoBack_2",
+      "IndigoSide_2",
+      "IndigoBottom_2"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      1504,
+      1582,
+      1661,
+      1740,
+      1821
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "JCAR.RSS",
+    "name": "carshdw",
+    "offset": 108,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "car shadow"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      108
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "JCAR.RSS",
+    "name": "JCar",
+    "offset": 232,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "J Car Front",
+      "J Car Top",
+      "J Car Back",
+      "J Car Side",
+      "J Car Bottom",
+      "J Car Wing Top",
+      "J Car Wing Back",
+      "J Car Wing Side",
+      "JCar Flaps",
+      "J Car Front_1",
+      "J Car Top_1",
+      "J Car Back_1",
+      "J Car Side_1",
+      "J Car Bottom_1",
+      "J Car Wing Top_1",
+      "J Car Wing Back_1",
+      "J Car Wing Side_1",
+      "J Car Front_2",
+      "J Car Top_2",
+      "J Car Back_2",
+      "J Car Side_2",
+      "J Car Bottom_2",
+      "J Car Wing Top_2",
+      "J Car Wing Back_2",
+      "J Car Wing Side_2"
+    ],
+    "occurrences": 25,
+    "occurrences_at_offsets": [
+      232,
+      304,
+      377,
+      450,
+      525,
+      602,
+      680,
+      758,
+      1048,
+      1255,
+      1329,
+      1404,
+      1479,
+      1556,
+      1635,
+      1715,
+      1795,
+      1920,
+      1994,
+      2069,
+      2144,
+      2221,
+      2300,
+      2380,
+      2460
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "JCAR.RSS",
+    "name": "jcarAirB",
+    "offset": 889,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Airbrake Top",
+      "Airbrake Bottom"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      889,
+      971
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "JCAR.RSS",
+    "name": "JCarBrke",
+    "offset": 1126,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "JCar Tail Light"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1126
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "JCAR.RSS",
+    "name": "JCar1_3",
+    "offset": 2583,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Jcar Front_3",
+      "Jcar Top_3",
+      "Jcar Back_3",
+      "Jcar Side_3",
+      "Jcar Bottom_3"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      2583,
+      2659,
+      2736,
+      2813,
+      2892
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "PISTN.RSS",
+    "name": "Piston",
+    "offset": 162,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Piston Front_0",
+      "Piston Top_0",
+      "Piston Back_0",
+      "Piston Side_0",
+      "Piston Bottom_0",
+      "Piston Wing_0",
+      "Piston Airbrake Top",
+      "Piston Airbrake Bott",
+      "Piston Wings",
+      "Piston Front_1",
+      "Piston Top_1",
+      "Piston Back_1",
+      "Piston Side_1",
+      "Piston Bottom_1",
+      "Piston Wing_1"
+    ],
+    "occurrences": 15,
+    "occurrences_at_offsets": [
+      162,
+      239,
+      317,
+      395,
+      475,
+      553,
+      770,
+      855,
+      932,
+      1146,
+      1223,
+      1301,
+      1379,
+      1459,
+      1537
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "PISTN.RSS",
+    "name": "carshdw",
+    "offset": 628,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "car shadow"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      628
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "PISTN.RSS",
+    "name": "PistnBrk",
+    "offset": 1015,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Pistion Tail Light"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1015
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "PISTN.RSS",
+    "name": "Pistn1_2",
+    "offset": 1666,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Piston Front_2",
+      "Piston Top_2",
+      "Piston Back_2",
+      "Piston Side_2",
+      "Piston Bottom_2"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      1666,
+      1745,
+      1825,
+      1905,
+      1987
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "carnwall",
+    "offset": 158,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "wall01",
+      "wall02"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      158,
+      231
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "costr",
+    "offset": 306,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "struct_a"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      306
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "carnstnd",
+    "offset": 438,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "stndwall",
+      "checkers",
+      "stndroof",
+      "fence"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      438,
+      513,
+      588,
+      660
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "funhse",
+    "offset": 781,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "funh",
+      "sign",
+      "clown",
+      "eyes"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      781,
+      850,
+      920,
+      989
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "octoride",
+    "offset": 1109,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "mech01",
+      "mech02",
+      "capsl"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      1109,
+      1182,
+      1254
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "bigtop",
+    "offset": 1378,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "tent 1",
+      "tent 2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1378,
+      1449
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "neon_e",
+    "offset": 1529,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "shuttleridebase"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1529
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "ntskyscr",
+    "offset": 1655,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "scr_rt",
+      "scr_lft"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1655,
+      1729
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "crnstars",
+    "offset": 1801,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "stars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1801
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "woodcost",
+    "offset": 1922,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "gridopen",
+      "closedgrid",
+      "track"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      1922,
+      1999,
+      2071
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "Farris_a",
+    "offset": 2143,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "faris"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2143
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "litetwr",
+    "offset": 2219,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "towerlite"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2219
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "carntowr",
+    "offset": 2292,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "sptower"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2292
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "funhneon",
+    "offset": 2421,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "neon_c",
+      "neon_d",
+      "neon_a",
+      "neon_b"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      2421,
+      2494,
+      2567,
+      2640
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "t4start",
+    "offset": 2719,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "start/finish"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2719
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "carncrwd",
+    "offset": 2792,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "crowded"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2792
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "Carny",
+    "offset": 2867,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "carnarch"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2867
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "t5banr1",
+    "offset": 3051,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "711ad",
+      "pepsiad"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3051,
+      3124
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "t5banr2",
+    "offset": 3195,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Frito"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3195
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "shuttle",
+    "offset": 3320,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "shttop",
+      "shtbotm"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3320,
+      3393
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "plnt_a",
+    "offset": 3477,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "shuttlerideplanet1"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3477
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "plnt_b",
+    "offset": 3560,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "shuttlerideplanet2"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3560
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "spider",
+    "offset": 3634,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Spiderfun"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3634
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "wrningp",
+    "offset": 3706,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "warning"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3706
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "S711.RSS",
+    "name": "ryv.",
+    "offset": 38241,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "S]^/"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      38241
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SACCEL.RSS",
+    "name": "T10tk00",
+    "offset": 155,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Track Edge",
+      "Track Center"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      155,
+      233
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SACCEL.RSS",
+    "name": "T10_Fin",
+    "offset": 307,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Fin Chck",
+      "Material #96",
+      "Fin Line Sign"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      307,
+      385,
+      1252
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SACCEL.RSS",
+    "name": "T10DOrnt",
+    "offset": 517,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Dis orient"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      517
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SACCEL.RSS",
+    "name": "T10acc0",
+    "offset": 592,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "D O Acc1",
+      "D O acc2",
+      "D O acc3",
+      "D O acc4",
+      "D O SkyLite edge",
+      "Wall Acc",
+      "Wall ACC 2",
+      "AC 01",
+      "AC 02",
+      "AC 03"
+    ],
+    "occurrences": 10,
+    "occurrences_at_offsets": [
+      592,
+      666,
+      740,
+      814,
+      896,
+      2444,
+      2520,
+      3143,
+      3214,
+      3285
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SACCEL.RSS",
+    "name": "T10_RAD",
+    "offset": 973,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Radioactive",
+      "Barrier Wall"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      973,
+      1479
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SACCEL.RSS",
+    "name": "T10_Orng",
+    "offset": 1095,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Orange"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1095
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SACCEL.RSS",
+    "name": "T10_Crd",
+    "offset": 1173,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "stands crwd",
+      "Crowd"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1173,
+      2591
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SACCEL.RSS",
+    "name": "T10glass",
+    "offset": 1323,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Glass"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1323
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SACCEL.RSS",
+    "name": "T10purp",
+    "offset": 1401,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Purple Panl"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1401
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SACCEL.RSS",
+    "name": "T10arrow",
+    "offset": 1550,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Arrow"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1550
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SACCEL.RSS",
+    "name": "T10hall",
+    "offset": 1680,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Tunnel Hall Lit",
+      "Tunnel Hall Dark",
+      "Tunnel Ceil Lit",
+      "Tunnel Ceil Dark",
+      "Tunnel Curb Lit",
+      "Tunnel Curb Unlit",
+      "Bld Hall Base"
+    ],
+    "occurrences": 7,
+    "occurrences_at_offsets": [
+      1680,
+      1762,
+      1843,
+      1925,
+      2006,
+      2089,
+      2730
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SACCEL.RSS",
+    "name": "T10tek2",
+    "offset": 2167,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Tunnel tek 2",
+      "Tunnel Tek 2 b"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      2167,
+      2247
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SACCEL.RSS",
+    "name": "T10matte",
+    "offset": 2318,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Matte"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2318
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SACCEL.RSS",
+    "name": "T10Skrim",
+    "offset": 2862,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim 1",
+      "Skrim 2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      2862,
+      2936
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SACCEL.RSS",
+    "name": "T10Stars",
+    "offset": 3014,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim Stars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3014
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SCLOVER.RSS",
+    "name": "T1skrim",
+    "offset": 163,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim 1",
+      "Skrim 2",
+      "Skrim Stars"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      163,
+      236,
+      313
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SCLOVER.RSS",
+    "name": "newT1",
+    "offset": 446,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Asphalt Glow",
+      "Ramp",
+      "Asphalt",
+      "Track Finish Line"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      446,
+      514,
+      585,
+      666
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SCLOVER.RSS",
+    "name": "Wall3",
+    "offset": 735,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Walls"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      735
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SCLOVER.RSS",
+    "name": "clvrcrwd",
+    "offset": 852,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Crowd",
+      "Stands Support"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      852,
+      933
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SCLOVER.RSS",
+    "name": "t1cement",
+    "offset": 1006,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Ground"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1006
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SCLOVER.RSS",
+    "name": "skybox",
+    "offset": 1138,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Sky Box Window",
+      "Sky Box Wall",
+      "Sky Box Top",
+      "Gate Windows",
+      "Gate Towers",
+      "Gates Bottom",
+      "Radar Top",
+      "Radar Walls",
+      "Radar Dish"
+    ],
+    "occurrences": 9,
+    "occurrences_at_offsets": [
+      1138,
+      1215,
+      1291,
+      2175,
+      2251,
+      2328,
+      3848,
+      3924,
+      3999
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SCLOVER.RSS",
+    "name": "t1light",
+    "offset": 1420,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Light Pole",
+      "Light Glow",
+      "Light Lens"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      1420,
+      1496,
+      1572
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SCLOVER.RSS",
+    "name": "support",
+    "offset": 1655,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Structure Surface"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1655
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SCLOVER.RSS",
+    "name": "t1ban1",
+    "offset": 1799,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Billboard 1 Surface",
+      "Billboard 2 Surface"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1799,
+      1883
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SCLOVER.RSS",
+    "name": "t1ban2",
+    "offset": 1967,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Billboard 3 Surface",
+      "Billboard 4 Surface"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1967,
+      2051
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SCLOVER.RSS",
+    "name": "t1fnce",
+    "offset": 2398,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Fence"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2398
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SCLOVER.RSS",
+    "name": "t1vidsgn",
+    "offset": 2528,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Sign Face 1",
+      "Sign Face 2",
+      "Sign Face 3"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      2528,
+      2606,
+      2684
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SCLOVER.RSS",
+    "name": "Baffle",
+    "offset": 2812,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Baffle Front",
+      "Baffle Side"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      2812,
+      2888
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SCLOVER.RSS",
+    "name": "fingate",
+    "offset": 3017,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Finish Text",
+      "Finish Structure",
+      "Finish Structure 2"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      3017,
+      3099,
+      3183
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SCLOVER.RSS",
+    "name": "t1stripe",
+    "offset": 3254,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Posts"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3254
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SCLOVER.RSS",
+    "name": "machines",
+    "offset": 3376,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Angled",
+      "Front"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3376,
+      3448
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SCLOVER.RSS",
+    "name": "portower",
+    "offset": 3642,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Fins",
+      "Tower Sides"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3642,
+      3720
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SCLOVER.RSS",
+    "name": "grneon",
+    "offset": 4075,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Track Lines"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4075
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "Dropzo_a",
+    "offset": 154,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "skrim"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      154
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "t5stars",
+    "offset": 226,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "stars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      226
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "ROAD",
+    "offset": 343,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Road"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      343
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "FINSHLN",
+    "offset": 415,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "finishlin"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      415
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "drop05",
+    "offset": 488,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "newalls"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      488
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "Rock_aa",
+    "offset": 617,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "mountans"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      617
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "newmine",
+    "offset": 741,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "stelplat",
+      "wood",
+      "tippl",
+      "mine2"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      741,
+      811,
+      882,
+      953
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "Cactus_a",
+    "offset": 1025,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "cact_a"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1025
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "drop04",
+    "offset": 1101,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "newstands"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1101
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "Yuca",
+    "offset": 1172,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "yuca_a"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1172
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "board1",
+    "offset": 1241,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "sign#1"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1241
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "CAUTN",
+    "offset": 1316,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "dangersign"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1316
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "Dropsign",
+    "offset": 1388,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "tunlsign"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1388
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "dropcrwd",
+    "offset": 1517,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Crowd Map"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1517
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "WODPNL",
+    "offset": 1590,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "stside"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1590
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "drop03",
+    "offset": 1666,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "newbuilding"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1666
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "STRTLIT",
+    "offset": 1736,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "light"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1736
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "t5start",
+    "offset": 1814,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "start/finish"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1814
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SDROPZN.RSS",
+    "name": "board2",
+    "offset": 1886,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "sign#2"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1886
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9_Crwd",
+    "offset": 153,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "CrowdT1",
+      "CrowdT2",
+      "CrowdB1",
+      "CrowdB2",
+      "Un used",
+      "Stadium Side",
+      "Gate Windows",
+      "Gate Towers",
+      "Gates Bottom",
+      "Arch Cncrte",
+      "FL Xgird",
+      "Tram Side",
+      "Tram Front",
+      "Tram Bttm",
+      "Tram Pole",
+      "BS BridgeSide",
+      "CorkScrw"
+    ],
+    "occurrences": 17,
+    "occurrences_at_offsets": [
+      153,
+      226,
+      299,
+      372,
+      445,
+      604,
+      896,
+      973,
+      1051,
+      1918,
+      5636,
+      6004,
+      6080,
+      6155,
+      6291,
+      6947,
+      7776
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9Walls",
+    "offset": 526,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Stands Top edge",
+      "Stnds UndrAwnBrte",
+      "Stnds Undr Not lit",
+      "RdWall",
+      "Concrete",
+      "Wl Stone",
+      "Wl rail"
+    ],
+    "occurrences": 7,
+    "occurrences_at_offsets": [
+      526,
+      687,
+      771,
+      8052,
+      8126,
+      8200,
+      8273
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9_IceWl",
+    "offset": 1185,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "RW SnowWal",
+      "RW IceWall",
+      "RW Snw to IceWall",
+      "RW IceFade",
+      "RW Grnd Ice",
+      "VG IceFade",
+      "VG GrndIce",
+      "VG Ice Wall",
+      "VG IceWall1"
+    ],
+    "occurrences": 9,
+    "occurrences_at_offsets": [
+      1185,
+      1262,
+      1346,
+      1423,
+      1501,
+      3695,
+      3772,
+      3850,
+      3928
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9pepone",
+    "offset": 1646,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Billboard 1 Surface",
+      "FinLn Pepsi one",
+      "Finish Sign",
+      "Ice Stalag",
+      "BS IceStlg"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      1646,
+      5717,
+      5795,
+      5872,
+      7023
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9711fto",
+    "offset": 1721,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Frito bb",
+      "711 bb"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1721,
+      1794
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9_SnwRk",
+    "offset": 2047,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "H snrk1",
+      "H snrk2",
+      "H snrk3",
+      "H IceFade",
+      "H Grnd Snow",
+      "CS IceFade",
+      "CS GrndIce",
+      "CS SnRk3",
+      "CS SnRk2",
+      "CS SnRk1",
+      "Bobsled snow"
+    ],
+    "occurrences": 11,
+    "occurrences_at_offsets": [
+      2047,
+      2121,
+      2195,
+      2271,
+      2349,
+      4750,
+      4827,
+      4983,
+      5058,
+      5133,
+      7102
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9_Vill",
+    "offset": 2482,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Vpanel1",
+      "Vpanel2",
+      "Vwal",
+      "Vwind1",
+      "Vwind2",
+      "Vdoor1",
+      "Vpanel3",
+      "Vpanel4",
+      "Vpanel5",
+      "Vwal1",
+      "Vdoor2",
+      "Vwind3",
+      "VcabPan",
+      "VcabDr",
+      "VcabWin"
+    ],
+    "occurrences": 15,
+    "occurrences_at_offsets": [
+      2482,
+      2555,
+      2625,
+      2697,
+      2769,
+      2841,
+      2984,
+      3057,
+      3130,
+      3201,
+      3273,
+      3345,
+      3418,
+      3490,
+      3563
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9Tree0",
+    "offset": 4051,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "PineA",
+      "Pine C"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      4051,
+      4123
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9ArwOrn",
+    "offset": 4202,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Arrows Orange"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4202
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9_Tunnl",
+    "offset": 4323,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Tnwl-u",
+      "TnWl-L",
+      "TnLt",
+      "TnCiel",
+      "Tn wl 2",
+      "CS Tnwl-u",
+      "CS TnWl-L",
+      "CS TnLt",
+      "CS TnCiel",
+      "CS Tn wl 2"
+    ],
+    "occurrences": 10,
+    "occurrences_at_offsets": [
+      4323,
+      4396,
+      4467,
+      4540,
+      4614,
+      5209,
+      5285,
+      5359,
+      5435,
+      5512
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9TreBck",
+    "offset": 4908,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "CSTree BckGrnd"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4908
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9_IceCr",
+    "offset": 6430,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "CT Ground Ice",
+      "CT Iw1",
+      "CT IW 2",
+      "Frozen Yeti",
+      "CT IcWl Crop",
+      "CT icewl-3",
+      "Cryst Ground"
+    ],
+    "occurrences": 7,
+    "occurrences_at_offsets": [
+      6430,
+      6503,
+      6577,
+      6655,
+      6734,
+      6811,
+      7181
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9trk",
+    "offset": 7305,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Track Edge",
+      "Track Center"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      7305,
+      7381
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9Trkns",
+    "offset": 7461,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Trk no Snow Edge",
+      "Trak no snow center"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      7461,
+      7546
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9tktrn",
+    "offset": 7623,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "TrackTransC",
+      "Track Trans E"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      7623,
+      7702
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9TrkSF",
+    "offset": 7853,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "TrakSF edge",
+      "Trak SF center"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      7853,
+      7933
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9Cry-1",
+    "offset": 8399,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Cry-1 Blue",
+      "Cry-1 Pink"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      8399,
+      8475
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9Skrim",
+    "offset": 8606,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim 1",
+      "Skrim 2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      8606,
+      8679
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "T9Stars",
+    "offset": 8756,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim Stars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      8756
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "aci.",
+    "offset": 22247,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "INP."
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      22247
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "PQV-",
+    "offset": 28203,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "egm/"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      28203
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "PQV.",
+    "offset": 28292,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "UTZ."
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      28292
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "rvzE",
+    "offset": 38162,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      ".,*D"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      38162
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "JIOw",
+    "offset": 43057,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "jirx"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      43057
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "Q_f1",
+    "offset": 56244,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Q_f2"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      56244
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "Q_f2",
+    "offset": 56422,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Q_f3",
+      "7>c("
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      56422,
+      57223
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "Vac3",
+    "offset": 56600,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Vac4"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      56600
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "Vac4",
+    "offset": 56778,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Vac5"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      56778
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "Q_f0",
+    "offset": 63453,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Q_f#"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      63453
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFRITO.RSS",
+    "name": "Vhouse3",
+    "offset": 63776,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "@No1"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      63776
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFUTURE.RSS",
+    "name": "T7SQ01",
+    "offset": 165,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "T7future260",
+      "T7future230",
+      "T7future200",
+      "T7future250",
+      "T7future-001200",
+      "T7future-0900",
+      "T7future-0901",
+      "T7future-0902",
+      "T7future-0903",
+      "T7future0600",
+      "T7future0601",
+      "T7future0602",
+      "T7future0603",
+      "T7future0604",
+      "T7standtops-10000",
+      "T7standtops-10100",
+      "T7standtops-10300",
+      "T7future1200",
+      "T7future1260",
+      "T7future1230",
+      "T7future1270",
+      "T7future0500",
+      "T7future0501",
+      "T7future0502",
+      "T7future0503",
+      "T7future0504",
+      "T7future0400",
+      "T7future0401",
+      "T7future0402",
+      "T7future0403",
+      "T7future0404"
+    ],
+    "occurrences": 31,
+    "occurrences_at_offsets": [
+      165,
+      241,
+      317,
+      393,
+      473,
+      818,
+      896,
+      974,
+      1052,
+      1552,
+      1629,
+      1706,
+      1783,
+      1860,
+      3764,
+      3846,
+      3928,
+      4061,
+      4138,
+      4215,
+      4292,
+      4425,
+      4502,
+      4579,
+      4656,
+      4733,
+      4866,
+      4943,
+      5020,
+      5097,
+      5174
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFUTURE.RSS",
+    "name": "T7sq03",
+    "offset": 607,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "T7future-0300",
+      "T7future-0301",
+      "T7future0100",
+      "T7future0101",
+      "T7future0700",
+      "T7future0701",
+      "trackwalls00",
+      "finishline-00"
+    ],
+    "occurrences": 8,
+    "occurrences_at_offsets": [
+      607,
+      685,
+      1185,
+      1262,
+      1993,
+      2070,
+      2821,
+      7386
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFUTURE.RSS",
+    "name": "T7sq13",
+    "offset": 1342,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "T7futureroof-00",
+      "T7futurecrwd00",
+      "T7futurecrwd01",
+      "T7futurecrwd02",
+      "T7futurecrwd03"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      1342,
+      3384,
+      3463,
+      3542,
+      3621
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFUTURE.RSS",
+    "name": "T7sq04",
+    "offset": 1419,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "trackwalls05",
+      "tunnel-outside-00",
+      "tunnel-outside-01",
+      "tunnel-outside-02",
+      "tunnel-outside-03",
+      "tunnel-outside-04"
+    ],
+    "occurrences": 6,
+    "occurrences_at_offsets": [
+      1419,
+      2208,
+      2290,
+      2372,
+      2454,
+      2536
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFUTURE.RSS",
+    "name": "T7sq06",
+    "offset": 2667,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "cotkscrew-01",
+      "cotkscrew-02",
+      "ground-01",
+      "ground-02",
+      "ground-03",
+      "ground-04"
+    ],
+    "occurrences": 6,
+    "occurrences_at_offsets": [
+      2667,
+      2744,
+      2945,
+      3019,
+      3093,
+      3167
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFUTURE.RSS",
+    "name": "T7sq07",
+    "offset": 3247,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "T7futureroof-01"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3247
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFUTURE.RSS",
+    "name": "T7sq10",
+    "offset": 5304,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "tunnel-402",
+      "tunnel-401",
+      "tunnel-400",
+      "tunnel-403",
+      "tunnel-404",
+      "FutretunnC-01",
+      "FutretunnC-02",
+      "tunnel-002",
+      "tunnel-003",
+      "tunnel-004",
+      "tunnel-005",
+      "futretunnB-01",
+      "futretunnB-02",
+      "futretunnB-03"
+    ],
+    "occurrences": 14,
+    "occurrences_at_offsets": [
+      5304,
+      5379,
+      5454,
+      5529,
+      5604,
+      5682,
+      5760,
+      5890,
+      5965,
+      6040,
+      6115,
+      6193,
+      6271,
+      6349
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFUTURE.RSS",
+    "name": "T7sq02",
+    "offset": 6479,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "tunnel-500",
+      "tunnel-502",
+      "tunnel-501",
+      "futretunnA-01",
+      "futretunnA-02",
+      "tunnel-00-800",
+      "tunnel-00-801",
+      "tunnel-00-802",
+      "Futretunn1-01",
+      "Futretunn1-02",
+      "Futretunn1-03"
+    ],
+    "occurrences": 11,
+    "occurrences_at_offsets": [
+      6479,
+      6554,
+      6629,
+      6707,
+      6785,
+      6918,
+      6996,
+      7074,
+      7152,
+      7230,
+      7308
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFUTURE.RSS",
+    "name": "T7sq16",
+    "offset": 7516,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim 1",
+      "Skrim 2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      7516,
+      7588
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFUTURE.RSS",
+    "name": "t7stars",
+    "offset": 7664,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim Stars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      7664
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFUTURE.RSS",
+    "name": "T7sq09",
+    "offset": 7787,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Track00-60",
+      "Track01",
+      "Track02",
+      "Track03",
+      "Track04",
+      "Track05"
+    ],
+    "occurrences": 6,
+    "occurrences_at_offsets": [
+      7787,
+      7859,
+      7931,
+      8003,
+      8075,
+      8147
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SFUTURE.RSS",
+    "name": "T7grid",
+    "offset": 8221,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Loop Grid"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      8221
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "vegaskrm",
+    "offset": 158,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim Surface"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      158
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "t2stars",
+    "offset": 236,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "StarSurface"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      236
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "sphinx",
+    "offset": 361,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "t2sphx01",
+      "t2sphx02",
+      "t2sphx04",
+      "t2sphx03",
+      "t2sphx05"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      361,
+      434,
+      507,
+      580,
+      653
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "mirage",
+    "offset": 725,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "miraged"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      725
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "vegas03",
+    "offset": 797,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "vegas03"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      797
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "neontree",
+    "offset": 871,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "neontree"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      871
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "vegas467",
+    "offset": 946,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "vegas467"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      946
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "volcano",
+    "offset": 1069,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "volcano1",
+      "volcano2",
+      "volcano3",
+      "lava"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      1069,
+      1143,
+      1217,
+      1287
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "newT2",
+    "offset": 1481,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "t2stripe",
+      "t2lght02",
+      "t2slght",
+      "t2line2",
+      "t2side2",
+      "t2arrow",
+      "t2lines"
+    ],
+    "occurrences": 7,
+    "occurrences_at_offsets": [
+      1481,
+      1553,
+      1624,
+      1695,
+      1766,
+      1837,
+      1908
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "neon",
+    "offset": 2026,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "NeonWall",
+      "Nwall2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      2026,
+      2095
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "youclown",
+    "offset": 2216,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "clown01",
+      "cteeth",
+      "clown02",
+      "ctunnel"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      2216,
+      2289,
+      2363,
+      2437
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "vegas15",
+    "offset": 2561,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "vegasb15"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2561
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "showboat",
+    "offset": 2685,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "sboat01",
+      "sboat02",
+      "sboat03",
+      "sboat05"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      2685,
+      2759,
+      2833,
+      2907
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "future3",
+    "offset": 2981,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "future3"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2981
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "sidewalk",
+    "offset": 3052,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "swalk"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3052
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "luxor",
+    "offset": 3124,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "luxor"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3124
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "stratosp",
+    "offset": 3194,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "strato"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3194
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "LGHTPOLE",
+    "offset": 3270,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "lightpole"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3270
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "nugget",
+    "offset": 3343,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "nugget"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3343
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "future1",
+    "offset": 3415,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "future1"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3415
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "t2crwd",
+    "offset": 3488,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "crowded"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3488
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "castle",
+    "offset": 3559,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "castle"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3559
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "pirates",
+    "offset": 3683,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "pship01",
+      "pship02",
+      "shipmast",
+      "pship03",
+      "shipsail",
+      "cannon12",
+      "pship04",
+      "rigging1"
+    ],
+    "occurrences": 8,
+    "occurrences_at_offsets": [
+      3683,
+      3756,
+      3830,
+      3903,
+      3977,
+      4051,
+      4124,
+      4198
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "caesar",
+    "offset": 4274,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "newcaesars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4274
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "vsign02",
+    "offset": 4346,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "vsign02"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4346
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "vegas08",
+    "offset": 4419,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "vegas08"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4419
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "vsign04",
+    "offset": 4492,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "vsign04"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4492
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "T2start",
+    "offset": 4563,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "start"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4563
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "T2water",
+    "offset": 4634,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "water"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4634
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "gambdirt",
+    "offset": 4709,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "vegasdirt"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4709
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SGAMBLR.RSS",
+    "name": "Andysign",
+    "offset": 4780,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "andy"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4780
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "t8crwd00",
+    "offset": 151,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "stands",
+      "stands00",
+      "stands01",
+      "standsoverhang02",
+      "standsoverhang00",
+      "standsoverhang01",
+      "standsoverhang03"
+    ],
+    "occurrences": 7,
+    "occurrences_at_offsets": [
+      151,
+      226,
+      301,
+      384,
+      467,
+      550,
+      633
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "t8post00",
+    "offset": 762,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "tracksign01",
+      "tracksign00",
+      "trackpost00"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      762,
+      840,
+      918
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "T8supp00",
+    "offset": 1048,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "RAIL05",
+      "greenl",
+      "concrete02"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      1048,
+      1121,
+      1198
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "t8tbtm00",
+    "offset": 1329,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "tunnbystands",
+      "tunnbystands00"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1329,
+      1410
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "T8ceil01",
+    "offset": 1547,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "tunnceiling01",
+      "tunnceiling02"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1547,
+      1627
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "T8gird00",
+    "offset": 1756,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "billbase06",
+      "gird00",
+      "gird01",
+      "gird02",
+      "gird03"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      1756,
+      7586,
+      7659,
+      7732,
+      7805
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "t8offa00",
+    "offset": 1887,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "office01",
+      "office02",
+      "office03",
+      "office04",
+      "office05",
+      "office06",
+      "office07",
+      "office08"
+    ],
+    "occurrences": 8,
+    "occurrences_at_offsets": [
+      1887,
+      1962,
+      2037,
+      2112,
+      2187,
+      2262,
+      2337,
+      2412
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "T8bldB00",
+    "offset": 2543,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "buildingA00",
+      "buildingA01",
+      "buildingA02",
+      "Smallbuild00",
+      "Smallbuild01",
+      "Smallbuild02",
+      "billbase04"
+    ],
+    "occurrences": 7,
+    "occurrences_at_offsets": [
+      2543,
+      2621,
+      2699,
+      2829,
+      2908,
+      2987,
+      7935
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "T8wbld00",
+    "offset": 3114,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "warehse00",
+      "warehse01",
+      "warehse02"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      3114,
+      3190,
+      3266
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "T8tunn07",
+    "offset": 3339,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "T8pipe"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3339
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "t8fact00",
+    "offset": 3464,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "chimney00",
+      "chimney01",
+      "fact25",
+      "fact05",
+      "fact03",
+      "fact01",
+      "fact04",
+      "fact00",
+      "fact20",
+      "fact21"
+    ],
+    "occurrences": 11,
+    "occurrences_at_offsets": [
+      3464,
+      3540,
+      3613,
+      3743,
+      3816,
+      3889,
+      3962,
+      9629,
+      9702,
+      9775,
+      9848
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "T8back01",
+    "offset": 4091,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "fact09",
+      "fact08",
+      "fact10",
+      "fact07"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      4091,
+      4164,
+      4237,
+      4310
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "T8sid00",
+    "offset": 4442,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "sidewalk20",
+      "sidewalk21",
+      "sidewalkto black",
+      "sidewalk02",
+      "sidewalk10",
+      "sidewalk11"
+    ],
+    "occurrences": 6,
+    "occurrences_at_offsets": [
+      4442,
+      4518,
+      9372,
+      9506,
+      9984,
+      10060
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "t8gthm00",
+    "offset": 4651,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "gothambuild02",
+      "gotbuild02",
+      "gotbuild03",
+      "gotbuild04",
+      "gotbuild05",
+      "gotbuild06",
+      "gotbuild07",
+      "gotbuild08",
+      "gotbuild09",
+      "Gothambuild03",
+      "Gothambuild01"
+    ],
+    "occurrences": 11,
+    "occurrences_at_offsets": [
+      4651,
+      4728,
+      4805,
+      4882,
+      4959,
+      5036,
+      5113,
+      5190,
+      5267,
+      5347,
+      5427
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "T8tress0",
+    "offset": 5556,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "concrete05a",
+      "tressel55-0000"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      5556,
+      5637
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "t8jg00L",
+    "offset": 5709,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "jg-00"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      5709
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "T8ligh00",
+    "offset": 5840,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "tunnlight00",
+      "tunellight01"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      5840,
+      5919
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "t8tnnn00",
+    "offset": 6130,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "stands-70090",
+      "tunn00",
+      "tunn10",
+      "tunn01",
+      "tunn02",
+      "tunnextwall02",
+      "tunn04",
+      "tunn05",
+      "tunnextwall01",
+      "tunn07",
+      "tunn08",
+      "tunn09",
+      "tunnextwall03",
+      "tunnextwall04",
+      "tunnhang00",
+      "tunnelwallbelow00",
+      "tunnextwall00"
+    ],
+    "occurrences": 17,
+    "occurrences_at_offsets": [
+      6130,
+      8064,
+      8137,
+      8210,
+      8283,
+      8363,
+      8436,
+      8509,
+      8589,
+      8662,
+      8735,
+      8808,
+      8888,
+      8968,
+      9045,
+      9129,
+      9209
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "t8bann00",
+    "offset": 6257,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "billbase05a"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      6257
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "T8skrim8",
+    "offset": 6389,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim 1",
+      "Skrim 2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      6389,
+      6463
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "t8stars",
+    "offset": 6541,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim Stars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      6541
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "t8cena00",
+    "offset": 6676,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "centerbuild02",
+      "centerbuild01",
+      "cent01",
+      "centerbuild03",
+      "centertop",
+      "centerbase01",
+      "centbasebtm00",
+      "centerbase00",
+      "centerwindow00"
+    ],
+    "occurrences": 9,
+    "occurrences_at_offsets": [
+      6676,
+      6756,
+      6829,
+      6909,
+      7144,
+      7223,
+      7303,
+      7382,
+      7463
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "T8gmcen0",
+    "offset": 6989,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "centerbuild04"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      6989
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "T8cen01",
+    "offset": 7069,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "centertower00"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      7069
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUST.RSS",
+    "name": "conrt01",
+    "offset": 9290,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "concretewall03"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      9290
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUSTT.RSS",
+    "name": "t8start",
+    "offset": 110,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "start/finish"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      110
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUSTT.RSS",
+    "name": "t8bann00",
+    "offset": 243,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "pepsifresh00"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      243
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUSTT.RSS",
+    "name": "T8wall00",
+    "offset": 381,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "eextrawall-00",
+      "Wallturn00",
+      "Walls007"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      381,
+      458,
+      533
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SINDUSTT.RSS",
+    "name": "T8trk00",
+    "offset": 660,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Track1",
+      "Track2",
+      "track3",
+      "track4",
+      "track5",
+      "track6"
+    ],
+    "occurrences": 6,
+    "occurrences_at_offsets": [
+      660,
+      732,
+      804,
+      876,
+      948,
+      1020
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SNEON.RSS",
+    "name": "T11tk00",
+    "offset": 155,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Track Edge",
+      "Track Center"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      155,
+      233
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SNEON.RSS",
+    "name": "T11bld01",
+    "offset": 364,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Bldng Grey Wall",
+      "Bld Windows",
+      "Bldgn Grey Wl lit",
+      "Bldg Plain SQuare",
+      "Yellow Lts",
+      "Cyan lits",
+      "Drk blue lits",
+      "Lt blue lits",
+      "Tun Lite",
+      "Tun UnLit",
+      "Tun Wl UnLit",
+      "Tun Wal Unlit",
+      "Lt Bulb",
+      "Underpass light",
+      "Neon 1",
+      "Neon 2",
+      "Neon 3"
+    ],
+    "occurrences": 17,
+    "occurrences_at_offsets": [
+      364,
+      442,
+      526,
+      610,
+      1513,
+      1589,
+      1669,
+      1748,
+      1823,
+      1899,
+      1978,
+      2058,
+      2285,
+      2367,
+      2440,
+      2513,
+      2586
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SNEON.RSS",
+    "name": "T11rkbrn",
+    "offset": 685,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "RckWl 01",
+      "Rck Wl 02",
+      "Rck Wl 03",
+      "Rck Wl 04"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      685,
+      761,
+      837,
+      913
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SNEON.RSS",
+    "name": "T11tk01",
+    "offset": 989,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Tek rk 01",
+      "Tek rk 02",
+      "Tek rk 03",
+      "Tek rk 04",
+      "Tek 01",
+      "Tek 02"
+    ],
+    "occurrences": 6,
+    "occurrences_at_offsets": [
+      989,
+      1064,
+      1139,
+      1214,
+      1286,
+      1358
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SNEON.RSS",
+    "name": "T11_Crd",
+    "offset": 2130,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Crowd"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2130
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SNEON.RSS",
+    "name": "T11_Fin",
+    "offset": 2212,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Finish line sign",
+      "Fin Line track surf"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      2212,
+      2827
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SNEON.RSS",
+    "name": "T11Stars",
+    "offset": 2741,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim Stars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2741
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SNEON.RSS",
+    "name": "bRaJ",
+    "offset": 11580,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "zf}K"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      11580
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SNEON.RSS",
+    "name": "bRaL",
+    "offset": 12559,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "PFYJ"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      12559
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SNEON.RSS",
+    "name": "gTTb",
+    "offset": 13360,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "]MTc"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      13360
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "plntwall",
+    "offset": 164,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Standard Wall",
+      "Cavern Wall",
+      "Straight walls"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      164,
+      242,
+      323
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "plntcrwd",
+    "offset": 396,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Stands"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      396
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "strtlght",
+    "offset": 527,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Light Pole",
+      "Light Lens"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      527,
+      604
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "t3cement",
+    "offset": 677,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Ground"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      677
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "mynpyrmd",
+    "offset": 753,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "mayansect"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      753
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "mynjungl",
+    "offset": 889,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Mayanjungle00",
+      "mayanjungle02"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      889,
+      969
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "mayan1",
+    "offset": 1106,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "mayanwallone",
+      "mayanwalltwo",
+      "mayanwallthree",
+      "statueside",
+      "statueside2"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      1106,
+      1183,
+      1262,
+      1337,
+      1413
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "Prsgate",
+    "offset": 1483,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "pgate"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1483
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "paris02",
+    "offset": 1609,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Red door",
+      "Red brick"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1609,
+      1684
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "paris01",
+    "offset": 2008,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Yellow brick",
+      "Door 2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      2008,
+      2080
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "awn02",
+    "offset": 2153,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Awn Grn"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2153
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "awn01",
+    "offset": 2226,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "AwningR&W"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2226
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "junglwal",
+    "offset": 2297,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "lowwall"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2297
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "Tileroof",
+    "offset": 2372,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "pagdroof"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2372
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "pagd",
+    "offset": 2446,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "NewPagd"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2446
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "greatwal",
+    "offset": 2564,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "walltop",
+      "wallbase"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      2564,
+      2639
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "Rocks4",
+    "offset": 2765,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Cavern Rock",
+      "Stalactites"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      2765,
+      2998
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "CavrnFlr",
+    "offset": 2842,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Cavern Floor"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2842
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "CWater3",
+    "offset": 2921,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Cavern Water"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2921
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "t3banr1",
+    "offset": 3127,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Billboards 1",
+      "Billboards 2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3127,
+      3205
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "t3banr2",
+    "offset": 3283,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Billboards 3",
+      "Billboards 4"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3283,
+      3361
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "t3banr3",
+    "offset": 3439,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Billboards 5",
+      "t3 flags"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3439,
+      3513
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "pyramid",
+    "offset": 3587,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Pyramids"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3587
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "plamp",
+    "offset": 3715,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Lantern metal",
+      "bulb"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3715,
+      3783
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "t3skrim",
+    "offset": 3912,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim 1",
+      "Skrim 2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3912,
+      3985
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "t3stars",
+    "offset": 4062,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim Stars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4062
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "plastrwl",
+    "offset": 4134,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "holder"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      4134
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "T3mtn",
+    "offset": 4254,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "newmt",
+      "newmt2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      4254,
+      4324
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "Eifel",
+    "offset": 4448,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Girders",
+      "Bracing"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      4448,
+      4519
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "T3sphinx",
+    "offset": 4642,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "t3sphx01",
+      "t3sphx02",
+      "t3sphx04",
+      "t3sphx03",
+      "t3sphx05"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      4642,
+      4717,
+      4792,
+      4867,
+      4942
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "SFsign",
+    "offset": 5015,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Sfline"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      5015
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "ROCK_AA",
+    "offset": 5094,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Cavern Outside"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      5094
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANET.RSS",
+    "name": "T3Tree",
+    "offset": 5167,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "T3trees"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      5167
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANETT.RSS",
+    "name": "t3cement",
+    "offset": 108,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Track Edge"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      108
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPLANETT.RSS",
+    "name": "USah",
+    "offset": 54216,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "USag"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      54216
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6redblu",
+    "offset": 159,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Pepsi Red",
+      "Pepsi Blue"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      159,
+      236
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6crdlit",
+    "offset": 358,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "CrowdT1",
+      "CrowdB1"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      358,
+      506
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6crddrk",
+    "offset": 432,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "CrowdT2",
+      "CrowdB2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      432,
+      580
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6WlFNCE",
+    "offset": 660,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "RoadFenceStad",
+      "Stadium Side",
+      "Stnds UndrAwnBrte",
+      "Stnds Undr Not lit",
+      "FL Xgird",
+      "Ter Bridge Fence",
+      "Fence Top(Crop)",
+      "Fence (crop)",
+      "Fence Bottom (crop)"
+    ],
+    "occurrences": 9,
+    "occurrences_at_offsets": [
+      660,
+      821,
+      905,
+      990,
+      1112,
+      3047,
+      6098,
+      6177,
+      6263
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6PepOne",
+    "offset": 742,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "StandsPepBanner",
+      "Pepsi One bb",
+      "Finish Line bb",
+      "BB Lights",
+      "Pepsi Ban Wall"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      742,
+      1191,
+      1429,
+      1674,
+      5776
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6PB00",
+    "offset": 1516,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Pepsi Ball Animation"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1516
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6711FTO",
+    "offset": 1747,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "711 bb",
+      "Frito BB"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1747,
+      1822
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6cave01",
+    "offset": 1944,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Cave01",
+      "Cave02",
+      "Cave03",
+      "Cave04"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      1944,
+      2017,
+      2090,
+      2163
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6Wtr01",
+    "offset": 2235,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Water"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2235
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6MntSnw",
+    "offset": 2311,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Cave Mnt01",
+      "Cave Mnt02",
+      "Cave Mnt 03",
+      "WaterFall",
+      "Ground Snow",
+      "Snow Roof"
+    ],
+    "occurrences": 6,
+    "occurrences_at_offsets": [
+      2311,
+      2388,
+      2466,
+      2542,
+      2698,
+      4365
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6Cncrt",
+    "offset": 2621,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Tunnel Entry"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2621
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6CncIce",
+    "offset": 2781,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Cave Cncrete Ice"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2781
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6IceCol",
+    "offset": 2864,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Ice Collumn Cave"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      2864
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6trebck",
+    "offset": 3123,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Tree Back"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3123
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6tunnel",
+    "offset": 3323,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Terrain TunCeil Unlit",
+      "Terrain Tun Ciel lit",
+      "Terrain Tun Wal unli",
+      "Terrain Tun Wall lit"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      3323,
+      3410,
+      3497,
+      3584
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6Tree01",
+    "offset": 3707,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "PineA",
+      "Pine C"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3707,
+      3780
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6Tree00",
+    "offset": 3853,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Pine D",
+      "Tree 01"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      3853,
+      3927
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6Blding",
+    "offset": 4054,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Base Unlit",
+      "Base Lit",
+      "Windows non lite",
+      "Window Lit",
+      "Angle Non lit",
+      "Angle Lit"
+    ],
+    "occurrences": 6,
+    "occurrences_at_offsets": [
+      4054,
+      4129,
+      4212,
+      4289,
+      4445,
+      4521
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6Trk00",
+    "offset": 4645,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Track Snow",
+      "Trak no snow Centr",
+      "Trak nosnow Edge"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      4645,
+      4805,
+      4887
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6trk01",
+    "offset": 4721,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Trak Trans",
+      "Track Strt Finish line",
+      "Trk Trans Cnter"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      4721,
+      4975,
+      5056
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6trkcnt",
+    "offset": 5136,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Trk Snow Cnter",
+      "Blmp sides",
+      "Blimp nose",
+      "Blmp Cabin",
+      "Blmp Grey",
+      "Lt Pole tex",
+      "Light Bulb"
+    ],
+    "occurrences": 7,
+    "occurrences_at_offsets": [
+      5136,
+      5260,
+      5337,
+      5491,
+      5567,
+      6543,
+      6620
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6Walls",
+    "offset": 5696,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Walls Rail Wall",
+      "Pepsi Wall",
+      "Orange Arrw Wall",
+      "Concrete (walls)",
+      "Conc wall",
+      "Rail Wall"
+    ],
+    "occurrences": 6,
+    "occurrences_at_offsets": [
+      5696,
+      5853,
+      5935,
+      6017,
+      6339,
+      6414
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6scrim",
+    "offset": 6752,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim 1",
+      "Skrim 2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      6752,
+      6825
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SPPSI2K.RSS",
+    "name": "T6Stars",
+    "offset": 6902,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim Stars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      6902
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SSKIDPAD.RSS",
+    "name": "Stripes3",
+    "offset": 106,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skid Pad"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      106
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "SSKIDPAD.RSS",
+    "name": "t1stripe",
+    "offset": 224,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      224
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "rss_file": "WHEELS.RSS",
+    "name": "tire1",
+    "offset": 152,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Center",
+      "Tread"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      152,
+      221
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]
