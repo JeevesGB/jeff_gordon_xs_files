@@ -1,0 +1,4148 @@
+{
+  "file": "SFUTURE.RSS",
+  "size": 705498,
+  "sha256": "12e5101285cc2866365275928790bbc7e45c133b0ed63bd287d63decfa2991cc",
+  "original_copy": "SFUTURE.RSS.original",
+  "texture_reference_count": 92,
+  "unique_texture_identifiers": 12,
+  "plausible_atlas_rect_count": 92,
+  "zero_padding_after_rect_count": 92,
+  "texture_identifiers_grouped": [
+    {
+      "identifier": "T7SQ01",
+      "occurrences": 31,
+      "surface_labels": [
+        "T7future260",
+        "T7future230",
+        "T7future200",
+        "T7future250",
+        "T7future-001200",
+        "T7future-0900",
+        "T7future-0901",
+        "T7future-0902",
+        "T7future-0903",
+        "T7future0600",
+        "T7future0601",
+        "T7future0602",
+        "T7future0603",
+        "T7future0604",
+        "T7standtops-10000",
+        "T7standtops-10100",
+        "T7standtops-10300",
+        "T7future1200",
+        "T7future1260",
+        "T7future1230",
+        "T7future1270",
+        "T7future0500",
+        "T7future0501",
+        "T7future0502",
+        "T7future0503",
+        "T7future0504",
+        "T7future0400",
+        "T7future0401",
+        "T7future0402",
+        "T7future0403",
+        "T7future0404"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.2529296875,
+          0.243133544921875,
+          0.054901123046875
+        ],
+        [
+          0.0039215087890625,
+          0.3195953369140625,
+          0.2411651611328125,
+          0.0529327392578125
+        ],
+        [
+          0.258819580078125,
+          0.0058746337890625,
+          0.2333221435546875,
+          0.2333221435546875
+        ],
+        [
+          0.0058746337890625,
+          0.0039215087890625,
+          0.23529052734375,
+          0.23529052734375
+        ],
+        [
+          0.0039215087890625,
+          0.384307861328125,
+          0.4842987060546875,
+          0.1156768798828125
+        ],
+        [
+          0.0137176513671875,
+          0.3823394775390625,
+          0.4666595458984375,
+          0.11175537109375
+        ],
+        [
+          0.2529296875,
+          0.3195953369140625,
+          0.117645263671875,
+          0.0529327392578125
+        ],
+        [
+          0.0,
+          0.3176422119140625,
+          0.245086669921875,
+          0.054901123046875
+        ],
+        [
+          0.0058746337890625,
+          0.3176422119140625,
+          0.2392120361328125,
+          0.054901123046875
+        ],
+        [
+          0.001953125,
+          0.3823394775390625,
+          0.4921417236328125,
+          0.117645263671875
+        ],
+        [
+          0.260772705078125,
+          0.3176422119140625,
+          0.1058807373046875,
+          0.0529327392578125
+        ],
+        [
+          0.0039215087890625,
+          0.3195953369140625,
+          0.2411651611328125,
+          0.0529327392578125
+        ],
+        [
+          0.2568511962890625,
+          0.0058746337890625,
+          0.23724365234375,
+          0.23529052734375
+        ],
+        [
+          0.0039215087890625,
+          0.0058746337890625,
+          0.23724365234375,
+          0.23529052734375
+        ],
+        [
+          0.3823394775390625,
+          0.2548980712890625,
+          0.04901123046875,
+          0.1137237548828125
+        ],
+        [
+          0.0058746337890625,
+          0.2529296875,
+          0.2333221435546875,
+          0.0588226318359375
+        ],
+        [
+          0.2568511962890625,
+          0.2548980712890625,
+          0.1137237548828125,
+          0.1137237548828125
+        ],
+        [
+          0.007843017578125,
+          0.3882293701171875,
+          0.4842987060546875,
+          0.1078338623046875
+        ],
+        [
+          0.0039215087890625,
+          0.2529296875,
+          0.2392120361328125,
+          0.0588226318359375
+        ],
+        [
+          0.007843017578125,
+          0.321563720703125,
+          0.2333221435546875,
+          0.0509796142578125
+        ],
+        [
+          0.0039215087890625,
+          0.007843017578125,
+          0.2392120361328125,
+          0.227447509765625
+        ],
+        [
+          0.001953125,
+          0.2509765625,
+          0.2411651611328125,
+          0.0607757568359375
+        ],
+        [
+          0.0117645263671875,
+          0.323516845703125,
+          0.227447509765625,
+          0.0450897216796875
+        ],
+        [
+          0.260772705078125,
+          0.0058746337890625,
+          0.2333221435546875,
+          0.2156829833984375
+        ],
+        [
+          0.0058746337890625,
+          0.0058746337890625,
+          0.23529052734375,
+          0.229400634765625
+        ],
+        [
+          0.0058746337890625,
+          0.386260986328125,
+          0.48822021484375,
+          0.10980224609375
+        ],
+        [
+          0.001953125,
+          0.386260986328125,
+          0.4921417236328125,
+          0.11175537109375
+        ],
+        [
+          0.0058746337890625,
+          0.2548980712890625,
+          0.23724365234375,
+          0.056854248046875
+        ],
+        [
+          0.0039215087890625,
+          0.3195953369140625,
+          0.243133544921875,
+          0.0509796142578125
+        ],
+        [
+          0.2568511962890625,
+          0.0058746337890625,
+          0.2411651611328125,
+          0.2333221435546875
+        ],
+        [
+          0.009796142578125,
+          0.0039215087890625,
+          0.2313690185546875,
+          0.23724365234375
+        ]
+      ]
+    },
+    {
+      "identifier": "T7sq03",
+      "occurrences": 8,
+      "surface_labels": [
+        "T7future-0300",
+        "T7future-0301",
+        "T7future0100",
+        "T7future0101",
+        "T7future0700",
+        "T7future0701",
+        "trackwalls00",
+        "finishline-00"
+      ],
+      "atlas_rects": [
+        [
+          0.001953125,
+          0.1294097900390625,
+          0.2411651611328125,
+          0.2392120361328125
+        ],
+        [
+          0.007843017578125,
+          0.3823394775390625,
+          0.48626708984375,
+          0.1137237548828125
+        ],
+        [
+          0.2568511962890625,
+          0.12744140625,
+          0.23724365234375,
+          0.117645263671875
+        ],
+        [
+          0.001953125,
+          0.1294097900390625,
+          0.243133544921875,
+          0.2392120361328125
+        ],
+        [
+          0.0058746337890625,
+          0.384307861328125,
+          0.48822021484375,
+          0.11175537109375
+        ],
+        [
+          0.0058746337890625,
+          0.133331298828125,
+          0.2313690185546875,
+          0.2333221435546875
+        ],
+        [
+          0.0,
+          0.0039215087890625,
+          0.4842987060546875,
+          0.11175537109375
+        ],
+        [
+          0.2568511962890625,
+          0.1313629150390625,
+          0.2392120361328125,
+          0.23724365234375
+        ]
+      ]
+    },
+    {
+      "identifier": "T7sq13",
+      "occurrences": 5,
+      "surface_labels": [
+        "T7futureroof-00",
+        "T7futurecrwd00",
+        "T7futurecrwd01",
+        "T7futurecrwd02",
+        "T7futurecrwd03"
+      ],
+      "atlas_rects": [
+        [
+          0.1235198974609375,
+          0.3823394775390625,
+          0.1235198974609375,
+          0.1156768798828125
+        ],
+        [
+          0.0058746337890625,
+          0.1529388427734375,
+          0.48626708984375,
+          0.2176361083984375
+        ],
+        [
+          0.0,
+          0.1313629150390625,
+          0.5,
+          0.01568603515625
+        ],
+        [
+          0.2568511962890625,
+          0.37841796875,
+          0.11175537109375,
+          0.1215667724609375
+        ],
+        [
+          0.0058746337890625,
+          0.386260986328125,
+          0.1058807373046875,
+          0.1078338623046875
+        ]
+      ]
+    },
+    {
+      "identifier": "T7sq04",
+      "occurrences": 6,
+      "surface_labels": [
+        "trackwalls05",
+        "tunnel-outside-00",
+        "tunnel-outside-01",
+        "tunnel-outside-02",
+        "tunnel-outside-03",
+        "tunnel-outside-04"
+      ],
+      "atlas_rects": [
+        [
+          0.007843017578125,
+          0.1294097900390625,
+          0.48626708984375,
+          0.1156768798828125
+        ],
+        [
+          0.0058746337890625,
+          0.0039215087890625,
+          0.48626708984375,
+          0.1137237548828125
+        ],
+        [
+          0.2529296875,
+          0.2568511962890625,
+          0.1215667724609375,
+          0.2411651611328125
+        ],
+        [
+          0.3823394775390625,
+          0.2548980712890625,
+          0.1137237548828125,
+          0.243133544921875
+        ],
+        [
+          0.0058746337890625,
+          0.2548980712890625,
+          0.23724365234375,
+          0.243133544921875
+        ],
+        [
+          0.0058746337890625,
+          0.1294097900390625,
+          0.4901885986328125,
+          0.1156768798828125
+        ]
+      ]
+    },
+    {
+      "identifier": "T7sq06",
+      "occurrences": 6,
+      "surface_labels": [
+        "cotkscrew-01",
+        "cotkscrew-02",
+        "ground-01",
+        "ground-02",
+        "ground-03",
+        "ground-04"
+      ],
+      "atlas_rects": [
+        [
+          0.1313629150390625,
+          0.0117645263671875,
+          0.23529052734375,
+          0.227447509765625
+        ],
+        [
+          0.0666656494140625,
+          0.0039215087890625,
+          0.0529327392578125,
+          0.2411651611328125
+        ],
+        [
+          0.0039215087890625,
+          0.0,
+          0.0509796142578125,
+          0.2411651611328125
+        ],
+        [
+          0.3803863525390625,
+          0.2568511962890625,
+          0.119598388671875,
+          0.2411651611328125
+        ],
+        [
+          0.2529296875,
+          0.2568511962890625,
+          0.117645263671875,
+          0.2392120361328125
+        ],
+        [
+          0.001953125,
+          0.258819580078125,
+          0.2411651611328125,
+          0.23724365234375
+        ]
+      ]
+    },
+    {
+      "identifier": "T7sq07",
+      "occurrences": 1,
+      "surface_labels": [
+        "T7futureroof-01"
+      ],
+      "atlas_rects": [
+        [
+          0.0157470703125,
+          0.011810302734375,
+          0.4724273681640625,
+          0.4842376708984375
+        ]
+      ]
+    },
+    {
+      "identifier": "T7sq10",
+      "occurrences": 14,
+      "surface_labels": [
+        "tunnel-402",
+        "tunnel-401",
+        "tunnel-400",
+        "tunnel-403",
+        "tunnel-404",
+        "FutretunnC-01",
+        "FutretunnC-02",
+        "tunnel-002",
+        "tunnel-003",
+        "tunnel-004",
+        "tunnel-005",
+        "futretunnB-01",
+        "futretunnB-02",
+        "futretunnB-03"
+      ],
+      "atlas_rects": [
+        [
+          0.0039215087890625,
+          0.2646942138671875,
+          0.23724365234375,
+          0.2313690185546875
+        ],
+        [
+          0.258819580078125,
+          0.2627410888671875,
+          0.23724365234375,
+          0.23724365234375
+        ],
+        [
+          0.0039215087890625,
+          0.0039215087890625,
+          0.1137237548828125,
+          0.1156768798828125
+        ],
+        [
+          0.0039215087890625,
+          0.1313629150390625,
+          0.48822021484375,
+          0.1078338623046875
+        ],
+        [
+          0.0058746337890625,
+          0.1313629150390625,
+          0.48626708984375,
+          0.1156768798828125
+        ],
+        [
+          0.196075439453125,
+          0.0,
+          0.0529327392578125,
+          0.119598388671875
+        ],
+        [
+          0.3823394775390625,
+          0.0039215087890625,
+          0.1137237548828125,
+          0.1156768798828125
+        ],
+        [
+          0.0,
+          0.260772705078125,
+          0.2490081787109375,
+          0.23529052734375
+        ],
+        [
+          0.2568511962890625,
+          0.2627410888671875,
+          0.23529052734375,
+          0.23529052734375
+        ],
+        [
+          0.2568511962890625,
+          0.0,
+          0.1137237548828125,
+          0.119598388671875
+        ],
+        [
+          0.0058746337890625,
+          0.1313629150390625,
+          0.48822021484375,
+          0.1137237548828125
+        ],
+        [
+          0.0058746337890625,
+          0.1313629150390625,
+          0.48822021484375,
+          0.119598388671875
+        ],
+        [
+          0.198028564453125,
+          0.0,
+          0.0509796142578125,
+          0.119598388671875
+        ],
+        [
+          0.3823394775390625,
+          0.0039215087890625,
+          0.1137237548828125,
+          0.117645263671875
+        ]
+      ]
+    },
+    {
+      "identifier": "T7sq02",
+      "occurrences": 11,
+      "surface_labels": [
+        "tunnel-500",
+        "tunnel-502",
+        "tunnel-501",
+        "futretunnA-01",
+        "futretunnA-02",
+        "tunnel-00-800",
+        "tunnel-00-801",
+        "tunnel-00-802",
+        "Futretunn1-01",
+        "Futretunn1-02",
+        "Futretunn1-03"
+      ],
+      "atlas_rects": [
+        [
+          0.2548980712890625,
+          0.0,
+          0.119598388671875,
+          0.119598388671875
+        ],
+        [
+          0.12744140625,
+          0.133331298828125,
+          0.245086669921875,
+          0.23724365234375
+        ],
+        [
+          0.001953125,
+          0.0039215087890625,
+          0.1215667724609375,
+          0.11175537109375
+        ],
+        [
+          0.3823394775390625,
+          0.12744140625,
+          0.117645263671875,
+          0.243133544921875
+        ],
+        [
+          0.001953125,
+          0.2568511962890625,
+          0.1137237548828125,
+          0.1156768798828125
+        ],
+        [
+          0.12744140625,
+          0.1313629150390625,
+          0.243133544921875,
+          0.2392120361328125
+        ],
+        [
+          0.0039215087890625,
+          0.007843017578125,
+          0.117645263671875,
+          0.1078338623046875
+        ],
+        [
+          0.3823394775390625,
+          0.0,
+          0.1137237548828125,
+          0.119598388671875
+        ],
+        [
+          0.001953125,
+          0.384307861328125,
+          0.4901885986328125,
+          0.1137237548828125
+        ],
+        [
+          0.3803863525390625,
+          0.1313629150390625,
+          0.119598388671875,
+          0.2392120361328125
+        ],
+        [
+          0.0058746337890625,
+          0.2568511962890625,
+          0.1137237548828125,
+          0.117645263671875
+        ]
+      ]
+    },
+    {
+      "identifier": "T7sq16",
+      "occurrences": 2,
+      "surface_labels": [
+        "Skrim 1",
+        "Skrim 2"
+      ],
+      "atlas_rects": [
+        [
+          0.001953125,
+          0.0,
+          0.494110107421875,
+          0.25
+        ],
+        [
+          0.0039215087890625,
+          0.24993896484375,
+          0.4921417236328125,
+          0.2500457763671875
+        ]
+      ]
+    },
+    {
+      "identifier": "t7stars",
+      "occurrences": 1,
+      "surface_labels": [
+        "Skrim Stars"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "T7sq09",
+      "occurrences": 6,
+      "surface_labels": [
+        "Track00-60",
+        "Track01",
+        "Track02",
+        "Track03",
+        "Track04",
+        "Track05"
+      ],
+      "atlas_rects": [
+        [
+          0.0039215087890625,
+          0.023529052734375,
+          0.2411651611328125,
+          0.20391845703125
+        ],
+        [
+          0.2529296875,
+          0.0058746337890625,
+          0.243133544921875,
+          0.11175537109375
+        ],
+        [
+          0.2529296875,
+          0.258819580078125,
+          0.245086669921875,
+          0.23529052734375
+        ],
+        [
+          0.0039215087890625,
+          0.2627410888671875,
+          0.23724365234375,
+          0.23529052734375
+        ],
+        [
+          0.2529296875,
+          0.1313629150390625,
+          0.243133544921875,
+          0.1137237548828125
+        ],
+        [
+          0.2548980712890625,
+          0.1313629150390625,
+          0.243133544921875,
+          0.10980224609375
+        ]
+      ]
+    },
+    {
+      "identifier": "T7grid",
+      "occurrences": 1,
+      "surface_labels": [
+        "Loop Grid"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    }
+  ],
+  "texture_references": [
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 165,
+      "surface_label": "T7future260",
+      "surface_label_offset": 114,
+      "gap_from_label": 51,
+      "next_string": ">>",
+      "next_string_offset": 180,
+      "post_identifier_u32_le": [
+        0,
+        16576,
+        15934,
+        3598
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2529296875,
+        0.243133544921875,
+        0.054901123046875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 c0 40 00 00 3e 3e 00 00 0e 0e 00 00 00 00 54 37 66 75 74 75 72 65 32 33 30 00 ff ff",
+      "context_start": 98,
+      "context_end": 196,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 241,
+      "surface_label": "T7future230",
+      "surface_label_offset": 190,
+      "gap_from_label": 51,
+      "next_string": "T7future200",
+      "next_string_offset": 266,
+      "post_identifier_u32_le": [
+        257,
+        20945,
+        15805,
+        3469
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0039215087890625,
+        0.3195953369140625,
+        0.2411651611328125,
+        0.0529327392578125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 01 00 00 d1 51 00 00 bd 3d 00 00 8d 0d 00 00 00 00 54 37 66 75 74 75 72 65 32 30 30 00 ff ff",
+      "context_start": 174,
+      "context_end": 282,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 317,
+      "surface_label": "T7future200",
+      "surface_label_offset": 266,
+      "gap_from_label": 51,
+      "next_string": "BB",
+      "next_string_offset": 324,
+      "post_identifier_u32_le": [
+        16962,
+        385,
+        15291,
+        15291
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.258819580078125,
+        0.0058746337890625,
+        0.2333221435546875,
+        0.2333221435546875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "42 42 00 00 81 01 00 00 bb 3b 00 00 bb 3b 00 00 00 00 54 37 66 75 74 75 72 65 32 35 30 00 ff ff",
+      "context_start": 250,
+      "context_end": 340,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 393,
+      "surface_label": "T7future250",
+      "surface_label_offset": 342,
+      "gap_from_label": 51,
+      "next_string": "<<",
+      "next_string_offset": 408,
+      "post_identifier_u32_le": [
+        385,
+        257,
+        15420,
+        15420
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.0039215087890625,
+        0.23529052734375,
+        0.23529052734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 01 01 00 00 3c 3c 00 00 3c 3c 00 00 00 00 54 37 66 75 74 75 72 65 2d 30 30 31 32 30",
+      "context_start": 326,
+      "context_end": 424,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 473,
+      "surface_label": "T7future-001200",
+      "surface_label_offset": 418,
+      "gap_from_label": 55,
+      "next_string": "bb",
+      "next_string_offset": 484,
+      "post_identifier_u32_le": [
+        257,
+        25186,
+        31739,
+        7581
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0039215087890625,
+        0.384307861328125,
+        0.4842987060546875,
+        0.1156768798828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 01 00 00 62 62 00 00 fb 7b 00 00 9d 1d 00 00 00 00 66 75 74 75 72 65 62 75 69 6c 64 2d 30 33",
+      "context_start": 402,
+      "context_end": 500,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq03",
+      "identifier_offset": 607,
+      "surface_label": "T7future-0300",
+      "surface_label_offset": 554,
+      "gap_from_label": 53,
+      "next_string": "!!",
+      "next_string_offset": 618,
+      "post_identifier_u32_le": [
+        128,
+        8481,
+        15805,
+        15677
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.001953125,
+        0.1294097900390625,
+        0.2411651611328125,
+        0.2392120361328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "80 00 00 00 21 21 00 00 bd 3d 00 00 3d 3d 00 00 00 00 54 37 66 75 74 75 72 65 2d 30 33 30 31 00",
+      "context_start": 538,
+      "context_end": 634,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq03",
+      "identifier_offset": 685,
+      "surface_label": "T7future-0301",
+      "surface_label_offset": 632,
+      "gap_from_label": 53,
+      "next_string": "||",
+      "next_string_offset": 700,
+      "post_identifier_u32_le": [
+        514,
+        25057,
+        31868,
+        7453
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.007843017578125,
+        0.3823394775390625,
+        0.48626708984375,
+        0.1137237548828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "02 02 00 00 e1 61 00 00 7c 7c 00 00 1d 1d 00 00 00 00 66 75 74 75 72 65 62 75 69 6c 64 30 39 00",
+      "context_start": 616,
+      "context_end": 716,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 818,
+      "surface_label": "T7future-0900",
+      "surface_label_offset": 765,
+      "gap_from_label": 53,
+      "next_string": "ww",
+      "next_string_offset": 833,
+      "post_identifier_u32_le": [
+        899,
+        25057,
+        30583,
+        7324
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0137176513671875,
+        0.3823394775390625,
+        0.4666595458984375,
+        0.11175537109375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "83 03 00 00 e1 61 00 00 77 77 00 00 9c 1c 00 00 00 00 54 37 66 75 74 75 72 65 2d 30 39 30 31 00",
+      "context_start": 749,
+      "context_end": 849,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 896,
+      "surface_label": "T7future-0901",
+      "surface_label_offset": 843,
+      "gap_from_label": 53,
+      "next_string": "T7future-0902",
+      "next_string_offset": 921,
+      "post_identifier_u32_le": [
+        16576,
+        20945,
+        7710,
+        3469
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2529296875,
+        0.3195953369140625,
+        0.117645263671875,
+        0.0529327392578125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c0 40 00 00 d1 51 00 00 1e 1e 00 00 8d 0d 00 00 00 00 54 37 66 75 74 75 72 65 2d 30 39 30 32 00",
+      "context_start": 827,
+      "context_end": 937,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 974,
+      "surface_label": "T7future-0902",
+      "surface_label_offset": 921,
+      "gap_from_label": 53,
+      "next_string": "QQ",
+      "next_string_offset": 985,
+      "post_identifier_u32_le": [
+        0,
+        20817,
+        16062,
+        3598
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.3176422119140625,
+        0.245086669921875,
+        0.054901123046875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 51 51 00 00 be 3e 00 00 0e 0e 00 00 00 00 54 37 66 75 74 75 72 65 2d 30 39 30 33 00",
+      "context_start": 905,
+      "context_end": 1001,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 1052,
+      "surface_label": "T7future-0903",
+      "surface_label_offset": 999,
+      "gap_from_label": 53,
+      "next_string": "QQ",
+      "next_string_offset": 1063,
+      "post_identifier_u32_le": [
+        385,
+        20817,
+        15677,
+        3598
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.3176422119140625,
+        0.2392120361328125,
+        0.054901123046875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 51 51 00 00 3d 3d 00 00 0e 0e 00 00 00 00 66 75 74 75 72 65 62 75 69 6c 64 2d 31 30",
+      "context_start": 983,
+      "context_end": 1079,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq03",
+      "identifier_offset": 1185,
+      "surface_label": "T7future0100",
+      "surface_label_offset": 1133,
+      "gap_from_label": 52,
+      "next_string": "T7future0101",
+      "next_string_offset": 1210,
+      "post_identifier_u32_le": [
+        16833,
+        8352,
+        15548,
+        7710
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2568511962890625,
+        0.12744140625,
+        0.23724365234375,
+        0.117645263671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c1 41 00 00 a0 20 00 00 bc 3c 00 00 1e 1e 00 00 00 00 54 37 66 75 74 75 72 65 30 31 30 31 00 ff",
+      "context_start": 1117,
+      "context_end": 1226,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1245,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1257,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq03",
+      "identifier_offset": 1262,
+      "surface_label": "T7future0101",
+      "surface_label_offset": 1210,
+      "gap_from_label": 52,
+      "next_string": "!!",
+      "next_string_offset": 1273,
+      "post_identifier_u32_le": [
+        128,
+        8481,
+        15934,
+        15677
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.001953125,
+        0.1294097900390625,
+        0.243133544921875,
+        0.2392120361328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "80 00 00 00 21 21 00 00 3e 3e 00 00 3d 3d 00 00 00 00 54 37 66 75 74 75 72 65 72 6f 6f 66 2d 30",
+      "context_start": 1194,
+      "context_end": 1289,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1168,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1180,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq13",
+      "identifier_offset": 1342,
+      "surface_label": "T7futureroof-00",
+      "surface_label_offset": 1287,
+      "gap_from_label": 55,
+      "next_string": "trackwalls05",
+      "next_string_offset": 1367,
+      "post_identifier_u32_le": [
+        8095,
+        25057,
+        8095,
+        7581
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.1235198974609375,
+        0.3823394775390625,
+        0.1235198974609375,
+        0.1156768798828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "9f 1f 00 00 e1 61 00 00 9f 1f 00 00 9d 1d 00 00 00 00 74 72 61 63 6b 77 61 6c 6c 73 30 35 00 ff",
+      "context_start": 1271,
+      "context_end": 1383,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1414,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq04",
+      "identifier_offset": 1419,
+      "surface_label": "trackwalls05",
+      "surface_label_offset": 1367,
+      "gap_from_label": 52,
+      "next_string": "!!",
+      "next_string_offset": 1430,
+      "post_identifier_u32_le": [
+        514,
+        8481,
+        31868,
+        7581
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.007843017578125,
+        0.1294097900390625,
+        0.48626708984375,
+        0.1156768798828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "02 02 00 00 21 21 00 00 7c 7c 00 00 9d 1d 00 00 00 00 66 75 74 75 72 65 62 75 69 6c 64 2d 30 36",
+      "context_start": 1351,
+      "context_end": 1446,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1325,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1337,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 1552,
+      "surface_label": "T7future0600",
+      "surface_label_offset": 1500,
+      "gap_from_label": 52,
+      "next_string": "T7future0601",
+      "next_string_offset": 1577,
+      "post_identifier_u32_le": [
+        128,
+        25057,
+        32253,
+        7710
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.001953125,
+        0.3823394775390625,
+        0.4921417236328125,
+        0.117645263671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "80 00 00 00 e1 61 00 00 fd 7d 00 00 1e 1e 00 00 00 00 54 37 66 75 74 75 72 65 30 36 30 31 00 ff",
+      "context_start": 1484,
+      "context_end": 1593,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1612,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1624,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 1629,
+      "surface_label": "T7future0601",
+      "surface_label_offset": 1577,
+      "gap_from_label": 52,
+      "next_string": "QQ",
+      "next_string_offset": 1640,
+      "post_identifier_u32_le": [
+        17090,
+        20817,
+        6939,
+        3469
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.260772705078125,
+        0.3176422119140625,
+        0.1058807373046875,
+        0.0529327392578125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c2 42 00 00 51 51 00 00 1b 1b 00 00 8d 0d 00 00 00 00 54 37 66 75 74 75 72 65 30 36 30 32 00 ff",
+      "context_start": 1561,
+      "context_end": 1656,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1535,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1547,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1689,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1701,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 1706,
+      "surface_label": "T7future0602",
+      "surface_label_offset": 1654,
+      "gap_from_label": 52,
+      "next_string": "T7future0603",
+      "next_string_offset": 1731,
+      "post_identifier_u32_le": [
+        257,
+        20945,
+        15805,
+        3469
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0039215087890625,
+        0.3195953369140625,
+        0.2411651611328125,
+        0.0529327392578125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 01 00 00 d1 51 00 00 bd 3d 00 00 8d 0d 00 00 00 00 54 37 66 75 74 75 72 65 30 36 30 33 00 ff",
+      "context_start": 1638,
+      "context_end": 1747,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1612,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1624,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1766,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1778,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 1783,
+      "surface_label": "T7future0603",
+      "surface_label_offset": 1731,
+      "gap_from_label": 52,
+      "next_string": "<<",
+      "next_string_offset": 1802,
+      "post_identifier_u32_le": [
+        16833,
+        385,
+        15548,
+        15420
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2568511962890625,
+        0.0058746337890625,
+        0.23724365234375,
+        0.23529052734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c1 41 00 00 81 01 00 00 bc 3c 00 00 3c 3c 00 00 00 00 54 37 66 75 74 75 72 65 30 36 30 34 00 ff",
+      "context_start": 1715,
+      "context_end": 1818,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1689,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1701,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1843,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1855,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 1860,
+      "surface_label": "T7future0604",
+      "surface_label_offset": 1808,
+      "gap_from_label": 52,
+      "next_string": "<<",
+      "next_string_offset": 1879,
+      "post_identifier_u32_le": [
+        257,
+        385,
+        15548,
+        15420
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0039215087890625,
+        0.0058746337890625,
+        0.23724365234375,
+        0.23529052734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 01 00 00 81 01 00 00 bc 3c 00 00 3c 3c 00 00 00 00 66 75 74 75 72 65 62 75 69 6c 64 2d 30 37",
+      "context_start": 1792,
+      "context_end": 1895,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1766,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1778,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq03",
+      "identifier_offset": 1993,
+      "surface_label": "T7future0700",
+      "surface_label_offset": 1941,
+      "gap_from_label": 52,
+      "next_string": "bb",
+      "next_string_offset": 2004,
+      "post_identifier_u32_le": [
+        385,
+        25186,
+        31996,
+        7324
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.384307861328125,
+        0.48822021484375,
+        0.11175537109375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 62 62 00 00 fc 7c 00 00 9c 1c 00 00 00 00 54 37 66 75 74 75 72 65 30 37 30 31 00 ff",
+      "context_start": 1925,
+      "context_end": 2020,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2053,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 2065,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq03",
+      "identifier_offset": 2070,
+      "surface_label": "T7future0701",
+      "surface_label_offset": 2018,
+      "gap_from_label": 52,
+      "next_string": "\"\"",
+      "next_string_offset": 2081,
+      "post_identifier_u32_le": [
+        385,
+        8738,
+        15163,
+        15291
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.133331298828125,
+        0.2313690185546875,
+        0.2333221435546875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 22 22 00 00 3b 3b 00 00 bb 3b 00 00 00 00 74 75 6e 6e 65 6c 2d 6f 75 74 73 69 64 65",
+      "context_start": 2002,
+      "context_end": 2097,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1976,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1988,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq04",
+      "identifier_offset": 2208,
+      "surface_label": "tunnel-outside-00",
+      "surface_label_offset": 2151,
+      "gap_from_label": 57,
+      "next_string": "||",
+      "next_string_offset": 2223,
+      "post_identifier_u32_le": [
+        385,
+        257,
+        31868,
+        7453
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.0039215087890625,
+        0.48626708984375,
+        0.1137237548828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 01 01 00 00 7c 7c 00 00 1d 1d 00 00 00 00 74 75 6e 6e 65 6c 2d 6f 75 74 73 69 64 65",
+      "context_start": 2135,
+      "context_end": 2239,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq04",
+      "identifier_offset": 2290,
+      "surface_label": "tunnel-outside-01",
+      "surface_label_offset": 2233,
+      "gap_from_label": 57,
+      "next_string": "tunnel-outside-02",
+      "next_string_offset": 2315,
+      "post_identifier_u32_le": [
+        16576,
+        16833,
+        7967,
+        15805
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2529296875,
+        0.2568511962890625,
+        0.1215667724609375,
+        0.2411651611328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c0 40 00 00 c1 41 00 00 1f 1f 00 00 bd 3d 00 00 00 00 74 75 6e 6e 65 6c 2d 6f 75 74 73 69 64 65",
+      "context_start": 2217,
+      "context_end": 2331,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq04",
+      "identifier_offset": 2372,
+      "surface_label": "tunnel-outside-02",
+      "surface_label_offset": 2315,
+      "gap_from_label": 57,
+      "next_string": "AA",
+      "next_string_offset": 2383,
+      "post_identifier_u32_le": [
+        25057,
+        16705,
+        7453,
+        15934
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.3823394775390625,
+        0.2548980712890625,
+        0.1137237548828125,
+        0.243133544921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "e1 61 00 00 41 41 00 00 1d 1d 00 00 3e 3e 00 00 00 00 74 75 6e 6e 65 6c 2d 6f 75 74 73 69 64 65",
+      "context_start": 2299,
+      "context_end": 2399,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq04",
+      "identifier_offset": 2454,
+      "surface_label": "tunnel-outside-03",
+      "surface_label_offset": 2397,
+      "gap_from_label": 57,
+      "next_string": "AA",
+      "next_string_offset": 2465,
+      "post_identifier_u32_le": [
+        385,
+        16705,
+        15548,
+        15934
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.2548980712890625,
+        0.23724365234375,
+        0.243133544921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 41 41 00 00 bc 3c 00 00 3e 3e 00 00 00 00 74 75 6e 6e 65 6c 2d 6f 75 74 73 69 64 65",
+      "context_start": 2381,
+      "context_end": 2481,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq04",
+      "identifier_offset": 2536,
+      "surface_label": "tunnel-outside-04",
+      "surface_label_offset": 2479,
+      "gap_from_label": 57,
+      "next_string": "!!",
+      "next_string_offset": 2547,
+      "post_identifier_u32_le": [
+        385,
+        8481,
+        32125,
+        7581
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.1294097900390625,
+        0.4901885986328125,
+        0.1156768798828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 21 21 00 00 7d 7d 00 00 9d 1d 00 00 00 00 63 6f 74 6b 73 63 72 65 77 2d 30 30 00 ff",
+      "context_start": 2463,
+      "context_end": 2563,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq06",
+      "identifier_offset": 2667,
+      "surface_label": "cotkscrew-01",
+      "surface_label_offset": 2615,
+      "gap_from_label": 52,
+      "next_string": "<<",
+      "next_string_offset": 2682,
+      "post_identifier_u32_le": [
+        8609,
+        771,
+        15420,
+        14906
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.1313629150390625,
+        0.0117645263671875,
+        0.23529052734375,
+        0.227447509765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "a1 21 00 00 03 03 00 00 3c 3c 00 00 3a 3a 00 00 00 00 63 6f 74 6b 73 63 72 65 77 2d 30 32 00 ff",
+      "context_start": 2599,
+      "context_end": 2698,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2727,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 2739,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq06",
+      "identifier_offset": 2744,
+      "surface_label": "cotkscrew-02",
+      "surface_label_offset": 2692,
+      "gap_from_label": 52,
+      "next_string": "trackwalls00",
+      "next_string_offset": 2769,
+      "post_identifier_u32_le": [
+        4369,
+        257,
+        3469,
+        15805
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0666656494140625,
+        0.0039215087890625,
+        0.0529327392578125,
+        0.2411651611328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "11 11 00 00 01 01 00 00 8d 0d 00 00 bd 3d 00 00 00 00 74 72 61 63 6b 77 61 6c 6c 73 30 30 00 ff",
+      "context_start": 2676,
+      "context_end": 2785,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2650,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 2662,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 2816,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq03",
+      "identifier_offset": 2821,
+      "surface_label": "trackwalls00",
+      "surface_label_offset": 2769,
+      "gap_from_label": 52,
+      "next_string": "ground00",
+      "next_string_offset": 2846,
+      "post_identifier_u32_le": [
+        0,
+        257,
+        31739,
+        7324
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0039215087890625,
+        0.4842987060546875,
+        0.11175537109375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 01 01 00 00 fb 7b 00 00 9c 1c 00 00 00 00 67 72 6f 75 6e 64 30 30 00 fd fd fd ff ff",
+      "context_start": 2753,
+      "context_end": 2862,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2727,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 2739,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq06",
+      "identifier_offset": 2945,
+      "surface_label": "ground-01",
+      "surface_label_offset": 2896,
+      "gap_from_label": 49,
+      "next_string": "ground-02",
+      "next_string_offset": 2970,
+      "post_identifier_u32_le": [
+        257,
+        0,
+        3341,
+        15805
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0039215087890625,
+        0.0,
+        0.0509796142578125,
+        0.2411651611328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 01 00 00 00 00 00 00 0d 0d 00 00 bd 3d 00 00 00 00 67 72 6f 75 6e 64 2d 30 32 00 ff ff ff ff",
+      "context_start": 2880,
+      "context_end": 2986,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq06",
+      "identifier_offset": 3019,
+      "surface_label": "ground-02",
+      "surface_label_offset": 2970,
+      "gap_from_label": 49,
+      "next_string": "aa",
+      "next_string_offset": 3026,
+      "post_identifier_u32_le": [
+        24929,
+        16833,
+        7838,
+        15805
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.3803863525390625,
+        0.2568511962890625,
+        0.119598388671875,
+        0.2411651611328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "61 61 00 00 c1 41 00 00 9e 1e 00 00 bd 3d 00 00 00 00 67 72 6f 75 6e 64 2d 30 33 00 ff ff ff ff",
+      "context_start": 2954,
+      "context_end": 3042,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq06",
+      "identifier_offset": 3093,
+      "surface_label": "ground-03",
+      "surface_label_offset": 3044,
+      "gap_from_label": 49,
+      "next_string": "==",
+      "next_string_offset": 3112,
+      "post_identifier_u32_le": [
+        16576,
+        16833,
+        7710,
+        15677
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2529296875,
+        0.2568511962890625,
+        0.117645263671875,
+        0.2392120361328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c0 40 00 00 c1 41 00 00 1e 1e 00 00 3d 3d 00 00 00 00 67 72 6f 75 6e 64 2d 30 34 00 ff ff ff ff",
+      "context_start": 3028,
+      "context_end": 3128,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq06",
+      "identifier_offset": 3167,
+      "surface_label": "ground-04",
+      "surface_label_offset": 3118,
+      "gap_from_label": 49,
+      "next_string": "BB",
+      "next_string_offset": 3178,
+      "post_identifier_u32_le": [
+        128,
+        16962,
+        15805,
+        15548
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.001953125,
+        0.258819580078125,
+        0.2411651611328125,
+        0.23724365234375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "80 00 00 00 42 42 00 00 bd 3d 00 00 bc 3c 00 00 00 00 54 37 66 75 74 75 72 65 72 6f 6f 66 2d 30",
+      "context_start": 3102,
+      "context_end": 3194,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq07",
+      "identifier_offset": 3247,
+      "surface_label": "T7futureroof-01",
+      "surface_label_offset": 3192,
+      "gap_from_label": 55,
+      "next_string": "futurestands-001",
+      "next_string_offset": 3272,
+      "post_identifier_u32_le": [
+        1032,
+        774,
+        30961,
+        31735
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0157470703125,
+        0.011810302734375,
+        0.4724273681640625,
+        0.4842376708984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "08 04 00 00 06 03 00 00 f1 78 00 00 f7 7b 00 00 00 00 66 75 74 75 72 65 73 74 61 6e 64 73 2d 30",
+      "context_start": 3176,
+      "context_end": 3288,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq13",
+      "identifier_offset": 3384,
+      "surface_label": "T7futurecrwd00",
+      "surface_label_offset": 3330,
+      "gap_from_label": 54,
+      "next_string": "''",
+      "next_string_offset": 3395,
+      "post_identifier_u32_le": [
+        385,
+        10023,
+        31868,
+        14263
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.1529388427734375,
+        0.48626708984375,
+        0.2176361083984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 27 27 00 00 7c 7c 00 00 b7 37 00 00 00 00 54 37 66 75 74 75 72 65 63 72 77 64 30 31",
+      "context_start": 3314,
+      "context_end": 3411,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 3446,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 3458,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq13",
+      "identifier_offset": 3463,
+      "surface_label": "T7futurecrwd01",
+      "surface_label_offset": 3409,
+      "gap_from_label": 54,
+      "next_string": "T7futurecrwd02",
+      "next_string_offset": 3488,
+      "post_identifier_u32_le": [
+        0,
+        8609,
+        32768,
+        1028
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.1313629150390625,
+        0.5,
+        0.01568603515625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 a1 21 00 00 00 80 00 00 04 04 00 00 00 00 54 37 66 75 74 75 72 65 63 72 77 64 30 32",
+      "context_start": 3393,
+      "context_end": 3504,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 3367,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 3379,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 3479,
+          "u16_le": [
+            128,
+            1024
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 3537,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq13",
+      "identifier_offset": 3542,
+      "surface_label": "T7futurecrwd02",
+      "surface_label_offset": 3488,
+      "gap_from_label": 54,
+      "next_string": "T7futurecrwd03",
+      "next_string_offset": 3567,
+      "post_identifier_u32_le": [
+        16833,
+        24800,
+        7324,
+        7967
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2568511962890625,
+        0.37841796875,
+        0.11175537109375,
+        0.1215667724609375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c1 41 00 00 e0 60 00 00 9c 1c 00 00 1f 1f 00 00 00 00 54 37 66 75 74 75 72 65 63 72 77 64 30 33",
+      "context_start": 3472,
+      "context_end": 3583,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 3446,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 3458,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq13",
+      "identifier_offset": 3621,
+      "surface_label": "T7futurecrwd03",
+      "surface_label_offset": 3567,
+      "gap_from_label": 54,
+      "next_string": "futurestandtops-001",
+      "next_string_offset": 3646,
+      "post_identifier_u32_le": [
+        385,
+        25314,
+        6939,
+        7067
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.386260986328125,
+        0.1058807373046875,
+        0.1078338623046875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 e2 62 00 00 1b 1b 00 00 9b 1b 00 00 00 00 66 75 74 75 72 65 73 74 61 6e 64 74 6f 70",
+      "context_start": 3551,
+      "context_end": 3662,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 3537,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 3764,
+      "surface_label": "T7standtops-10000",
+      "surface_label_offset": 3707,
+      "gap_from_label": 57,
+      "next_string": "AA",
+      "next_string_offset": 3775,
+      "post_identifier_u32_le": [
+        25057,
+        16705,
+        3212,
+        7453
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.3823394775390625,
+        0.2548980712890625,
+        0.04901123046875,
+        0.1137237548828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "e1 61 00 00 41 41 00 00 8c 0c 00 00 1d 1d 00 00 00 00 54 37 73 74 61 6e 64 74 6f 70 73 2d 31 30",
+      "context_start": 3691,
+      "context_end": 3791,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 3846,
+      "surface_label": "T7standtops-10100",
+      "surface_label_offset": 3789,
+      "gap_from_label": 57,
+      "next_string": "T7standtops-10300",
+      "next_string_offset": 3871,
+      "post_identifier_u32_le": [
+        385,
+        16576,
+        15291,
+        3855
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.2529296875,
+        0.2333221435546875,
+        0.0588226318359375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 c0 40 00 00 bb 3b 00 00 0f 0f 00 00 00 00 54 37 73 74 61 6e 64 74 6f 70 73 2d 31 30",
+      "context_start": 3773,
+      "context_end": 3887,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 3928,
+      "surface_label": "T7standtops-10300",
+      "surface_label_offset": 3871,
+      "gap_from_label": 57,
+      "next_string": "AA",
+      "next_string_offset": 3939,
+      "post_identifier_u32_le": [
+        16833,
+        16705,
+        7453,
+        7453
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2568511962890625,
+        0.2548980712890625,
+        0.1137237548828125,
+        0.1137237548828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c1 41 00 00 41 41 00 00 1d 1d 00 00 1d 1d 00 00 00 00 66 75 74 75 72 65 62 75 69 6c 64 2d 30 31",
+      "context_start": 3855,
+      "context_end": 3955,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 4061,
+      "surface_label": "T7future1200",
+      "surface_label_offset": 4009,
+      "gap_from_label": 52,
+      "next_string": "cc",
+      "next_string_offset": 4072,
+      "post_identifier_u32_le": [
+        514,
+        25443,
+        31739,
+        7067
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.007843017578125,
+        0.3882293701171875,
+        0.4842987060546875,
+        0.1078338623046875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "02 02 00 00 63 63 00 00 fb 7b 00 00 9b 1b 00 00 00 00 54 37 66 75 74 75 72 65 31 32 36 30 00 ff",
+      "context_start": 3993,
+      "context_end": 4088,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4121,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4133,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 4138,
+      "surface_label": "T7future1260",
+      "surface_label_offset": 4086,
+      "gap_from_label": 52,
+      "next_string": "==",
+      "next_string_offset": 4153,
+      "post_identifier_u32_le": [
+        257,
+        16576,
+        15677,
+        3855
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0039215087890625,
+        0.2529296875,
+        0.2392120361328125,
+        0.0588226318359375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 01 00 00 c0 40 00 00 3d 3d 00 00 0f 0f 00 00 00 00 54 37 66 75 74 75 72 65 31 32 33 30 00 ff",
+      "context_start": 4070,
+      "context_end": 4169,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4044,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4056,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4198,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4210,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 4215,
+      "surface_label": "T7future1230",
+      "surface_label_offset": 4163,
+      "gap_from_label": 52,
+      "next_string": "RR",
+      "next_string_offset": 4226,
+      "post_identifier_u32_le": [
+        514,
+        21074,
+        15291,
+        3341
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.007843017578125,
+        0.321563720703125,
+        0.2333221435546875,
+        0.0509796142578125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "02 02 00 00 52 52 00 00 bb 3b 00 00 0d 0d 00 00 00 00 54 37 66 75 74 75 72 65 31 32 37 30 00 ff",
+      "context_start": 4147,
+      "context_end": 4242,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4121,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4133,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4275,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4287,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 4292,
+      "surface_label": "T7future1270",
+      "surface_label_offset": 4240,
+      "gap_from_label": 52,
+      "next_string": "==",
+      "next_string_offset": 4307,
+      "post_identifier_u32_le": [
+        257,
+        514,
+        15677,
+        14906
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0039215087890625,
+        0.007843017578125,
+        0.2392120361328125,
+        0.227447509765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 01 00 00 02 02 00 00 3d 3d 00 00 3a 3a 00 00 00 00 66 75 74 75 72 65 62 75 69 6c 64 2d 30 35",
+      "context_start": 4224,
+      "context_end": 4323,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4198,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4210,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 4425,
+      "surface_label": "T7future0500",
+      "surface_label_offset": 4373,
+      "gap_from_label": 52,
+      "next_string": "@@",
+      "next_string_offset": 4436,
+      "post_identifier_u32_le": [
+        128,
+        16448,
+        15805,
+        3983
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.001953125,
+        0.2509765625,
+        0.2411651611328125,
+        0.0607757568359375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "80 00 00 00 40 40 00 00 bd 3d 00 00 8f 0f 00 00 00 00 54 37 66 75 74 75 72 65 30 35 30 31 00 ff",
+      "context_start": 4357,
+      "context_end": 4452,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4485,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4497,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 4502,
+      "surface_label": "T7future0501",
+      "surface_label_offset": 4450,
+      "gap_from_label": 52,
+      "next_string": "::",
+      "next_string_offset": 4517,
+      "post_identifier_u32_le": [
+        771,
+        21202,
+        14906,
+        2955
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0117645263671875,
+        0.323516845703125,
+        0.227447509765625,
+        0.0450897216796875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "03 03 00 00 d2 52 00 00 3a 3a 00 00 8b 0b 00 00 00 00 54 37 66 75 74 75 72 65 30 35 30 32 00 ff",
+      "context_start": 4434,
+      "context_end": 4533,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4408,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4420,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4562,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4574,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 4579,
+      "surface_label": "T7future0502",
+      "surface_label_offset": 4527,
+      "gap_from_label": 52,
+      "next_string": "77",
+      "next_string_offset": 4598,
+      "post_identifier_u32_le": [
+        17090,
+        385,
+        15291,
+        14135
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.260772705078125,
+        0.0058746337890625,
+        0.2333221435546875,
+        0.2156829833984375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c2 42 00 00 81 01 00 00 bb 3b 00 00 37 37 00 00 00 00 54 37 66 75 74 75 72 65 30 35 30 33 00 ff",
+      "context_start": 4511,
+      "context_end": 4614,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4485,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4497,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4639,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4651,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 4656,
+      "surface_label": "T7future0503",
+      "surface_label_offset": 4604,
+      "gap_from_label": 52,
+      "next_string": "<<",
+      "next_string_offset": 4671,
+      "post_identifier_u32_le": [
+        385,
+        385,
+        15420,
+        15034
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.0058746337890625,
+        0.23529052734375,
+        0.229400634765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 81 01 00 00 3c 3c 00 00 ba 3a 00 00 00 00 54 37 66 75 74 75 72 65 30 35 30 34 00 ff",
+      "context_start": 4588,
+      "context_end": 4687,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4562,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4574,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4716,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4728,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 4733,
+      "surface_label": "T7future0504",
+      "surface_label_offset": 4681,
+      "gap_from_label": 52,
+      "next_string": "futurebuild-04",
+      "next_string_offset": 4758,
+      "post_identifier_u32_le": [
+        385,
+        25314,
+        31996,
+        7196
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.386260986328125,
+        0.48822021484375,
+        0.10980224609375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 e2 62 00 00 fc 7c 00 00 1c 1c 00 00 00 00 66 75 74 75 72 65 62 75 69 6c 64 2d 30 34",
+      "context_start": 4665,
+      "context_end": 4774,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4639,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4651,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 4866,
+      "surface_label": "T7future0400",
+      "surface_label_offset": 4814,
+      "gap_from_label": 52,
+      "next_string": "T7future0401",
+      "next_string_offset": 4891,
+      "post_identifier_u32_le": [
+        128,
+        25314,
+        32253,
+        7324
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.001953125,
+        0.386260986328125,
+        0.4921417236328125,
+        0.11175537109375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "80 00 00 00 e2 62 00 00 fd 7d 00 00 9c 1c 00 00 00 00 54 37 66 75 74 75 72 65 30 34 30 31 00 ff",
+      "context_start": 4798,
+      "context_end": 4907,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4926,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4938,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 4943,
+      "surface_label": "T7future0401",
+      "surface_label_offset": 4891,
+      "gap_from_label": 52,
+      "next_string": "AA",
+      "next_string_offset": 4954,
+      "post_identifier_u32_le": [
+        385,
+        16705,
+        15548,
+        3726
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.2548980712890625,
+        0.23724365234375,
+        0.056854248046875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 41 41 00 00 bc 3c 00 00 8e 0e 00 00 00 00 54 37 66 75 74 75 72 65 30 34 30 32 00 ff",
+      "context_start": 4875,
+      "context_end": 4970,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4849,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4861,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 5003,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 5015,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 5020,
+      "surface_label": "T7future0402",
+      "surface_label_offset": 4968,
+      "gap_from_label": 52,
+      "next_string": ">>",
+      "next_string_offset": 5035,
+      "post_identifier_u32_le": [
+        257,
+        20945,
+        15934,
+        3341
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0039215087890625,
+        0.3195953369140625,
+        0.243133544921875,
+        0.0509796142578125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 01 00 00 d1 51 00 00 3e 3e 00 00 0d 0d 00 00 00 00 54 37 66 75 74 75 72 65 30 34 30 33 00 ff",
+      "context_start": 4952,
+      "context_end": 5051,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 4926,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 4938,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 5080,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 5092,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 5097,
+      "surface_label": "T7future0403",
+      "surface_label_offset": 5045,
+      "gap_from_label": 52,
+      "next_string": "T7future0404",
+      "next_string_offset": 5122,
+      "post_identifier_u32_le": [
+        16833,
+        385,
+        15805,
+        15291
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2568511962890625,
+        0.0058746337890625,
+        0.2411651611328125,
+        0.2333221435546875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c1 41 00 00 81 01 00 00 bd 3d 00 00 bb 3b 00 00 00 00 54 37 66 75 74 75 72 65 30 34 30 34 00 ff",
+      "context_start": 5029,
+      "context_end": 5138,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 5003,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 5015,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 5157,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 5169,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7SQ01",
+      "identifier_offset": 5174,
+      "surface_label": "T7future0404",
+      "surface_label_offset": 5122,
+      "gap_from_label": 52,
+      "next_string": ";;",
+      "next_string_offset": 5189,
+      "post_identifier_u32_le": [
+        642,
+        257,
+        15163,
+        15548
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.009796142578125,
+        0.0039215087890625,
+        0.2313690185546875,
+        0.23724365234375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "82 02 00 00 01 01 00 00 3b 3b 00 00 bc 3c 00 00 00 00 46 75 74 72 65 74 75 6e 6e 43 2d 30 30 00",
+      "context_start": 5106,
+      "context_end": 5205,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 5080,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 5092,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq10",
+      "identifier_offset": 5304,
+      "surface_label": "tunnel-402",
+      "surface_label_offset": 5254,
+      "gap_from_label": 50,
+      "next_string": ";;",
+      "next_string_offset": 5323,
+      "post_identifier_u32_le": [
+        257,
+        17347,
+        15548,
+        15163
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0039215087890625,
+        0.2646942138671875,
+        0.23724365234375,
+        0.2313690185546875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 01 00 00 c3 43 00 00 bc 3c 00 00 3b 3b 00 00 00 00 74 75 6e 6e 65 6c 2d 34 30 31 00 ff ff ff",
+      "context_start": 5238,
+      "context_end": 5339,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 5374,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq10",
+      "identifier_offset": 5379,
+      "surface_label": "tunnel-401",
+      "surface_label_offset": 5329,
+      "gap_from_label": 50,
+      "next_string": "BB",
+      "next_string_offset": 5386,
+      "post_identifier_u32_le": [
+        16962,
+        17219,
+        15548,
+        15548
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.258819580078125,
+        0.2627410888671875,
+        0.23724365234375,
+        0.23724365234375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "42 42 00 00 43 43 00 00 bc 3c 00 00 bc 3c 00 00 00 00 74 75 6e 6e 65 6c 2d 34 30 30 00 ff ff ff",
+      "context_start": 5313,
+      "context_end": 5402,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 5299,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 5449,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq10",
+      "identifier_offset": 5454,
+      "surface_label": "tunnel-400",
+      "surface_label_offset": 5404,
+      "gap_from_label": 50,
+      "next_string": "tunnel-403",
+      "next_string_offset": 5479,
+      "post_identifier_u32_le": [
+        257,
+        257,
+        7453,
+        7581
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0039215087890625,
+        0.0039215087890625,
+        0.1137237548828125,
+        0.1156768798828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 01 00 00 01 01 00 00 1d 1d 00 00 9d 1d 00 00 00 00 74 75 6e 6e 65 6c 2d 34 30 33 00 ff ff ff",
+      "context_start": 5388,
+      "context_end": 5495,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 5374,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 5524,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq10",
+      "identifier_offset": 5529,
+      "surface_label": "tunnel-403",
+      "surface_label_offset": 5479,
+      "gap_from_label": 50,
+      "next_string": "tunnel-404",
+      "next_string_offset": 5554,
+      "post_identifier_u32_le": [
+        257,
+        8609,
+        31996,
+        7067
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0039215087890625,
+        0.1313629150390625,
+        0.48822021484375,
+        0.1078338623046875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 01 00 00 a1 21 00 00 fc 7c 00 00 9b 1b 00 00 00 00 74 75 6e 6e 65 6c 2d 34 30 34 00 ff ff ff",
+      "context_start": 5463,
+      "context_end": 5570,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 5449,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 5599,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq10",
+      "identifier_offset": 5604,
+      "surface_label": "tunnel-404",
+      "surface_label_offset": 5554,
+      "gap_from_label": 50,
+      "next_string": "||",
+      "next_string_offset": 5619,
+      "post_identifier_u32_le": [
+        385,
+        8609,
+        31868,
+        7581
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.1313629150390625,
+        0.48626708984375,
+        0.1156768798828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 a1 21 00 00 7c 7c 00 00 9d 1d 00 00 00 00 46 75 74 72 65 74 75 6e 6e 43 2d 30 31 00",
+      "context_start": 5538,
+      "context_end": 5635,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 5524,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq10",
+      "identifier_offset": 5682,
+      "surface_label": "FutretunnC-01",
+      "surface_label_offset": 5629,
+      "gap_from_label": 53,
+      "next_string": "22",
+      "next_string_offset": 5689,
+      "post_identifier_u32_le": [
+        12850,
+        0,
+        3469,
+        7838
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.196075439453125,
+        0.0,
+        0.0529327392578125,
+        0.119598388671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "32 32 00 00 00 00 00 00 8d 0d 00 00 9e 1e 00 00 00 00 46 75 74 72 65 74 75 6e 6e 43 2d 30 32 00",
+      "context_start": 5613,
+      "context_end": 5705,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq10",
+      "identifier_offset": 5760,
+      "surface_label": "FutretunnC-02",
+      "surface_label_offset": 5707,
+      "gap_from_label": 53,
+      "next_string": "futretunnB-00",
+      "next_string_offset": 5785,
+      "post_identifier_u32_le": [
+        25057,
+        257,
+        7453,
+        7581
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.3823394775390625,
+        0.0039215087890625,
+        0.1137237548828125,
+        0.1156768798828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "e1 61 00 00 01 01 00 00 1d 1d 00 00 9d 1d 00 00 00 00 66 75 74 72 65 74 75 6e 6e 42 2d 30 30 00",
+      "context_start": 5691,
+      "context_end": 5801,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq10",
+      "identifier_offset": 5890,
+      "surface_label": "tunnel-002",
+      "surface_label_offset": 5840,
+      "gap_from_label": 50,
+      "next_string": "<<",
+      "next_string_offset": 5909,
+      "post_identifier_u32_le": [
+        0,
+        17090,
+        16319,
+        15420
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.260772705078125,
+        0.2490081787109375,
+        0.23529052734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 c2 42 00 00 bf 3f 00 00 3c 3c 00 00 00 00 74 75 6e 6e 65 6c 2d 30 30 33 00 ff ff ff",
+      "context_start": 5824,
+      "context_end": 5925,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 5960,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq10",
+      "identifier_offset": 5965,
+      "surface_label": "tunnel-003",
+      "surface_label_offset": 5915,
+      "gap_from_label": 50,
+      "next_string": "CC",
+      "next_string_offset": 5976,
+      "post_identifier_u32_le": [
+        16833,
+        17219,
+        15420,
+        15420
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2568511962890625,
+        0.2627410888671875,
+        0.23529052734375,
+        0.23529052734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c1 41 00 00 43 43 00 00 3c 3c 00 00 3c 3c 00 00 00 00 74 75 6e 6e 65 6c 2d 30 30 34 00 ff ff ff",
+      "context_start": 5899,
+      "context_end": 5992,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 5885,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 6035,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq10",
+      "identifier_offset": 6040,
+      "surface_label": "tunnel-004",
+      "surface_label_offset": 5990,
+      "gap_from_label": 50,
+      "next_string": "tunnel-005",
+      "next_string_offset": 6065,
+      "post_identifier_u32_le": [
+        16833,
+        0,
+        7453,
+        7838
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2568511962890625,
+        0.0,
+        0.1137237548828125,
+        0.119598388671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c1 41 00 00 00 00 00 00 1d 1d 00 00 9e 1e 00 00 00 00 74 75 6e 6e 65 6c 2d 30 30 35 00 ff ff ff",
+      "context_start": 5974,
+      "context_end": 6081,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 5960,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 6110,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq10",
+      "identifier_offset": 6115,
+      "surface_label": "tunnel-005",
+      "surface_label_offset": 6065,
+      "gap_from_label": 50,
+      "next_string": "futretunnB-01",
+      "next_string_offset": 6140,
+      "post_identifier_u32_le": [
+        385,
+        8609,
+        31996,
+        7453
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.1313629150390625,
+        0.48822021484375,
+        0.1137237548828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 a1 21 00 00 fc 7c 00 00 1d 1d 00 00 00 00 66 75 74 72 65 74 75 6e 6e 42 2d 30 31 00",
+      "context_start": 6049,
+      "context_end": 6156,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 6035,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq10",
+      "identifier_offset": 6193,
+      "surface_label": "futretunnB-01",
+      "surface_label_offset": 6140,
+      "gap_from_label": 53,
+      "next_string": "futretunnB-02",
+      "next_string_offset": 6218,
+      "post_identifier_u32_le": [
+        385,
+        8609,
+        31996,
+        7838
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.1313629150390625,
+        0.48822021484375,
+        0.119598388671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 a1 21 00 00 fc 7c 00 00 9e 1e 00 00 00 00 66 75 74 72 65 74 75 6e 6e 42 2d 30 32 00",
+      "context_start": 6124,
+      "context_end": 6234,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq10",
+      "identifier_offset": 6271,
+      "surface_label": "futretunnB-02",
+      "surface_label_offset": 6218,
+      "gap_from_label": 53,
+      "next_string": "futretunnB-03",
+      "next_string_offset": 6296,
+      "post_identifier_u32_le": [
+        12978,
+        0,
+        3341,
+        7838
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.198028564453125,
+        0.0,
+        0.0509796142578125,
+        0.119598388671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "b2 32 00 00 00 00 00 00 0d 0d 00 00 9e 1e 00 00 00 00 66 75 74 72 65 74 75 6e 6e 42 2d 30 33 00",
+      "context_start": 6202,
+      "context_end": 6312,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq10",
+      "identifier_offset": 6349,
+      "surface_label": "futretunnB-03",
+      "surface_label_offset": 6296,
+      "gap_from_label": 53,
+      "next_string": "futretunnA-00",
+      "next_string_offset": 6374,
+      "post_identifier_u32_le": [
+        25057,
+        257,
+        7453,
+        7710
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.3823394775390625,
+        0.0039215087890625,
+        0.1137237548828125,
+        0.117645263671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "e1 61 00 00 01 01 00 00 1d 1d 00 00 1e 1e 00 00 00 00 66 75 74 72 65 74 75 6e 6e 41 2d 30 30 00",
+      "context_start": 6280,
+      "context_end": 6390,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq02",
+      "identifier_offset": 6479,
+      "surface_label": "tunnel-500",
+      "surface_label_offset": 6429,
+      "gap_from_label": 50,
+      "next_string": "AA",
+      "next_string_offset": 6486,
+      "post_identifier_u32_le": [
+        16705,
+        0,
+        7838,
+        7838
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2548980712890625,
+        0.0,
+        0.119598388671875,
+        0.119598388671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "41 41 00 00 00 00 00 00 9e 1e 00 00 9e 1e 00 00 00 00 74 75 6e 6e 65 6c 2d 35 30 32 00 ff ff ff",
+      "context_start": 6413,
+      "context_end": 6502,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 6549,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq02",
+      "identifier_offset": 6554,
+      "surface_label": "tunnel-502",
+      "surface_label_offset": 6504,
+      "gap_from_label": 50,
+      "next_string": "\"\"",
+      "next_string_offset": 6565,
+      "post_identifier_u32_le": [
+        8352,
+        8738,
+        16062,
+        15548
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.12744140625,
+        0.133331298828125,
+        0.245086669921875,
+        0.23724365234375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "a0 20 00 00 22 22 00 00 be 3e 00 00 bc 3c 00 00 00 00 74 75 6e 6e 65 6c 2d 35 30 31 00 ff ff ff",
+      "context_start": 6488,
+      "context_end": 6581,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 6474,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 6624,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq02",
+      "identifier_offset": 6629,
+      "surface_label": "tunnel-501",
+      "surface_label_offset": 6579,
+      "gap_from_label": 50,
+      "next_string": "futretunnA-01",
+      "next_string_offset": 6654,
+      "post_identifier_u32_le": [
+        128,
+        257,
+        7967,
+        7324
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.001953125,
+        0.0039215087890625,
+        0.1215667724609375,
+        0.11175537109375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "80 00 00 00 01 01 00 00 1f 1f 00 00 9c 1c 00 00 00 00 66 75 74 72 65 74 75 6e 6e 41 2d 30 31 00",
+      "context_start": 6563,
+      "context_end": 6670,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 6549,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "T7sq02",
+      "identifier_offset": 6707,
+      "surface_label": "futretunnA-01",
+      "surface_label_offset": 6654,
+      "gap_from_label": 53,
+      "next_string": ">>",
+      "next_string_offset": 6726,
+      "post_identifier_u32_le": [
+        25057,
+        8352,
+        7710,
+        15934
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.3823394775390625,
+        0.12744140625,
+        0.117645263671875,
+        0.243133544921875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "e1 61 00 00 a0 20 00 00 1e 1e 00 00 3e 3e 00 00 00 00 66 75 74 72 65 74 75 6e 6e 41 2d 30 32 00",
+      "context_start": 6638,
+      "context_end": 6742,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq02",
+      "identifier_offset": 6785,
+      "surface_label": "futretunnA-02",
+      "surface_label_offset": 6732,
+      "gap_from_label": 53,
+      "next_string": "Futretunn1-00",
+      "next_string_offset": 6810,
+      "post_identifier_u32_le": [
+        128,
+        16833,
+        7453,
+        7581
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.001953125,
+        0.2568511962890625,
+        0.1137237548828125,
+        0.1156768798828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "80 00 00 00 c1 41 00 00 1d 1d 00 00 9d 1d 00 00 00 00 46 75 74 72 65 74 75 6e 6e 31 2d 30 30 00",
+      "context_start": 6716,
+      "context_end": 6826,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq02",
+      "identifier_offset": 6918,
+      "surface_label": "tunnel-00-800",
+      "surface_label_offset": 6865,
+      "gap_from_label": 53,
+      "next_string": ">>",
+      "next_string_offset": 6933,
+      "post_identifier_u32_le": [
+        8352,
+        8609,
+        15934,
+        15677
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.12744140625,
+        0.1313629150390625,
+        0.243133544921875,
+        0.2392120361328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "a0 20 00 00 a1 21 00 00 3e 3e 00 00 3d 3d 00 00 00 00 74 75 6e 6e 65 6c 2d 30 30 2d 38 30 31 00",
+      "context_start": 6849,
+      "context_end": 6949,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq02",
+      "identifier_offset": 6996,
+      "surface_label": "tunnel-00-801",
+      "surface_label_offset": 6943,
+      "gap_from_label": 53,
+      "next_string": "tunnel-00-802",
+      "next_string_offset": 7021,
+      "post_identifier_u32_le": [
+        257,
+        514,
+        7710,
+        7067
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0039215087890625,
+        0.007843017578125,
+        0.117645263671875,
+        0.1078338623046875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 01 00 00 02 02 00 00 1e 1e 00 00 9b 1b 00 00 00 00 74 75 6e 6e 65 6c 2d 30 30 2d 38 30 32 00",
+      "context_start": 6927,
+      "context_end": 7037,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq02",
+      "identifier_offset": 7074,
+      "surface_label": "tunnel-00-802",
+      "surface_label_offset": 7021,
+      "gap_from_label": 53,
+      "next_string": "Futretunn1-01",
+      "next_string_offset": 7099,
+      "post_identifier_u32_le": [
+        25057,
+        0,
+        7453,
+        7838
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.3823394775390625,
+        0.0,
+        0.1137237548828125,
+        0.119598388671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "e1 61 00 00 00 00 00 00 1d 1d 00 00 9e 1e 00 00 00 00 46 75 74 72 65 74 75 6e 6e 31 2d 30 31 00",
+      "context_start": 7005,
+      "context_end": 7115,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq02",
+      "identifier_offset": 7152,
+      "surface_label": "Futretunn1-01",
+      "surface_label_offset": 7099,
+      "gap_from_label": 53,
+      "next_string": "bb",
+      "next_string_offset": 7163,
+      "post_identifier_u32_le": [
+        128,
+        25186,
+        32125,
+        7453
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.001953125,
+        0.384307861328125,
+        0.4901885986328125,
+        0.1137237548828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "80 00 00 00 62 62 00 00 7d 7d 00 00 1d 1d 00 00 00 00 46 75 74 72 65 74 75 6e 6e 31 2d 30 32 00",
+      "context_start": 7083,
+      "context_end": 7179,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq02",
+      "identifier_offset": 7230,
+      "surface_label": "Futretunn1-02",
+      "surface_label_offset": 7177,
+      "gap_from_label": 53,
+      "next_string": "aa",
+      "next_string_offset": 7237,
+      "post_identifier_u32_le": [
+        24929,
+        8609,
+        7838,
+        15677
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.3803863525390625,
+        0.1313629150390625,
+        0.119598388671875,
+        0.2392120361328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "61 61 00 00 a1 21 00 00 9e 1e 00 00 3d 3d 00 00 00 00 46 75 74 72 65 74 75 6e 6e 31 2d 30 33 00",
+      "context_start": 7161,
+      "context_end": 7253,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq02",
+      "identifier_offset": 7308,
+      "surface_label": "Futretunn1-03",
+      "surface_label_offset": 7255,
+      "gap_from_label": 53,
+      "next_string": "finishline-00",
+      "next_string_offset": 7333,
+      "post_identifier_u32_le": [
+        385,
+        16833,
+        7453,
+        7710
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0058746337890625,
+        0.2568511962890625,
+        0.1137237548828125,
+        0.117645263671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "81 01 00 00 c1 41 00 00 1d 1d 00 00 1e 1e 00 00 00 00 66 69 6e 69 73 68 6c 69 6e 65 2d 30 30 00",
+      "context_start": 7239,
+      "context_end": 7349,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq03",
+      "identifier_offset": 7386,
+      "surface_label": "finishline-00",
+      "surface_label_offset": 7333,
+      "gap_from_label": 53,
+      "next_string": "==",
+      "next_string_offset": 7401,
+      "post_identifier_u32_le": [
+        16833,
+        8609,
+        15677,
+        15548
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2568511962890625,
+        0.1313629150390625,
+        0.2392120361328125,
+        0.23724365234375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c1 41 00 00 a1 21 00 00 3d 3d 00 00 bc 3c 00 00 00 00 54 31 20 53 6b 72 69 6d 20 53 75 72 66 61",
+      "context_start": 7317,
+      "context_end": 7417,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq16",
+      "identifier_offset": 7516,
+      "surface_label": "Skrim 1",
+      "surface_label_offset": 7469,
+      "gap_from_label": 47,
+      "next_string": "~~",
+      "next_string_offset": 7531,
+      "post_identifier_u32_le": [
+        128,
+        0,
+        32382,
+        16384
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.001953125,
+        0.0,
+        0.494110107421875,
+        0.25
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "80 00 00 00 00 00 00 00 7e 7e 00 00 00 40 00 00 00 00 53 6b 72 69 6d 20 32 00 ff ff ff ff ff ff",
+      "context_start": 7453,
+      "context_end": 7547,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq16",
+      "identifier_offset": 7588,
+      "surface_label": "Skrim 2",
+      "surface_label_offset": 7541,
+      "gap_from_label": 47,
+      "next_string": "Skrim Stars",
+      "next_string_offset": 7613,
+      "post_identifier_u32_le": [
+        257,
+        16380,
+        32253,
+        16387
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0039215087890625,
+        0.24993896484375,
+        0.4921417236328125,
+        0.2500457763671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 01 00 00 fc 3f 00 00 fd 7d 00 00 03 40 00 00 00 00 53 6b 72 69 6d 20 53 74 61 72 73 00 ff ff",
+      "context_start": 7525,
+      "context_end": 7629,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "t7stars",
+      "identifier_offset": 7664,
+      "surface_label": "Skrim Stars",
+      "surface_label_offset": 7613,
+      "gap_from_label": 51,
+      "next_string": "Track",
+      "next_string_offset": 7690,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 54 72 61 63 6b 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 7597,
+      "context_end": 7706,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq09",
+      "identifier_offset": 7787,
+      "surface_label": "Track00-60",
+      "surface_label_offset": 7737,
+      "gap_from_label": 50,
+      "next_string": "44",
+      "next_string_offset": 7806,
+      "post_identifier_u32_le": [
+        257,
+        1542,
+        15805,
+        13364
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0039215087890625,
+        0.023529052734375,
+        0.2411651611328125,
+        0.20391845703125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 01 00 00 06 06 00 00 bd 3d 00 00 34 34 00 00 00 00 54 72 61 63 6b 30 31 00 ff ff ff ff ff ff",
+      "context_start": 7721,
+      "context_end": 7822,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq09",
+      "identifier_offset": 7859,
+      "surface_label": "Track01",
+      "surface_label_offset": 7812,
+      "gap_from_label": 47,
+      "next_string": ">>",
+      "next_string_offset": 7874,
+      "post_identifier_u32_le": [
+        16576,
+        385,
+        15934,
+        7324
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2529296875,
+        0.0058746337890625,
+        0.243133544921875,
+        0.11175537109375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c0 40 00 00 81 01 00 00 3e 3e 00 00 9c 1c 00 00 00 00 54 72 61 63 6b 30 32 00 ff ff ff ff ff ff",
+      "context_start": 7796,
+      "context_end": 7890,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq09",
+      "identifier_offset": 7931,
+      "surface_label": "Track02",
+      "surface_label_offset": 7884,
+      "gap_from_label": 47,
+      "next_string": "BB",
+      "next_string_offset": 7942,
+      "post_identifier_u32_le": [
+        16576,
+        16962,
+        16062,
+        15420
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2529296875,
+        0.258819580078125,
+        0.245086669921875,
+        0.23529052734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c0 40 00 00 42 42 00 00 be 3e 00 00 3c 3c 00 00 00 00 54 72 61 63 6b 30 33 00 ff ff ff ff ff ff",
+      "context_start": 7868,
+      "context_end": 7958,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq09",
+      "identifier_offset": 8003,
+      "surface_label": "Track03",
+      "surface_label_offset": 7956,
+      "gap_from_label": 47,
+      "next_string": "CC",
+      "next_string_offset": 8014,
+      "post_identifier_u32_le": [
+        257,
+        17219,
+        15548,
+        15420
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0039215087890625,
+        0.2627410888671875,
+        0.23724365234375,
+        0.23529052734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "01 01 00 00 43 43 00 00 bc 3c 00 00 3c 3c 00 00 00 00 54 72 61 63 6b 30 34 00 ff ff ff ff ff ff",
+      "context_start": 7940,
+      "context_end": 8030,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq09",
+      "identifier_offset": 8075,
+      "surface_label": "Track04",
+      "surface_label_offset": 8028,
+      "gap_from_label": 47,
+      "next_string": ">>",
+      "next_string_offset": 8090,
+      "post_identifier_u32_le": [
+        16576,
+        8609,
+        15934,
+        7453
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2529296875,
+        0.1313629150390625,
+        0.243133544921875,
+        0.1137237548828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "c0 40 00 00 a1 21 00 00 3e 3e 00 00 1d 1d 00 00 00 00 54 72 61 63 6b 30 35 00 ff ff ff ff ff ff",
+      "context_start": 8012,
+      "context_end": 8106,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7sq09",
+      "identifier_offset": 8147,
+      "surface_label": "Track05",
+      "surface_label_offset": 8100,
+      "gap_from_label": 47,
+      "next_string": "AA",
+      "next_string_offset": 8154,
+      "post_identifier_u32_le": [
+        16705,
+        8609,
+        15934,
+        7196
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2548980712890625,
+        0.1313629150390625,
+        0.243133544921875,
+        0.10980224609375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "41 41 00 00 a1 21 00 00 3e 3e 00 00 1c 1c 00 00 00 00 4c 6f 6f 70 20 47 72 69 64 00 ff ff ff ff",
+      "context_start": 8084,
+      "context_end": 8170,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "T7grid",
+      "identifier_offset": 8221,
+      "surface_label": "Loop Grid",
+      "surface_label_offset": 8172,
+      "gap_from_label": 49,
+      "next_string": "@futurebuildroof-04",
+      "next_string_offset": 8249,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 c1 00 00 40 66 75 74 75 72 65 62 75 69 6c",
+      "context_start": 8156,
+      "context_end": 8265,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 8237,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    }
+  ],
+  "verified_decoded_images": [],
+  "zlib_stream_candidates": [],
+  "standard_signature_counts": {
+    "PNG": 0,
+    "JPEG": 10,
+    "BMP": 1,
+    "GIF87a": 0,
+    "GIF89a": 0,
+    "DDS": 0,
+    "PCX": 1418
+  },
+  "conclusion": {
+    "verified_images_extracted": 0,
+    "zlib_streams_found": 0,
+    "texture_payload_format": "not established",
+    "note": "References are material/surface identifiers. A zlib stream is not classified as a texture without dimensions, pixel format and successful image reconstruction."
+  }
+}

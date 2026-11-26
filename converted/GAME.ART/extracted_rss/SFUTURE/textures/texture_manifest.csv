@@ -1,0 +1,13 @@
+﻿name,offset,evidence,surface_labels,occurrences,asset_status,copied_files
+T7SQ01,165,surface_label_then_texture_identifier,T7future260; T7future230; T7future200; T7future250; T7future-001200; T7future-0900; T7future-0901; T7future-0902; T7future-0903; T7future0600; T7future0601; T7future0602; T7future0603; T7future0604; T7standtops-10000; T7standtops-10100; T7standtops-10300; T7future1200; T7future1260; T7future1230; T7future1270; T7future0500; T7future0501; T7future0502; T7future0503; T7future0504; T7future0400; T7future0401; T7future0402; T7future0403; T7future0404,31,reference_only_no_pixel_asset_found,
+T7sq03,607,surface_label_then_texture_identifier,T7future-0300; T7future-0301; T7future0100; T7future0101; T7future0700; T7future0701; trackwalls00; finishline-00,8,reference_only_no_pixel_asset_found,
+T7sq13,1342,surface_label_then_texture_identifier,T7futureroof-00; T7futurecrwd00; T7futurecrwd01; T7futurecrwd02; T7futurecrwd03,5,reference_only_no_pixel_asset_found,
+T7sq04,1419,surface_label_then_texture_identifier,trackwalls05; tunnel-outside-00; tunnel-outside-01; tunnel-outside-02; tunnel-outside-03; tunnel-outside-04,6,reference_only_no_pixel_asset_found,
+T7sq06,2667,surface_label_then_texture_identifier,cotkscrew-01; cotkscrew-02; ground-01; ground-02; ground-03; ground-04,6,reference_only_no_pixel_asset_found,
+T7sq07,3247,surface_label_then_texture_identifier,T7futureroof-01,1,reference_only_no_pixel_asset_found,
+T7sq10,5304,surface_label_then_texture_identifier,tunnel-402; tunnel-401; tunnel-400; tunnel-403; tunnel-404; FutretunnC-01; FutretunnC-02; tunnel-002; tunnel-003; tunnel-004; tunnel-005; futretunnB-01; futretunnB-02; futretunnB-03,14,reference_only_no_pixel_asset_found,
+T7sq02,6479,surface_label_then_texture_identifier,tunnel-500; tunnel-502; tunnel-501; futretunnA-01; futretunnA-02; tunnel-00-800; tunnel-00-801; tunnel-00-802; Futretunn1-01; Futretunn1-02; Futretunn1-03,11,reference_only_no_pixel_asset_found,
+T7sq16,7516,surface_label_then_texture_identifier,Skrim 1; Skrim 2,2,reference_only_no_pixel_asset_found,
+t7stars,7664,surface_label_then_texture_identifier,Skrim Stars,1,reference_only_no_pixel_asset_found,
+T7sq09,7787,surface_label_then_texture_identifier,Track00-60; Track01; Track02; Track03; Track04; Track05,6,reference_only_no_pixel_asset_found,
+T7grid,8221,surface_label_then_texture_identifier,Loop Grid,1,reference_only_no_pixel_asset_found,

@@ -1,0 +1,7 @@
+RSS texture reference: T7sq06
+RSS byte offset: 0x00000a6b
+Detection evidence: surface_label_then_texture_identifier
+Associated surface labels: cotkscrew-01, cotkscrew-02, ground-01, ground-02, ground-03, ground-04\n
+No matching pixel/image asset was present in the supplied archive or asset search path.
+This file is a reference record, NOT an image. The RSS stores a texture identifier here;
+the actual bitmap may be a separate game asset or use a proprietary encoding.

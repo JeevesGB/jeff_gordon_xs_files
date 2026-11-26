@@ -1,0 +1,7 @@
+RSS texture reference: T7sq10
+RSS byte offset: 0x000014b8
+Detection evidence: surface_label_then_texture_identifier
+Associated surface labels: tunnel-402, tunnel-401, tunnel-400, tunnel-403, tunnel-404, FutretunnC-01, FutretunnC-02, tunnel-002, tunnel-003, tunnel-004, tunnel-005, futretunnB-01, futretunnB-02, futretunnB-03\n
+No matching pixel/image asset was present in the supplied archive or asset search path.
+This file is a reference record, NOT an image. The RSS stores a texture identifier here;
+the actual bitmap may be a separate game asset or use a proprietary encoding.

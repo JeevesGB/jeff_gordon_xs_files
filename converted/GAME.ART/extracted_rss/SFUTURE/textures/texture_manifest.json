@@ -1,0 +1,330 @@
+[
+  {
+    "name": "T7SQ01",
+    "offset": 165,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "T7future260",
+      "T7future230",
+      "T7future200",
+      "T7future250",
+      "T7future-001200",
+      "T7future-0900",
+      "T7future-0901",
+      "T7future-0902",
+      "T7future-0903",
+      "T7future0600",
+      "T7future0601",
+      "T7future0602",
+      "T7future0603",
+      "T7future0604",
+      "T7standtops-10000",
+      "T7standtops-10100",
+      "T7standtops-10300",
+      "T7future1200",
+      "T7future1260",
+      "T7future1230",
+      "T7future1270",
+      "T7future0500",
+      "T7future0501",
+      "T7future0502",
+      "T7future0503",
+      "T7future0504",
+      "T7future0400",
+      "T7future0401",
+      "T7future0402",
+      "T7future0403",
+      "T7future0404"
+    ],
+    "occurrences": 31,
+    "occurrences_at_offsets": [
+      165,
+      241,
+      317,
+      393,
+      473,
+      818,
+      896,
+      974,
+      1052,
+      1552,
+      1629,
+      1706,
+      1783,
+      1860,
+      3764,
+      3846,
+      3928,
+      4061,
+      4138,
+      4215,
+      4292,
+      4425,
+      4502,
+      4579,
+      4656,
+      4733,
+      4866,
+      4943,
+      5020,
+      5097,
+      5174
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T7sq03",
+    "offset": 607,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "T7future-0300",
+      "T7future-0301",
+      "T7future0100",
+      "T7future0101",
+      "T7future0700",
+      "T7future0701",
+      "trackwalls00",
+      "finishline-00"
+    ],
+    "occurrences": 8,
+    "occurrences_at_offsets": [
+      607,
+      685,
+      1185,
+      1262,
+      1993,
+      2070,
+      2821,
+      7386
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T7sq13",
+    "offset": 1342,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "T7futureroof-00",
+      "T7futurecrwd00",
+      "T7futurecrwd01",
+      "T7futurecrwd02",
+      "T7futurecrwd03"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      1342,
+      3384,
+      3463,
+      3542,
+      3621
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T7sq04",
+    "offset": 1419,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "trackwalls05",
+      "tunnel-outside-00",
+      "tunnel-outside-01",
+      "tunnel-outside-02",
+      "tunnel-outside-03",
+      "tunnel-outside-04"
+    ],
+    "occurrences": 6,
+    "occurrences_at_offsets": [
+      1419,
+      2208,
+      2290,
+      2372,
+      2454,
+      2536
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T7sq06",
+    "offset": 2667,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "cotkscrew-01",
+      "cotkscrew-02",
+      "ground-01",
+      "ground-02",
+      "ground-03",
+      "ground-04"
+    ],
+    "occurrences": 6,
+    "occurrences_at_offsets": [
+      2667,
+      2744,
+      2945,
+      3019,
+      3093,
+      3167
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T7sq07",
+    "offset": 3247,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "T7futureroof-01"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3247
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T7sq10",
+    "offset": 5304,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "tunnel-402",
+      "tunnel-401",
+      "tunnel-400",
+      "tunnel-403",
+      "tunnel-404",
+      "FutretunnC-01",
+      "FutretunnC-02",
+      "tunnel-002",
+      "tunnel-003",
+      "tunnel-004",
+      "tunnel-005",
+      "futretunnB-01",
+      "futretunnB-02",
+      "futretunnB-03"
+    ],
+    "occurrences": 14,
+    "occurrences_at_offsets": [
+      5304,
+      5379,
+      5454,
+      5529,
+      5604,
+      5682,
+      5760,
+      5890,
+      5965,
+      6040,
+      6115,
+      6193,
+      6271,
+      6349
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T7sq02",
+    "offset": 6479,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "tunnel-500",
+      "tunnel-502",
+      "tunnel-501",
+      "futretunnA-01",
+      "futretunnA-02",
+      "tunnel-00-800",
+      "tunnel-00-801",
+      "tunnel-00-802",
+      "Futretunn1-01",
+      "Futretunn1-02",
+      "Futretunn1-03"
+    ],
+    "occurrences": 11,
+    "occurrences_at_offsets": [
+      6479,
+      6554,
+      6629,
+      6707,
+      6785,
+      6918,
+      6996,
+      7074,
+      7152,
+      7230,
+      7308
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T7sq16",
+    "offset": 7516,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim 1",
+      "Skrim 2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      7516,
+      7588
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t7stars",
+    "offset": 7664,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim Stars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      7664
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T7sq09",
+    "offset": 7787,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Track00-60",
+      "Track01",
+      "Track02",
+      "Track03",
+      "Track04",
+      "Track05"
+    ],
+    "occurrences": 6,
+    "occurrences_at_offsets": [
+      7787,
+      7859,
+      7931,
+      8003,
+      8075,
+      8147
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T7grid",
+    "offset": 8221,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Loop Grid"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      8221
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]

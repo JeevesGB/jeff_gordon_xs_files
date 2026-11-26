@@ -1,0 +1,7 @@
+RSS texture reference: T7SQ01
+RSS byte offset: 0x000000a5
+Detection evidence: surface_label_then_texture_identifier
+Associated surface labels: T7future260, T7future230, T7future200, T7future250, T7future-001200, T7future-0900, T7future-0901, T7future-0902, T7future-0903, T7future0600, T7future0601, T7future0602, T7future0603, T7future0604, T7standtops-10000, T7standtops-10100, T7standtops-10300, T7future1200, T7future1260, T7future1230, T7future1270, T7future0500, T7future0501, T7future0502, T7future0503, T7future0504, T7future0400, T7future0401, T7future0402, T7future0403, T7future0404\n
+No matching pixel/image asset was present in the supplied archive or asset search path.
+This file is a reference record, NOT an image. The RSS stores a texture identifier here;
+the actual bitmap may be a separate game asset or use a proprietary encoding.

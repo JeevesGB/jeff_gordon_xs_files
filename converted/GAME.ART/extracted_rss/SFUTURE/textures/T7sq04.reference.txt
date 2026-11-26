@@ -1,0 +1,7 @@
+RSS texture reference: T7sq04
+RSS byte offset: 0x0000058b
+Detection evidence: surface_label_then_texture_identifier
+Associated surface labels: trackwalls05, tunnel-outside-00, tunnel-outside-01, tunnel-outside-02, tunnel-outside-03, tunnel-outside-04\n
+No matching pixel/image asset was present in the supplied archive or asset search path.
+This file is a reference record, NOT an image. The RSS stores a texture identifier here;
+the actual bitmap may be a separate game asset or use a proprietary encoding.
