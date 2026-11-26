@@ -1,0 +1,523 @@
+[
+  {
+    "name": "t8crwd00",
+    "offset": 151,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "stands",
+      "stands00",
+      "stands01",
+      "standsoverhang02",
+      "standsoverhang00",
+      "standsoverhang01",
+      "standsoverhang03"
+    ],
+    "occurrences": 7,
+    "occurrences_at_offsets": [
+      151,
+      226,
+      301,
+      384,
+      467,
+      550,
+      633
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t8post00",
+    "offset": 762,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "tracksign01",
+      "tracksign00",
+      "trackpost00"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      762,
+      840,
+      918
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T8supp00",
+    "offset": 1048,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "RAIL05",
+      "greenl",
+      "concrete02"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      1048,
+      1121,
+      1198
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t8tbtm00",
+    "offset": 1329,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "tunnbystands",
+      "tunnbystands00"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1329,
+      1410
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T8ceil01",
+    "offset": 1547,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "tunnceiling01",
+      "tunnceiling02"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      1547,
+      1627
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T8gird00",
+    "offset": 1756,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "billbase06",
+      "gird00",
+      "gird01",
+      "gird02",
+      "gird03"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      1756,
+      7586,
+      7659,
+      7732,
+      7805
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t8offa00",
+    "offset": 1887,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "office01",
+      "office02",
+      "office03",
+      "office04",
+      "office05",
+      "office06",
+      "office07",
+      "office08"
+    ],
+    "occurrences": 8,
+    "occurrences_at_offsets": [
+      1887,
+      1962,
+      2037,
+      2112,
+      2187,
+      2262,
+      2337,
+      2412
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T8bldB00",
+    "offset": 2543,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "buildingA00",
+      "buildingA01",
+      "buildingA02",
+      "Smallbuild00",
+      "Smallbuild01",
+      "Smallbuild02",
+      "billbase04"
+    ],
+    "occurrences": 7,
+    "occurrences_at_offsets": [
+      2543,
+      2621,
+      2699,
+      2829,
+      2908,
+      2987,
+      7935
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T8wbld00",
+    "offset": 3114,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "warehse00",
+      "warehse01",
+      "warehse02"
+    ],
+    "occurrences": 3,
+    "occurrences_at_offsets": [
+      3114,
+      3190,
+      3266
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T8tunn07",
+    "offset": 3339,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "T8pipe"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      3339
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t8fact00",
+    "offset": 3464,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "chimney00",
+      "chimney01",
+      "fact25",
+      "fact05",
+      "fact03",
+      "fact01",
+      "fact04",
+      "fact00",
+      "fact20",
+      "fact21"
+    ],
+    "occurrences": 11,
+    "occurrences_at_offsets": [
+      3464,
+      3540,
+      3613,
+      3743,
+      3816,
+      3889,
+      3962,
+      9629,
+      9702,
+      9775,
+      9848
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T8back01",
+    "offset": 4091,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "fact09",
+      "fact08",
+      "fact10",
+      "fact07"
+    ],
+    "occurrences": 4,
+    "occurrences_at_offsets": [
+      4091,
+      4164,
+      4237,
+      4310
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T8sid00",
+    "offset": 4442,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "sidewalk20",
+      "sidewalk21",
+      "sidewalkto black",
+      "sidewalk02",
+      "sidewalk10",
+      "sidewalk11"
+    ],
+    "occurrences": 6,
+    "occurrences_at_offsets": [
+      4442,
+      4518,
+      9372,
+      9506,
+      9984,
+      10060
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t8gthm00",
+    "offset": 4651,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "gothambuild02",
+      "gotbuild02",
+      "gotbuild03",
+      "gotbuild04",
+      "gotbuild05",
+      "gotbuild06",
+      "gotbuild07",
+      "gotbuild08",
+      "gotbuild09",
+      "Gothambuild03",
+      "Gothambuild01"
+    ],
+    "occurrences": 11,
+    "occurrences_at_offsets": [
+      4651,
+      4728,
+      4805,
+      4882,
+      4959,
+      5036,
+      5113,
+      5190,
+      5267,
+      5347,
+      5427
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T8tress0",
+    "offset": 5556,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "concrete05a",
+      "tressel55-0000"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      5556,
+      5637
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t8jg00L",
+    "offset": 5709,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "jg-00"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      5709
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T8ligh00",
+    "offset": 5840,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "tunnlight00",
+      "tunellight01"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      5840,
+      5919
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t8tnnn00",
+    "offset": 6130,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "stands-70090",
+      "tunn00",
+      "tunn10",
+      "tunn01",
+      "tunn02",
+      "tunnextwall02",
+      "tunn04",
+      "tunn05",
+      "tunnextwall01",
+      "tunn07",
+      "tunn08",
+      "tunn09",
+      "tunnextwall03",
+      "tunnextwall04",
+      "tunnhang00",
+      "tunnelwallbelow00",
+      "tunnextwall00"
+    ],
+    "occurrences": 17,
+    "occurrences_at_offsets": [
+      6130,
+      8064,
+      8137,
+      8210,
+      8283,
+      8363,
+      8436,
+      8509,
+      8589,
+      8662,
+      8735,
+      8808,
+      8888,
+      8968,
+      9045,
+      9129,
+      9209
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t8bann00",
+    "offset": 6257,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "billbase05a"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      6257
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T8skrim8",
+    "offset": 6389,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim 1",
+      "Skrim 2"
+    ],
+    "occurrences": 2,
+    "occurrences_at_offsets": [
+      6389,
+      6463
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t8stars",
+    "offset": 6541,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim Stars"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      6541
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t8cena00",
+    "offset": 6676,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "centerbuild02",
+      "centerbuild01",
+      "cent01",
+      "centerbuild03",
+      "centertop",
+      "centerbase01",
+      "centbasebtm00",
+      "centerbase00",
+      "centerwindow00"
+    ],
+    "occurrences": 9,
+    "occurrences_at_offsets": [
+      6676,
+      6756,
+      6829,
+      6909,
+      7144,
+      7223,
+      7303,
+      7382,
+      7463
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T8gmcen0",
+    "offset": 6989,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "centerbuild04"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      6989
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "T8cen01",
+    "offset": 7069,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "centertower00"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      7069
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "conrt01",
+    "offset": 9290,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "concretewall03"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      9290
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]
