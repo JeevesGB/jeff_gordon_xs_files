@@ -1,0 +1,7 @@
+RSS texture reference: Alien
+RSS byte offset: 0x000000a0
+Detection evidence: surface_label_then_texture_identifier
+Associated surface labels: Alien Front_0, Alien Top_0, Alien Back_0, Alien Side_0, Alien Bottom_0, Alien Wing_0, Aien Airbrake Left, Aien Airbrake Right, Alien Airbrake Side, Alien Wings, Alien Front_1, Alien Top_1, Alien Back_1, Alien Side_1, Alien Bottom_1, Alien Wing_1\n
+No matching pixel/image asset was present in the supplied archive or asset search path.
+This file is a reference record, NOT an image. The RSS stores a texture identifier here;
+the actual bitmap may be a separate game asset or use a proprietary encoding.

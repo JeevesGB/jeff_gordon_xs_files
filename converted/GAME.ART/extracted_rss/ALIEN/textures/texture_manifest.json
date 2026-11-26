@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Alien",
+    "offset": 160,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Alien Front_0",
+      "Alien Top_0",
+      "Alien Back_0",
+      "Alien Side_0",
+      "Alien Bottom_0",
+      "Alien Wing_0",
+      "Aien Airbrake Left",
+      "Aien Airbrake Right",
+      "Alien Airbrake Side",
+      "Alien Wings",
+      "Alien Front_1",
+      "Alien Top_1",
+      "Alien Back_1",
+      "Alien Side_1",
+      "Alien Bottom_1",
+      "Alien Wing_1"
+    ],
+    "occurrences": 16,
+    "occurrences_at_offsets": [
+      160,
+      235,
+      311,
+      387,
+      465,
+      541,
+      754,
+      837,
+      920,
+      995,
+      1204,
+      1279,
+      1355,
+      1431,
+      1509,
+      1585
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "carshdw",
+    "offset": 615,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "car shadow"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      615
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "AlienBrk",
+    "offset": 1075,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Alien Tail Light"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1075
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "Alien1_2",
+    "offset": 1711,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Alien Front_2",
+      "Alien Top_2",
+      "Alien Back_2",
+      "Alien Side_2",
+      "Alien Bottom_2"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      1711,
+      1789,
+      1868,
+      1947,
+      2028
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]

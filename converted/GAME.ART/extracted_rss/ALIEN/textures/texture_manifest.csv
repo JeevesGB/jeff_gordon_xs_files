@@ -1,0 +1,5 @@
+﻿name,offset,evidence,surface_labels,occurrences,asset_status,copied_files
+Alien,160,surface_label_then_texture_identifier,Alien Front_0; Alien Top_0; Alien Back_0; Alien Side_0; Alien Bottom_0; Alien Wing_0; Aien Airbrake Left; Aien Airbrake Right; Alien Airbrake Side; Alien Wings; Alien Front_1; Alien Top_1; Alien Back_1; Alien Side_1; Alien Bottom_1; Alien Wing_1,16,reference_only_no_pixel_asset_found,
+carshdw,615,surface_label_then_texture_identifier,car shadow,1,reference_only_no_pixel_asset_found,
+AlienBrk,1075,surface_label_then_texture_identifier,Alien Tail Light,1,reference_only_no_pixel_asset_found,
+Alien1_2,1711,surface_label_then_texture_identifier,Alien Front_2; Alien Top_2; Alien Back_2; Alien Side_2; Alien Bottom_2,5,reference_only_no_pixel_asset_found,

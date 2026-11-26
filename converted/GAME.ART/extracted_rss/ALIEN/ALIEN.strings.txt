@@ -1,0 +1,74 @@
+ASCII STRINGS (byte offsets)
+0x00000000 [50] fRssExport Version (V1) - Mon Apr 26 13:30:16 1999
+0x0000003a [7] Alien_0
+0x0000006b [13] Alien Front_0
+0x000000a0 [5] Alien
+0x000000b8 [11] Alien Top_0
+0x000000eb [5] Alien
+0x00000103 [12] Alien Back_0
+0x00000137 [5] Alien
+0x0000014f [12] Alien Side_0
+0x00000183 [5] Alien
+0x0000019b [14] Alien Bottom_0
+0x000001d1 [5] Alien
+0x000001e9 [12] Alien Wing_0
+0x0000021d [5] Alien
+0x00000235 [10] car shadow
+0x00000267 [7] carshdw
+0x00000281 [13] Aien Airbrake
+0x000002b8 [18] Aien Airbrake Left
+0x000002f2 [5] Alien
+0x0000030a [19] Aien Airbrake Right
+0x00000345 [5] Alien
+0x0000035d [19] Alien Airbrake Side
+0x00000398 [5] Alien
+0x000003b0 [11] Alien Wings
+0x000003e3 [5] Alien
+0x000003fb [16] Alien Tail Light
+0x00000433 [8] AlienBrk
+0x0000044e [7] Alien_1
+0x0000047f [13] Alien Front_1
+0x000004b4 [5] Alien
+0x000004cc [11] Alien Top_1
+0x000004ff [5] Alien
+0x00000517 [12] Alien Back_1
+0x0000054b [5] Alien
+0x00000563 [12] Alien Side_1
+0x00000597 [5] Alien
+0x000005af [14] Alien Bottom_1
+0x000005e5 [5] Alien
+0x000005fd [12] Alien Wing_1
+0x00000631 [5] Alien
+0x00000649 [7] Alien_2
+0x0000067a [13] Alien Front_2
+0x000006af [8] Alien1_2
+0x000006ca [11] Alien Top_2
+0x000006fd [8] Alien1_2
+0x00000718 [12] Alien Back_2
+0x0000074c [8] Alien1_2
+0x00000767 [12] Alien Side_2
+0x0000079b [8] Alien1_2
+0x000007b6 [14] Alien Bottom_2
+0x000007ec [8] Alien1_2
+0x0000080a [5] alien
+0x000010ad [7] Alien_0
+0x000046dc [7] Alien_1
+0x00005fc3 [7] Alien_2
+0x000064ef [12] alien shadow
+0x00006559 [10] car shadow
+0x0000660c [11] alien brake
+0x00006705 [13] Aien Airbrake
+0x00006903 [12] alien bottom
+0x00006b4d [7] Alien_0
+0x000072ec [7] Alien_1
+0x0000762c [10] alien_left
+0x000077b4 [11] Alien Wings
+0x0000795e [11] alien_right
+0x00007ae7 [11] Alien Wings
+0x00007c91 [14] %alien spoiler
+0x00007dbd [7] Alien_0
+0x000080b0 [7] Alien_1
+0x000082a8 [16] alien Brakelight
+0x00008346 [16] Alien Tail Light
+
+UTF-16LE STRINGS (byte offsets)

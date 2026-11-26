@@ -1,0 +1,985 @@
+{
+  "file": "ALIEN.RSS",
+  "size": 33790,
+  "sha256": "da450eff618059ce213d26ac60eb13c9f9bc798d601d1fc748a2ccfbae6f2ae7",
+  "original_copy": "ALIEN.RSS.original",
+  "texture_reference_count": 23,
+  "unique_texture_identifiers": 4,
+  "plausible_atlas_rect_count": 23,
+  "zero_padding_after_rect_count": 23,
+  "texture_identifiers_grouped": [
+    {
+      "identifier": "Alien",
+      "occurrences": 16,
+      "surface_labels": [
+        "Alien Front_0",
+        "Alien Top_0",
+        "Alien Back_0",
+        "Alien Side_0",
+        "Alien Bottom_0",
+        "Alien Wing_0",
+        "Aien Airbrake Left",
+        "Aien Airbrake Right",
+        "Alien Airbrake Side",
+        "Alien Wings",
+        "Alien Front_1",
+        "Alien Top_1",
+        "Alien Back_1",
+        "Alien Side_1",
+        "Alien Bottom_1",
+        "Alien Wing_1"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.24749755859375,
+          0.08038330078125
+        ],
+        [
+          0.0,
+          0.2411651611328125,
+          0.5,
+          0.1529388427734375
+        ],
+        [
+          0.0024871826171875,
+          0.0823516845703125,
+          0.24749755859375,
+          0.1548919677734375
+        ],
+        [
+          0.0,
+          0.399993896484375,
+          0.5,
+          0.0999908447265625
+        ],
+        [
+          0.3647003173828125,
+          0.401947021484375,
+          0.1235198974609375,
+          0.0196075439453125
+        ],
+        [
+          0.064697265625,
+          0.401947021484375,
+          0.166656494140625,
+          0.009796142578125
+        ],
+        [
+          0.25,
+          0.0,
+          0.25,
+          0.117645263671875
+        ],
+        [
+          0.25,
+          0.119598388671875,
+          0.25,
+          0.117645263671875
+        ],
+        [
+          0.478424072265625,
+          0.119598388671875,
+          0.0215606689453125,
+          0.119598388671875
+        ],
+        [
+          0.08038330078125,
+          0.401947021484375,
+          0.1470489501953125,
+          0.009796142578125
+        ],
+        [
+          0.0,
+          0.0,
+          0.24749755859375,
+          0.08038330078125
+        ],
+        [
+          0.0,
+          0.2411651611328125,
+          0.5,
+          0.1529388427734375
+        ],
+        [
+          0.0024871826171875,
+          0.0823516845703125,
+          0.24749755859375,
+          0.1548919677734375
+        ],
+        [
+          0.0,
+          0.399993896484375,
+          0.5,
+          0.0999908447265625
+        ],
+        [
+          0.3588104248046875,
+          0.401947021484375,
+          0.14117431640625,
+          0.023529052734375
+        ],
+        [
+          0.064697265625,
+          0.401947021484375,
+          0.166656494140625,
+          0.009796142578125
+        ]
+      ]
+    },
+    {
+      "identifier": "carshdw",
+      "occurrences": 1,
+      "surface_labels": [
+        "car shadow"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "AlienBrk",
+      "occurrences": 1,
+      "surface_labels": [
+        "Alien Tail Light"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "Alien1_2",
+      "occurrences": 5,
+      "surface_labels": [
+        "Alien Front_2",
+        "Alien Top_2",
+        "Alien Back_2",
+        "Alien Side_2",
+        "Alien Bottom_2"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    }
+  ],
+  "texture_references": [
+    {
+      "identifier": "Alien",
+      "identifier_offset": 160,
+      "surface_label": "Alien Front_0",
+      "surface_label_offset": 107,
+      "gap_from_label": 53,
+      "next_string": "\\?",
+      "next_string_offset": 174,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16220,
+        5268
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.24749755859375,
+        0.08038330078125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 5c 3f 00 00 94 14 00 00 00 00 41 6c 69 65 6e 20 54 6f 70 5f 30 00 ff ff",
+      "context_start": 91,
+      "context_end": 190,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 230,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Alien",
+      "identifier_offset": 235,
+      "surface_label": "Alien Top_0",
+      "surface_label_offset": 184,
+      "gap_from_label": 51,
+      "next_string": "''",
+      "next_string_offset": 253,
+      "post_identifier_u32_le": [
+        0,
+        15805,
+        32768,
+        10023
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2411651611328125,
+        0.5,
+        0.1529388427734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 bd 3d 00 00 00 80 00 00 27 27 00 00 00 00 41 6c 69 65 6e 20 42 61 63 6b 5f 30 00 ff",
+      "context_start": 168,
+      "context_end": 269,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 155,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Alien",
+      "identifier_offset": 311,
+      "surface_label": "Alien Back_0",
+      "surface_label_offset": 259,
+      "gap_from_label": 52,
+      "next_string": "\\?",
+      "next_string_offset": 325,
+      "post_identifier_u32_le": [
+        163,
+        5397,
+        16220,
+        10151
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0024871826171875,
+        0.0823516845703125,
+        0.24749755859375,
+        0.1548919677734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "a3 00 00 00 15 15 00 00 5c 3f 00 00 a7 27 00 00 00 00 41 6c 69 65 6e 20 53 69 64 65 5f 30 00 ff",
+      "context_start": 243,
+      "context_end": 341,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Alien",
+      "identifier_offset": 387,
+      "surface_label": "Alien Side_0",
+      "surface_label_offset": 335,
+      "gap_from_label": 52,
+      "next_string": "ff",
+      "next_string_offset": 397,
+      "post_identifier_u32_le": [
+        0,
+        26214,
+        32768,
+        6553
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.399993896484375,
+        0.5,
+        0.0999908447265625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 66 66 00 00 00 80 00 00 99 19 00 00 00 00 41 6c 69 65 6e 20 42 6f 74 74 6f 6d 5f 30",
+      "context_start": 319,
+      "context_end": 413,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Alien",
+      "identifier_offset": 465,
+      "surface_label": "Alien Bottom_0",
+      "surface_label_offset": 411,
+      "gap_from_label": 54,
+      "next_string": "]]",
+      "next_string_offset": 471,
+      "post_identifier_u32_le": [
+        23901,
+        26342,
+        8095,
+        1285
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.3647003173828125,
+        0.401947021484375,
+        0.1235198974609375,
+        0.0196075439453125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "5d 5d 00 00 e6 66 00 00 9f 1f 00 00 05 05 00 00 00 00 41 6c 69 65 6e 20 57 69 6e 67 5f 30 00 ff",
+      "context_start": 395,
+      "context_end": 487,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Alien",
+      "identifier_offset": 541,
+      "surface_label": "Alien Wing_0",
+      "surface_label_offset": 489,
+      "gap_from_label": 52,
+      "next_string": "car shadow",
+      "next_string_offset": 565,
+      "post_identifier_u32_le": [
+        4240,
+        26342,
+        10922,
+        642
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.064697265625,
+        0.401947021484375,
+        0.166656494140625,
+        0.009796142578125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "90 10 00 00 e6 66 00 00 aa 2a 00 00 82 02 00 00 00 00 63 61 72 20 73 68 61 64 6f 77 00 ff ff ff",
+      "context_start": 473,
+      "context_end": 581,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "carshdw",
+      "identifier_offset": 615,
+      "surface_label": "car shadow",
+      "surface_label_offset": 565,
+      "gap_from_label": 50,
+      "next_string": "Aien Airbrake",
+      "next_string_offset": 641,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 41 69 65 6e 20 41 69 72 62 72 61 6b 65 00",
+      "context_start": 549,
+      "context_end": 657,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Alien",
+      "identifier_offset": 754,
+      "surface_label": "Aien Airbrake Left",
+      "surface_label_offset": 696,
+      "gap_from_label": 58,
+      "next_string": "Aien Airbrake Right",
+      "next_string_offset": 778,
+      "post_identifier_u32_le": [
+        16384,
+        0,
+        16384,
+        7710
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.0,
+        0.25,
+        0.117645263671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 00 00 00 00 00 40 00 00 1e 1e 00 00 00 00 41 69 65 6e 20 41 69 72 62 72 61 6b 65 20",
+      "context_start": 680,
+      "context_end": 794,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 832,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Alien",
+      "identifier_offset": 837,
+      "surface_label": "Aien Airbrake Right",
+      "surface_label_offset": 778,
+      "gap_from_label": 59,
+      "next_string": "Alien Airbrake Side",
+      "next_string_offset": 861,
+      "post_identifier_u32_le": [
+        16384,
+        7838,
+        16384,
+        7710
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.119598388671875,
+        0.25,
+        0.117645263671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 9e 1e 00 00 00 40 00 00 1e 1e 00 00 00 00 41 6c 69 65 6e 20 41 69 72 62 72 61 6b 65",
+      "context_start": 762,
+      "context_end": 877,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 749,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 915,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Alien",
+      "identifier_offset": 920,
+      "surface_label": "Alien Airbrake Side",
+      "surface_label_offset": 861,
+      "gap_from_label": 59,
+      "next_string": "zz",
+      "next_string_offset": 926,
+      "post_identifier_u32_le": [
+        31354,
+        7838,
+        1413,
+        7838
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.478424072265625,
+        0.119598388671875,
+        0.0215606689453125,
+        0.119598388671875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "7a 7a 00 00 9e 1e 00 00 85 05 00 00 9e 1e 00 00 00 00 41 6c 69 65 6e 20 57 69 6e 67 73 00 ff ff",
+      "context_start": 845,
+      "context_end": 942,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 832,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 990,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Alien",
+      "identifier_offset": 995,
+      "surface_label": "Alien Wings",
+      "surface_label_offset": 944,
+      "gap_from_label": 51,
+      "next_string": "Alien Tail Light",
+      "next_string_offset": 1019,
+      "post_identifier_u32_le": [
+        5268,
+        26342,
+        9637,
+        642
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.08038330078125,
+        0.401947021484375,
+        0.1470489501953125,
+        0.009796142578125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "94 14 00 00 e6 66 00 00 a5 25 00 00 82 02 00 00 00 00 41 6c 69 65 6e 20 54 61 69 6c 20 4c 69 67",
+      "context_start": 928,
+      "context_end": 1035,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 915,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "AlienBrk",
+      "identifier_offset": 1075,
+      "surface_label": "Alien Tail Light",
+      "surface_label_offset": 1019,
+      "gap_from_label": 56,
+      "next_string": "Alien_1",
+      "next_string_offset": 1102,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 41 6c 69 65 6e 5f 31 00 ff ff ff ff ff ff",
+      "context_start": 1003,
+      "context_end": 1118,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Alien",
+      "identifier_offset": 1204,
+      "surface_label": "Alien Front_1",
+      "surface_label_offset": 1151,
+      "gap_from_label": 53,
+      "next_string": "\\?",
+      "next_string_offset": 1218,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16220,
+        5268
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.24749755859375,
+        0.08038330078125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 5c 3f 00 00 94 14 00 00 00 00 41 6c 69 65 6e 20 54 6f 70 5f 31 00 ff ff",
+      "context_start": 1135,
+      "context_end": 1234,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1274,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Alien",
+      "identifier_offset": 1279,
+      "surface_label": "Alien Top_1",
+      "surface_label_offset": 1228,
+      "gap_from_label": 51,
+      "next_string": "''",
+      "next_string_offset": 1297,
+      "post_identifier_u32_le": [
+        0,
+        15805,
+        32768,
+        10023
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.2411651611328125,
+        0.5,
+        0.1529388427734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 bd 3d 00 00 00 80 00 00 27 27 00 00 00 00 41 6c 69 65 6e 20 42 61 63 6b 5f 31 00 ff",
+      "context_start": 1212,
+      "context_end": 1313,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1199,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Alien",
+      "identifier_offset": 1355,
+      "surface_label": "Alien Back_1",
+      "surface_label_offset": 1303,
+      "gap_from_label": 52,
+      "next_string": "\\?",
+      "next_string_offset": 1369,
+      "post_identifier_u32_le": [
+        163,
+        5397,
+        16220,
+        10151
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0024871826171875,
+        0.0823516845703125,
+        0.24749755859375,
+        0.1548919677734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "a3 00 00 00 15 15 00 00 5c 3f 00 00 a7 27 00 00 00 00 41 6c 69 65 6e 20 53 69 64 65 5f 31 00 ff",
+      "context_start": 1287,
+      "context_end": 1385,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Alien",
+      "identifier_offset": 1431,
+      "surface_label": "Alien Side_1",
+      "surface_label_offset": 1379,
+      "gap_from_label": 52,
+      "next_string": "ff",
+      "next_string_offset": 1441,
+      "post_identifier_u32_le": [
+        0,
+        26214,
+        32768,
+        6553
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.399993896484375,
+        0.5,
+        0.0999908447265625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 66 66 00 00 00 80 00 00 99 19 00 00 00 00 41 6c 69 65 6e 20 42 6f 74 74 6f 6d 5f 31",
+      "context_start": 1363,
+      "context_end": 1457,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Alien",
+      "identifier_offset": 1509,
+      "surface_label": "Alien Bottom_1",
+      "surface_label_offset": 1455,
+      "gap_from_label": 54,
+      "next_string": "$$",
+      "next_string_offset": 1523,
+      "post_identifier_u32_le": [
+        23515,
+        26342,
+        9252,
+        1542
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.3588104248046875,
+        0.401947021484375,
+        0.14117431640625,
+        0.023529052734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "db 5b 00 00 e6 66 00 00 24 24 00 00 06 06 00 00 00 00 41 6c 69 65 6e 20 57 69 6e 67 5f 31 00 ff",
+      "context_start": 1439,
+      "context_end": 1539,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Alien",
+      "identifier_offset": 1585,
+      "surface_label": "Alien Wing_1",
+      "surface_label_offset": 1533,
+      "gap_from_label": 52,
+      "next_string": "Alien_2",
+      "next_string_offset": 1609,
+      "post_identifier_u32_le": [
+        4240,
+        26342,
+        10922,
+        642
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.064697265625,
+        0.401947021484375,
+        0.166656494140625,
+        0.009796142578125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "90 10 00 00 e6 66 00 00 aa 2a 00 00 82 02 00 00 00 00 41 6c 69 65 6e 5f 32 00 ff ff ff ff ff ff",
+      "context_start": 1517,
+      "context_end": 1625,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Alien1_2",
+      "identifier_offset": 1711,
+      "surface_label": "Alien Front_2",
+      "surface_label_offset": 1658,
+      "gap_from_label": 53,
+      "next_string": "Alien Top_2",
+      "next_string_offset": 1738,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 41 6c 69 65 6e 20 54 6f 70 5f 32 00 ff ff",
+      "context_start": 1642,
+      "context_end": 1754,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "Alien1_2",
+      "identifier_offset": 1789,
+      "surface_label": "Alien Top_2",
+      "surface_label_offset": 1738,
+      "gap_from_label": 51,
+      "next_string": "Alien Back_2",
+      "next_string_offset": 1816,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 41 6c 69 65 6e 20 42 61 63 6b 5f 32 00 ff",
+      "context_start": 1722,
+      "context_end": 1832,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1863,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1729,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Alien1_2",
+      "identifier_offset": 1868,
+      "surface_label": "Alien Back_2",
+      "surface_label_offset": 1816,
+      "gap_from_label": 52,
+      "next_string": "Alien Side_2",
+      "next_string_offset": 1895,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 41 6c 69 65 6e 20 53 69 64 65 5f 32 00 ff",
+      "context_start": 1800,
+      "context_end": 1911,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1784,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1942,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Alien1_2",
+      "identifier_offset": 1947,
+      "surface_label": "Alien Side_2",
+      "surface_label_offset": 1895,
+      "gap_from_label": 52,
+      "next_string": "Alien Bottom_2",
+      "next_string_offset": 1974,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 41 6c 69 65 6e 20 42 6f 74 74 6f 6d 5f 32",
+      "context_start": 1879,
+      "context_end": 1990,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1863,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "Alien1_2",
+      "identifier_offset": 2028,
+      "surface_label": "Alien Bottom_2",
+      "surface_label_offset": 1974,
+      "gap_from_label": 54,
+      "next_string": "alien",
+      "next_string_offset": 2058,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 08 00 00 61 6c 69 65 6e 00 00 00 00 00 00",
+      "context_start": 1958,
+      "context_end": 2074,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1942,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    }
+  ],
+  "verified_decoded_images": [],
+  "zlib_stream_candidates": [],
+  "standard_signature_counts": {
+    "PNG": 0,
+    "JPEG": 0,
+    "BMP": 0,
+    "GIF87a": 0,
+    "GIF89a": 0,
+    "DDS": 0,
+    "PCX": 179
+  },
+  "conclusion": {
+    "verified_images_extracted": 0,
+    "zlib_streams_found": 0,
+    "texture_payload_format": "not established",
+    "note": "References are material/surface identifiers. A zlib stream is not classified as a texture without dimensions, pixel format and successful image reconstruction."
+  }
+}
