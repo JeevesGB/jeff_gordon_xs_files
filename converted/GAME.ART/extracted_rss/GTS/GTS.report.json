@@ -1,0 +1,2103 @@
+{
+  "file": "GTS.RSS",
+  "size": 30931,
+  "sha256": "07bc0ca3a38fd862069ea5c5c5ab0b395fdab0cbffeca43bb5ba67c3d2e8b20d",
+  "header": "fRssExport Version (V1) - Fri Apr 16 16:48:31 1999",
+  "header_bytes_hex": "665273734578706f72742056657273696f6e2028563129202d20467269204170722031362031363a34383a333120313939390a",
+  "mesh_parser_note": "Heuristic only; not a complete documented RSS specification.",
+  "meshes": [
+    {
+      "index": 0,
+      "name": "GTS_0",
+      "name_offset": 3793,
+      "face_span": [
+        3799,
+        14802
+      ],
+      "face_count": 134,
+      "max_vertex_index": 76,
+      "vertex_span": [
+        1945,
+        3793
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 77,
+      "header_words": [
+        10960,
+        30365,
+        4294961679
+      ]
+    },
+    {
+      "index": 1,
+      "name": "GTS_1",
+      "name_offset": 15810,
+      "face_span": [
+        15816,
+        21899
+      ],
+      "face_count": 74,
+      "max_vertex_index": 41,
+      "vertex_span": [
+        14802,
+        15810
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 42,
+      "header_words": [
+        9164,
+        30484,
+        4294959522
+      ]
+    },
+    {
+      "index": 2,
+      "name": "GTS_2",
+      "name_offset": 22019,
+      "face_span": [
+        22025,
+        23352
+      ],
+      "face_count": 16,
+      "max_vertex_index": 9,
+      "vertex_span": [
+        21899,
+        22019
+      ],
+      "vertex_set_count": 1,
+      "vertex_count": 10,
+      "header_words": [
+        4294962886,
+        1822,
+        32418
+      ]
+    },
+    {
+      "index": 3,
+      "name": "GTS Shadow",
+      "name_offset": 23445,
+      "face_span": [
+        23456,
+        23635
+      ],
+      "face_count": 2,
+      "max_vertex_index": 3,
+      "vertex_span": [
+        23397,
+        23445
+      ],
+      "vertex_set_count": 1,
+      "vertex_count": 4,
+      "header_words": [
+        0,
+        0,
+        32768
+      ]
+    },
+    {
+      "index": 4,
+      "name": "GTS_0",
+      "name_offset": 24136,
+      "face_span": [
+        24142,
+        25633
+      ],
+      "face_count": 18,
+      "max_vertex_index": 18,
+      "vertex_span": [
+        23680,
+        24136
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 19,
+      "header_words": [
+        4294966665,
+        4294934535,
+        170
+      ]
+    },
+    {
+      "index": 5,
+      "name": "GTS_1",
+      "name_offset": 25825,
+      "face_span": [
+        25831,
+        26338
+      ],
+      "face_count": 6,
+      "max_vertex_index": 7,
+      "vertex_span": [
+        25633,
+        25825
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 8,
+      "header_words": [
+        4294966752,
+        4294934533,
+        4294967157
+      ]
+    },
+    {
+      "index": 6,
+      "name": "GTS Airbrake",
+      "name_offset": 26574,
+      "face_span": [
+        26587,
+        27094
+      ],
+      "face_count": 6,
+      "max_vertex_index": 7,
+      "vertex_span": [
+        26382,
+        26574
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 8,
+      "header_words": [
+        4294963541,
+        4294934745,
+        4294967207
+      ]
+    },
+    {
+      "index": 7,
+      "name": "GTS Flaps",
+      "name_offset": 27425,
+      "face_span": [
+        27435,
+        27778
+      ],
+      "face_count": 4,
+      "max_vertex_index": 5,
+      "vertex_span": null,
+      "vertex_set_count": 0,
+      "vertex_count": null,
+      "header_words": [
+        4294963922,
+        0,
+        4294934703
+      ]
+    },
+    {
+      "index": 8,
+      "name": "GTS Flaps",
+      "name_offset": 28110,
+      "face_span": [
+        28120,
+        28463
+      ],
+      "face_count": 4,
+      "max_vertex_index": 5,
+      "vertex_span": null,
+      "vertex_set_count": 0,
+      "vertex_count": null,
+      "header_words": [
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "index": 9,
+      "name": "GTS_0",
+      "name_offset": 28798,
+      "face_span": [
+        28804,
+        29639
+      ],
+      "face_count": 10,
+      "max_vertex_index": 11,
+      "vertex_span": [
+        28510,
+        28798
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 12,
+      "header_words": [
+        30596,
+        4294956444,
+        4294962846
+      ]
+    },
+    {
+      "index": 10,
+      "name": "GTS_1",
+      "name_offset": 29831,
+      "face_span": [
+        29837,
+        30344
+      ],
+      "face_count": 6,
+      "max_vertex_index": 7,
+      "vertex_span": [
+        29639,
+        29831
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 8,
+      "header_words": [
+        10626,
+        4294956629,
+        4294938193
+      ]
+    }
+  ],
+  "embedded_image_files": [],
+  "texture_references": [
+    {
+      "name": "GTS1",
+      "offset": 156,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "GTS Front_0",
+        "GTS Top_0",
+        "GTS Back_0",
+        "GTS Side_0",
+        "GTS Bottom_0",
+        "GTS Wing_0",
+        "GTS Airbrake Top",
+        "GTS Airbrake Bottm",
+        "GTS Flaps",
+        "GTS Front_1",
+        "GTS Top_1",
+        "GTS Back_1",
+        "GTS Side_1",
+        "GTS Bottom_1",
+        "GTS Wing_1"
+      ],
+      "occurrences": 15,
+      "occurrences_at_offsets": [
+        156,
+        228,
+        301,
+        374,
+        449,
+        522,
+        731,
+        812,
+        884,
+        1085,
+        1157,
+        1230,
+        1303,
+        1378,
+        1451
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    },
+    {
+      "name": "carshdw",
+      "offset": 595,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "GTS Shadow"
+      ],
+      "occurrences": 1,
+      "occurrences_at_offsets": [
+        595
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    },
+    {
+      "name": "GTSBrke",
+      "offset": 961,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "GTS Tail Light"
+      ],
+      "occurrences": 1,
+      "occurrences_at_offsets": [
+        961
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    },
+    {
+      "name": "GTS1_2",
+      "offset": 1571,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "GTSFront_2",
+        "GTSTop_2",
+        "GTSBack_2",
+        "GTSSide_2",
+        "GTSBottom_2"
+      ],
+      "occurrences": 5,
+      "occurrences_at_offsets": [
+        1571,
+        1644,
+        1718,
+        1792,
+        1868
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    }
+  ],
+  "texture_extraction_note": "The RSS files contain probable texture identifiers/material references. Validated standard embedded images are exported separately; external matching assets are copied when present. Reference records are not image data.",
+  "ascii_strings": [
+    {
+      "offset": 0,
+      "length": 50,
+      "text": "fRssExport Version (V1) - Fri Apr 16 16:48:31 1999"
+    },
+    {
+      "offset": 58,
+      "length": 5,
+      "text": "GTS_0"
+    },
+    {
+      "offset": 105,
+      "length": 11,
+      "text": "GTS Front_0"
+    },
+    {
+      "offset": 156,
+      "length": 4,
+      "text": "GTS1"
+    },
+    {
+      "offset": 179,
+      "length": 9,
+      "text": "GTS Top_0"
+    },
+    {
+      "offset": 228,
+      "length": 4,
+      "text": "GTS1"
+    },
+    {
+      "offset": 251,
+      "length": 10,
+      "text": "GTS Back_0"
+    },
+    {
+      "offset": 301,
+      "length": 4,
+      "text": "GTS1"
+    },
+    {
+      "offset": 324,
+      "length": 10,
+      "text": "GTS Side_0"
+    },
+    {
+      "offset": 374,
+      "length": 4,
+      "text": "GTS1"
+    },
+    {
+      "offset": 397,
+      "length": 12,
+      "text": "GTS Bottom_0"
+    },
+    {
+      "offset": 449,
+      "length": 4,
+      "text": "GTS1"
+    },
+    {
+      "offset": 472,
+      "length": 10,
+      "text": "GTS Wing_0"
+    },
+    {
+      "offset": 522,
+      "length": 4,
+      "text": "GTS1"
+    },
+    {
+      "offset": 545,
+      "length": 10,
+      "text": "GTS Shadow"
+    },
+    {
+      "offset": 595,
+      "length": 7,
+      "text": "carshdw"
+    },
+    {
+      "offset": 621,
+      "length": 12,
+      "text": "GTS Airbrake"
+    },
+    {
+      "offset": 675,
+      "length": 16,
+      "text": "GTS Airbrake Top"
+    },
+    {
+      "offset": 731,
+      "length": 4,
+      "text": "GTS1"
+    },
+    {
+      "offset": 754,
+      "length": 18,
+      "text": "GTS Airbrake Bottm"
+    },
+    {
+      "offset": 812,
+      "length": 4,
+      "text": "GTS1"
+    },
+    {
+      "offset": 835,
+      "length": 9,
+      "text": "GTS Flaps"
+    },
+    {
+      "offset": 884,
+      "length": 4,
+      "text": "GTS1"
+    },
+    {
+      "offset": 907,
+      "length": 14,
+      "text": "GTS Tail Light"
+    },
+    {
+      "offset": 961,
+      "length": 7,
+      "text": "GTSBrke"
+    },
+    {
+      "offset": 987,
+      "length": 5,
+      "text": "GTS_1"
+    },
+    {
+      "offset": 1034,
+      "length": 11,
+      "text": "GTS Front_1"
+    },
+    {
+      "offset": 1085,
+      "length": 4,
+      "text": "GTS1"
+    },
+    {
+      "offset": 1108,
+      "length": 9,
+      "text": "GTS Top_1"
+    },
+    {
+      "offset": 1157,
+      "length": 4,
+      "text": "GTS1"
+    },
+    {
+      "offset": 1180,
+      "length": 10,
+      "text": "GTS Back_1"
+    },
+    {
+      "offset": 1230,
+      "length": 4,
+      "text": "GTS1"
+    },
+    {
+      "offset": 1253,
+      "length": 10,
+      "text": "GTS Side_1"
+    },
+    {
+      "offset": 1303,
+      "length": 4,
+      "text": "GTS1"
+    },
+    {
+      "offset": 1326,
+      "length": 12,
+      "text": "GTS Bottom_1"
+    },
+    {
+      "offset": 1378,
+      "length": 4,
+      "text": "GTS1"
+    },
+    {
+      "offset": 1401,
+      "length": 10,
+      "text": "GTS Wing_1"
+    },
+    {
+      "offset": 1451,
+      "length": 4,
+      "text": "GTS1"
+    },
+    {
+      "offset": 1474,
+      "length": 5,
+      "text": "GTS_2"
+    },
+    {
+      "offset": 1521,
+      "length": 10,
+      "text": "GTSFront_2"
+    },
+    {
+      "offset": 1571,
+      "length": 6,
+      "text": "GTS1_2"
+    },
+    {
+      "offset": 1596,
+      "length": 8,
+      "text": "GTSTop_2"
+    },
+    {
+      "offset": 1644,
+      "length": 6,
+      "text": "GTS1_2"
+    },
+    {
+      "offset": 1669,
+      "length": 9,
+      "text": "GTSBack_2"
+    },
+    {
+      "offset": 1718,
+      "length": 6,
+      "text": "GTS1_2"
+    },
+    {
+      "offset": 1743,
+      "length": 9,
+      "text": "GTSSide_2"
+    },
+    {
+      "offset": 1792,
+      "length": 6,
+      "text": "GTS1_2"
+    },
+    {
+      "offset": 1817,
+      "length": 11,
+      "text": "GTSBottom_2"
+    },
+    {
+      "offset": 1868,
+      "length": 6,
+      "text": "GTS1_2"
+    },
+    {
+      "offset": 1896,
+      "length": 3,
+      "text": "gts"
+    },
+    {
+      "offset": 3793,
+      "length": 5,
+      "text": "GTS_0"
+    },
+    {
+      "offset": 15810,
+      "length": 5,
+      "text": "GTS_1"
+    },
+    {
+      "offset": 22019,
+      "length": 5,
+      "text": "GTS_2"
+    },
+    {
+      "offset": 23341,
+      "length": 10,
+      "text": "gts shadow"
+    },
+    {
+      "offset": 23445,
+      "length": 10,
+      "text": "GTS Shadow"
+    },
+    {
+      "offset": 23624,
+      "length": 10,
+      "text": "gts bottom"
+    },
+    {
+      "offset": 24136,
+      "length": 5,
+      "text": "GTS_0"
+    },
+    {
+      "offset": 25825,
+      "length": 5,
+      "text": "GTS_1"
+    },
+    {
+      "offset": 26327,
+      "length": 9,
+      "text": "gts brake"
+    },
+    {
+      "offset": 26574,
+      "length": 12,
+      "text": "GTS Airbrake"
+    },
+    {
+      "offset": 27083,
+      "length": 8,
+      "text": "gts_left"
+    },
+    {
+      "offset": 27425,
+      "length": 9,
+      "text": "GTS Flaps"
+    },
+    {
+      "offset": 27767,
+      "length": 9,
+      "text": "gts_right"
+    },
+    {
+      "offset": 28110,
+      "length": 9,
+      "text": "GTS Flaps"
+    },
+    {
+      "offset": 28452,
+      "length": 12,
+      "text": "%gts spoiler"
+    },
+    {
+      "offset": 28798,
+      "length": 5,
+      "text": "GTS_0"
+    },
+    {
+      "offset": 29831,
+      "length": 5,
+      "text": "GTS_1"
+    },
+    {
+      "offset": 30333,
+      "length": 14,
+      "text": "gts Brakelight"
+    },
+    {
+      "offset": 30585,
+      "length": 14,
+      "text": "GTS Tail Light"
+    }
+  ],
+  "utf16le_strings": [],
+  "embedded_filename_references": [],
+  "embedded_signatures": [
+    {
+      "type": "PCX",
+      "offset": 50,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 671,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 1939,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 2073,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 2113,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 3970,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 4294,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 4822,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 4877,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 4904,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5015,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5046,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5135,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5261,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 5356,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 5438,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 5498,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 5520,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 5602,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 5684,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 5766,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 5804,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 5848,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 6469,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 6551,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 6693,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 7160,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 8800,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 8882,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 8942,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 8964,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 9046,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 9055,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 9128,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 9292,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 9464,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 9788,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 10338,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 10420,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 10487,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 10540,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 10629,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 10733,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 10850,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 10932,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 10970,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 11014,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 11096,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 11178,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 11260,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 11320,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 11342,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 11985,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 12067,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 12187,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 12654,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 14294,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 14376,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 14414,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 14458,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 14540,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 14549,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 14622,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 14786,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 14796,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 14934,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 16041,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 16963,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 17023,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 17045,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 17063,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 17083,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 17127,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 17167,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 17413,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 17517,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 17619,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 18685,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 18745,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 18767,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 18807,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 18849,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 19997,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 20035,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 20079,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 20139,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 20161,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 20653,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 21719,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 21757,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 21801,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 21883,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 21897,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 22062,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 22144,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 22472,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 22554,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 22926,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 23008,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 23575,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 23664,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 23674,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 24201,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 24247,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 24283,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 24455,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 24657,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 24671,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 24755,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 24815,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 24917,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 24985,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 24999,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 25171,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 25395,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 25431,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 25627,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 25868,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 26376,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 26382,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 26478,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 27516,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 28261,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 28283,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 28494,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 28504,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 28804,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 29135,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 29253,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 29357,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 29521,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 29545,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 29633,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 29956,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 30387,
+      "signature_hex": "00000200"
+    }
+  ],
+  "entropy_256_byte_windows": [
+    {
+      "offset": 0,
+      "length": 256,
+      "entropy": 3.8579
+    },
+    {
+      "offset": 256,
+      "length": 256,
+      "entropy": 3.307
+    },
+    {
+      "offset": 512,
+      "length": 256,
+      "entropy": 3.4119
+    },
+    {
+      "offset": 768,
+      "length": 256,
+      "entropy": 3.1336
+    },
+    {
+      "offset": 1024,
+      "length": 256,
+      "entropy": 3.2225
+    },
+    {
+      "offset": 1280,
+      "length": 256,
+      "entropy": 3.1652
+    },
+    {
+      "offset": 1536,
+      "length": 256,
+      "entropy": 2.6755
+    },
+    {
+      "offset": 1792,
+      "length": 256,
+      "entropy": 3.2603
+    },
+    {
+      "offset": 2048,
+      "length": 256,
+      "entropy": 5.1755
+    },
+    {
+      "offset": 2304,
+      "length": 256,
+      "entropy": 5.3713
+    },
+    {
+      "offset": 2560,
+      "length": 256,
+      "entropy": 5.1494
+    },
+    {
+      "offset": 2816,
+      "length": 256,
+      "entropy": 4.8552
+    },
+    {
+      "offset": 3072,
+      "length": 256,
+      "entropy": 5.2711
+    },
+    {
+      "offset": 3328,
+      "length": 256,
+      "entropy": 5.2378
+    },
+    {
+      "offset": 3584,
+      "length": 256,
+      "entropy": 5.0685
+    },
+    {
+      "offset": 3840,
+      "length": 256,
+      "entropy": 3.9911
+    },
+    {
+      "offset": 4096,
+      "length": 256,
+      "entropy": 3.9792
+    },
+    {
+      "offset": 4352,
+      "length": 256,
+      "entropy": 3.9367
+    },
+    {
+      "offset": 4608,
+      "length": 256,
+      "entropy": 4.0243
+    },
+    {
+      "offset": 4864,
+      "length": 256,
+      "entropy": 3.9063
+    },
+    {
+      "offset": 5120,
+      "length": 256,
+      "entropy": 3.7492
+    },
+    {
+      "offset": 5376,
+      "length": 256,
+      "entropy": 4.3342
+    },
+    {
+      "offset": 5632,
+      "length": 256,
+      "entropy": 4.1013
+    },
+    {
+      "offset": 5888,
+      "length": 256,
+      "entropy": 4.5029
+    },
+    {
+      "offset": 6144,
+      "length": 256,
+      "entropy": 4.2996
+    },
+    {
+      "offset": 6400,
+      "length": 256,
+      "entropy": 4.3335
+    },
+    {
+      "offset": 6656,
+      "length": 256,
+      "entropy": 4.3559
+    },
+    {
+      "offset": 6912,
+      "length": 256,
+      "entropy": 4.4212
+    },
+    {
+      "offset": 7168,
+      "length": 256,
+      "entropy": 4.5827
+    },
+    {
+      "offset": 7424,
+      "length": 256,
+      "entropy": 4.3066
+    },
+    {
+      "offset": 7680,
+      "length": 256,
+      "entropy": 4.5229
+    },
+    {
+      "offset": 7936,
+      "length": 256,
+      "entropy": 4.4539
+    },
+    {
+      "offset": 8192,
+      "length": 256,
+      "entropy": 4.2024
+    },
+    {
+      "offset": 8448,
+      "length": 256,
+      "entropy": 4.4624
+    },
+    {
+      "offset": 8704,
+      "length": 256,
+      "entropy": 4.0569
+    },
+    {
+      "offset": 8960,
+      "length": 256,
+      "entropy": 4.0222
+    },
+    {
+      "offset": 9216,
+      "length": 256,
+      "entropy": 4.2311
+    },
+    {
+      "offset": 9472,
+      "length": 256,
+      "entropy": 3.6755
+    },
+    {
+      "offset": 9728,
+      "length": 256,
+      "entropy": 3.7852
+    },
+    {
+      "offset": 9984,
+      "length": 256,
+      "entropy": 3.8697
+    },
+    {
+      "offset": 10240,
+      "length": 256,
+      "entropy": 4.0185
+    },
+    {
+      "offset": 10496,
+      "length": 256,
+      "entropy": 3.67
+    },
+    {
+      "offset": 10752,
+      "length": 256,
+      "entropy": 3.8051
+    },
+    {
+      "offset": 11008,
+      "length": 256,
+      "entropy": 4.0347
+    },
+    {
+      "offset": 11264,
+      "length": 256,
+      "entropy": 4.0186
+    },
+    {
+      "offset": 11520,
+      "length": 256,
+      "entropy": 4.0619
+    },
+    {
+      "offset": 11776,
+      "length": 256,
+      "entropy": 4.2237
+    },
+    {
+      "offset": 12032,
+      "length": 256,
+      "entropy": 4.2061
+    },
+    {
+      "offset": 12288,
+      "length": 256,
+      "entropy": 4.2602
+    },
+    {
+      "offset": 12544,
+      "length": 256,
+      "entropy": 4.4327
+    },
+    {
+      "offset": 12800,
+      "length": 256,
+      "entropy": 4.1499
+    },
+    {
+      "offset": 13056,
+      "length": 256,
+      "entropy": 4.168
+    },
+    {
+      "offset": 13312,
+      "length": 256,
+      "entropy": 4.2899
+    },
+    {
+      "offset": 13568,
+      "length": 256,
+      "entropy": 4.1048
+    },
+    {
+      "offset": 13824,
+      "length": 256,
+      "entropy": 4.0637
+    },
+    {
+      "offset": 14080,
+      "length": 256,
+      "entropy": 4.2693
+    },
+    {
+      "offset": 14336,
+      "length": 256,
+      "entropy": 3.8507
+    },
+    {
+      "offset": 14592,
+      "length": 256,
+      "entropy": 3.7613
+    },
+    {
+      "offset": 14848,
+      "length": 256,
+      "entropy": 4.9992
+    },
+    {
+      "offset": 15104,
+      "length": 256,
+      "entropy": 5.0537
+    },
+    {
+      "offset": 15360,
+      "length": 256,
+      "entropy": 5.1824
+    },
+    {
+      "offset": 15616,
+      "length": 256,
+      "entropy": 5.0045
+    },
+    {
+      "offset": 15872,
+      "length": 256,
+      "entropy": 3.9006
+    },
+    {
+      "offset": 16128,
+      "length": 256,
+      "entropy": 3.9209
+    },
+    {
+      "offset": 16384,
+      "length": 256,
+      "entropy": 4.0108
+    },
+    {
+      "offset": 16640,
+      "length": 256,
+      "entropy": 3.7505
+    },
+    {
+      "offset": 16896,
+      "length": 256,
+      "entropy": 3.8146
+    },
+    {
+      "offset": 17152,
+      "length": 256,
+      "entropy": 4.4431
+    },
+    {
+      "offset": 17408,
+      "length": 256,
+      "entropy": 4.3864
+    },
+    {
+      "offset": 17664,
+      "length": 256,
+      "entropy": 4.3875
+    },
+    {
+      "offset": 17920,
+      "length": 256,
+      "entropy": 4.5479
+    },
+    {
+      "offset": 18176,
+      "length": 256,
+      "entropy": 4.4686
+    },
+    {
+      "offset": 18432,
+      "length": 256,
+      "entropy": 4.308
+    },
+    {
+      "offset": 18688,
+      "length": 256,
+      "entropy": 3.9551
+    },
+    {
+      "offset": 18944,
+      "length": 256,
+      "entropy": 3.5689
+    },
+    {
+      "offset": 19200,
+      "length": 256,
+      "entropy": 3.8744
+    },
+    {
+      "offset": 19456,
+      "length": 256,
+      "entropy": 3.777
+    },
+    {
+      "offset": 19712,
+      "length": 256,
+      "entropy": 3.7066
+    },
+    {
+      "offset": 19968,
+      "length": 256,
+      "entropy": 3.7063
+    },
+    {
+      "offset": 20224,
+      "length": 256,
+      "entropy": 4.2562
+    },
+    {
+      "offset": 20480,
+      "length": 256,
+      "entropy": 4.3062
+    },
+    {
+      "offset": 20736,
+      "length": 256,
+      "entropy": 4.1743
+    },
+    {
+      "offset": 20992,
+      "length": 256,
+      "entropy": 4.243
+    },
+    {
+      "offset": 21248,
+      "length": 256,
+      "entropy": 4.3595
+    },
+    {
+      "offset": 21504,
+      "length": 256,
+      "entropy": 4.1707
+    },
+    {
+      "offset": 21760,
+      "length": 256,
+      "entropy": 4.2328
+    },
+    {
+      "offset": 22016,
+      "length": 256,
+      "entropy": 2.8971
+    },
+    {
+      "offset": 22272,
+      "length": 256,
+      "entropy": 3.5212
+    },
+    {
+      "offset": 22528,
+      "length": 256,
+      "entropy": 3.0752
+    },
+    {
+      "offset": 22784,
+      "length": 256,
+      "entropy": 3.1845
+    },
+    {
+      "offset": 23040,
+      "length": 256,
+      "entropy": 3.7784
+    },
+    {
+      "offset": 23296,
+      "length": 256,
+      "entropy": 2.7038
+    },
+    {
+      "offset": 23552,
+      "length": 256,
+      "entropy": 3.5532
+    },
+    {
+      "offset": 23808,
+      "length": 256,
+      "entropy": 5.0597
+    },
+    {
+      "offset": 24064,
+      "length": 256,
+      "entropy": 4.2173
+    },
+    {
+      "offset": 24320,
+      "length": 256,
+      "entropy": 3.3885
+    },
+    {
+      "offset": 24576,
+      "length": 256,
+      "entropy": 3.5775
+    },
+    {
+      "offset": 24832,
+      "length": 256,
+      "entropy": 3.6765
+    },
+    {
+      "offset": 25088,
+      "length": 256,
+      "entropy": 3.4044
+    },
+    {
+      "offset": 25344,
+      "length": 256,
+      "entropy": 3.4762
+    },
+    {
+      "offset": 25600,
+      "length": 256,
+      "entropy": 4.6064
+    },
+    {
+      "offset": 25856,
+      "length": 256,
+      "entropy": 3.2364
+    },
+    {
+      "offset": 26112,
+      "length": 256,
+      "entropy": 3.4793
+    },
+    {
+      "offset": 26368,
+      "length": 256,
+      "entropy": 4.9226
+    },
+    {
+      "offset": 26624,
+      "length": 256,
+      "entropy": 3.4783
+    },
+    {
+      "offset": 26880,
+      "length": 256,
+      "entropy": 3.4591
+    },
+    {
+      "offset": 27136,
+      "length": 256,
+      "entropy": 3.947
+    },
+    {
+      "offset": 27392,
+      "length": 256,
+      "entropy": 3.2603
+    },
+    {
+      "offset": 27648,
+      "length": 256,
+      "entropy": 2.5453
+    },
+    {
+      "offset": 27904,
+      "length": 256,
+      "entropy": 3.8053
+    },
+    {
+      "offset": 28160,
+      "length": 256,
+      "entropy": 1.842
+    },
+    {
+      "offset": 28416,
+      "length": 256,
+      "entropy": 4.1503
+    },
+    {
+      "offset": 28672,
+      "length": 256,
+      "entropy": 4.7674
+    },
+    {
+      "offset": 28928,
+      "length": 256,
+      "entropy": 3.5259
+    },
+    {
+      "offset": 29184,
+      "length": 256,
+      "entropy": 3.415
+    },
+    {
+      "offset": 29440,
+      "length": 256,
+      "entropy": 3.7971
+    },
+    {
+      "offset": 29696,
+      "length": 256,
+      "entropy": 4.704
+    },
+    {
+      "offset": 29952,
+      "length": 256,
+      "entropy": 3.2295
+    },
+    {
+      "offset": 30208,
+      "length": 256,
+      "entropy": 3.9982
+    },
+    {
+      "offset": 30464,
+      "length": 256,
+      "entropy": 4.3824
+    },
+    {
+      "offset": 30720,
+      "length": 211,
+      "entropy": 2.7257
+    }
+  ],
+  "unclaimed_ranges": [
+    {
+      "index": 0,
+      "start": 51,
+      "end": 1945,
+      "size": 1894,
+      "file": "range_0000_0x00000033_0x00000799.bin"
+    },
+    {
+      "index": 1,
+      "start": 3793,
+      "end": 3799,
+      "size": 6,
+      "file": "range_0001_0x00000ed1_0x00000ed7.bin"
+    },
+    {
+      "index": 2,
+      "start": 15810,
+      "end": 15816,
+      "size": 6,
+      "file": "range_0002_0x00003dc2_0x00003dc8.bin"
+    },
+    {
+      "index": 3,
+      "start": 22019,
+      "end": 22025,
+      "size": 6,
+      "file": "range_0003_0x00005603_0x00005609.bin"
+    },
+    {
+      "index": 4,
+      "start": 23352,
+      "end": 23397,
+      "size": 45,
+      "file": "range_0004_0x00005b38_0x00005b65.bin"
+    },
+    {
+      "index": 5,
+      "start": 23445,
+      "end": 23456,
+      "size": 11,
+      "file": "range_0005_0x00005b95_0x00005ba0.bin"
+    },
+    {
+      "index": 6,
+      "start": 23635,
+      "end": 23680,
+      "size": 45,
+      "file": "range_0006_0x00005c53_0x00005c80.bin"
+    },
+    {
+      "index": 7,
+      "start": 24136,
+      "end": 24142,
+      "size": 6,
+      "file": "range_0007_0x00005e48_0x00005e4e.bin"
+    },
+    {
+      "index": 8,
+      "start": 25825,
+      "end": 25831,
+      "size": 6,
+      "file": "range_0008_0x000064e1_0x000064e7.bin"
+    },
+    {
+      "index": 9,
+      "start": 26338,
+      "end": 26382,
+      "size": 44,
+      "file": "range_0009_0x000066e2_0x0000670e.bin"
+    },
+    {
+      "index": 10,
+      "start": 26574,
+      "end": 26587,
+      "size": 13,
+      "file": "range_0010_0x000067ce_0x000067db.bin"
+    },
+    {
+      "index": 11,
+      "start": 27094,
+      "end": 27435,
+      "size": 341,
+      "file": "range_0011_0x000069d6_0x00006b2b.bin"
+    },
+    {
+      "index": 12,
+      "start": 27778,
+      "end": 28120,
+      "size": 342,
+      "file": "range_0012_0x00006c82_0x00006dd8.bin"
+    },
+    {
+      "index": 13,
+      "start": 28463,
+      "end": 28510,
+      "size": 47,
+      "file": "range_0013_0x00006f2f_0x00006f5e.bin"
+    },
+    {
+      "index": 14,
+      "start": 28798,
+      "end": 28804,
+      "size": 6,
+      "file": "range_0014_0x0000707e_0x00007084.bin"
+    },
+    {
+      "index": 15,
+      "start": 29831,
+      "end": 29837,
+      "size": 6,
+      "file": "range_0015_0x00007487_0x0000748d.bin"
+    },
+    {
+      "index": 16,
+      "start": 30344,
+      "end": 30931,
+      "size": 587,
+      "file": "range_0016_0x00007688_0x000078d3.bin"
+    }
+  ],
+  "coverage": {
+    "source_bytes": 30931,
+    "raw_copy_bytes": 30931,
+    "bytes_in_recognised_mesh_spans": 27469,
+    "bytes_in_unclaimed_ranges": 3411,
+    "note": "All source bytes are retained in the .original.rss copy; unclaimed ranges are separately carved."
+  }
+}

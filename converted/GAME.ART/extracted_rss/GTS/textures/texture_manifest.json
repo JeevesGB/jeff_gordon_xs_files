@@ -1,0 +1,94 @@
+[
+  {
+    "name": "GTS1",
+    "offset": 156,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "GTS Front_0",
+      "GTS Top_0",
+      "GTS Back_0",
+      "GTS Side_0",
+      "GTS Bottom_0",
+      "GTS Wing_0",
+      "GTS Airbrake Top",
+      "GTS Airbrake Bottm",
+      "GTS Flaps",
+      "GTS Front_1",
+      "GTS Top_1",
+      "GTS Back_1",
+      "GTS Side_1",
+      "GTS Bottom_1",
+      "GTS Wing_1"
+    ],
+    "occurrences": 15,
+    "occurrences_at_offsets": [
+      156,
+      228,
+      301,
+      374,
+      449,
+      522,
+      731,
+      812,
+      884,
+      1085,
+      1157,
+      1230,
+      1303,
+      1378,
+      1451
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "carshdw",
+    "offset": 595,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "GTS Shadow"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      595
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "GTSBrke",
+    "offset": 961,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "GTS Tail Light"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      961
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "GTS1_2",
+    "offset": 1571,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "GTSFront_2",
+      "GTSTop_2",
+      "GTSBack_2",
+      "GTSSide_2",
+      "GTSBottom_2"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      1571,
+      1644,
+      1718,
+      1792,
+      1868
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]

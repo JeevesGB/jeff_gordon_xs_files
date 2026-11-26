@@ -1,0 +1,1070 @@
+{
+  "file": "GTS.RSS",
+  "size": 30931,
+  "sha256": "07bc0ca3a38fd862069ea5c5c5ab0b395fdab0cbffeca43bb5ba67c3d2e8b20d",
+  "original_copy": "GTS.RSS.original",
+  "texture_reference_count": 22,
+  "unique_texture_identifiers": 4,
+  "plausible_atlas_rect_count": 22,
+  "zero_padding_after_rect_count": 22,
+  "texture_identifiers_grouped": [
+    {
+      "identifier": "GTS1",
+      "occurrences": 15,
+      "surface_labels": [
+        "GTS Front_0",
+        "GTS Top_0",
+        "GTS Back_0",
+        "GTS Side_0",
+        "GTS Bottom_0",
+        "GTS Wing_0",
+        "GTS Airbrake Top",
+        "GTS Airbrake Bottm",
+        "GTS Flaps",
+        "GTS Front_1",
+        "GTS Top_1",
+        "GTS Back_1",
+        "GTS Side_1",
+        "GTS Bottom_1",
+        "GTS Wing_1"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.25,
+          0.0843048095703125
+        ],
+        [
+          0.0,
+          0.274505615234375,
+          0.5,
+          0.1324920654296875
+        ],
+        [
+          0.0049896240234375,
+          0.1156768798828125,
+          0.2449951171875,
+          0.1574859619140625
+        ],
+        [
+          0.0,
+          0.4117584228515625,
+          0.5,
+          0.088226318359375
+        ],
+        [
+          0.0,
+          0.088226318359375,
+          0.164703369140625,
+          0.0215606689453125
+        ],
+        [
+          0.2509765625,
+          0.2529296875,
+          0.2490081787109375,
+          0.017486572265625
+        ],
+        [
+          0.25,
+          0.0,
+          0.25,
+          0.1235198974609375
+        ],
+        [
+          0.25,
+          0.125,
+          0.2480316162109375,
+          0.1234893798828125
+        ],
+        [
+          0.0,
+          0.11175537109375,
+          0.088226318359375,
+          0.1588134765625
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          0.0843048095703125
+        ],
+        [
+          0.0,
+          0.274505615234375,
+          0.5,
+          0.1324920654296875
+        ],
+        [
+          0.0049896240234375,
+          0.1156768798828125,
+          0.2449951171875,
+          0.1574859619140625
+        ],
+        [
+          0.0,
+          0.4117584228515625,
+          0.5,
+          0.088226318359375
+        ],
+        [
+          0.0,
+          0.088226318359375,
+          0.164703369140625,
+          0.0215606689453125
+        ],
+        [
+          0.2509765625,
+          0.2529296875,
+          0.2490081787109375,
+          0.017486572265625
+        ]
+      ]
+    },
+    {
+      "identifier": "carshdw",
+      "occurrences": 1,
+      "surface_labels": [
+        "GTS Shadow"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "GTSBrke",
+      "occurrences": 1,
+      "surface_labels": [
+        "GTS Tail Light"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "GTS1_2",
+      "occurrences": 5,
+      "surface_labels": [
+        "GTSFront_2",
+        "GTSTop_2",
+        "GTSBack_2",
+        "GTSSide_2",
+        "GTSBottom_2"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    }
+  ],
+  "texture_references": [
+    {
+      "identifier": "GTS1",
+      "identifier_offset": 156,
+      "surface_label": "GTS Front_0",
+      "surface_label_offset": 105,
+      "gap_from_label": 51,
+      "next_string": "GTS Top_0",
+      "next_string_offset": 179,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16384,
+        5525
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.25,
+        0.0843048095703125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 40 00 00 95 15 00 00 00 00 47 54 53 20 54 6f 70 5f 30 00 ff ff ff ff",
+      "context_start": 89,
+      "context_end": 195,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "GTS1",
+      "identifier_offset": 228,
+      "surface_label": "GTS Top_0",
+      "surface_label_offset": 179,
+      "gap_from_label": 49,
+      "next_string": "FF",
+      "next_string_offset": 237,
+      "post_identifier_u32_le": [
+        0,
+        17990,
+        32768,
+        8683
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.274505615234375,
+        0.5,
+        0.1324920654296875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 46 46 00 00 00 80 00 00 eb 21 00 00 00 00 47 54 53 20 42 61 63 6b 5f 30 00 ff ff ff",
+      "context_start": 163,
+      "context_end": 253,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 296,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GTS1",
+      "identifier_offset": 301,
+      "surface_label": "GTS Back_0",
+      "surface_label_offset": 251,
+      "gap_from_label": 50,
+      "next_string": "Q(",
+      "next_string_offset": 318,
+      "post_identifier_u32_le": [
+        327,
+        7581,
+        16056,
+        10321
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0049896240234375,
+        0.1156768798828125,
+        0.2449951171875,
+        0.1574859619140625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "47 01 00 00 9d 1d 00 00 b8 3e 00 00 51 28 00 00 00 00 47 54 53 20 53 69 64 65 5f 30 00 ff ff ff",
+      "context_start": 235,
+      "context_end": 334,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 223,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 369,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GTS1",
+      "identifier_offset": 374,
+      "surface_label": "GTS Side_0",
+      "surface_label_offset": 324,
+      "gap_from_label": 50,
+      "next_string": "ii",
+      "next_string_offset": 383,
+      "post_identifier_u32_le": [
+        0,
+        26985,
+        32768,
+        5782
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.4117584228515625,
+        0.5,
+        0.088226318359375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 69 69 00 00 00 80 00 00 96 16 00 00 00 00 47 54 53 20 42 6f 74 74 6f 6d 5f 30 00 ff",
+      "context_start": 308,
+      "context_end": 399,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 296,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 444,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GTS1",
+      "identifier_offset": 449,
+      "surface_label": "GTS Bottom_0",
+      "surface_label_offset": 397,
+      "gap_from_label": 52,
+      "next_string": "**",
+      "next_string_offset": 462,
+      "post_identifier_u32_le": [
+        0,
+        5782,
+        10794,
+        1413
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.088226318359375,
+        0.164703369140625,
+        0.0215606689453125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 96 16 00 00 2a 2a 00 00 85 05 00 00 00 00 47 54 53 20 57 69 6e 67 5f 30 00 ff ff ff",
+      "context_start": 381,
+      "context_end": 478,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 369,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 517,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GTS1",
+      "identifier_offset": 522,
+      "surface_label": "GTS Wing_0",
+      "surface_label_offset": 472,
+      "gap_from_label": 50,
+      "next_string": "@@",
+      "next_string_offset": 527,
+      "post_identifier_u32_le": [
+        16448,
+        16576,
+        16319,
+        1146
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2509765625,
+        0.2529296875,
+        0.2490081787109375,
+        0.017486572265625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "40 40 00 00 c0 40 00 00 bf 3f 00 00 7a 04 00 00 00 00 47 54 53 20 53 68 61 64 6f 77 00 ff ff ff",
+      "context_start": 456,
+      "context_end": 543,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 444,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 590,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "carshdw",
+      "identifier_offset": 595,
+      "surface_label": "GTS Shadow",
+      "surface_label_offset": 545,
+      "gap_from_label": 50,
+      "next_string": "GTS Airbrake",
+      "next_string_offset": 621,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 47 54 53 20 41 69 72 62 72 61 6b 65 00 ff",
+      "context_start": 529,
+      "context_end": 637,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 517,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GTS1",
+      "identifier_offset": 731,
+      "surface_label": "GTS Airbrake Top",
+      "surface_label_offset": 675,
+      "gap_from_label": 56,
+      "next_string": "GTS Airbrake Bottm",
+      "next_string_offset": 754,
+      "post_identifier_u32_le": [
+        16384,
+        0,
+        16384,
+        8095
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.0,
+        0.25,
+        0.1235198974609375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 00 00 00 00 00 40 00 00 9f 1f 00 00 00 00 47 54 53 20 41 69 72 62 72 61 6b 65 20 42",
+      "context_start": 659,
+      "context_end": 770,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 807,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GTS1",
+      "identifier_offset": 812,
+      "surface_label": "GTS Airbrake Bottm",
+      "surface_label_offset": 754,
+      "gap_from_label": 58,
+      "next_string": "GTS Flaps",
+      "next_string_offset": 835,
+      "post_identifier_u32_le": [
+        16384,
+        8192,
+        16255,
+        8093
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.125,
+        0.2480316162109375,
+        0.1234893798828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 00 20 00 00 7f 3f 00 00 9d 1f 00 00 00 00 47 54 53 20 46 6c 61 70 73 00 ff ff ff ff",
+      "context_start": 738,
+      "context_end": 851,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 726,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GTS1",
+      "identifier_offset": 884,
+      "surface_label": "GTS Flaps",
+      "surface_label_offset": 835,
+      "gap_from_label": 49,
+      "next_string": "GTS Tail Light",
+      "next_string_offset": 907,
+      "post_identifier_u32_le": [
+        0,
+        7324,
+        5782,
+        10408
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.11175537109375,
+        0.088226318359375,
+        0.1588134765625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 9c 1c 00 00 96 16 00 00 a8 28 00 00 00 00 47 54 53 20 54 61 69 6c 20 4c 69 67 68 74",
+      "context_start": 819,
+      "context_end": 923,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 956,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GTSBrke",
+      "identifier_offset": 961,
+      "surface_label": "GTS Tail Light",
+      "surface_label_offset": 907,
+      "gap_from_label": 54,
+      "next_string": "GTS_1",
+      "next_string_offset": 987,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 47 54 53 5f 31 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 891,
+      "context_end": 1003,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "GTS1",
+      "identifier_offset": 1085,
+      "surface_label": "GTS Front_1",
+      "surface_label_offset": 1034,
+      "gap_from_label": 51,
+      "next_string": "GTS Top_1",
+      "next_string_offset": 1108,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16384,
+        5525
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.25,
+        0.0843048095703125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 40 00 00 95 15 00 00 00 00 47 54 53 20 54 6f 70 5f 31 00 ff ff ff ff",
+      "context_start": 1018,
+      "context_end": 1124,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "GTS1",
+      "identifier_offset": 1157,
+      "surface_label": "GTS Top_1",
+      "surface_label_offset": 1108,
+      "gap_from_label": 49,
+      "next_string": "FF",
+      "next_string_offset": 1166,
+      "post_identifier_u32_le": [
+        0,
+        17990,
+        32768,
+        8683
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.274505615234375,
+        0.5,
+        0.1324920654296875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 46 46 00 00 00 80 00 00 eb 21 00 00 00 00 47 54 53 20 42 61 63 6b 5f 31 00 ff ff ff",
+      "context_start": 1092,
+      "context_end": 1182,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1225,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GTS1",
+      "identifier_offset": 1230,
+      "surface_label": "GTS Back_1",
+      "surface_label_offset": 1180,
+      "gap_from_label": 50,
+      "next_string": "Q(",
+      "next_string_offset": 1247,
+      "post_identifier_u32_le": [
+        327,
+        7581,
+        16056,
+        10321
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0049896240234375,
+        0.1156768798828125,
+        0.2449951171875,
+        0.1574859619140625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "47 01 00 00 9d 1d 00 00 b8 3e 00 00 51 28 00 00 00 00 47 54 53 20 53 69 64 65 5f 31 00 ff ff ff",
+      "context_start": 1164,
+      "context_end": 1263,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1152,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1298,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GTS1",
+      "identifier_offset": 1303,
+      "surface_label": "GTS Side_1",
+      "surface_label_offset": 1253,
+      "gap_from_label": 50,
+      "next_string": "ii",
+      "next_string_offset": 1312,
+      "post_identifier_u32_le": [
+        0,
+        26985,
+        32768,
+        5782
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.4117584228515625,
+        0.5,
+        0.088226318359375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 69 69 00 00 00 80 00 00 96 16 00 00 00 00 47 54 53 20 42 6f 74 74 6f 6d 5f 31 00 ff",
+      "context_start": 1237,
+      "context_end": 1328,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1225,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1373,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GTS1",
+      "identifier_offset": 1378,
+      "surface_label": "GTS Bottom_1",
+      "surface_label_offset": 1326,
+      "gap_from_label": 52,
+      "next_string": "**",
+      "next_string_offset": 1391,
+      "post_identifier_u32_le": [
+        0,
+        5782,
+        10794,
+        1413
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.088226318359375,
+        0.164703369140625,
+        0.0215606689453125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 96 16 00 00 2a 2a 00 00 85 05 00 00 00 00 47 54 53 20 57 69 6e 67 5f 31 00 ff ff ff",
+      "context_start": 1310,
+      "context_end": 1407,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1298,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1446,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GTS1",
+      "identifier_offset": 1451,
+      "surface_label": "GTS Wing_1",
+      "surface_label_offset": 1401,
+      "gap_from_label": 50,
+      "next_string": "@@",
+      "next_string_offset": 1456,
+      "post_identifier_u32_le": [
+        16448,
+        16576,
+        16319,
+        1146
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.2509765625,
+        0.2529296875,
+        0.2490081787109375,
+        0.017486572265625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "40 40 00 00 c0 40 00 00 bf 3f 00 00 7a 04 00 00 00 00 47 54 53 5f 32 00 ff ff ff ff ff ff e5 e5",
+      "context_start": 1385,
+      "context_end": 1472,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1373,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GTS1_2",
+      "identifier_offset": 1571,
+      "surface_label": "GTSFront_2",
+      "surface_label_offset": 1521,
+      "gap_from_label": 50,
+      "next_string": "GTSTop_2",
+      "next_string_offset": 1596,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 47 54 53 54 6f 70 5f 32 00 ff ff ff ff ff",
+      "context_start": 1505,
+      "context_end": 1612,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1639,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1587,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GTS1_2",
+      "identifier_offset": 1644,
+      "surface_label": "GTSTop_2",
+      "surface_label_offset": 1596,
+      "gap_from_label": 48,
+      "next_string": "GTSBack_2",
+      "next_string_offset": 1669,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 47 54 53 42 61 63 6b 5f 32 00 ff ff ff ff",
+      "context_start": 1580,
+      "context_end": 1685,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1566,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1660,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GTS1_2",
+      "identifier_offset": 1718,
+      "surface_label": "GTSBack_2",
+      "surface_label_offset": 1669,
+      "gap_from_label": 49,
+      "next_string": "GTSSide_2",
+      "next_string_offset": 1743,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 47 54 53 53 69 64 65 5f 32 00 ff ff ff ff",
+      "context_start": 1653,
+      "context_end": 1759,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1734,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GTS1_2",
+      "identifier_offset": 1792,
+      "surface_label": "GTSSide_2",
+      "surface_label_offset": 1743,
+      "gap_from_label": 49,
+      "next_string": "GTSBottom_2",
+      "next_string_offset": 1817,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 47 54 53 42 6f 74 74 6f 6d 5f 32 00 ff ff",
+      "context_start": 1727,
+      "context_end": 1833,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1808,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GTS1_2",
+      "identifier_offset": 1868,
+      "surface_label": "GTSBottom_2",
+      "surface_label_offset": 1817,
+      "gap_from_label": 51,
+      "next_string": "gts",
+      "next_string_offset": 1896,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 08 00 00 67 74 73 00 00 00 00 00 00 00 00",
+      "context_start": 1801,
+      "context_end": 1912,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1808,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1884,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1888,
+          "u32_le": [
+            128,
+            2048
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    }
+  ],
+  "verified_decoded_images": [],
+  "zlib_stream_candidates": [],
+  "standard_signature_counts": {
+    "PNG": 0,
+    "JPEG": 0,
+    "BMP": 0,
+    "GIF87a": 0,
+    "GIF89a": 0,
+    "DDS": 0,
+    "PCX": 52
+  },
+  "conclusion": {
+    "verified_images_extracted": 0,
+    "zlib_streams_found": 0,
+    "texture_payload_format": "not established",
+    "note": "References are material/surface identifiers. A zlib stream is not classified as a texture without dimensions, pixel format and successful image reconstruction."
+  }
+}

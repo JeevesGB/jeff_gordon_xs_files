@@ -1,0 +1,5 @@
+﻿name,offset,evidence,surface_labels,occurrences,asset_status,copied_files
+GTS1,156,surface_label_then_texture_identifier,GTS Front_0; GTS Top_0; GTS Back_0; GTS Side_0; GTS Bottom_0; GTS Wing_0; GTS Airbrake Top; GTS Airbrake Bottm; GTS Flaps; GTS Front_1; GTS Top_1; GTS Back_1; GTS Side_1; GTS Bottom_1; GTS Wing_1,15,reference_only_no_pixel_asset_found,
+carshdw,595,surface_label_then_texture_identifier,GTS Shadow,1,reference_only_no_pixel_asset_found,
+GTSBrke,961,surface_label_then_texture_identifier,GTS Tail Light,1,reference_only_no_pixel_asset_found,
+GTS1_2,1571,surface_label_then_texture_identifier,GTSFront_2; GTSTop_2; GTSBack_2; GTSSide_2; GTSBottom_2,5,reference_only_no_pixel_asset_found,

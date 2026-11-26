@@ -1,0 +1,116 @@
+{
+  "mesh_name": "GTS Shadow",
+  "header_words": [
+    0,
+    0,
+    32768
+  ],
+  "face_records": [
+    {
+      "face_index": 0,
+      "flag_raw": 0,
+      "extra_u32_raw": [
+        0,
+        0,
+        32768
+      ],
+      "vertices": [
+        {
+          "vertex_index": 2,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            32,
+            32
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 3,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65503,
+            32
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 0,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65503,
+            65503
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "face_index": 1,
+      "flag_raw": 0,
+      "extra_u32_raw": [
+        1937008384,
+        1953456672,
+        7171956
+      ],
+      "vertices": [
+        {
+          "vertex_index": 1,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            32,
+            65503
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 2,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            32,
+            32
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "vertex_index": 0,
+          "attributes_u32_raw": [
+            0,
+            0,
+            32768,
+            65503,
+            65503
+          ],
+          "uv_fixed16": [
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    }
+  ]
+}
