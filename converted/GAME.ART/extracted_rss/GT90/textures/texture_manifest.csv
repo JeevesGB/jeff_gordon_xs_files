@@ -1,0 +1,5 @@
+﻿name,offset,evidence,surface_labels,occurrences,asset_status,copied_files
+GT90,158,surface_label_then_texture_identifier,gt90 Front_0; gt90 Top_0; gt90 Back_0; gt90 Side_0; gt90 Bottom_0; gt90 Wing _0; gt90Engine Bevel_0; gt90 Wing High_0; gt90 AB Left; gt90 AB Right; gt90 Wing; gt90 Front_1; gt90 Top_1; gt90 Back_1; gt90 Side_1; gt90 Bottom_1; gt90 Wing _1; gt90Engine Bevel_1; gt90 Wing High_1,19,reference_only_no_pixel_asset_found,
+carshdw,764,surface_label_then_texture_identifier,gt90 shadow,1,reference_only_no_pixel_asset_found,
+GT90Brke,1123,surface_label_then_texture_identifier,GT90 Tail Light,1,reference_only_no_pixel_asset_found,
+GT901_2,1905,surface_label_then_texture_identifier,gt90 Front_2; gt90 Top_2; gt90 Back_2; gt90 Side_2; gt90 Bottom_2,5,reference_only_no_pixel_asset_found,

@@ -1,0 +1,102 @@
+[
+  {
+    "name": "GT90",
+    "offset": 158,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "gt90 Front_0",
+      "gt90 Top_0",
+      "gt90 Back_0",
+      "gt90 Side_0",
+      "gt90 Bottom_0",
+      "gt90 Wing _0",
+      "gt90Engine Bevel_0",
+      "gt90 Wing High_0",
+      "gt90 AB Left",
+      "gt90 AB Right",
+      "gt90 Wing",
+      "gt90 Front_1",
+      "gt90 Top_1",
+      "gt90 Back_1",
+      "gt90 Side_1",
+      "gt90 Bottom_1",
+      "gt90 Wing _1",
+      "gt90Engine Bevel_1",
+      "gt90 Wing High_1"
+    ],
+    "occurrences": 19,
+    "occurrences_at_offsets": [
+      158,
+      231,
+      305,
+      379,
+      455,
+      530,
+      611,
+      690,
+      897,
+      973,
+      1045,
+      1250,
+      1323,
+      1397,
+      1471,
+      1547,
+      1622,
+      1703,
+      1782
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "carshdw",
+    "offset": 764,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "gt90 shadow"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      764
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "GT90Brke",
+    "offset": 1123,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "GT90 Tail Light"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      1123
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "GT901_2",
+    "offset": 1905,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "gt90 Front_2",
+      "gt90 Top_2",
+      "gt90 Back_2",
+      "gt90 Side_2",
+      "gt90 Bottom_2"
+    ],
+    "occurrences": 5,
+    "occurrences_at_offsets": [
+      1905,
+      1981,
+      2058,
+      2135,
+      2214
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]

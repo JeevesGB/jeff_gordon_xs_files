@@ -1,0 +1,1147 @@
+{
+  "file": "GT90.RSS",
+  "size": 31180,
+  "sha256": "2eca836bd4db807e9563ecdd6ac465759b13038a182b01378f019894f7f52da1",
+  "original_copy": "GT90.RSS.original",
+  "texture_reference_count": 26,
+  "unique_texture_identifiers": 4,
+  "plausible_atlas_rect_count": 26,
+  "zero_padding_after_rect_count": 26,
+  "texture_identifiers_grouped": [
+    {
+      "identifier": "GT90",
+      "occurrences": 19,
+      "surface_labels": [
+        "gt90 Front_0",
+        "gt90 Top_0",
+        "gt90 Back_0",
+        "gt90 Side_0",
+        "gt90 Bottom_0",
+        "gt90 Wing _0",
+        "gt90Engine Bevel_0",
+        "gt90 Wing High_0",
+        "gt90 AB Left",
+        "gt90 AB Right",
+        "gt90 Wing",
+        "gt90 Front_1",
+        "gt90 Top_1",
+        "gt90 Back_1",
+        "gt90 Side_1",
+        "gt90 Bottom_1",
+        "gt90 Wing _1",
+        "gt90Engine Bevel_1",
+        "gt90 Wing High_1"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.25,
+          0.0649871826171875
+        ],
+        [
+          0.0,
+          0.23529052734375,
+          0.4980316162109375,
+          0.133331298828125
+        ],
+        [
+          0.0049896240234375,
+          0.0941162109375,
+          0.2449951171875,
+          0.1392059326171875
+        ],
+        [
+          0.001953125,
+          0.3744964599609375,
+          0.4980316162109375,
+          0.12548828125
+        ],
+        [
+          0.0,
+          0.3744964599609375,
+          0.1627349853515625,
+          0.04901123046875
+        ],
+        [
+          0.4293975830078125,
+          0.3803863525390625,
+          0.025482177734375,
+          0.0196075439453125
+        ],
+        [
+          0.23529052734375,
+          0.2392120361328125,
+          0.0901947021484375,
+          0.0196075439453125
+        ],
+        [
+          0.480377197265625,
+          0.384307861328125,
+          0.01568603515625,
+          0.023529052734375
+        ],
+        [
+          0.25,
+          0.0,
+          0.25,
+          0.1156768798828125
+        ],
+        [
+          0.25,
+          0.117645263671875,
+          0.25,
+          0.1156768798828125
+        ],
+        [
+          0.4274444580078125,
+          0.3725433349609375,
+          0.0666656494140625,
+          0.025482177734375
+        ],
+        [
+          0.0,
+          0.0,
+          0.25,
+          0.0649871826171875
+        ],
+        [
+          0.0,
+          0.23529052734375,
+          0.4980316162109375,
+          0.133331298828125
+        ],
+        [
+          0.0049896240234375,
+          0.0941162109375,
+          0.2449951171875,
+          0.1392059326171875
+        ],
+        [
+          0.001953125,
+          0.3744964599609375,
+          0.4980316162109375,
+          0.12548828125
+        ],
+        [
+          0.0,
+          0.3744964599609375,
+          0.1627349853515625,
+          0.04901123046875
+        ],
+        [
+          0.4293975830078125,
+          0.3744964599609375,
+          0.0294036865234375,
+          0.025482177734375
+        ],
+        [
+          0.23529052734375,
+          0.2389984130859375,
+          0.0901947021484375,
+          0.0194854736328125
+        ],
+        [
+          0.480499267578125,
+          0.384490966796875,
+          0.0154876708984375,
+          0.02349853515625
+        ]
+      ]
+    },
+    {
+      "identifier": "carshdw",
+      "occurrences": 1,
+      "surface_labels": [
+        "gt90 shadow"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "GT90Brke",
+      "occurrences": 1,
+      "surface_labels": [
+        "GT90 Tail Light"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "GT901_2",
+      "occurrences": 5,
+      "surface_labels": [
+        "gt90 Front_2",
+        "gt90 Top_2",
+        "gt90 Back_2",
+        "gt90 Side_2",
+        "gt90 Bottom_2"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ],
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    }
+  ],
+  "texture_references": [
+    {
+      "identifier": "GT90",
+      "identifier_offset": 158,
+      "surface_label": "gt90 Front_0",
+      "surface_label_offset": 106,
+      "gap_from_label": 52,
+      "next_string": "gt90 Top_0",
+      "next_string_offset": 181,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16384,
+        4259
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.25,
+        0.0649871826171875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 40 00 00 a3 10 00 00 00 00 67 74 39 30 20 54 6f 70 5f 30 00 ff ff ff",
+      "context_start": 90,
+      "context_end": 197,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 226,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GT90",
+      "identifier_offset": 231,
+      "surface_label": "gt90 Top_0",
+      "surface_label_offset": 181,
+      "gap_from_label": 50,
+      "next_string": "<<",
+      "next_string_offset": 240,
+      "post_identifier_u32_le": [
+        0,
+        15420,
+        32639,
+        8738
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.23529052734375,
+        0.4980316162109375,
+        0.133331298828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 3c 3c 00 00 7f 7f 00 00 22 22 00 00 00 00 67 74 39 30 20 42 61 63 6b 5f 30 00 ff ff",
+      "context_start": 165,
+      "context_end": 256,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 153,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GT90",
+      "identifier_offset": 305,
+      "surface_label": "gt90 Back_0",
+      "surface_label_offset": 254,
+      "gap_from_label": 51,
+      "next_string": "gt90 Side_0",
+      "next_string_offset": 328,
+      "post_identifier_u32_le": [
+        327,
+        6168,
+        16056,
+        9123
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0049896240234375,
+        0.0941162109375,
+        0.2449951171875,
+        0.1392059326171875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "47 01 00 00 18 18 00 00 b8 3e 00 00 a3 23 00 00 00 00 67 74 39 30 20 53 69 64 65 5f 30 00 ff ff",
+      "context_start": 238,
+      "context_end": 344,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "GT90",
+      "identifier_offset": 379,
+      "surface_label": "gt90 Side_0",
+      "surface_label_offset": 328,
+      "gap_from_label": 51,
+      "next_string": "  ",
+      "next_string_offset": 396,
+      "post_identifier_u32_le": [
+        128,
+        24543,
+        32639,
+        8224
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.001953125,
+        0.3744964599609375,
+        0.4980316162109375,
+        0.12548828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "80 00 00 00 df 5f 00 00 7f 7f 00 00 20 20 00 00 00 00 67 74 39 30 20 42 6f 74 74 6f 6d 5f 30 00",
+      "context_start": 312,
+      "context_end": 412,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "GT90",
+      "identifier_offset": 455,
+      "surface_label": "gt90 Bottom_0",
+      "surface_label_offset": 402,
+      "gap_from_label": 53,
+      "next_string": "gt90 Wing _0",
+      "next_string_offset": 478,
+      "post_identifier_u32_le": [
+        0,
+        24543,
+        10665,
+        3212
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.3744964599609375,
+        0.1627349853515625,
+        0.04901123046875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 df 5f 00 00 a9 29 00 00 8c 0c 00 00 00 00 67 74 39 30 20 57 69 6e 67 20 5f 30 00 ff",
+      "context_start": 386,
+      "context_end": 494,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 525,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GT90",
+      "identifier_offset": 530,
+      "surface_label": "gt90 Wing _0",
+      "surface_label_offset": 478,
+      "gap_from_label": 52,
+      "next_string": "aa",
+      "next_string_offset": 539,
+      "post_identifier_u32_le": [
+        28141,
+        24929,
+        1670,
+        1285
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.4293975830078125,
+        0.3803863525390625,
+        0.025482177734375,
+        0.0196075439453125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "ed 6d 00 00 61 61 00 00 86 06 00 00 05 05 00 00 00 00 67 74 39 30 45 6e 67 69 6e 65 20 42 65 76",
+      "context_start": 462,
+      "context_end": 555,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 450,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 606,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GT90",
+      "identifier_offset": 611,
+      "surface_label": "gt90Engine Bevel_0",
+      "surface_label_offset": 553,
+      "gap_from_label": 58,
+      "next_string": "<<",
+      "next_string_offset": 616,
+      "post_identifier_u32_le": [
+        15420,
+        15677,
+        5911,
+        1285
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.23529052734375,
+        0.2392120361328125,
+        0.0901947021484375,
+        0.0196075439453125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "3c 3c 00 00 3d 3d 00 00 17 17 00 00 05 05 00 00 00 00 67 74 39 30 20 57 69 6e 67 20 48 69 67 68",
+      "context_start": 537,
+      "context_end": 632,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 525,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 685,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GT90",
+      "identifier_offset": 690,
+      "surface_label": "gt90 Wing High_0",
+      "surface_label_offset": 634,
+      "gap_from_label": 56,
+      "next_string": "bb",
+      "next_string_offset": 699,
+      "post_identifier_u32_le": [
+        31482,
+        25186,
+        1028,
+        1542
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.480377197265625,
+        0.384307861328125,
+        0.01568603515625,
+        0.023529052734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "fa 7a 00 00 62 62 00 00 04 04 00 00 06 06 00 00 00 00 67 74 39 30 20 73 68 61 64 6f 77 00 ff ff",
+      "context_start": 618,
+      "context_end": 715,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 606,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "carshdw",
+      "identifier_offset": 764,
+      "surface_label": "gt90 shadow",
+      "surface_label_offset": 713,
+      "gap_from_label": 51,
+      "next_string": "gt90 AirBrake",
+      "next_string_offset": 790,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 67 74 39 30 20 41 69 72 42 72 61 6b 65 00",
+      "context_start": 697,
+      "context_end": 806,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "GT90",
+      "identifier_offset": 897,
+      "surface_label": "gt90 AB Left",
+      "surface_label_offset": 845,
+      "gap_from_label": 52,
+      "next_string": "gt90 AB Right",
+      "next_string_offset": 920,
+      "post_identifier_u32_le": [
+        16384,
+        0,
+        16384,
+        7581
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.0,
+        0.25,
+        0.1156768798828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 00 00 00 00 00 40 00 00 9d 1d 00 00 00 00 67 74 39 30 20 41 42 20 52 69 67 68 74 00",
+      "context_start": 829,
+      "context_end": 936,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "GT90",
+      "identifier_offset": 973,
+      "surface_label": "gt90 AB Right",
+      "surface_label_offset": 920,
+      "gap_from_label": 53,
+      "next_string": "gt90 Wing",
+      "next_string_offset": 996,
+      "post_identifier_u32_le": [
+        16384,
+        7710,
+        16384,
+        7581
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.25,
+        0.117645263671875,
+        0.25,
+        0.1156768798828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 40 00 00 1e 1e 00 00 00 40 00 00 9d 1d 00 00 00 00 67 74 39 30 20 57 69 6e 67 00 ff ff ff ff",
+      "context_start": 904,
+      "context_end": 1012,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "GT90",
+      "identifier_offset": 1045,
+      "surface_label": "gt90 Wing",
+      "surface_label_offset": 996,
+      "gap_from_label": 49,
+      "next_string": "mm",
+      "next_string_offset": 1050,
+      "post_identifier_u32_le": [
+        28013,
+        24415,
+        4369,
+        1670
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.4274444580078125,
+        0.3725433349609375,
+        0.0666656494140625,
+        0.025482177734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "6d 6d 00 00 5f 5f 00 00 11 11 00 00 86 06 00 00 00 00 47 54 39 30 20 54 61 69 6c 20 4c 69 67 68",
+      "context_start": 980,
+      "context_end": 1066,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "GT90Brke",
+      "identifier_offset": 1123,
+      "surface_label": "GT90 Tail Light",
+      "surface_label_offset": 1068,
+      "gap_from_label": 55,
+      "next_string": "Gt90_1",
+      "next_string_offset": 1150,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 47 74 39 30 5f 31 00 ff ff ff ff ff ff e5",
+      "context_start": 1052,
+      "context_end": 1166,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "GT90",
+      "identifier_offset": 1250,
+      "surface_label": "gt90 Front_1",
+      "surface_label_offset": 1198,
+      "gap_from_label": 52,
+      "next_string": "gt90 Top_1",
+      "next_string_offset": 1273,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        16384,
+        4259
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.25,
+        0.0649871826171875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 40 00 00 a3 10 00 00 00 00 67 74 39 30 20 54 6f 70 5f 31 00 ff ff ff",
+      "context_start": 1182,
+      "context_end": 1289,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1318,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GT90",
+      "identifier_offset": 1323,
+      "surface_label": "gt90 Top_1",
+      "surface_label_offset": 1273,
+      "gap_from_label": 50,
+      "next_string": "<<",
+      "next_string_offset": 1332,
+      "post_identifier_u32_le": [
+        0,
+        15420,
+        32639,
+        8738
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.23529052734375,
+        0.4980316162109375,
+        0.133331298828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 3c 3c 00 00 7f 7f 00 00 22 22 00 00 00 00 67 74 39 30 20 42 61 63 6b 5f 31 00 ff ff",
+      "context_start": 1257,
+      "context_end": 1348,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1245,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GT90",
+      "identifier_offset": 1397,
+      "surface_label": "gt90 Back_1",
+      "surface_label_offset": 1346,
+      "gap_from_label": 51,
+      "next_string": "gt90 Side_1",
+      "next_string_offset": 1420,
+      "post_identifier_u32_le": [
+        327,
+        6168,
+        16056,
+        9123
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0049896240234375,
+        0.0941162109375,
+        0.2449951171875,
+        0.1392059326171875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "47 01 00 00 18 18 00 00 b8 3e 00 00 a3 23 00 00 00 00 67 74 39 30 20 53 69 64 65 5f 31 00 ff ff",
+      "context_start": 1330,
+      "context_end": 1436,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "GT90",
+      "identifier_offset": 1471,
+      "surface_label": "gt90 Side_1",
+      "surface_label_offset": 1420,
+      "gap_from_label": 51,
+      "next_string": "  ",
+      "next_string_offset": 1488,
+      "post_identifier_u32_le": [
+        128,
+        24543,
+        32639,
+        8224
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.001953125,
+        0.3744964599609375,
+        0.4980316162109375,
+        0.12548828125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "80 00 00 00 df 5f 00 00 7f 7f 00 00 20 20 00 00 00 00 67 74 39 30 20 42 6f 74 74 6f 6d 5f 31 00",
+      "context_start": 1404,
+      "context_end": 1504,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "GT90",
+      "identifier_offset": 1547,
+      "surface_label": "gt90 Bottom_1",
+      "surface_label_offset": 1494,
+      "gap_from_label": 53,
+      "next_string": "gt90 Wing _1",
+      "next_string_offset": 1570,
+      "post_identifier_u32_le": [
+        0,
+        24543,
+        10665,
+        3212
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.3744964599609375,
+        0.1627349853515625,
+        0.04901123046875
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 df 5f 00 00 a9 29 00 00 8c 0c 00 00 00 00 67 74 39 30 20 57 69 6e 67 20 5f 31 00 ff",
+      "context_start": 1478,
+      "context_end": 1586,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1617,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GT90",
+      "identifier_offset": 1622,
+      "surface_label": "gt90 Wing _1",
+      "surface_label_offset": 1570,
+      "gap_from_label": 52,
+      "next_string": "gt90Engine Bevel_1",
+      "next_string_offset": 1645,
+      "post_identifier_u32_le": [
+        28141,
+        24543,
+        1927,
+        1670
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.4293975830078125,
+        0.3744964599609375,
+        0.0294036865234375,
+        0.025482177734375
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "ed 6d 00 00 df 5f 00 00 87 07 00 00 86 06 00 00 00 00 67 74 39 30 45 6e 67 69 6e 65 20 42 65 76",
+      "context_start": 1554,
+      "context_end": 1661,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1542,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1698,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GT90",
+      "identifier_offset": 1703,
+      "surface_label": "gt90Engine Bevel_1",
+      "surface_label_offset": 1645,
+      "gap_from_label": 58,
+      "next_string": "<<",
+      "next_string_offset": 1708,
+      "post_identifier_u32_le": [
+        15420,
+        15663,
+        5911,
+        1277
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.23529052734375,
+        0.2389984130859375,
+        0.0901947021484375,
+        0.0194854736328125
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "3c 3c 00 00 2f 3d 00 00 17 17 00 00 fd 04 00 00 00 00 67 74 39 30 20 57 69 6e 67 20 48 69 67 68",
+      "context_start": 1629,
+      "context_end": 1724,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1617,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1777,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GT90",
+      "identifier_offset": 1782,
+      "surface_label": "gt90 Wing High_1",
+      "surface_label_offset": 1726,
+      "gap_from_label": 56,
+      "next_string": "nb",
+      "next_string_offset": 1791,
+      "post_identifier_u32_le": [
+        31490,
+        25198,
+        1015,
+        1540
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.480499267578125,
+        0.384490966796875,
+        0.0154876708984375,
+        0.02349853515625
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "02 7b 00 00 6e 62 00 00 f7 03 00 00 04 06 00 00 00 00 67 74 39 30 5f 32 00 ff ff ff ff ff ff e5",
+      "context_start": 1710,
+      "context_end": 1807,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1698,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GT901_2",
+      "identifier_offset": 1905,
+      "surface_label": "gt90 Front_2",
+      "surface_label_offset": 1853,
+      "gap_from_label": 52,
+      "next_string": "gt90 Top_2",
+      "next_string_offset": 1931,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 67 74 39 30 20 54 6f 70 5f 32 00 ff ff ff",
+      "context_start": 1837,
+      "context_end": 1947,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "GT901_2",
+      "identifier_offset": 1981,
+      "surface_label": "gt90 Top_2",
+      "surface_label_offset": 1931,
+      "gap_from_label": 50,
+      "next_string": "gt90 Back_2",
+      "next_string_offset": 2007,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 67 74 39 30 20 42 61 63 6b 5f 32 00 ff ff",
+      "context_start": 1915,
+      "context_end": 2023,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2053,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GT901_2",
+      "identifier_offset": 2058,
+      "surface_label": "gt90 Back_2",
+      "surface_label_offset": 2007,
+      "gap_from_label": 51,
+      "next_string": "gt90 Side_2",
+      "next_string_offset": 2084,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 67 74 39 30 20 53 69 64 65 5f 32 00 ff ff",
+      "context_start": 1991,
+      "context_end": 2100,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 1976,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 2130,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 1998,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GT901_2",
+      "identifier_offset": 2135,
+      "surface_label": "gt90 Side_2",
+      "surface_label_offset": 2084,
+      "gap_from_label": 51,
+      "next_string": "gt90 Bottom_2",
+      "next_string_offset": 2161,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 67 74 39 30 20 42 6f 74 74 6f 6d 5f 32 00",
+      "context_start": 2068,
+      "context_end": 2177,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2053,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        },
+        {
+          "offset": 2075,
+          "u32_le": [
+            128,
+            128
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    },
+    {
+      "identifier": "GT901_2",
+      "identifier_offset": 2214,
+      "surface_label": "gt90 Bottom_2",
+      "surface_label_offset": 2161,
+      "gap_from_label": 53,
+      "next_string": "gt90",
+      "next_string_offset": 2243,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 08 00 00 67 74 39 30 00 00 00 00 00 00 00",
+      "context_start": 2145,
+      "context_end": 2259,
+      "nearby_dimension_candidates": [
+        {
+          "offset": 2130,
+          "u16_le": [
+            128,
+            256
+          ],
+          "interpretation": "dimension-pair hypothesis only"
+        }
+      ]
+    }
+  ],
+  "verified_decoded_images": [],
+  "zlib_stream_candidates": [],
+  "standard_signature_counts": {
+    "PNG": 0,
+    "JPEG": 0,
+    "BMP": 0,
+    "GIF87a": 0,
+    "GIF89a": 0,
+    "DDS": 0,
+    "PCX": 103
+  },
+  "conclusion": {
+    "verified_images_extracted": 0,
+    "zlib_streams_found": 0,
+    "texture_payload_format": "not established",
+    "note": "References are material/surface identifiers. A zlib stream is not classified as a texture without dimensions, pixel format and successful image reconstruction."
+  }
+}

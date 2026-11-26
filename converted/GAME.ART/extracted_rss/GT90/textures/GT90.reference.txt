@@ -1,0 +1,7 @@
+RSS texture reference: GT90
+RSS byte offset: 0x0000009e
+Detection evidence: surface_label_then_texture_identifier
+Associated surface labels: gt90 Front_0, gt90 Top_0, gt90 Back_0, gt90 Side_0, gt90 Bottom_0, gt90 Wing _0, gt90Engine Bevel_0, gt90 Wing High_0, gt90 AB Left, gt90 AB Right, gt90 Wing, gt90 Front_1, gt90 Top_1, gt90 Back_1, gt90 Side_1, gt90 Bottom_1, gt90 Wing _1, gt90Engine Bevel_1, gt90 Wing High_1\n
+No matching pixel/image asset was present in the supplied archive or asset search path.
+This file is a reference record, NOT an image. The RSS stores a texture identifier here;
+the actual bitmap may be a separate game asset or use a proprietary encoding.

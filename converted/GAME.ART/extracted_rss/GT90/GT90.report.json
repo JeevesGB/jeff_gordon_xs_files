@@ -1,0 +1,2316 @@
+{
+  "file": "GT90.RSS",
+  "size": 31180,
+  "sha256": "2eca836bd4db807e9563ecdd6ac465759b13038a182b01378f019894f7f52da1",
+  "header": "fRssExport Version (V1) - Fri Apr 16 16:47:39 1999",
+  "header_bytes_hex": "665273734578706f72742056657273696f6e2028563129202d20467269204170722031362031363a34373a333920313939390a",
+  "mesh_parser_note": "Heuristic only; not a complete documented RSS specification.",
+  "meshes": [
+    {
+      "index": 0,
+      "name": "Gt90_0",
+      "name_offset": 4141,
+      "face_span": [
+        4148,
+        15315
+      ],
+      "face_count": 136,
+      "max_vertex_index": 76,
+      "vertex_span": [
+        2293,
+        4141
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 77,
+      "header_words": [
+        11319,
+        30634,
+        2672
+      ]
+    },
+    {
+      "index": 1,
+      "name": "Gt90_1",
+      "name_offset": 16251,
+      "face_span": [
+        16258,
+        21685
+      ],
+      "face_count": 66,
+      "max_vertex_index": 38,
+      "vertex_span": [
+        15315,
+        16251
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 39,
+      "header_words": [
+        8049,
+        31607,
+        3149
+      ]
+    },
+    {
+      "index": 2,
+      "name": "gt90_2",
+      "name_offset": 21805,
+      "face_span": [
+        21812,
+        23139
+      ],
+      "face_count": 16,
+      "max_vertex_index": 9,
+      "vertex_span": [
+        21685,
+        21805
+      ],
+      "vertex_set_count": 1,
+      "vertex_count": 10,
+      "header_words": [
+        4294962886,
+        1822,
+        32418
+      ]
+    },
+    {
+      "index": 3,
+      "name": "gt90 shadow",
+      "name_offset": 23233,
+      "face_span": [
+        23245,
+        23424
+      ],
+      "face_count": 2,
+      "max_vertex_index": 3,
+      "vertex_span": [
+        23185,
+        23233
+      ],
+      "vertex_set_count": 1,
+      "vertex_count": 4,
+      "header_words": [
+        0,
+        0,
+        32768
+      ]
+    },
+    {
+      "index": 4,
+      "name": "Gt90_0",
+      "name_offset": 23854,
+      "face_span": [
+        23861,
+        25024
+      ],
+      "face_count": 14,
+      "max_vertex_index": 15,
+      "vertex_span": [
+        23470,
+        23854
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 16,
+      "header_words": [
+        0,
+        4294934528,
+        0
+      ]
+    },
+    {
+      "index": 5,
+      "name": "Gt90_1",
+      "name_offset": 25264,
+      "face_span": [
+        25271,
+        25942
+      ],
+      "face_count": 8,
+      "max_vertex_index": 9,
+      "vertex_span": [
+        25024,
+        25264
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 10,
+      "header_words": [
+        0,
+        4294934528,
+        0
+      ]
+    },
+    {
+      "index": 6,
+      "name": "gt90 AirBrake",
+      "name_offset": 26131,
+      "face_span": [
+        26145,
+        26488
+      ],
+      "face_count": 4,
+      "max_vertex_index": 5,
+      "vertex_span": [
+        25987,
+        26131
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 6,
+      "header_words": [
+        4294956802,
+        4294936282,
+        4294965988
+      ]
+    },
+    {
+      "index": 7,
+      "name": "gt90 Wing",
+      "name_offset": 26820,
+      "face_span": [
+        26830,
+        27173
+      ],
+      "face_count": 4,
+      "max_vertex_index": 5,
+      "vertex_span": null,
+      "vertex_set_count": 0,
+      "vertex_count": null,
+      "header_words": [
+        0,
+        0,
+        32768
+      ]
+    },
+    {
+      "index": 8,
+      "name": "gt90 Wing",
+      "name_offset": 27506,
+      "face_span": [
+        27516,
+        27859
+      ],
+      "face_count": 4,
+      "max_vertex_index": 5,
+      "vertex_span": null,
+      "vertex_set_count": 0,
+      "vertex_count": null,
+      "header_words": [
+        4294934528,
+        0,
+        0
+      ]
+    },
+    {
+      "index": 9,
+      "name": "Gt90_0",
+      "name_offset": 28243,
+      "face_span": [
+        28250,
+        29249
+      ],
+      "face_count": 12,
+      "max_vertex_index": 13,
+      "vertex_span": [
+        27907,
+        28243
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 14,
+      "header_words": [
+        9872,
+        31180,
+        2013
+      ]
+    },
+    {
+      "index": 10,
+      "name": "Gt90_1",
+      "name_offset": 29585,
+      "face_span": [
+        29592,
+        30591
+      ],
+      "face_count": 12,
+      "max_vertex_index": 13,
+      "vertex_span": [
+        29249,
+        29585
+      ],
+      "vertex_set_count": 2,
+      "vertex_count": 14,
+      "header_words": [
+        9872,
+        31180,
+        2013
+      ]
+    }
+  ],
+  "embedded_image_files": [],
+  "texture_references": [
+    {
+      "name": "GT90",
+      "offset": 158,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "gt90 Front_0",
+        "gt90 Top_0",
+        "gt90 Back_0",
+        "gt90 Side_0",
+        "gt90 Bottom_0",
+        "gt90 Wing _0",
+        "gt90Engine Bevel_0",
+        "gt90 Wing High_0",
+        "gt90 AB Left",
+        "gt90 AB Right",
+        "gt90 Wing",
+        "gt90 Front_1",
+        "gt90 Top_1",
+        "gt90 Back_1",
+        "gt90 Side_1",
+        "gt90 Bottom_1",
+        "gt90 Wing _1",
+        "gt90Engine Bevel_1",
+        "gt90 Wing High_1"
+      ],
+      "occurrences": 19,
+      "occurrences_at_offsets": [
+        158,
+        231,
+        305,
+        379,
+        455,
+        530,
+        611,
+        690,
+        897,
+        973,
+        1045,
+        1250,
+        1323,
+        1397,
+        1471,
+        1547,
+        1622,
+        1703,
+        1782
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    },
+    {
+      "name": "carshdw",
+      "offset": 764,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "gt90 shadow"
+      ],
+      "occurrences": 1,
+      "occurrences_at_offsets": [
+        764
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    },
+    {
+      "name": "GT90Brke",
+      "offset": 1123,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "GT90 Tail Light"
+      ],
+      "occurrences": 1,
+      "occurrences_at_offsets": [
+        1123
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    },
+    {
+      "name": "GT901_2",
+      "offset": 1905,
+      "evidence": "surface_label_then_texture_identifier",
+      "surface_labels": [
+        "gt90 Front_2",
+        "gt90 Top_2",
+        "gt90 Back_2",
+        "gt90 Side_2",
+        "gt90 Bottom_2"
+      ],
+      "occurrences": 5,
+      "occurrences_at_offsets": [
+        1905,
+        1981,
+        2058,
+        2135,
+        2214
+      ],
+      "asset_status": "reference_only_no_pixel_asset_found",
+      "copied_files": []
+    }
+  ],
+  "texture_extraction_note": "The RSS files contain probable texture identifiers/material references. Validated standard embedded images are exported separately; external matching assets are copied when present. Reference records are not image data.",
+  "ascii_strings": [
+    {
+      "offset": 0,
+      "length": 50,
+      "text": "fRssExport Version (V1) - Fri Apr 16 16:47:39 1999"
+    },
+    {
+      "offset": 58,
+      "length": 6,
+      "text": "Gt90_0"
+    },
+    {
+      "offset": 106,
+      "length": 12,
+      "text": "gt90 Front_0"
+    },
+    {
+      "offset": 158,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 181,
+      "length": 10,
+      "text": "gt90 Top_0"
+    },
+    {
+      "offset": 231,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 254,
+      "length": 11,
+      "text": "gt90 Back_0"
+    },
+    {
+      "offset": 305,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 328,
+      "length": 11,
+      "text": "gt90 Side_0"
+    },
+    {
+      "offset": 379,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 402,
+      "length": 13,
+      "text": "gt90 Bottom_0"
+    },
+    {
+      "offset": 455,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 478,
+      "length": 12,
+      "text": "gt90 Wing _0"
+    },
+    {
+      "offset": 530,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 553,
+      "length": 18,
+      "text": "gt90Engine Bevel_0"
+    },
+    {
+      "offset": 611,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 634,
+      "length": 16,
+      "text": "gt90 Wing High_0"
+    },
+    {
+      "offset": 690,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 713,
+      "length": 11,
+      "text": "gt90 shadow"
+    },
+    {
+      "offset": 764,
+      "length": 7,
+      "text": "carshdw"
+    },
+    {
+      "offset": 790,
+      "length": 13,
+      "text": "gt90 AirBrake"
+    },
+    {
+      "offset": 845,
+      "length": 12,
+      "text": "gt90 AB Left"
+    },
+    {
+      "offset": 897,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 920,
+      "length": 13,
+      "text": "gt90 AB Right"
+    },
+    {
+      "offset": 973,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 996,
+      "length": 9,
+      "text": "gt90 Wing"
+    },
+    {
+      "offset": 1045,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 1068,
+      "length": 15,
+      "text": "GT90 Tail Light"
+    },
+    {
+      "offset": 1123,
+      "length": 8,
+      "text": "GT90Brke"
+    },
+    {
+      "offset": 1150,
+      "length": 6,
+      "text": "Gt90_1"
+    },
+    {
+      "offset": 1198,
+      "length": 12,
+      "text": "gt90 Front_1"
+    },
+    {
+      "offset": 1250,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 1273,
+      "length": 10,
+      "text": "gt90 Top_1"
+    },
+    {
+      "offset": 1323,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 1346,
+      "length": 11,
+      "text": "gt90 Back_1"
+    },
+    {
+      "offset": 1397,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 1420,
+      "length": 11,
+      "text": "gt90 Side_1"
+    },
+    {
+      "offset": 1471,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 1494,
+      "length": 13,
+      "text": "gt90 Bottom_1"
+    },
+    {
+      "offset": 1547,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 1570,
+      "length": 12,
+      "text": "gt90 Wing _1"
+    },
+    {
+      "offset": 1622,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 1645,
+      "length": 18,
+      "text": "gt90Engine Bevel_1"
+    },
+    {
+      "offset": 1703,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 1726,
+      "length": 16,
+      "text": "gt90 Wing High_1"
+    },
+    {
+      "offset": 1782,
+      "length": 4,
+      "text": "GT90"
+    },
+    {
+      "offset": 1805,
+      "length": 6,
+      "text": "gt90_2"
+    },
+    {
+      "offset": 1853,
+      "length": 12,
+      "text": "gt90 Front_2"
+    },
+    {
+      "offset": 1905,
+      "length": 7,
+      "text": "GT901_2"
+    },
+    {
+      "offset": 1931,
+      "length": 10,
+      "text": "gt90 Top_2"
+    },
+    {
+      "offset": 1981,
+      "length": 7,
+      "text": "GT901_2"
+    },
+    {
+      "offset": 2007,
+      "length": 11,
+      "text": "gt90 Back_2"
+    },
+    {
+      "offset": 2058,
+      "length": 7,
+      "text": "GT901_2"
+    },
+    {
+      "offset": 2084,
+      "length": 11,
+      "text": "gt90 Side_2"
+    },
+    {
+      "offset": 2135,
+      "length": 7,
+      "text": "GT901_2"
+    },
+    {
+      "offset": 2161,
+      "length": 13,
+      "text": "gt90 Bottom_2"
+    },
+    {
+      "offset": 2214,
+      "length": 7,
+      "text": "GT901_2"
+    },
+    {
+      "offset": 2243,
+      "length": 4,
+      "text": "gt90"
+    },
+    {
+      "offset": 4141,
+      "length": 6,
+      "text": "Gt90_0"
+    },
+    {
+      "offset": 16251,
+      "length": 6,
+      "text": "Gt90_1"
+    },
+    {
+      "offset": 21805,
+      "length": 6,
+      "text": "gt90_2"
+    },
+    {
+      "offset": 23128,
+      "length": 11,
+      "text": "gt90 shadow"
+    },
+    {
+      "offset": 23233,
+      "length": 11,
+      "text": "gt90 shadow"
+    },
+    {
+      "offset": 23413,
+      "length": 11,
+      "text": "gt90 bottom"
+    },
+    {
+      "offset": 23854,
+      "length": 6,
+      "text": "Gt90_0"
+    },
+    {
+      "offset": 25264,
+      "length": 6,
+      "text": "Gt90_1"
+    },
+    {
+      "offset": 25931,
+      "length": 10,
+      "text": "gt90 brake"
+    },
+    {
+      "offset": 26131,
+      "length": 13,
+      "text": "gt90 AirBrake"
+    },
+    {
+      "offset": 26477,
+      "length": 9,
+      "text": "gt90_left"
+    },
+    {
+      "offset": 26820,
+      "length": 9,
+      "text": "gt90 Wing"
+    },
+    {
+      "offset": 27162,
+      "length": 10,
+      "text": "gt90_right"
+    },
+    {
+      "offset": 27506,
+      "length": 9,
+      "text": "gt90 Wing"
+    },
+    {
+      "offset": 27848,
+      "length": 13,
+      "text": "%gt90 spoiler"
+    },
+    {
+      "offset": 28243,
+      "length": 6,
+      "text": "Gt90_0"
+    },
+    {
+      "offset": 29585,
+      "length": 6,
+      "text": "Gt90_1"
+    },
+    {
+      "offset": 30580,
+      "length": 15,
+      "text": "gt90 Brakelight"
+    },
+    {
+      "offset": 30833,
+      "length": 15,
+      "text": "GT90 Tail Light"
+    }
+  ],
+  "utf16le_strings": [],
+  "embedded_filename_references": [],
+  "embedded_signatures": [
+    {
+      "type": "PCX",
+      "offset": 50,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 841,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 2287,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 2645,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 3017,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 4160,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5253,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5395,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5477,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 5623,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 5705,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 5787,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 5799,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 5847,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 5938,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 5998,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 6676,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 6736,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 6878,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 7086,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 7862,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 8006,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 8010,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 8070,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 8329,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 8411,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 8493,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 8587,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 8744,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 9045,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 9067,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 9515,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 9597,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 9817,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 10561,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 10747,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 10829,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 10953,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 11035,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 11117,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 11155,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 11268,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 11306,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 12006,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 12044,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 12230,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 12416,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 13214,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 13239,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 13321,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 13336,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 13340,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 13381,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 13400,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 13485,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 13659,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 13741,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 13823,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 14074,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 14283,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 14397,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 14889,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 14971,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 15053,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 15062,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 15135,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 15144,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 15217,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 15277,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 15299,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 15309,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 16295,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 16647,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 16707,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 16893,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 16922,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 16960,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 16982,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 17042,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 17159,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 17202,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 17206,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 17306,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 17310,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 17363,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 17423,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 17638,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 17754,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 17758,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 18104,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 18108,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 18225,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 18328,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 18332,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 18454,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 18458,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 18553,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 18647,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 18660,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 18919,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 19001,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 19382,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 19398,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 19442,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 19480,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 19619,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 19640,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 19644,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 19766,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 19770,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 20098,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 20236,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 20240,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 20542,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 20546,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 20685,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 20810,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 20814,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 20914,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 20918,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 21013,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 21177,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 21186,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 21224,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 21259,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 21341,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 21423,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 21492,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 21514,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 21530,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 21587,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 21669,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 21683,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 21849,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 21931,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 22259,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 22341,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 22713,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 22795,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 23364,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 23454,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 23464,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 24248,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 24474,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 24556,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 24638,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 25018,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 25022,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 25494,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 25981,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 26204,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 26221,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 26259,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 27031,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 27575,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 27891,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 27901,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 28131,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 28781,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 28967,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 29027,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 29169,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 29243,
+      "signature_hex": "00000200"
+    },
+    {
+      "type": "PCX",
+      "offset": 30019,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 30145,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "PCX",
+      "offset": 30227,
+      "signature_hex": "0a"
+    },
+    {
+      "type": "TGA-like",
+      "offset": 30635,
+      "signature_hex": "00000200"
+    }
+  ],
+  "entropy_256_byte_windows": [
+    {
+      "offset": 0,
+      "length": 256,
+      "entropy": 3.905
+    },
+    {
+      "offset": 256,
+      "length": 256,
+      "entropy": 3.4326
+    },
+    {
+      "offset": 512,
+      "length": 256,
+      "entropy": 3.6919
+    },
+    {
+      "offset": 768,
+      "length": 256,
+      "entropy": 3.2116
+    },
+    {
+      "offset": 1024,
+      "length": 256,
+      "entropy": 3.1868
+    },
+    {
+      "offset": 1280,
+      "length": 256,
+      "entropy": 3.3544
+    },
+    {
+      "offset": 1536,
+      "length": 256,
+      "entropy": 3.6185
+    },
+    {
+      "offset": 1792,
+      "length": 256,
+      "entropy": 3.0203
+    },
+    {
+      "offset": 2048,
+      "length": 256,
+      "entropy": 2.88
+    },
+    {
+      "offset": 2304,
+      "length": 256,
+      "entropy": 4.5285
+    },
+    {
+      "offset": 2560,
+      "length": 256,
+      "entropy": 5.2257
+    },
+    {
+      "offset": 2816,
+      "length": 256,
+      "entropy": 4.9856
+    },
+    {
+      "offset": 3072,
+      "length": 256,
+      "entropy": 4.6262
+    },
+    {
+      "offset": 3328,
+      "length": 256,
+      "entropy": 5.3135
+    },
+    {
+      "offset": 3584,
+      "length": 256,
+      "entropy": 5.2376
+    },
+    {
+      "offset": 3840,
+      "length": 256,
+      "entropy": 5.0536
+    },
+    {
+      "offset": 4096,
+      "length": 256,
+      "entropy": 3.9391
+    },
+    {
+      "offset": 4352,
+      "length": 256,
+      "entropy": 3.5419
+    },
+    {
+      "offset": 4608,
+      "length": 256,
+      "entropy": 3.7923
+    },
+    {
+      "offset": 4864,
+      "length": 256,
+      "entropy": 3.963
+    },
+    {
+      "offset": 5120,
+      "length": 256,
+      "entropy": 3.8045
+    },
+    {
+      "offset": 5376,
+      "length": 256,
+      "entropy": 3.668
+    },
+    {
+      "offset": 5632,
+      "length": 256,
+      "entropy": 3.7683
+    },
+    {
+      "offset": 5888,
+      "length": 256,
+      "entropy": 4.2892
+    },
+    {
+      "offset": 6144,
+      "length": 256,
+      "entropy": 4.2045
+    },
+    {
+      "offset": 6400,
+      "length": 256,
+      "entropy": 4.2262
+    },
+    {
+      "offset": 6656,
+      "length": 256,
+      "entropy": 4.2288
+    },
+    {
+      "offset": 6912,
+      "length": 256,
+      "entropy": 4.4125
+    },
+    {
+      "offset": 7168,
+      "length": 256,
+      "entropy": 4.1616
+    },
+    {
+      "offset": 7424,
+      "length": 256,
+      "entropy": 4.1547
+    },
+    {
+      "offset": 7680,
+      "length": 256,
+      "entropy": 4.2081
+    },
+    {
+      "offset": 7936,
+      "length": 256,
+      "entropy": 3.6568
+    },
+    {
+      "offset": 8192,
+      "length": 256,
+      "entropy": 3.9545
+    },
+    {
+      "offset": 8448,
+      "length": 256,
+      "entropy": 4.073
+    },
+    {
+      "offset": 8704,
+      "length": 256,
+      "entropy": 4.0256
+    },
+    {
+      "offset": 8960,
+      "length": 256,
+      "entropy": 3.9535
+    },
+    {
+      "offset": 9216,
+      "length": 256,
+      "entropy": 4.3678
+    },
+    {
+      "offset": 9472,
+      "length": 256,
+      "entropy": 3.7937
+    },
+    {
+      "offset": 9728,
+      "length": 256,
+      "entropy": 3.9803
+    },
+    {
+      "offset": 9984,
+      "length": 256,
+      "entropy": 3.9491
+    },
+    {
+      "offset": 10240,
+      "length": 256,
+      "entropy": 4.1308
+    },
+    {
+      "offset": 10496,
+      "length": 256,
+      "entropy": 3.7675
+    },
+    {
+      "offset": 10752,
+      "length": 256,
+      "entropy": 3.9132
+    },
+    {
+      "offset": 11008,
+      "length": 256,
+      "entropy": 4.066
+    },
+    {
+      "offset": 11264,
+      "length": 256,
+      "entropy": 4.5203
+    },
+    {
+      "offset": 11520,
+      "length": 256,
+      "entropy": 4.2677
+    },
+    {
+      "offset": 11776,
+      "length": 256,
+      "entropy": 4.4175
+    },
+    {
+      "offset": 12032,
+      "length": 256,
+      "entropy": 4.5476
+    },
+    {
+      "offset": 12288,
+      "length": 256,
+      "entropy": 4.6006
+    },
+    {
+      "offset": 12544,
+      "length": 256,
+      "entropy": 4.4169
+    },
+    {
+      "offset": 12800,
+      "length": 256,
+      "entropy": 4.5539
+    },
+    {
+      "offset": 13056,
+      "length": 256,
+      "entropy": 4.224
+    },
+    {
+      "offset": 13312,
+      "length": 256,
+      "entropy": 4.0098
+    },
+    {
+      "offset": 13568,
+      "length": 256,
+      "entropy": 4.0805
+    },
+    {
+      "offset": 13824,
+      "length": 256,
+      "entropy": 4.2985
+    },
+    {
+      "offset": 14080,
+      "length": 256,
+      "entropy": 4.4586
+    },
+    {
+      "offset": 14336,
+      "length": 256,
+      "entropy": 4.4507
+    },
+    {
+      "offset": 14592,
+      "length": 256,
+      "entropy": 4.2952
+    },
+    {
+      "offset": 14848,
+      "length": 256,
+      "entropy": 3.7005
+    },
+    {
+      "offset": 15104,
+      "length": 256,
+      "entropy": 3.5261
+    },
+    {
+      "offset": 15360,
+      "length": 256,
+      "entropy": 4.8864
+    },
+    {
+      "offset": 15616,
+      "length": 256,
+      "entropy": 4.85
+    },
+    {
+      "offset": 15872,
+      "length": 256,
+      "entropy": 5.1545
+    },
+    {
+      "offset": 16128,
+      "length": 256,
+      "entropy": 4.5131
+    },
+    {
+      "offset": 16384,
+      "length": 256,
+      "entropy": 3.7387
+    },
+    {
+      "offset": 16640,
+      "length": 256,
+      "entropy": 3.8958
+    },
+    {
+      "offset": 16896,
+      "length": 256,
+      "entropy": 3.8868
+    },
+    {
+      "offset": 17152,
+      "length": 256,
+      "entropy": 4.1123
+    },
+    {
+      "offset": 17408,
+      "length": 256,
+      "entropy": 4.2143
+    },
+    {
+      "offset": 17664,
+      "length": 256,
+      "entropy": 4.1211
+    },
+    {
+      "offset": 17920,
+      "length": 256,
+      "entropy": 3.9681
+    },
+    {
+      "offset": 18176,
+      "length": 256,
+      "entropy": 4.0644
+    },
+    {
+      "offset": 18432,
+      "length": 256,
+      "entropy": 3.7955
+    },
+    {
+      "offset": 18688,
+      "length": 256,
+      "entropy": 3.6023
+    },
+    {
+      "offset": 18944,
+      "length": 256,
+      "entropy": 4.0497
+    },
+    {
+      "offset": 19200,
+      "length": 256,
+      "entropy": 3.9173
+    },
+    {
+      "offset": 19456,
+      "length": 256,
+      "entropy": 4.2031
+    },
+    {
+      "offset": 19712,
+      "length": 256,
+      "entropy": 4.456
+    },
+    {
+      "offset": 19968,
+      "length": 256,
+      "entropy": 4.344
+    },
+    {
+      "offset": 20224,
+      "length": 256,
+      "entropy": 4.2332
+    },
+    {
+      "offset": 20480,
+      "length": 256,
+      "entropy": 4.0706
+    },
+    {
+      "offset": 20736,
+      "length": 256,
+      "entropy": 4.3227
+    },
+    {
+      "offset": 20992,
+      "length": 256,
+      "entropy": 3.9199
+    },
+    {
+      "offset": 21248,
+      "length": 256,
+      "entropy": 3.7213
+    },
+    {
+      "offset": 21504,
+      "length": 256,
+      "entropy": 3.9135
+    },
+    {
+      "offset": 21760,
+      "length": 256,
+      "entropy": 3.3722
+    },
+    {
+      "offset": 22016,
+      "length": 256,
+      "entropy": 3.1889
+    },
+    {
+      "offset": 22272,
+      "length": 256,
+      "entropy": 3.1717
+    },
+    {
+      "offset": 22528,
+      "length": 256,
+      "entropy": 2.877
+    },
+    {
+      "offset": 22784,
+      "length": 256,
+      "entropy": 3.7006
+    },
+    {
+      "offset": 23040,
+      "length": 256,
+      "entropy": 3.0631
+    },
+    {
+      "offset": 23296,
+      "length": 256,
+      "entropy": 2.8316
+    },
+    {
+      "offset": 23552,
+      "length": 256,
+      "entropy": 4.6861
+    },
+    {
+      "offset": 23808,
+      "length": 256,
+      "entropy": 2.684
+    },
+    {
+      "offset": 24064,
+      "length": 256,
+      "entropy": 2.3087
+    },
+    {
+      "offset": 24320,
+      "length": 256,
+      "entropy": 2.1067
+    },
+    {
+      "offset": 24576,
+      "length": 256,
+      "entropy": 2.1404
+    },
+    {
+      "offset": 24832,
+      "length": 256,
+      "entropy": 3.0382
+    },
+    {
+      "offset": 25088,
+      "length": 256,
+      "entropy": 4.2713
+    },
+    {
+      "offset": 25344,
+      "length": 256,
+      "entropy": 2.0648
+    },
+    {
+      "offset": 25600,
+      "length": 256,
+      "entropy": 1.9855
+    },
+    {
+      "offset": 25856,
+      "length": 256,
+      "entropy": 3.9993
+    },
+    {
+      "offset": 26112,
+      "length": 256,
+      "entropy": 3.8455
+    },
+    {
+      "offset": 26368,
+      "length": 256,
+      "entropy": 3.8531
+    },
+    {
+      "offset": 26624,
+      "length": 256,
+      "entropy": 4.2128
+    },
+    {
+      "offset": 26880,
+      "length": 256,
+      "entropy": 2.239
+    },
+    {
+      "offset": 27136,
+      "length": 256,
+      "entropy": 3.8623
+    },
+    {
+      "offset": 27392,
+      "length": 256,
+      "entropy": 3.8777
+    },
+    {
+      "offset": 27648,
+      "length": 256,
+      "entropy": 2.3451
+    },
+    {
+      "offset": 27904,
+      "length": 256,
+      "entropy": 4.8721
+    },
+    {
+      "offset": 28160,
+      "length": 256,
+      "entropy": 3.9767
+    },
+    {
+      "offset": 28416,
+      "length": 256,
+      "entropy": 2.7694
+    },
+    {
+      "offset": 28672,
+      "length": 256,
+      "entropy": 3.0414
+    },
+    {
+      "offset": 28928,
+      "length": 256,
+      "entropy": 2.958
+    },
+    {
+      "offset": 29184,
+      "length": 256,
+      "entropy": 4.4652
+    },
+    {
+      "offset": 29440,
+      "length": 256,
+      "entropy": 4.7416
+    },
+    {
+      "offset": 29696,
+      "length": 256,
+      "entropy": 3.0214
+    },
+    {
+      "offset": 29952,
+      "length": 256,
+      "entropy": 3.2176
+    },
+    {
+      "offset": 30208,
+      "length": 256,
+      "entropy": 3.3424
+    },
+    {
+      "offset": 30464,
+      "length": 256,
+      "entropy": 4.1314
+    },
+    {
+      "offset": 30720,
+      "length": 256,
+      "entropy": 4.3137
+    },
+    {
+      "offset": 30976,
+      "length": 204,
+      "entropy": 2.3914
+    }
+  ],
+  "unclaimed_ranges": [
+    {
+      "index": 0,
+      "start": 51,
+      "end": 2293,
+      "size": 2242,
+      "file": "range_0000_0x00000033_0x000008f5.bin"
+    },
+    {
+      "index": 1,
+      "start": 4141,
+      "end": 4148,
+      "size": 7,
+      "file": "range_0001_0x0000102d_0x00001034.bin"
+    },
+    {
+      "index": 2,
+      "start": 16251,
+      "end": 16258,
+      "size": 7,
+      "file": "range_0002_0x00003f7b_0x00003f82.bin"
+    },
+    {
+      "index": 3,
+      "start": 21805,
+      "end": 21812,
+      "size": 7,
+      "file": "range_0003_0x0000552d_0x00005534.bin"
+    },
+    {
+      "index": 4,
+      "start": 23139,
+      "end": 23185,
+      "size": 46,
+      "file": "range_0004_0x00005a63_0x00005a91.bin"
+    },
+    {
+      "index": 5,
+      "start": 23233,
+      "end": 23245,
+      "size": 12,
+      "file": "range_0005_0x00005ac1_0x00005acd.bin"
+    },
+    {
+      "index": 6,
+      "start": 23424,
+      "end": 23470,
+      "size": 46,
+      "file": "range_0006_0x00005b80_0x00005bae.bin"
+    },
+    {
+      "index": 7,
+      "start": 23854,
+      "end": 23861,
+      "size": 7,
+      "file": "range_0007_0x00005d2e_0x00005d35.bin"
+    },
+    {
+      "index": 8,
+      "start": 25264,
+      "end": 25271,
+      "size": 7,
+      "file": "range_0008_0x000062b0_0x000062b7.bin"
+    },
+    {
+      "index": 9,
+      "start": 25942,
+      "end": 25987,
+      "size": 45,
+      "file": "range_0009_0x00006556_0x00006583.bin"
+    },
+    {
+      "index": 10,
+      "start": 26131,
+      "end": 26145,
+      "size": 14,
+      "file": "range_0010_0x00006613_0x00006621.bin"
+    },
+    {
+      "index": 11,
+      "start": 26488,
+      "end": 26830,
+      "size": 342,
+      "file": "range_0011_0x00006778_0x000068ce.bin"
+    },
+    {
+      "index": 12,
+      "start": 27173,
+      "end": 27516,
+      "size": 343,
+      "file": "range_0012_0x00006a25_0x00006b7c.bin"
+    },
+    {
+      "index": 13,
+      "start": 27859,
+      "end": 27907,
+      "size": 48,
+      "file": "range_0013_0x00006cd3_0x00006d03.bin"
+    },
+    {
+      "index": 14,
+      "start": 28243,
+      "end": 28250,
+      "size": 7,
+      "file": "range_0014_0x00006e53_0x00006e5a.bin"
+    },
+    {
+      "index": 15,
+      "start": 29585,
+      "end": 29592,
+      "size": 7,
+      "file": "range_0015_0x00007391_0x00007398.bin"
+    },
+    {
+      "index": 16,
+      "start": 30591,
+      "end": 31180,
+      "size": 589,
+      "file": "range_0016_0x0000777f_0x000079cc.bin"
+    }
+  ],
+  "coverage": {
+    "source_bytes": 31180,
+    "raw_copy_bytes": 31180,
+    "bytes_in_recognised_mesh_spans": 27353,
+    "bytes_in_unclaimed_ranges": 3776,
+    "note": "All source bytes are retained in the .original.rss copy; unclaimed ranges are separately carved."
+  }
+}
