@@ -1,0 +1,115 @@
+{
+  "file": "SSKIDPAD.RSS",
+  "size": 127431,
+  "sha256": "d69c6af16fe3846b05cf92ad68700c5b7c8d8f40dc6157efcbd3c3e04e7335b7",
+  "original_copy": "SSKIDPAD.RSS.original",
+  "texture_reference_count": 2,
+  "unique_texture_identifiers": 2,
+  "plausible_atlas_rect_count": 2,
+  "zero_padding_after_rect_count": 2,
+  "texture_identifiers_grouped": [
+    {
+      "identifier": "Stripes3",
+      "occurrences": 1,
+      "surface_labels": [
+        "Skid Pad"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    },
+    {
+      "identifier": "t1stripe",
+      "occurrences": 1,
+      "surface_labels": [
+        "Skrim"
+      ],
+      "atlas_rects": [
+        [
+          0.0,
+          0.0,
+          0.5,
+          0.5
+        ]
+      ]
+    }
+  ],
+  "texture_references": [
+    {
+      "identifier": "Stripes3",
+      "identifier_offset": 106,
+      "surface_label": "Skid Pad",
+      "surface_label_offset": 58,
+      "gap_from_label": 48,
+      "next_string": "Pole",
+      "next_string_offset": 133,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 50 6f 6c 65 00 ff 00 00 ff 00 00 e5 e5 e5",
+      "context_start": 42,
+      "context_end": 149,
+      "nearby_dimension_candidates": []
+    },
+    {
+      "identifier": "t1stripe",
+      "identifier_offset": 224,
+      "surface_label": "Skrim",
+      "surface_label_offset": 179,
+      "gap_from_label": 45,
+      "next_string": "Post",
+      "next_string_offset": 254,
+      "post_identifier_u32_le": [
+        0,
+        0,
+        32768,
+        32768
+      ],
+      "atlas_rect_candidate_uvwh_16_16": [
+        0.0,
+        0.0,
+        0.5,
+        0.5
+      ],
+      "atlas_rect_bounds_plausible": true,
+      "post_identifier_padding_hex": "0000",
+      "binary_after_identifier_hex": "00 00 00 00 00 00 00 00 00 80 00 00 00 80 00 00 00 00 1e 00 00 50 6f 73 74 00 00 00 00 00 00 00",
+      "context_start": 163,
+      "context_end": 270,
+      "nearby_dimension_candidates": []
+    }
+  ],
+  "verified_decoded_images": [],
+  "zlib_stream_candidates": [],
+  "standard_signature_counts": {
+    "PNG": 0,
+    "JPEG": 0,
+    "BMP": 0,
+    "GIF87a": 0,
+    "GIF89a": 0,
+    "DDS": 0,
+    "PCX": 104
+  },
+  "conclusion": {
+    "verified_images_extracted": 0,
+    "zlib_streams_found": 0,
+    "texture_payload_format": "not established",
+    "note": "References are material/surface identifiers. A zlib stream is not classified as a texture without dimensions, pixel format and successful image reconstruction."
+  }
+}

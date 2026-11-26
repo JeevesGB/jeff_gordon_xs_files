@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Stripes3",
+    "offset": 106,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skid Pad"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      106
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  },
+  {
+    "name": "t1stripe",
+    "offset": 224,
+    "evidence": "surface_label_then_texture_identifier",
+    "surface_labels": [
+      "Skrim"
+    ],
+    "occurrences": 1,
+    "occurrences_at_offsets": [
+      224
+    ],
+    "asset_status": "reference_only_no_pixel_asset_found",
+    "copied_files": []
+  }
+]

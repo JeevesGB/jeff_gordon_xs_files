@@ -1,0 +1,176 @@
+ASCII STRINGS (byte offsets)
+0x00000000 [50] fRssExport Version (V1) - Tue Nov 24 20:28:37 1998
+0x0000003a [8] Skid Pad
+0x0000006a [8] Stripes3
+0x00000085 [4] Pole
+0x000000b3 [5] Skrim
+0x000000e0 [8] t1stripe
+0x000000fe [4] Post
+0x000001ea [4] Pole
+0x00000a0f [3] ./O
+0x00000a6f [3] v{;
+0x00000a9f [3] }QR
+0x00000af0 [14] #=SkidPad[0-0]
+0x00000b4a [8] Skid Pad
+0x00000bf7 [14] #=SkidPad[0-1]
+0x00000c39 [3] XT 
+0x00000c91 [3] eUH
+0x00000c9d [3] 1e6
+0x00000d7d [3] =w'
+0x00000de1 [3] OIa
+0x00000e95 [3] c~p
+0x00000eb5 [8] Skid Pad
+0x00002592 [14] #=SkidPad[0-2]
+0x000025bc [3] XT 
+0x00002748 [3] <w'
+0x00002820 [8] Skid Pad
+0x00003d1d [14] #=SkidPad[0-3]
+0x00003d77 [8] Skid Pad
+0x00003e24 [14] #=SkidPad[1-0]
+0x00003e52 [3] XT 
+0x00003e96 [3] 4e6
+0x00003ea2 [3] hUH
+0x00003eae [3] !0'
+0x00003f4a [3] SIa
+0x00003fde [3] <w'
+0x0000409a [3] h~p
+0x000040b2 [8] Skid Pad
+0x000055af [14] #=SkidPad[1-1]
+0x000055f1 [3] XT 
+0x00005649 [3] XT 
+0x00005691 [3] eUH
+0x0000569d [3] 1e6
+0x00005741 [3] 4e6
+0x0000574d [3] hUH
+0x00005759 [3] !0'
+0x00005789 [3] X4O
+0x00005871 [3] X4O
+0x000058a9 [3] =w'
+0x00005931 [3] <w'
+0x00005a41 [3] T 9
+0x00005a45 [3] Q 9
+0x00005b19 [8] Skid Pad
+0x000093b6 [14] #=SkidPad[1-2]
+0x0000944c [3] XT 
+0x00009494 [3] fUH
+0x000094a0 [3] 3e6
+0x00009674 [3] X4O
+0x00009708 [3] G%!
+0x0000971c [3] <w'
+0x00009860 [3] R 9
+0x00009950 [8] Skid Pad
+0x0000d37d [14] #=SkidPad[1-3]
+0x0000d413 [3] fUH
+0x0000d41f [3] 3e6
+0x0000d533 [3] PIa
+0x0000d537 [3] &KP
+0x0000d5f3 [3] d~p
+0x0000d5f7 [3] ltZ
+0x0000d617 [8] Skid Pad
+0x0000eb64 [14] #=SkidPad[2-0]
+0x0000ebaa [3] ZT 
+0x0000ecee [3] =w'
+0x0000ee22 [8] Skid Pad
+0x000104ff [14] #=SkidPad[2-1]
+0x00010545 [3] ZT 
+0x00010695 [3] 4e6
+0x000106a1 [3] hUH
+0x000106ad [3] !0'
+0x000106dd [3] Y4O
+0x00010845 [3] =w'
+0x00010895 [3] H%!
+0x000109c5 [3] T 9
+0x00010ab1 [8] Skid Pad
+0x0001461e [14] #=SkidPad[2-2]
+0x0001496c [3] G%!
+0x00014970 [3] G%!
+0x00014bf8 [3] G%!
+0x00014c54 [3] H%!
+0x00014c60 [8] Skid Pad
+0x00018d6d [14] #=SkidPad[2-3]
+0x00018e97 [3] &KP
+0x00019017 [3] ltZ
+0x0001902b [8] Skid Pad
+0x0001a708 [14] #=SkidPad[3-0]
+0x0001a762 [8] Skid Pad
+0x0001a80f [14] #=SkidPad[3-1]
+0x0001a885 [3] 4e6
+0x0001a891 [3] hUH
+0x0001a89d [3] !0'
+0x0001a935 [3] &KP
+0x0001a939 [3] UIa
+0x0001aa85 [3] ltZ
+0x0001aa89 [3] i~p
+0x0001aa9d [8] Skid Pad
+0x0001bf9a [14] #=SkidPad[3-2]
+0x0001c150 [3] &KP
+0x0001c228 [3] ltZ
+0x0001c258 [8] Skid Pad
+0x0001d935 [14] #=SkidPad[3-3]
+0x0001d98f [8] Skid Pad
+0x0001da3c [11] #Skrim[0-0]
+0x0001da73 [3] c~p
+0x0001da7f [3] c~p
+0x0001da93 [3] h~p
+0x0001da9f [3] h~p
+0x0001daab [5] Skrim
+0x0001dbf5 [11] #Skrim[0-1]
+0x0001dc50 [3] c~p
+0x0001dc5c [3] c~p
+0x0001dc7c [5] Skrim
+0x0001de66 [11] #Skrim[0-2]
+0x0001ded5 [5] Skrim
+0x0001e01f [11] #Skrim[0-3]
+0x0001e052 [3] d~p
+0x0001e056 [3] ltZ
+0x0001e05e [3] d~p
+0x0001e062 [3] ltZ
+0x0001e08e [5] Skrim
+0x0001e1d8 [11] #Skrim[1-0]
+0x0001e1ff [3] h~p
+0x0001e223 [3] h~p
+0x0001e247 [5] Skrim
+0x0001e391 [11] #Skrim[1-3]
+0x0001e3c8 [3] ltZ
+0x0001e3d4 [3] ltZ
+0x0001e3e8 [3] d~p
+0x0001e3ec [3] ltZ
+0x0001e3f4 [3] d~p
+0x0001e3f8 [3] ltZ
+0x0001e418 [5] Skrim
+0x0001e602 [11] #Skrim[2-0]
+0x0001e635 [3] h~p
+0x0001e641 [3] h~p
+0x0001e689 [5] Skrim
+0x0001e873 [11] #Skrim[2-3]
+0x0001e89e [3] ltZ
+0x0001e8c2 [3] ltZ
+0x0001e8e2 [5] Skrim
+0x0001ea2c [11] #Skrim[3-0]
+0x0001ea83 [3] ltZ
+0x0001ea87 [3] i~p
+0x0001ea8f [3] ltZ
+0x0001ea93 [3] i~p
+0x0001ea9b [5] Skrim
+0x0001ebe5 [11] #Skrim[3-1]
+0x0001ec0c [3] ltZ
+0x0001ec10 [3] i~p
+0x0001ec30 [3] ltZ
+0x0001ec34 [3] i~p
+0x0001ec54 [5] Skrim
+0x0001ed9e [11] #Skrim[3-2]
+0x0001edc5 [3] ltZ
+0x0001ede9 [3] ltZ
+0x0001ee0d [3] ltZ
+0x0001ee11 [3] i~p
+0x0001ee19 [3] ltZ
+0x0001ee1d [3] i~p
+0x0001ee25 [5] Skrim
+0x0001f00f [11] #Skrim[3-3]
+0x0001f042 [3] ltZ
+0x0001f04e [3] ltZ
+0x0001f06a [3] ltZ
+0x0001f076 [3] ltZ
+0x0001f07e [5] Skrim
+
+UTF-16LE STRINGS (byte offsets)
