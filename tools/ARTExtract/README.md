@@ -22,6 +22,12 @@ at textures/<name>.png (copied from the ART's decoded PNGs). <name>.all_meshes.s
 holds every linked mesh in one file. The mapping rules are in the comment block above
 parse_material_table(); they were verified visually on the car/wheel models only.
 
+## Usage 
+```
+python rss_extract.py GAME.ART GAME.ART_out
+python rss_extract.py Gamel.art Gamel.art_out
+```
+
 ---
 
 ## .ART container + Q/q texture decoding.
