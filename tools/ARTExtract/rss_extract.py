@@ -1,3 +1,28 @@
+#!/usr/bin/env python3
+"""
+Forensic extractor for fRssExport (V1) .RSS files.
+
+The format is only partially understood. This tool therefore never treats an
+unrecognised byte range as disposable: it preserves every source file verbatim,
+records byte offsets, extracts text in several encodings, identifies common
+embedded-file signatures, and optionally carves unparsed ranges. The OBJ parser
+is heuristic and is reported separately from the lossless extraction.
+
+Input may also be a game .ART archive (e.g. GAME.ART, Gamel.art). The RSS files
+are unpacked from it verbatim, and its Q/q texture entries are decoded to PNG
+(textures_png/, art_texture_manifest.json) and matched by name to each RSS file's
+texture identifiers. The ART/texture layouts are reverse-engineered; see the
+comment block above is_art().
+
+Each RSS file's material table (how textures map onto models) is also parsed. When it
+parses, the texture names come from it, material_table is written into the report, and
+for every mesh with a recovered vertex array a textured OBJ (*.textured.obj, with UVs
+already transformed into the full texture) is written to obj_textured/ (plain OBJs go to obj/, mesh JSON to json/,
+face blocks to bin/); <name>.mtl and textures/ stay in the top folder and the MTL points
+at textures/<name>.png (copied from the ART's decoded PNGs). <name>.all_meshes.setN.textured.obj
+holds every linked mesh in one file. The mapping rules are in the comment block above
+parse_material_table(); they were verified visually on the car/wheel models only.
+"""
 from __future__ import annotations
 import argparse, csv, hashlib, json, math, os, re, shutil, struct, zipfile, zlib
 from pathlib import Path
@@ -40,6 +65,7 @@ def parse_mesh_block(data, pos):
 
 def find_meshes(data):
     found = []
+    # Names are NUL-terminated printable labels immediately preceding candidate blocks.
     for m in re.finditer(rb"[A-Za-z][A-Za-z0-9_ /.-]{1,63}\x00", data):
         block = parse_mesh_block(data, m.end())
         if not block: continue
@@ -47,6 +73,7 @@ def find_meshes(data):
         block["name_offset"] = m.start()
         block["max_index"] = max(v[0] for f in block["faces"] for v in f[0])
         found.append(block)
+    # Recover possible vertex arrays preceding each named face block.
     previous_end = 0
     for b in found:
         b["vertex_sets"] = []
@@ -92,6 +119,7 @@ def runs_ascii(data, minlen=3):
             for m in re.finditer(rb"[\x20-\x7e]{"+str(minlen).encode()+rb",}",data)]
 def runs_utf16(data, minchars=3):
     out=[]
+    # Scan both alignments; ASCII-range UTF-16LE strings.
     for parity in (0,1):
         pattern=rb"(?:[\x20-\x7e]\x00){"+str(minchars).encode()+rb",}"
         for m in re.finditer(pattern,data[parity:]):
@@ -139,6 +167,7 @@ def _valid_png(data, off):
     if data[off+12:off+16] != b"IHDR": return None
     w,h=struct.unpack_from(">II",data,off+16)
     if not (1<=w<=16384 and 1<=h<=16384): return None
+    # Walk chunks and require a correctly terminated PNG. CRCs are checked too.
     import zlib
     pos=off+8
     while pos+12<=len(data):
@@ -156,7 +185,8 @@ def _valid_gif(data, off):
     if data[off:off+6] not in (b"GIF87a",b"GIF89a") or off+13>len(data): return None
     w,h=struct.unpack_from("<HH",data,off+6)
     if not (1<=w<=16384 and 1<=h<=16384): return None
-
+    # Find trailer; GIF sub-block structure is complex, so require a plausible
+    # trailer after a bounded scan and preserve the complete candidate.
     end=data.find(b";",off+13,min(len(data),off+64*1024*1024))
     return end+1-off if end>=0 else None
 
@@ -175,14 +205,16 @@ def _valid_dds(data, off):
     if data[off:off+4]!=b"DDS " or off+128>len(data): return None
     size,height,width=struct.unpack_from("<III",data,off+4)
     if size!=124 or not(1<=width<=16384 and 1<=height<=16384): return None
-
+    # DDS data size varies with compression/mipmaps. Bound using next known
+    # signature/file end; this is a conservative container carve.
     return None
 
 def _valid_jpeg(data, off):
     if data[off:off+2] != b"\xff\xd8" or off+4 > len(data): return None
     pos=off+2
     saw_frame=False
-
+    # JPEG markers are always introduced by 0xFF. This strict check rejects
+    # the many incidental FF D8 byte pairs in the RSS geometry/compressed data.
     for _ in range(10000):
         if pos>=len(data) or data[pos] != 0xff: return None
         while pos<len(data) and data[pos]==0xff: pos+=1
@@ -217,7 +249,8 @@ def _valid_pcx(data, off):
     if ver not in (0,2,3,4,5) or enc not in (0,1) or bpp not in (1,2,4,8): return None
     if not(1<=w<=8192 and 1<=hh<=8192 and planes in (1,2,3,4) and 0<bpl<=8192): return None
     if bpl<((w*bpp+7)//8): return None
-
+    # PCX is scanline RLE. Decode exactly the expected number of bytes to
+    # establish the end of the image; leave any trailing palette in the file.
     need=bpl*planes*hh; pos=off+128; produced=0
     while pos<len(data) and produced<need:
         b=data[pos]; pos+=1
@@ -232,6 +265,7 @@ def _valid_pcx(data, off):
     return pos-off
 
 def extract_embedded_images(data, outdir, min_size=32):
+    """Carve only image files with internally plausible headers/boundaries."""
     out=Path(outdir)
     validators=[
         ("png","PNG",lambda d,o:_valid_png(d,o)),
@@ -254,6 +288,7 @@ def extract_embedded_images(data, outdir, min_size=32):
                 length=validator(data,off)
                 if length and length>=min_size:
                     candidates.append({"offset":off,"length":length,"format":kind,"extension":ext})
+    # Remove overlapping detections; retain the larger validated object.
     candidates.sort(key=lambda x:(x["offset"],-x["length"]))
     selected=[]
     for c in candidates:
@@ -272,6 +307,7 @@ def extract_embedded_images(data, outdir, min_size=32):
 
 
 def nul_strings(data):
+    """Return NUL-terminated printable strings with exact source offsets."""
     out=[]
     for m in re.finditer(rb'[\x20-\x7e]{2,100}\x00', data):
         value=m.group()[:-1].decode("ascii","replace")
@@ -279,7 +315,13 @@ def nul_strings(data):
     return out
 
 def discover_texture_names(data):
-
+    """
+    The supplied fRssExport V1 files store texture identifiers in their
+    leading material/surface table; the identifiers are not standard image
+    payloads. In this table, a short identifier normally follows its surface
+    label by roughly 35-65 bytes. Restricting this to the leading metadata
+    area avoids mistaking random geometry bytes for names.
+    """
     ss=nul_strings(data)
     found=[]
     for i,x in enumerate(ss):
@@ -292,7 +334,9 @@ def discover_texture_names(data):
         gap=x["offset"]-prev["offset"]
         if not 35 <= gap <= 65:
             continue
-
+        # Texture IDs follow a surface/material label. Reject short binary
+        # fragments and common surface labels that are themselves followed
+        # by another identifier.
         if len(prev["value"]) < 4 or not re.search(r'[A-Za-z]',prev["value"]):
             continue
         if 35 <= (ss[i+1]["offset"]-x["offset"]) <= 65 if i+1<len(ss) else False:
@@ -304,6 +348,7 @@ def discover_texture_names(data):
             "surface_labels":[prev["value"]],
             "occurrences":1
         })
+    # Consolidate repeated references but retain all offsets and surface labels.
     unique={}
     for x in found:
         key=x["name"].casefold()
@@ -318,6 +363,7 @@ def discover_texture_names(data):
 
 
 def build_asset_index(paths):
+    """Index available loose/archived assets by case-insensitive filename stem."""
     index={}
     for p in paths:
         p=Path(p)
@@ -327,7 +373,11 @@ def build_asset_index(paths):
     return index
 
 def write_texture_manifest(refs, texture_dir, asset_index=None):
-
+    """
+    Copy matching external texture assets. If the archive only contains RSS
+    references, still write a manifest and per-reference notes so the texture
+    folder explains exactly what is missing instead of appearing empty.
+    """
     td=Path(texture_dir)
     td.mkdir(parents=True,exist_ok=True)
     asset_index=asset_index or {}
@@ -386,6 +436,21 @@ def write_texture_manifest(refs, texture_dir, asset_index=None):
         encoding="utf-8")
     return records
 
+
+
+# ---------------------------------------------------------------------------
+# .ART container + Q/q texture decoding.
+# Reverse-engineered from Gamel.art / GAME.ART; not from documentation.
+#
+# Container: 32-byte header slot ("Art\0", u32 @0x18 = entry count + 1,
+#   u32 @0x1C = file size), then (count-1) 32-byte directory entries:
+#   23-byte NUL-padded name, 1 type byte, u32 offset, u32 size.
+#   Type 0x44 ('D') entries are the .RSS files and JGRACING.INI; type 0x58 ('X')
+#   entries are textures.
+# Texture: byte0 'Q' (0x51) = GIF-style LZW pixels, 'q' (0x71) = raw pixels;
+#   u16 x, u16 y (meaning unverified), u16 width, u16 height; then w*h 8-bit
+#   palette indices; the last 768 bytes are a 256-entry RGB palette.
+# ---------------------------------------------------------------------------
 def is_art(path):
     try:
         with open(path, "rb") as f: return f.read(4) == b"Art\x00"
@@ -412,6 +477,7 @@ def read_art_directory(data):
     return entries, warnings
 
 def _lzw_decode(data, start, minbits=8):
+    """GIF-style LZW: LSB-first codes, clear=2^minbits, EOI=clear+1, widths 9..12."""
     clear = 1 << minbits; eoi = clear + 1
     size = minbits + 1; nxt = eoi + 1
     table = {i: bytes([i]) for i in range(clear)}
@@ -438,6 +504,7 @@ def _lzw_decode(data, start, minbits=8):
         out += ent; prev = code
 
 def decode_texture(blob):
+    """Decode a Q/q texture blob. Returns dict; raises ValueError if it does not validate."""
     if len(blob) < 9 + 768: raise ValueError("too short for header + palette")
     kind = blob[0]
     x, y, w, h = struct.unpack_from("<4H", blob, 1)
@@ -461,7 +528,12 @@ def _png_rgb(w, h, rgb):
             + chunk(b"IDAT", zlib.compress(raw, 9)) + chunk(b"IEND", b""))
 
 def unpack_art(art_path, unpack_dir, png_dir):
-
+    """
+    Split an ART archive. Type 'D' entries (RSS/INI) go to unpack_dir verbatim;
+    texture entries are decoded to PNG in png_dir. Entries that fail validation are
+    recorded in the returned manifest, never silently dropped.
+    Returns (rss_paths, texture_manifest, warnings).
+    """
     data = Path(art_path).read_bytes()
     entries, warnings = read_art_directory(data)
     unpack_dir, png_dir = Path(unpack_dir), Path(png_dir)
@@ -469,6 +541,9 @@ def unpack_art(art_path, unpack_dir, png_dir):
     rss_paths, manifest, used = [], [], {}
     for e in entries:
         blob = data[e["offset"]:e["offset"]+e["size"]]
+        # Keep the archive's own name; only replace path separators, characters illegal on
+        # Windows, and control characters. (A stricter whitelist would turn e.g. "T6BBP&DP" into
+        # "T6BBP_DP", which no longer matches the name an RSS file refers to.)
         safe = re.sub(r'[<>:"/\\|?*\x00-\x1f]+', "_", e["name"]).strip(" .") or f"entry{e['index']}"
         if e["type"] == 0x44:
             dest = unpack_dir / safe
@@ -493,6 +568,19 @@ def unpack_art(art_path, unpack_dir, png_dir):
         manifest.append(rec)
     return sorted(rss_paths), manifest, warnings
 
+# ---------------------------------------------------------------------------
+# Material table = how textures are mapped to models.
+# Reverse-engineered from Gamel.art / GAME.ART (all 42 RSS files parse); see TEXTURE_MAPPING.md.
+#
+# The table follows the header line, before any mesh data. Record layout:
+#   label\0  body[39]  [texture\0 rect[4 x u32]  (leaf surfaces only)]  nchild:u16   + nchild child records
+#   body[6:9] is always e5 e5 e5 (used as the record signature); body[0:6] looks like colours.
+#   rect = u, v, w, h as 1.15 fixed point (/32768): a sub-rectangle of the texture, v from the TOP.
+# A mesh block is tied to a top-level group by NAME; a face's u16 flag is the index of the group's
+# child surface (0 for a group that is itself a leaf). Face-vertex UVs are 16.16, local to the
+# surface rect, v pointing UP:
+#   texel_x = (rect.u + u*rect.w) * tex_w      texel_y = (rect.v + (1-v)*rect.h) * tex_h
+# ---------------------------------------------------------------------------
 _MAT_LABEL = re.compile(rb"[A-Za-z0-9][\x20-\x7e]{0,60}\x00")
 
 def _material_record_at(d, p):
@@ -512,6 +600,7 @@ def _material_record_at(d, p):
         return None
 
 def parse_material_table(d):
+    """Return (groups, end_offset). Raises ValueError if no valid table is found."""
     p = d.find(b"\n") + 1
     start = next((s for s in range(p, p + 32) if _material_record_at(d, s)), None)
     if start is None: raise ValueError("no material records found")
@@ -533,6 +622,7 @@ def material_surface(group, flag):
     return group if flag == 0 else None
 
 def texture_refs_from_table(groups):
+    """Texture references in the shape write_texture_manifest() expects (authoritative, no guessing)."""
     uniq = {}
     for g in groups:
         for s in (g["children"] or [g]):
@@ -546,6 +636,7 @@ def texture_refs_from_table(groups):
     return list(uniq.values())
 
 def material_names(groups):
+    """Unique MTL material name per surface record, keyed by id(record)."""
     names, used = {}, {}
     for g in groups:
         for s in (g["children"] or [g]):
@@ -556,6 +647,8 @@ def material_names(groups):
     return names
 
 def write_mtl(path, groups, mat_names, tex_files):
+    """tex_files: texture name (casefold) -> path relative to the .mtl. Untextured/unresolved surfaces
+    get a flat colour from body[0:3] (an inference: e.g. the red 'Pole' surface is ff0000)."""
     lines = ["# Materials from the RSS material table (one per surface).",
              "# Texture coordinates in the OBJ files are already transformed into the full texture;",
              "# see TEXTURE_MAPPING.md for the mapping."]
@@ -571,6 +664,8 @@ def write_mtl(path, groups, mat_names, tex_files):
     Path(path).write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 def write_textured_obj(path, mtl_name, items, mat_names):
+    """items: [(object_name, vertices, faces, group)]. Returns the number of faces whose flag had no surface
+    (those are written with their raw local UVs and no material)."""
     lines = [f"# Textured mesh(es) decoded heuristically from an fRssExport V1 file", f"mtllib {mtl_name}"]
     uvmap, uvs, voff, unresolved = {}, [], 0, 0
     body = []
@@ -588,7 +683,7 @@ def write_textured_obj(path, mtl_name, items, mat_names):
                 u, v = fixed16(attrs[3]), fixed16(attrs[4])
                 if surf is not None and surf["rect"]:
                     ru, rv, rw, rh = surf["rect"]
-                    u, v = ru + u * rw, 1.0 - (rv + (1.0 - v) * rh)     
+                    u, v = ru + u * rw, 1.0 - (rv + (1.0 - v) * rh)      # OBJ v points up
                 key = (round(u, 7), round(v, 7))
                 if key not in uvmap: uvmap[key] = len(uvs) + 1; uvs.append(key)
                 toks.append(f"{voff + idx + 1}/{uvmap[key]}")
@@ -604,10 +699,15 @@ def analyse(path, outdir, carve=True, hex_dump=False, texture_min_size=32, asset
     data=Path(path).read_bytes()
     out=Path(outdir); out.mkdir(parents=True,exist_ok=True)
     base=Path(path).stem
+    # Tidy layout: one sub-folder per kind of file; the .mtl and textures/ stay at the top so the
+    # textured OBJs (in obj_textured/) reach them through "../".
+    d_obj,d_tex_obj,d_json,d_bin=(out/n for n in ("obj","obj_textured","json","bin"))
+    # The raw copy is the guarantee that no source byte is lost.
     (out/f"{base}.original.rss").write_bytes(data)
     nl=data.find(b"\n"); header_end=nl+1 if nl>=0 else 0
     header=data[:nl if nl>=0 else min(len(data),256)].decode("cp1252","replace").rstrip("\r")
-
+    # Material table (texture mapping). Authoritative texture names come from here; the older
+    # heuristic string scan is only the fallback when no table can be parsed.
     try:
         groups,table_end=parse_material_table(data); table_error=None
     except ValueError as err:
@@ -637,19 +737,23 @@ def analyse(path, outdir, carve=True, hex_dump=False, texture_min_size=32, asset
         if b.get("vertex_span"):
             mesh_spans.append(tuple(b["vertex_span"]))
         for k,verts in enumerate(b["vertex_sets"]):
-            write_obj(out/f"{base}.mesh{i:03d}.{name}.set{k}.obj",b["name"],verts,b["faces"])
+            d_obj.mkdir(exist_ok=True); write_obj(d_obj/f"{base}.mesh{i:03d}.{name}.set{k}.obj",b["name"],verts,b["faces"])
         grp=group_by_label.get(b["name"])
         if groups is not None:
             link={"mesh_index":i,"name":b["name"],"has_vertex_array":bool(b["vertex_sets"]),
                   "material_group_found":grp is not None,"faces_without_surface":None}
             if grp is not None and b["vertex_sets"]:
                 for k,verts in enumerate(b["vertex_sets"]):
-                    fn=f"{base}.mesh{i:03d}.{name}.set{k}.textured.obj"
-                    miss=write_textured_obj(out/fn,f"{base}.mtl",[(b["name"],verts,b["faces"],grp)],mat_names)
+                    fn=f"obj_textured/{base}.mesh{i:03d}.{name}.set{k}.textured.obj"
+                    d_tex_obj.mkdir(exist_ok=True)
+                    miss=write_textured_obj(out/fn,f"../{base}.mtl",[(b["name"],verts,b["faces"],grp)],mat_names)
                     textured_files.append(fn); link["faces_without_surface"]=miss
             mesh_links.append(link)
-        (out/f"{base}.mesh{i:03d}.face_block.bin").write_bytes(data[b["start"]:b["end"]])
-
+        # Exact binary records are also preserved independently of parser confidence.
+        d_bin.mkdir(exist_ok=True); (d_bin/f"{base}.mesh{i:03d}.face_block.bin").write_bytes(data[b["start"]:b["end"]])
+        # Preserve every decoded face attribute. These fields may contain
+        # material/texture indices, flags or engine-specific parameters;
+        # their meanings are deliberately not guessed.
         face_meta=[]
         for face_index,(vertices,flag,extra) in enumerate(b["faces"]):
             face_meta.append({
@@ -661,7 +765,7 @@ def analyse(path, outdir, carve=True, hex_dump=False, texture_min_size=32, asset
                              "unit_vector_x0p5_fixed16":[fixed16(attrs[0]),fixed16(attrs[1]),fixed16(attrs[2])]}
                             for idx,attrs in vertices]
             })
-        (out/f"{base}.mesh{i:03d}.{name}.mesh_data.json").write_text(
+        d_json.mkdir(exist_ok=True); (d_json/f"{base}.mesh{i:03d}.{name}.mesh_data.json").write_text(
             json.dumps({"mesh_name":b["name"],"header_words":list(b["hdr"]),
                         "face_records":face_meta},indent=2),encoding="utf-8")
     gaps=complement_ranges(len(data),[(0,header_end)]+mesh_spans)
@@ -675,12 +779,14 @@ def analyse(path, outdir, carve=True, hex_dump=False, texture_min_size=32, asset
     else:
         gap_records=[{"index":i,"start":s,"end":e,"size":e-s} for i,(s,e) in enumerate(gaps)]
     if groups:
+        # One combined file per vertex-array "pose" with every linked mesh (LODs overlap; hide the ones you don't want).
         linked=[(i,b,group_by_label[b["name"]]) for i,b in enumerate(meshes) if b["vertex_sets"] and b["name"] in group_by_label]
         for k in range(max((len(b["vertex_sets"]) for _,b,_ in linked),default=0)):
             items=[(f"{b['name']}_mesh{i:03d}",b["vertex_sets"][k],b["faces"],g)
                    for i,b,g in linked if len(b["vertex_sets"])>k]
-            fn=f"{base}.all_meshes.set{k}.textured.obj"
-            write_textured_obj(out/fn,f"{base}.mtl",items,mat_names); textured_files.append(fn)
+            fn=f"obj_textured/{base}.all_meshes.set{k}.textured.obj"
+            d_tex_obj.mkdir(exist_ok=True)
+            write_textured_obj(out/fn,f"../{base}.mtl",items,mat_names); textured_files.append(fn)
     material_table=None if groups is None else {
         "table_end_offset":table_end,"group_count":len(groups),
         "surface_count":sum(len(g["children"]) or 1 for g in groups),
@@ -740,6 +846,8 @@ def main():
     inputs=[]
     art_mode=target.is_file() and is_art(target)
     if art_mode:
+        # ART archive: RSS/INI entries are unpacked verbatim, textures are decoded to PNG.
+        # The PNGs then feed the normal texture-manifest step below (matched by name).
         inputs,tex_manifest,art_warnings=unpack_art(target,out/"_art_contents",out/"textures_png")
         for msg in art_warnings: print(f"warning: {msg}")
         (out/"art_texture_manifest.json").write_text(json.dumps(tex_manifest,indent=2,ensure_ascii=False),encoding="utf-8")
@@ -752,6 +860,7 @@ def main():
         with zipfile.ZipFile(target) as z:
             for info in z.infolist():
                 if info.is_dir(): continue
+                # Prevent ZIP path traversal; only extract files inside the output tree.
                 dest=(unpack/info.filename).resolve()
                 if unpack.resolve() not in dest.parents and dest != unpack.resolve():
                     raise ValueError(f"Unsafe ZIP member path: {info.filename}")
