@@ -1,50 +1,32 @@
-# ARTExtract 
+# ARTExtract
 
-Forensic extractor for fRssExport (V1) .RSS files.
+Extractor for fRssExport (V1) .RSS files and the game's .ART archives.
 
-The format is only partially understood. This tool therefore never treats an
-unrecognised byte range as disposable: it preserves every source file verbatim,
-records byte offsets, extracts text in several encodings, identifies common
-embedded-file signatures, and optionally carves unparsed ranges. The OBJ parser
-is heuristic and is reported separately from the lossless extraction.
+Input may be a game .ART archive (GAME.ART, Gamel.art), a single .RSS, a folder or a ZIP. RSS files are unpacked
+verbatim, textures (Q/q entries) are decoded to PNG, and every RSS file is parsed **exactly as the game loads it**
+(`walk_objects`, written from the decompiled loader; it reads all 42 RSS files of both archives to the last byte).
+The old heuristic mesh scan is only a fallback. File layout: `RSS_FORMAT.md`. Texture mapping: `TEXTURE_MAPPING.md`.
 
-Input may also be a game .ART archive (e.g. GAME.ART, Gamel.art). The RSS files
-are unpacked from it verbatim, and its Q/q texture entries are decoded to PNG
-(textures_png/, art_texture_manifest.json) and matched by name to each RSS file's
-texture identifiers. The ART/texture layouts are reverse-engineered; see the
-comment block above is_art().
-
-Each RSS file's material table (how textures map onto models) is also parsed. When it
-parses, the texture names come from it, material_table is written into the report, and
-for every mesh with a recovered vertex array a textured OBJ (*.textured.obj, with UVs
-already transformed into the full texture) is written next to <name>.mtl; the MTL points
-at textures/<name>.png (copied from the ART's decoded PNGs). <name>.all_meshes.setN.textured.obj
-holds every linked mesh in one file. The mapping rules are in the comment block above
-parse_material_table(); they were verified visually on the car/wheel models only.
-
-## Usage 
+## Usage
 ```
 python rss_extract.py GAME.ART GAME.ART_out
-python rss_extract.py Gamel.art Gamel.art_out
+python rss_extract.py Gamel.art Gamel.art_out [--metres] [--no-carve] [--asset-root DIR]
+python rss_preview.py ALIEN.RSS GAME.ART_out/textures_png alien.png --view iso      # software-rendered check (needs numpy, Pillow)
 ```
+Track models have their own tool: `..\TrackExporter`.
 
----
-
-## .ART container + Q/q texture decoding.
-
-### Container: 
- 32-byte header slot ("Art\0", u32 @0x18 = entry count + 1,
-   u32 @0x1C = file size), then (count-1) 32-byte directory entries:
-   23-byte NUL-padded name, 1 type byte, u32 offset, u32 size.
-   Type 0x44 ('D') entries are the .RSS files and JGRACING.INI; type 0x58 ('X')
-   entries are textures.
-### Texture: 
-byte0 'Q' (0x51) = GIF-style LZW pixels, 'q' (0x71) = raw pixels;
-u16 x, u16 y (meaning unverified), u16 width, u16 height; then w*h 8-bit
-palette indices; the last 768 bytes are a 256-entry RGB palette.
+## Output per RSS file (`<out>/<NAME>/`)
+```
+<NAME>.original.rss, .report.json, .strings.txt, .mtl      textures/   unclaimed_ranges/
+obj/            plain OBJ per submesh and pose (v, vt, vn)
+obj_textured/   textured OBJ per submesh + <NAME>.all_meshes.setN.textured.obj  (mtllib ../<NAME>.mtl)
+json/           per-submesh face data        bin/   raw submesh bytes        obj/*.driving_line.*.obj  (type-1 "dl" objects)
+```
+Positions are in the game's units (inches, file Z-up); `--metres` writes metres. Normals are real (vn); UVs are mapped into
+the full texture. Earlier versions of this script read the wrong words as UVs: re-export anything made with them.
 
 ## Material table = how textures are mapped to models.
-#### Reverse-engineered from Gamel.art / GAME.ART (all 42 RSS files parse); see TEXTURE_MAPPING.md.
+#### Reverse-engineered from the game's loader and verified on Gamel.art / GAME.ART (all 42 RSS files); see TEXTURE_MAPPING.md.
 
 The table follows the header line, before any mesh data. 
 

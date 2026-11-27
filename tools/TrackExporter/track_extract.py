@@ -21,11 +21,19 @@ Not exported: per-vertex colours (some SFUTURE surfaces), transparency (palette 
 """
 import argparse, json, re, shutil, struct, sys, tempfile
 from pathlib import Path
+import importlib.util
 _here = Path(__file__).resolve().parent
-for _d in (_here, _here.parent / "ARTExtract"):            # rss_extract.py next to this file, or in tools/ARTExtract
-    if (_d / "rss_extract.py").exists(): sys.path.insert(0, str(_d)); break
-else: sys.exit("rss_extract.py not found next to this script or in ..\\ARTExtract")
-import rss_extract as R
+R, _old = None, []
+for _d in (_here, _here.parent / "ARTExtract"):            # rss_extract.py beside this script, or in ../ARTExtract
+    _f = _d / "rss_extract.py"
+    if not _f.exists(): continue
+    _spec = importlib.util.spec_from_file_location("rss_extract", _f); _m = importlib.util.module_from_spec(_spec)
+    sys.modules["rss_extract"] = _m; _spec.loader.exec_module(_m)
+    if hasattr(_m, "walk_objects"): R = _m; break          # the version with the exact RSS walker
+    _old.append(str(_f))
+if R is None:
+    sys.exit("No usable rss_extract.py found. These are too old (no walk_objects): " + ("; ".join(_old) or "none found")
+             + "\nReplace them with the newer rss_extract.py (rss_extract_exact.py).")
 
 def safe(s): return re.sub(r"[^A-Za-z0-9_.-]+", "_", s).strip("_") or "unnamed"
 

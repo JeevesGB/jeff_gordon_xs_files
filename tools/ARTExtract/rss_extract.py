@@ -40,6 +40,113 @@ def fixed16(v):
     """16.16 fixed point. Accepts the raw u32 word and treats it as signed (two's complement)."""
     return (v - 4294967296 if v >= 2147483648 else v) / 65536.0
 
+# ---------------------------------------------------------------------------------------------
+# Exact object walker, written from the game's own loader (gfx3Dload.c: FUN_00447ff0 / 00447930 /
+# 00447270 / 00447dd0). Verified: it consumes all 42 RSS files of GAME.ART and Gamel.art to the last byte.
+#   header line \n | u16 version | 3 bytes | u16 ngroups | material table | u16 nobjects | objects
+#   object  : u8 type, name\0, parent\0, then
+#     type 0 (mesh): [v>3] u32 flags, 6*u32 transform (read then DISCARDED by the game), [v>4] u16 n + n*24 bytes,
+#                    [v>=4] u16 nsub (else 1), nsub submeshes
+#       submesh: [v>=4] u32 flags, u32 radius; [v>=3] u16 poses (else 1); u16 nverts;
+#                poses*nverts*3*i32 positions (game: x=-a*12/32768, z=-b*12/32768, y=c*12/32768, i.e. inches, file is Z-up);
+#                material-group name\0; u16 nfaces; u8 has_colour;
+#                per face: 3*u32 (ignored by the game), [v>=2] u16 nv (else 3),
+#                          nv * (u16 index, 3*i32 normal (1.15), 2*i32 UV (16.16, game uses v=1-v), [3 bytes rgb if has_colour]),
+#                          u16 surface (game: index modulo the group's child count)
+#     type 1 ("dl" driving line): 6*u32 transform (discarded), u16 nsets, each: u16 n + n*3*i32 points
+# Not known: the use of the extra [v>4] entries, 'poses' (probably animation/morph frames), the face winding table at 0x4653c8.
+POS_SCALE = 12 / 32768          # file units -> game units (inches). --metres multiplies by 0.0254.
+
+class _Rd:
+    def __init__(s, d, p): s.d, s.p = d, p
+    def u8(s):  v = s.d[s.p]; s.p += 1; return v
+    def u16(s): v = struct.unpack_from("<H", s.d, s.p)[0]; s.p += 2; return v
+    def u32(s): v = struct.unpack_from("<I", s.d, s.p)[0]; s.p += 4; return v
+    def i32(s): v = struct.unpack_from("<i", s.d, s.p)[0]; s.p += 4; return v
+    def cstr(s):
+        e = s.d.index(b"\0", s.p); v = s.d[s.p:e].decode("cp1252"); s.p = e + 1; return v
+
+def walk_objects(d):
+    """Parse the object list exactly. Raises ValueError/struct.error/IndexError if the file does not follow the loader."""
+    nl = d.find(b"\n")
+    if nl < 0: raise ValueError("no header line")
+    r = _Rd(d, nl + 1); ver = r.u16(); r.p += 3
+    groups, tend = parse_material_table(d); r.p = tend
+    objs = []; nobj = r.u16(); start = r.p
+    for oi in range(nobj):
+        o = {"index": oi, "offset": r.p, "type": r.u8()}
+        o["name"] = r.cstr(); o["parent"] = r.cstr()
+        if o["type"] == 1:
+            o["transform_raw"] = [r.i32() for _ in range(6)]
+            o["sets"] = [[[r.i32() for _ in range(3)] for _ in range(r.u16())] for _ in range(r.u16())]
+            o["end"] = r.p; objs.append(o); continue
+        if o["type"] != 0: raise ValueError(f"object {oi} {o['name']!r}: unknown type {o['type']} at 0x{r.p:x}")
+        o["flags"] = r.u32() if ver > 3 else 0
+        o["transform_raw"] = [r.i32() for _ in range(6)]
+        o["extra"] = [[r.i32() for _ in range(6)] for _ in range(r.u16())] if ver > 4 else []
+        nsub = r.u16() if ver >= 4 else 1
+        o["subs"] = []
+        for si in range(nsub):
+            sm = {"offset": r.p}
+            sm["flags"] = r.u32() if ver >= 4 else 0
+            sm["radius_raw"] = r.u32() if ver >= 4 else 0
+            sm["poses"] = r.u16() if ver >= 3 else 1
+            sm["nverts"] = r.u16()
+            sm["verts"] = [[[r.i32() for _ in range(3)] for _ in range(sm["nverts"])] for _ in range(sm["poses"])]
+            sm["material"] = r.cstr(); nf = r.u16(); sm["has_colour"] = r.u8(); sm["faces"] = []
+            for _ in range(nf):
+                head = [r.u32() for _ in range(3)]; nv = r.u16() if ver >= 2 else 3; vs = []
+                for _ in range(nv):
+                    v = {"idx": r.u16(), "n": [r.u32() for _ in range(3)], "uv": [r.u32() for _ in range(2)]}
+                    if sm["has_colour"]: v["rgb"] = tuple(d[r.p:r.p + 3]); r.p += 3
+                    vs.append(v)
+                sm["faces"].append({"head": head, "verts": vs, "surface": r.u16()})
+            sm["end"] = r.p; o["subs"].append(sm)
+        o["end"] = r.p; objs.append(o)
+    if r.p > len(d): raise ValueError("object list runs past end of file")
+    return {"version": ver, "table_end": tend, "objects_start": start, "objects": objs, "end": r.p, "size": len(d)}
+
+def meshes_from_walk(w):
+    """Adapt the walker output to the dict shape the rest of the script uses (same as find_meshes)."""
+    out = []
+    for o in w["objects"]:
+        for si, sm in enumerate(o.get("subs", ())):
+            faces = []
+            for f in sm["faces"]:
+                vs = [(v["idx"], (v["n"][0], v["n"][1], v["n"][2], v["uv"][0], v["uv"][1])) for v in f["verts"]]
+                faces.append((vs, f["surface"], tuple(f["head"])))
+            mx = max((i for f in faces for i, _ in f[0]), default=-1)
+            if mx >= sm["nverts"]: raise ValueError(f"object {o['name']!r}: vertex index {mx} >= {sm['nverts']}")
+            sets = [[(x * POS_SCALE, y * POS_SCALE, z * POS_SCALE) for x, y, z in pose] for pose in sm["verts"]]
+            out.append({"name": sm["material"], "label": f"{o['name']}.{sm['material']}", "object": o["name"], "parent": o["parent"],
+                        "sub_index": si, "name_offset": sm["offset"], "start": sm["offset"], "end": sm["end"],
+                        "nfaces": len(faces), "faces": faces, "max_index": mx, "vertex_sets": sets, "vertex_span": None,
+                        "hdr": (sm["flags"], sm["radius_raw"], sm["poses"], sm["nverts"]), "has_colour": sm["has_colour"]})
+    return out
+
+def normal_of(attrs):
+    """File-frame unit normal from a vertex's words 0-2: the game stores (w2, w1, w0)/32768 in its (-X, Z, -Y) frame."""
+    def sg(v): return (v - 4294967296 if v >= 2147483648 else v) / 32768.0
+    return (-sg(attrs[2]), -sg(attrs[0]), sg(attrs[1]))
+
+def write_driving_lines(dirpath, base, walk):
+    """Type-1 'dl' objects: polylines (OBJ 'l' elements). Returns [{name, set_sizes, file}]."""
+    recs = []
+    for o in walk["objects"]:
+        if o["type"] != 1: continue
+        safe = re.sub(r"[^A-Za-z0-9_-]+", "_", o["name"]) or f"obj{o['index']}"
+        lines = [f"# driving line object {o['name']!r} (type 1)"]; voff = 0
+        for k, pts in enumerate(o["sets"]):
+            lines.append(f"o {safe}_set{k}")
+            lines += [f"v {x*POS_SCALE:.5f} {y*POS_SCALE:.5f} {z*POS_SCALE:.5f}" for x, y, z in pts]
+            if len(pts) > 1: lines.append("l " + " ".join(str(voff + i + 1) for i in range(len(pts))))
+            voff += len(pts)
+        dirpath.mkdir(exist_ok=True)
+        fn = f"{base}.driving_line.{o['index']:03d}.{safe}.obj"
+        (dirpath / fn).write_text("\n".join(lines) + "\n", encoding="utf-8")
+        recs.append({"object_index": o["index"], "name": o["name"], "set_sizes": [len(x) for x in o["sets"]], "file": f"obj/{fn}"})
+    return recs
+
 def parse_mesh_block(data, pos):
     """Conservative recogniser for the mesh layout hypothesised by the old script."""
     if pos + 15 > len(data): return None
@@ -93,23 +200,26 @@ def find_meshes(data):
     return found
 
 def write_obj(path, name, verts, faces):
-    uvmap, uvs = {}, []
+    uvmap, uvs, nmap, ns = {}, [], {}, []
     for face, _flag, _extra in faces:
         for idx, attrs in face:
             uv=(fixed16(attrs[3]),fixed16(attrs[4]))
             if uv not in uvmap:
                 uvmap[uv]=len(uvs)+1
                 uvs.append(uv)
+            nk=tuple(round(c,5) for c in normal_of(attrs))
+            if nk not in nmap: nmap[nk]=len(ns)+1; ns.append(nk)
     safe_name=re.sub(r"\W+", "_", name)
-    lines=[f"# Heuristically decoded mesh: {name}",
+    lines=[f"# Decoded mesh: {name}",
            f"o {safe_name}"]
     lines += [f"v {x:.7f} {y:.7f} {z:.7f}" for x,y,z in verts]
     lines += [f"vt {u:.7f} {v:.7f}" for u,v in uvs]
+    lines += [f"vn {x:.5f} {y:.5f} {z:.5f}" for x,y,z in ns]
     for face, _flag, _extra in faces:
         tokens=[]
         for idx,attrs in face:
             uv=(fixed16(attrs[3]),fixed16(attrs[4]))
-            tokens.append(f"{idx+1}/{uvmap[uv]}")
+            tokens.append(f"{idx+1}/{uvmap[uv]}/{nmap[tuple(round(c,5) for c in normal_of(attrs))]}")
         lines.append("f "+" ".join(tokens))
     Path(path).write_text("\n".join(lines)+"\n",encoding="utf-8")
 
@@ -617,9 +727,9 @@ def parse_material_table(d):
     return groups, p
 
 def material_surface(group, flag):
+    # The game picks children[flag % nchildren]; a group with no children is itself the surface (any flag).
     kids = group["children"]
-    if kids: return kids[flag] if flag < len(kids) else None
-    return group if flag == 0 else None
+    return kids[flag % len(kids)] if kids else group
 
 def texture_refs_from_table(groups):
     """Texture references in the shape write_texture_manifest() expects (authoritative, no guessing)."""
@@ -663,15 +773,15 @@ def write_mtl(path, groups, mat_names, tex_files):
             if tex: lines.append(f"map_Kd {tex}")
     Path(path).write_text("\n".join(lines) + "\n", encoding="utf-8")
 
-def write_textured_obj(path, mtl_name, items, mat_names):
+def write_textured_obj(path, mtl_name, items, mat_names, yup=False):
     """items: [(object_name, vertices, faces, group)]. Returns the number of faces whose flag had no surface
     (those are written with their raw local UVs and no material)."""
     lines = [f"# Textured mesh(es) decoded heuristically from an fRssExport V1 file", f"mtllib {mtl_name}"]
-    uvmap, uvs, voff, unresolved = {}, [], 0, 0
+    uvmap, uvs, nmap, ns, voff, unresolved = {}, [], {}, [], 0, 0
     body = []
     for oname, verts, faces, group in items:
         body.append(f"o {re.sub(r'[^A-Za-z0-9_.-]+', '_', oname)}")
-        body += [f"v {x:.7f} {y:.7f} {z:.7f}" for x, y, z in verts]
+        body += [(f"v {x:.7f} {z:.7f} {-y:.7f}" if yup else f"v {x:.7f} {y:.7f} {z:.7f}") for x, y, z in verts]
         cur = None
         for face, flag, _extra in faces:
             surf = material_surface(group, flag)
@@ -686,11 +796,15 @@ def write_textured_obj(path, mtl_name, items, mat_names):
                     u, v = ru + u * rw, 1.0 - (rv + (1.0 - v) * rh)      # OBJ v points up
                 key = (round(u, 7), round(v, 7))
                 if key not in uvmap: uvmap[key] = len(uvs) + 1; uvs.append(key)
-                toks.append(f"{voff + idx + 1}/{uvmap[key]}")
+                nx, ny, nz = normal_of(attrs)
+                nk = (round(nx, 5), round(nz, 5), round(-ny, 5)) if yup else (round(nx, 5), round(ny, 5), round(nz, 5))
+                if nk not in nmap: nmap[nk] = len(ns) + 1; ns.append(nk)
+                toks.append(f"{voff + idx + 1}/{uvmap[key]}/{nmap[nk]}")
             body.append("f " + " ".join(toks))
         voff += len(verts)
         if cur is None: body.append("# (no material assigned in this object)")
     lines += [f"vt {u:.7f} {v:.7f}" for u, v in uvs]
+    lines += [f"vn {x:.5f} {y:.5f} {z:.5f}" for x, y, z in ns]
     Path(path).write_text("\n".join(lines + body) + "\n", encoding="utf-8")
     return unresolved
 
@@ -723,17 +837,25 @@ def analyse(path, outdir, carve=True, hex_dump=False, texture_min_size=32, asset
         mat_names=material_names(groups)
         write_mtl(out/f"{base}.mtl",groups,mat_names,tex_files)
     textured_files=[]; mesh_links=[]
-    meshes=find_meshes(data)
+    try:
+        walk=walk_objects(data); meshes=meshes_from_walk(walk); walk_error=None
+    except (ValueError,struct.error,IndexError) as err:
+        walk=None; walk_error=str(err); meshes=find_meshes(data)       # fall back to the heuristic scan
+    driving_lines=write_driving_lines(d_obj,base,walk) if walk else []
     mesh_summaries=[]
     mesh_spans=[]
     for i,b in enumerate(meshes):
-        name=re.sub(r"[^A-Za-z0-9_-]+","_",b["name"]).strip("_") or f"mesh{i}"
+        name=re.sub(r"[^A-Za-z0-9_-]+","_",b.get("label",b["name"])).strip("_") or f"mesh{i}"
         item={"index":i,"name":b["name"],"name_offset":b["name_offset"],"face_span":[b["start"],b["end"]],
               "face_count":b["nfaces"],"max_vertex_index":b["max_index"],
               "vertex_span":b.get("vertex_span"),"vertex_set_count":len(b["vertex_sets"]),
               "vertex_count":len(b["vertex_sets"][0]) if b["vertex_sets"] else None,
               "header_words":list(b["hdr"])}
-        mesh_summaries.append(item); mesh_spans.append((b["start"],b["end"]))
+        if walk:
+            item.update({"object":b["object"],"parent":b["parent"],"submesh_index":b["sub_index"],"material_group":b["name"],
+                         "pose_count":len(b["vertex_sets"]),"has_vertex_colours":bool(b["has_colour"])})
+        mesh_summaries.append(item)
+        if not walk: mesh_spans.append((b["start"],b["end"]))
         if b.get("vertex_span"):
             mesh_spans.append(tuple(b["vertex_span"]))
         for k,verts in enumerate(b["vertex_sets"]):
@@ -768,6 +890,7 @@ def analyse(path, outdir, carve=True, hex_dump=False, texture_min_size=32, asset
         d_json.mkdir(exist_ok=True); (d_json/f"{base}.mesh{i:03d}.{name}.mesh_data.json").write_text(
             json.dumps({"mesh_name":b["name"],"header_words":list(b["hdr"]),
                         "face_records":face_meta},indent=2),encoding="utf-8")
+    if walk: mesh_spans.append((walk["objects_start"],walk["end"]))
     gaps=complement_ranges(len(data),[(0,header_end)]+mesh_spans)
     gap_records=[]
     if carve:
@@ -782,7 +905,7 @@ def analyse(path, outdir, carve=True, hex_dump=False, texture_min_size=32, asset
         # One combined file per vertex-array "pose" with every linked mesh (LODs overlap; hide the ones you don't want).
         linked=[(i,b,group_by_label[b["name"]]) for i,b in enumerate(meshes) if b["vertex_sets"] and b["name"] in group_by_label]
         for k in range(max((len(b["vertex_sets"]) for _,b,_ in linked),default=0)):
-            items=[(f"{b['name']}_mesh{i:03d}",b["vertex_sets"][k],b["faces"],g)
+            items=[(f"{b.get('label',b['name'])}_mesh{i:03d}",b["vertex_sets"][k],b["faces"],g)
                    for i,b,g in linked if len(b["vertex_sets"])>k]
             fn=f"obj_textured/{base}.all_meshes.set{k}.textured.obj"
             d_tex_obj.mkdir(exist_ok=True)
@@ -805,6 +928,14 @@ def analyse(path, outdir, carve=True, hex_dump=False, texture_min_size=32, asset
       "material_table_note":"Texture mapping, reverse-engineered: face flag -> surface -> texture + 1.15 fixed-point rect; "
                             "face UVs are local to the rect (v up). Textured OBJs carry the transformed UVs. See TEXTURE_MAPPING.md.",
       "mesh_material_links":mesh_links,"textured_obj_files":textured_files,
+      "parser":"loader-exact" if walk else "heuristic","object_walk_error":walk_error,
+      "file_version":walk["version"] if walk else None,"vertex_unit":"game units (inches), file Z-up" if walk else "16.16 raw (heuristic)",
+      "objects":[{"index":o["index"],"type":o["type"],"name":o["name"],"parent":o["parent"],
+                  "submeshes":[{"material_group":sm["material"],"poses":sm["poses"],"vertices":sm["nverts"],"faces":len(sm["faces"]),
+                                "has_colour":sm["has_colour"],"flags":sm["flags"],"radius_raw":sm["radius_raw"],"offset":sm["offset"],"end":sm["end"]}
+                               for sm in o.get("subs",())],
+                  "driving_line_set_sizes":[len(x) for x in o.get("sets",())] if o["type"]==1 else None} for o in walk["objects"]] if walk else None,
+      "driving_lines":driving_lines,
       "meshes":mesh_summaries,"embedded_image_files":textures,"texture_references":texture_assets,"texture_extraction_note":"The RSS files contain probable texture identifiers/material references. Validated standard embedded images are exported separately; external matching assets are copied when present. Reference records are not image data.",
       "ascii_strings":strings,"utf16le_strings":wide,
       "embedded_filename_references":refs,"embedded_signatures":signature_hits(data),
@@ -841,7 +972,10 @@ def main():
     ap.add_argument("--keep-unpacked",action="store_true",help="Keep unpacked ZIP/ART contents (including JGRACING.INI from an ART) in output")
     ap.add_argument("--texture-min-size",type=int,default=32,help="Minimum bytes for a carved image (default: 32)")
     ap.add_argument("--asset-root",help="Additional folder to search for external texture files")
+    ap.add_argument("--metres",action="store_true",help="Write vertex positions in metres instead of the game's inches")
     args=ap.parse_args()
+    if args.metres:
+        global POS_SCALE; POS_SCALE*=0.0254
     target=Path(args.target); out=Path(args.out_dir); out.mkdir(parents=True,exist_ok=True)
     inputs=[]
     art_mode=target.is_file() and is_art(target)
