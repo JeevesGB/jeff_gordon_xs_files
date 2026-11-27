@@ -6,14 +6,5 @@ GAME.ART_out/
 *.trl
 *.trs
 *.trt
-
-
-sdrop/
-sdropzn/
-sfrito/
-sfuture/
-sgamblr/
-sindust/
-sneon/
-splanet/
-sppsi2k/
+!original/
+!original/**
