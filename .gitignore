@@ -5,6 +5,3 @@ GAME.ART_out/
 *.trk
 *.trl
 *.trs
-*.trt
-!original/
-!original/**
