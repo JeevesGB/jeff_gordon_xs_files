@@ -1,0 +1,7 @@
+FADD:/NewFolder
+FMV:/NewFolder:/exe
+IADD:00000000:/exe/Jgxsr.exe
+IDSET:/exe/Jgxsr.exe:c0a81c1d534514922418202700
+FADD:/NewFolder
+FMV:/NewFolder:/tracks
+FDEL:/tracks
